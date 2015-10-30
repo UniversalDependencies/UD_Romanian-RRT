@@ -13,11 +13,11 @@ When splitting data, we aimed at having the same distribution of domains in all 
 BASIC STATISTICS
 
 Tree count:  633
-Word count:  ????
-Token count: ????
-Dep. relations: xx of which xx language specific
-POS tags: ??
-Category=value feature pairs: ??
+Word count:  12094
+Token count: 12094
+Dep. relations: 49 of which 11 language specific
+POS tags: 17
+Category=value feature pairs: 0!!!
 
 ACKNOWLEDGEMENTS
 
@@ -34,7 +34,7 @@ C-A Perez. 2014. Resurse lingvistice pentru prelucrarea limbajului natural, PhD 
 Documentation status: partial
 Data source: semi-automatic
 Data available since: UD v1.2
-License:???
+License: CC BY-SA 4.0
 Genre: wiki legal news fiction medical nonfiction
 Contributors: Mititelu, Verginica; Irimia, Elena; Perez, Cenel-Augusto; Ion, Radu; Simionescu, Radu; Maranduc, Catalina
 ===============================================================================
