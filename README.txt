@@ -6,7 +6,7 @@ For this first release of Romanian UD trees, we semi-automatically mapped the tw
 DATA SPLITS
 
 We split the treebank as follows:
-The test set (ro-ud-test.conllu) is roughly 12.5% of the whole treebank, the development set
+Roughly, the test set (ro-ud-test.conllu) is 12.5% of the whole treebank, the development set
 (ro-ud-dev.conllu) also 12.5%, while the rest of the treebank (75%) is the training set (ro-ud-train.conllu).
 When splitting data, we aimed at having the same distribution of domains in all sets.
 
