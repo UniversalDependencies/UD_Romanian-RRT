@@ -36,5 +36,5 @@ Data source: semi-automatic
 Data available since: UD v1.2
 License: CC BY-SA 4.0
 Genre: wiki legal news fiction medical nonfiction
-Contributors: Mititelu, Verginica; Irimia, Elena; Perez, Cenel-Augusto; Ion, Radu; Simionescu, Radu; Maranduc, Catalina
+Contributors: Mititelu, Verginica; Irimia, Elena; Perez, Cenel-Augusto; Ion, Radu; Simionescu, Radu; Mărănduc, Cătălina
 ===============================================================================
