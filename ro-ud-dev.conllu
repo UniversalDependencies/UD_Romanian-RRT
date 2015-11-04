@@ -1,18 +1,18 @@
 # sent_id a_tree-ro-s1-root
 1	Recent	recent	ADV	Rgp	Degree=Pos	5	advmod	_	_
-2	,	,	PUNCT	COMMA	_	1	punct	_	AltTag=PUNCT-CONJ
+2	,	,	PUNCT	COMMA	_	1	punct	_	_
 3	s-	sine	PRON	Px3--a--y-----w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak|Variant=Short	5	dobj	_	_
 4	a	avea	AUX	Va--3s	Number=Sing|Person=3	5	aux	_	_
 5	înscris	înscrie	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 6	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
 7	PNL	Partidul_Național_Liberal	NOUN	Yn	Abbr=Yes	5	nmod:pmod	_	_
-8	,	,	PUNCT	COMMA	_	5	punct	_	AltTag=PUNCT-CONJ
+8	,	,	PUNCT	COMMA	_	5	punct	_	_
 9	dar	dar	CONJ	Ccssp	Negative=Pos	5	cc	_	_
 10	a	avea	AUX	Va--3s	Number=Sing|Person=3	11	aux	_	_
 11	fost	fi	AUX	Vap--sm	Gender=Masc|Number=Sing|VerbForm=Part	12	cop	_	_
 12	apropiat	apropia	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	5	conj	_	_
 13	democraților	democrat	ADJ	Afpmpoy	Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur	12	iobj	_	_
-14	,	,	PUNCT	COMMA	_	19	punct	_	AltTag=PUNCT-CONJ
+14	,	,	PUNCT	COMMA	_	19	punct	_	_
 15	care	care	PRON	Pw3--r	Case=Nom|Person=3|PronType=Int,Rel	19	nsubj	_	_
 16	l-	el	PRON	Pp3msa--y-----w	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Weak|Variant=Short	19	dobj	_	_
 17	au	avea	AUX	Va--3p	Number=Plur|Person=3	19	aux	_	_
@@ -21,24 +21,24 @@
 20	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	21	case	_	_
 21	guvernarea	guvernare	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	19	nmod	_	_
 22	CDR	Convenția_Democratică_din_România	NOUN	Yn	Abbr=Yes	21	nmod	_	_
-23	.	.	PUNCT	PERIOD	_	5	punct	_	AltTag=PUNCT-PRON
+23	.	.	PUNCT	PERIOD	_	5	punct	_	_
 
 # sent_id a_tree-ro-s2-root
 1	Vând	vinde	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	apartament	apartament	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	1	dobj	_	_
 3	3	3	NUM	Eni	NumType=Card	4	nummod	_	_
 4	camere	cameră	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	2	nmod	_	_
-5	,	,	PUNCT	COMMA	_	2	punct	_	AltTag=PUNCT-CONJ
+5	,	,	PUNCT	COMMA	_	2	punct	_	_
 6	zona	zonă	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	2	nmod	_	_
 7	Neptun	Neptun	PROPN	Np	_	6	nmod	_	_
-8	,	,	PUNCT	COMMA	_	2	punct	_	AltTag=PUNCT-CONJ
+8	,	,	PUNCT	COMMA	_	2	punct	_	_
 9	amenajat	amenajat	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
 10	lux	lux	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	9	advmod	_	_
-11	,	,	PUNCT	COMMA	_	2	punct	_	AltTag=PUNCT-CONJ
+11	,	,	PUNCT	COMMA	_	2	punct	_	_
 12	suprafață	suprafața	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	nmod	_	_
 13	120	120	NUM	Eni	NumType=Card	14	nummod	_	_
 14	mp	metri_pătrați	X	Y	Abbr=Yes	12	nmod	_	_
-15	.	.	PUNCT	PERIOD	_	1	punct	_	AltTag=PUNCT-PRON
+15	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
 # sent_id a_tree-ro-s3-root
 1	Ministrul	ministru	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	6	nsubj	_	_
@@ -49,7 +49,7 @@
 6	inginer	inginer	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
 7	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	_
 8	profesie	profesie	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	6	nmod	_	_
-9	,	,	PUNCT	COMMA	_	6	punct	_	AltTag=PUNCT-CONJ
+9	,	,	PUNCT	COMMA	_	6	punct	_	_
 10	provine	proveni	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
 11	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	_
 12	Bihor	Bihor	PROPN	Np	_	10	nmod:pmod	_	_
@@ -62,7 +62,7 @@
 19	al	al	DET	Tsms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	20	det	_	_
 20	Administrației	administrație	NOUN	Ncfsoy	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	18	nmod	_	_
 21	Prezidențiale	prezidențial	ADJ	Afpfson	Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	20	mwe	_	_
-22	.	.	PUNCT	PERIOD	_	6	punct	_	AltTag=PUNCT-PRON
+22	.	.	PUNCT	PERIOD	_	6	punct	_	_
 
 # sent_id a_tree-ro-s4-root
 1	Poarta	poartă	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	6	nsubjpass	_	_
@@ -75,34 +75,34 @@
 8	românca	româncă	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	6	nmod:agent	_	_
 9	Luminița	Luminița	PROPN	Npfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	8	nmod	_	_
 10	Huțupan	Huțupan	PROPN	Np	_	9	name	_	_
-11	,	,	PUNCT	COMMA	_	6	punct	_	AltTag=PUNCT-CONJ
+11	,	,	PUNCT	COMMA	_	6	punct	_	_
 12	iar	iar	CONJ	Crssp	Negative=Pos	6	cc	_	_
 13	cea	cel	DET	Tdfsr	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	1	remnant	_	_
 14	austriacă	austriac	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
-15	,	,	PUNCT	COMMA	_	6	punct	_	AltTag=PUNCT-CONJ
+15	,	,	PUNCT	COMMA	_	6	punct	_	_
 16	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	17	case	_	_
 17	Paula	Paula	PROPN	Np	_	8	remnant	_	_
 18	Rădulescu	Rădulescu	PROPN	Np	_	17	name	_	_
-19	.	.	PUNCT	PERIOD	_	6	punct	_	AltTag=PUNCT-PRON
+19	.	.	PUNCT	PERIOD	_	6	punct	_	_
 
 # sent_id a_tree-ro-s5-root
 1	Cadrul	cadru	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	19	nsubj	_	_
 2	natural	natural	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	1	amod	_	_
-3	-	-	PUNCT	DASH	_	4	punct	_	AltTag=PUNCT-DET
+3	-	-	PUNCT	DASH	_	4	punct	_	_
 4	depresiune	depresiune	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	1	appos	_	_
 5	bine	bine	ADV	Rgp	Degree=Pos	6	advmod	_	_
 6	adăpostită	adăposti	VERB	Vmp--sf	Gender=Fem|Number=Sing|VerbForm=Part	4	acl	_	_
 7	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	_
 8	munții	munte	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	6	nmod:agent	_	_
 9	Bucegi	Bucegi	PROPN	Np	_	8	nmod	_	_
-10	,	,	PUNCT	COMMA	_	9	punct	_	AltTag=PUNCT-CONJ
+10	,	,	PUNCT	COMMA	_	9	punct	_	_
 11	Baiu	Baiu	PROPN	Np	_	9	conj	_	_
-12	,	,	PUNCT	COMMA	_	9	punct	_	AltTag=PUNCT-CONJ
+12	,	,	PUNCT	COMMA	_	9	punct	_	_
 13	Piatra	piatră	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	9	conj	_	_
 14	Mare	mare	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	13	name	_	_
 15	și	și	CONJ	Crssp	Negative=Pos	9	cc	_	_
 16	Postăvarul	Postăvarul	PROPN	Np	_	9	conj	_	_
-17	-	-	PUNCT	DASH	_	4	punct	_	AltTag=PUNCT-DET
+17	-	-	PUNCT	DASH	_	4	punct	_	_
 18	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	19	expl:pv	_	_
 19	dovedește	dovedi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 20	a	a	PART	Qn	PartType=Inf	21	mark	_	_
@@ -110,7 +110,7 @@
 22	benefic	benefic	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	19	xcomp	_	_
 23	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc	24	case	_	_
 24	oraș	oraș	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	22	nmod	_	_
-25	.	.	PUNCT	PERIOD	_	19	punct	_	AltTag=PUNCT-PRON
+25	.	.	PUNCT	PERIOD	_	19	punct	_	_
 
 # sent_id a_tree-ro-s6-root
 1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
@@ -119,7 +119,7 @@
 4	ce	ce	PRON	Pw3--r	Case=Nom|Person=3|PronType=Int,Rel	6	nsubj	_	_
 5	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	6	expl:pass	_	_
 6	execută	executa	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	acl	_	_
-7	,	,	PUNCT	COMMA	_	3	punct	_	AltTag=PUNCT-CONJ
+7	,	,	PUNCT	COMMA	_	3	punct	_	_
 8	Podul	pod	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	11	nsubj	_	_
 9	Traian	Traian	PROPN	Np	_	8	name	_	_
 10	va	vrea	AUX	Va--3s	Number=Sing|Person=3	11	aux	_	_
@@ -134,7 +134,7 @@
 19	50	50	NUM	Eni	NumType=Card	21	nummod	_	_
 20	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	19	case	_	_
 21	ani	an	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	16	nmod:pmod	_	_
-22	.	.	PUNCT	PERIOD	_	11	punct	_	AltTag=PUNCT-PRON
+22	.	.	PUNCT	PERIOD	_	11	punct	_	_
 
 # sent_id a_tree-ro-s7-root
 1	Lui	el	PRON	Pp3mso--------s	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	2	det	_	_
@@ -146,11 +146,11 @@
 7	multe	mult	DET	Di3fp	Gender=Fem|Number=Plur|Person=3|PronType=Ind	8	amod	_	_
 8	cărți	carte	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	5	nsubj	_	_
 9	religioase	religios	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	8	amod	_	_
-10	,	,	PUNCT	COMMA	_	5	punct	_	AltTag=PUNCT-CONJ
+10	,	,	PUNCT	COMMA	_	5	punct	_	_
 11	dar	dar	CONJ	Ccssp	Negative=Pos	9	cc	_	_
 12	și	și	CONJ	Crssp	Negative=Pos	9	cc	_	_
 13	pedagogice	pedagogic	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	9	conj	_	_
-14	.	.	PUNCT	PERIOD	_	5	punct	_	AltTag=PUNCT-PRON
+14	.	.	PUNCT	PERIOD	_	5	punct	_	_
 
 # sent_id a_tree-ro-s8-root
 1	o	un	DET	Tifsr	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	2	det	_	_
@@ -158,14 +158,14 @@
 3	discreționară	discreționar	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
 4	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
 5	valorizare	valorizare	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	3	nmod	_	_
-6	,	,	PUNCT	COMMA	_	7	punct	_	AltTag=PUNCT-CONJ
+6	,	,	PUNCT	COMMA	_	7	punct	_	_
 7	apelând	apela	VERB	Vmg	VerbForm=Ger	2	acl	_	_
 8	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	_
 9	un	un	DET	Timsr	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	10	det	_	_
 10	tablou	tablou	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	7	nmod:pmod	_	_
 11	tematic	tematic	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
 12	normativ	normativ	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
-13	,	,	PUNCT	COMMA	_	14	punct	_	AltTag=PUNCT-CONJ
+13	,	,	PUNCT	COMMA	_	14	punct	_	_
 14	construit	construi	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	10	acl	_	_
 15	prin	prin	ADP	Spsa	AdpType=Prep|Case=Acc	16	case	_	_
 16	conjuncția	conjuncție	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	14	nmod	_	_
@@ -174,7 +174,7 @@
 19	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	20	case	_	_
 20	realismul	realism	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	16	nmod:pmod	_	_
 21	fotografic	fotografic	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
-22	.	.	PUNCT	PERIOD	_	2	punct	_	AltTag=PUNCT-PRON
+22	.	.	PUNCT	PERIOD	_	2	punct	_	_
 
 # sent_id a_tree-ro-s9-root
 1	Are	avea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -196,7 +196,7 @@
 17	mai	mai	ADV	Rp	_	18	advmod	_	_
 18	ieri	ieri	ADV	Rgp	Degree=Pos	19	advmod	_	_
 19	înrobite	înrobit	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	15	amod	_	_
-20	.	.	PUNCT	PERIOD	_	1	punct	_	AltTag=PUNCT-PRON
+20	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
 # sent_id a_tree-ro-s10-root
 1	Se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	2	expl:pv	_	_
@@ -206,7 +206,7 @@
 5	cercul	cerc	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	nmod	_	_
 6	studenților	student	NOUN	Ncmpoy	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	5	nmod	_	_
 7	români	român	ADJ	Afpmp-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	6	amod	_	_
-8	,	,	PUNCT	COMMA	_	9	punct	_	AltTag=PUNCT-CONJ
+8	,	,	PUNCT	COMMA	_	9	punct	_	_
 9	participând	participa	VERB	Vmg	VerbForm=Ger	2	advcl	_	_
 10	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	_
 11	întrunirile	întrunire	NOUN	Ncfpry	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	9	nmod	_	_
@@ -215,7 +215,7 @@
 14	ale	al	DET	Tsfp	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	15	det	_	_
 15	colegilor	coleg	NOUN	Ncmpoy	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	12	nmod	_	_
 16	săi	său	DET	Ds3mp-s	Gender=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	15	det	_	_
-17	.	.	PUNCT	PERIOD	_	2	punct	_	AltTag=PUNCT-PRON
+17	.	.	PUNCT	PERIOD	_	2	punct	_	_
 
 # sent_id a_tree-ro-s11-root
 1	Izbucnirea	izbucnire	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	5	nsubj	_	_
@@ -226,7 +226,7 @@
 6	până	până	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	_
 7	într-	întru	ADP	Spsay	AdpType=Prep|Case=Acc|Variant=Short	8	case	_	_
 8	atât	atât	ADV	Rgp	Degree=Pos	5	advmod	_	_
-9	,	,	PUNCT	COMMA	_	13	punct	_	AltTag=PUNCT-CONJ
+9	,	,	PUNCT	COMMA	_	13	punct	_	_
 10	încât	încât	SCONJ	Csssp	Negative=Pos	13	mark	_	_
 11	să	să	PART	Qs	Mood=Sub	13	mark	_	_
 12	-și	sine	PRON	Px3--d--y-----w	Case=Dat|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak|Variant=Short	13	expl:poss	_	_
@@ -235,15 +235,15 @@
 15	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	17	case	_	_
 16	vreo	vreun	DET	Di3fsr---e	Case=Nom|Gender=Fem|Number=Sing|Person=3|Position=Prenom|PronType=Ind	17	det	_	_
 17	penitență	penitență	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	13	nmod:pmod	_	_
-18	.	.	PUNCT	PERIOD	_	5	punct	_	AltTag=PUNCT-PRON
+18	.	.	PUNCT	PERIOD	_	5	punct	_	_
 
 # sent_id a_tree-ro-s12-root
-1	„	„	PUNCT	DBLQ	_	17	punct	_	AltTag=PUNCT-DET
+1	„	„	PUNCT	DBLQ	_	17	punct	_	_
 2	misticismului	misticism	NOUN	Ncmsoy	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	17	iobj	_	_
 3	care	care	PRON	Pw3--r	Case=Nom|Person=3|PronType=Int,Rel	5	nsubj	_	_
 4	ne	eu	PRON	Pp1-pa--------w	Case=Acc|Number=Plur|Person=1|PronType=Prs|Strength=Weak	5	dobj	_	_
 5	înconjoară	înconjura	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	2	acl	_	_
-6	,	,	PUNCT	COMMA	_	2	punct	_	AltTag=PUNCT-CONJ
+6	,	,	PUNCT	COMMA	_	2	punct	_	_
 7	politicii	politică	NOUN	Ncfsoy	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	2	conj	_	_
 8	religioase	religios	ADJ	Afpfson	Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
 9	practicate	practica	VERB	Vmp--pf	Gender=Fem|Number=Plur|VerbForm=Part	7	acl	_	_
@@ -252,17 +252,17 @@
 12	cădelnițelor	cădelniță	NOUN	Ncfpoy	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	11	nmod	_	_
 13	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	_
 14	argint	argint	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	12	nmod	_	_
-15	,	,	PUNCT	COMMA	_	2	punct	_	AltTag=PUNCT-CONJ
+15	,	,	PUNCT	COMMA	_	2	punct	_	_
 16	am	avea	AUX	Va--1	Person=1	17	aux	_	_
 17	opus	opune	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 18	raționalismul	raționalism	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	17	dobj	_	_
 19	luminat	luminat	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	_
-20	.	.	PUNCT	PERIOD	_	17	punct	_	AltTag=PUNCT-PRON
+20	.	.	PUNCT	PERIOD	_	17	punct	_	_
 
 # sent_id a_tree-ro-s13-root
 1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	_
 2	plus	plus	ADV	Rgp	Degree=Pos	5	advmod	_	_
-3	,	,	PUNCT	COMMA	_	2	punct	_	AltTag=PUNCT-CONJ
+3	,	,	PUNCT	COMMA	_	2	punct	_	_
 4	glimepirida	(0.64)glimepiridă	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	5	nsubj	_	_
 5	pare	părea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	să	să	PART	Qs	Mood=Sub	7	mark	_	_
@@ -270,22 +270,22 @@
 8	efecte	efect	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	7	dobj	_	_
 9	extrapancreatice	(0.89)extrapancreatic	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	8	amod	_	_
 10	importante	important	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	8	amod	_	_
-11	,	,	PUNCT	COMMA	_	12	punct	_	AltTag=PUNCT-CONJ
+11	,	,	PUNCT	COMMA	_	12	punct	_	_
 12	demonstrate	demonstrat	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	8	acl	_	_
-13	,	,	PUNCT	COMMA	_	14	punct	_	AltTag=PUNCT-CONJ
+13	,	,	PUNCT	COMMA	_	14	punct	_	_
 14	de_asemenea	de_asemenea	ADV	Rgp	Degree=Pos	12	advmod	_	_
-15	,	,	PUNCT	COMMA	_	14	punct	_	AltTag=PUNCT-CONJ
+15	,	,	PUNCT	COMMA	_	14	punct	_	_
 16	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc	18	case	_	_
 17	alte	alte	DET	Di3fpr---e	Case=Nom|Gender=Fem|Number=Plur|Person=3|Position=Prenom|PronType=Ind	18	det	_	_
 18	sulfoniluree	sulfoniluree	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	12	nmod	_	_
-19	.	.	PUNCT	PERIOD	_	5	punct	_	AltTag=PUNCT-PRON
+19	.	.	PUNCT	PERIOD	_	5	punct	_	_
 
 # sent_id a_tree-ro-s14-root
 1	20	20	NUM	Eni	NumType=Card	9	parataxis	_	_
 2	Dacă	dacă	SCONJ	Csssp	Negative=Pos	4	mark	_	_
 3	este	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	necesar	necesar	ADV	Rgp	Degree=Pos	9	advcl	_	_
-5	,	,	PUNCT	COMMA	_	4	punct	_	AltTag=PUNCT-CONJ
+5	,	,	PUNCT	COMMA	_	4	punct	_	_
 6	doza	doză	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	9	nsubj	_	_
 7	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	_
 8	rosiglitazonă	rosiglitazonă	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	6	nmod	_	_
@@ -295,7 +295,7 @@
 12	după	după	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	_
 13	8	8	NUM	Eni	NumType=Card	14	nummod	_	_
 14	săptămâni	săptămână	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	11	nmod	_	_
-15	.	.	PUNCT	PERIOD	_	9	punct	_	AltTag=PUNCT-PRON
+15	.	.	PUNCT	PERIOD	_	9	punct	_	_
 
 # sent_id a_tree-ro-s15-root
 1	Pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
@@ -303,7 +303,7 @@
 3	evita	evita	VERB	Vmnp	Tense=Pres|VerbForm=Inf	8	advcl	_	_
 4	desprinderea	desprindere	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	3	dobj	_	_
 5	buretelui	burete	NOUN	Ncmsoy	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	nmod	_	_
-6	,	,	PUNCT	COMMA	_	3	punct	_	AltTag=PUNCT-CONJ
+6	,	,	PUNCT	COMMA	_	3	punct	_	_
 7	acesta	acesta	PRON	Pd3msr	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	nsubj	_	_
 8	poate	putea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	fi	fi	AUX	Vanp	Tense=Pres|VerbForm=Inf	10	auxpass	_	_
@@ -311,22 +311,22 @@
 11	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	13	case	_	_
 12	un	un	DET	Timsr	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	13	det	_	_
 13	capăt	capăt	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	10	nmod	_	_
-14	,	,	PUNCT	COMMA	_	18	punct	_	AltTag=PUNCT-CONJ
+14	,	,	PUNCT	COMMA	_	18	punct	_	_
 15	de_exemplu	de_exemplu	ADV	Rgp	Degree=Pos	18	advmod	_	_
 16	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	18	case	_	_
 17	o	un	DET	Tifsr	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	18	det	_	_
 18	pensă	pensă	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	10	nmod	_	_
-19	.	.	PUNCT	PERIOD	_	8	punct	_	AltTag=PUNCT-PRON
+19	.	.	PUNCT	PERIOD	_	8	punct	_	_
 
 # sent_id a_tree-ro-s16-root
 1	Astfel	astfel	ADV	Rgp	Degree=Pos	4	advmod	_	_
-2	,	,	PUNCT	COMMA	_	1	punct	_	AltTag=PUNCT-CONJ
+2	,	,	PUNCT	COMMA	_	1	punct	_	_
 3	buretele	burete	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	nsubj	_	_
 4	aderă	adera	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	_
 6	suprafața	suprafață	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	4	nmod:pmod	_	_
 7	tisulară	tisular	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
-8	,	,	PUNCT	COMMA	_	9	punct	_	AltTag=PUNCT-CONJ
+8	,	,	PUNCT	COMMA	_	9	punct	_	_
 9	realizându	realiza	VERB	Vmg-------y	Variant=Short|VerbForm=Ger	4	advcl	_	_
 10	-se	sine	PRON	Px3--a--y-----w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak|Variant=Short	9	expl:pv	_	_
 11	hemostaza	hemostază	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	9	nsubj	_	_
@@ -334,7 +334,7 @@
 13	și	și	CONJ	Crssp	Negative=Pos	11	cc	_	_
 14	continuitatea	continuitate	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	11	conj	_	_
 15	tisulară	tisular	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
-16	.	.	PUNCT	PERIOD	_	4	punct	_	AltTag=PUNCT-PRON
+16	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
 # sent_id a_tree-ro-s17-root
 1	Tadalafil	Tadalafil	PROPN	Np	_	11	nsubj	_	_
@@ -344,7 +344,7 @@
 5	și	și	CONJ	Crssp	Negative=Pos	4	cc	_	_
 6	20	20	NUM	Eni	NumType=Card	7	nummod	_	_
 7	mg	mg	NOUN	Ed	_	4	conj	_	AltTag=NOUN-NUM
-8	)	)	PUNCT	RPAR	_	4	punct	_	AltTag=PUNCT-ADV
+8	)	)	PUNCT	RPAR	_	4	punct	_	_
 9	nu	nu	PART	Qz	Negative=Neg	11	neg	_	_
 10	a	avea	AUX	Va--3s	Number=Sing|Person=3	11	aux	_	_
 11	potențat	potența	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
@@ -356,7 +356,7 @@
 17	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	18	case	_	_
 18	acidul	acid	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	16	nmod	_	_
 19	acetilsalicilic	acetilsalicilic	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	_
-20	.	.	PUNCT	PERIOD	_	11	punct	_	AltTag=PUNCT-PRON
+20	.	.	PUNCT	PERIOD	_	11	punct	_	_
 
 # sent_id a_tree-ro-s18-root
 1	Substanța	substanță	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	9	nsubj	_	_
@@ -364,9 +364,9 @@
 3	conținută	conține	VERB	Vmp--sf	Gender=Fem|Number=Sing|VerbForm=Part	1	acl	_	_
 4	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
 5	Tasigna	Tasigna	PROPN	Np	_	3	nmod:agent	_	_
-6	,	,	PUNCT	COMMA	_	7	punct	_	AltTag=PUNCT-CONJ
+6	,	,	PUNCT	COMMA	_	7	punct	_	_
 7	nilotinib	nilotinib	NOUN	Yn	Abbr=Yes	1	appos	_	_
-8	,	,	PUNCT	COMMA	_	7	punct	_	AltTag=PUNCT-CONJ
+8	,	,	PUNCT	COMMA	_	7	punct	_	_
 9	aparține	aparține	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 10	unui	un	DET	Timso	Case=Gen|Gender=Masc|Number=Sing|PronType=Ind	11	det	_	_
 11	grup	grup	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	9	iobj	_	_
@@ -376,12 +376,12 @@
 15	inhibitori	inhibitor	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	14	nmod	_	_
 16	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	17	case	_	_
 17	proteinkinaze	(0.7)proteinkinază	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	15	nmod	_	_
-18	.	.	PUNCT	PERIOD	_	9	punct	_	AltTag=PUNCT-PRON
+18	.	.	PUNCT	PERIOD	_	9	punct	_	_
 
 # sent_id a_tree-ro-s19-root
 1	(	(	PUNCT	LPAR	_	2	punct	_	_
 2	3	3	NUM	Mc	NumType=Card	5	parataxis	_	_
-3	)	)	PUNCT	RPAR	_	2	punct	_	AltTag=PUNCT-ADV
+3	)	)	PUNCT	RPAR	_	2	punct	_	_
 4	CBP	CBP	PROPN	Np	_	5	nsubj	_	_
 5	ia	lua	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	notă	notă	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	5	mwe	_	_
@@ -396,18 +396,18 @@
 15	anexate	anexa	VERB	Vmp--pf	Gender=Fem|Number=Plur|VerbForm=Part	14	acl	_	_
 16	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	17	case	_	_
 17	aceasta	acesta	PRON	Pd3fsr	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	15	nmod	_	_
-18	.	.	PUNCT	PERIOD	_	5	punct	_	AltTag=PUNCT-PRON
+18	.	.	PUNCT	PERIOD	_	5	punct	_	_
 
 # sent_id a_tree-ro-s20-root
 1	(	(	PUNCT	LPAR	_	2	punct	_	_
 2	e	e	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	5	parataxis	_	_
-3	)	)	PUNCT	RPAR	_	2	punct	_	AltTag=PUNCT-ADV
-4	"	"	PUNCT	DBLQ	_	5	punct	_	AltTag=PUNCT-DET
+3	)	)	PUNCT	RPAR	_	2	punct	_	_
+4	"	"	PUNCT	DBLQ	_	5	punct	_	_
 5	Bază	bază	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
 6	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
 7	sondaj	sondaj	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	5	nmod	_	_
-8	"	"	PUNCT	DBLQ	_	5	punct	_	AltTag=PUNCT-DET
-9	:	:	PUNCT	COLON	_	5	punct	_	AltTag=PUNCT-CONJ
+8	"	"	PUNCT	DBLQ	_	5	punct	_	_
+9	:	:	PUNCT	COLON	_	5	punct	_	_
 10	populația	populație	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	5	appos	_	_
 11	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	_
 12	unități	unitate	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	10	nmod	_	_
@@ -419,12 +419,12 @@
 18	selecționat	selecționa	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	16	ccomp	_	_
 19	un	un	DET	Timsr	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	20	det	_	_
 20	eșantion	eșantion	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	16	nsubjpass	_	_
-21	.	.	PUNCT	PERIOD	_	5	punct	_	AltTag=PUNCT-PRON
+21	.	.	PUNCT	PERIOD	_	5	punct	_	_
 
 # sent_id a_tree-ro-s21-root
 1	(	(	PUNCT	LPAR	_	2	punct	_	_
 2	3	3	NUM	Mc	NumType=Card	6	parataxis	_	_
-3	)	)	PUNCT	RPAR	_	2	punct	_	AltTag=PUNCT-ADV
+3	)	)	PUNCT	RPAR	_	2	punct	_	_
 4	Autoritățile	autoritate	NOUN	Ncfpry	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	6	nsubj	_	_
 5	naționale	național	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	4	amod	_	_
 6	transferă	transfera	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -432,7 +432,7 @@
 8	operațional	operațional	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
 9	(	(	PUNCT	LPAR	_	10	punct	_	_
 10	OPCON	OPCON	PROPN	Np	_	7	appos	_	_
-11	)	)	PUNCT	RPAR	_	10	punct	_	AltTag=PUNCT-ADV
+11	)	)	PUNCT	RPAR	_	10	punct	_	_
 12	șefului	șef	NOUN	Ncmsoy	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	iobj	_	_
 13	misiunii	misiune	NOUN	Ncfsoy	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	12	nmod	_	_
 14	/	/	SYM	SLASH	AdpType=Prep	12	punct	_	AltTag=SYM-ADP
@@ -440,10 +440,10 @@
 16	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	17	case	_	_
 17	poliție	poliție	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	15	nmod	_	_
 18	EUPOL	EUPOL	PROPN	Np	_	17	nmod	_	_
-19	"	"	PUNCT	DBLQ	_	20	punct	_	AltTag=PUNCT-DET
+19	"	"	PUNCT	DBLQ	_	20	punct	_	_
 20	Proxima	proxim	ADJ	Afpfsry	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	18	name	_	_
-21	"	"	PUNCT	DBLQ	_	20	punct	_	AltTag=PUNCT-DET
-22	,	,	PUNCT	COMMA	_	24	punct	_	AltTag=PUNCT-CONJ
+21	"	"	PUNCT	DBLQ	_	20	punct	_	_
+22	,	,	PUNCT	COMMA	_	24	punct	_	_
 23	care	care	PRON	Pw3--r	Case=Nom|Person=3|PronType=Int,Rel	24	nsubj	_	_
 24	exercită	exercita	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	acl	_	_
 25	comanda	comandă	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	24	dobj	_	_
@@ -455,11 +455,11 @@
 31	comandă	comandă	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	28	nmod	_	_
 32	și	și	CONJ	Crssp	Negative=Pos	31	cc	_	_
 33	control	control	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	31	conj	_	_
-34	.	.	PUNCT	PERIOD	_	6	punct	_	AltTag=PUNCT-PRON
+34	.	.	PUNCT	PERIOD	_	6	punct	_	_
 
 # sent_id a_tree-ro-s22-root
 1	4	4	NUM	Mc	NumType=Card	8	parataxis	_	_
-2	.	.	PUNCT	PERIOD	_	1	punct	_	AltTag=PUNCT-PRON
+2	.	.	PUNCT	PERIOD	_	1	punct	_	_
 3	statul	stat	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	8	nsubj	_	_
 4	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
 5	cauză	cauză	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	3	nmod	_	_
@@ -486,16 +486,16 @@
 26	a	al	DET	Tsfs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	27	det	_	_
 27	sumei	sumă	NOUN	Ncfsoy	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	25	nmod	_	_
 28	brute	brut	ADJ	Afpfson	Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	27	amod	_	_
-29	.	.	PUNCT	PERIOD	_	8	punct	_	AltTag=PUNCT-PRON
+29	.	.	PUNCT	PERIOD	_	8	punct	_	_
 
 # sent_id a_tree-ro-s23-root
 1	(	(	PUNCT	LPAR	_	2	punct	_	_
 2	1	1	NUM	Mc	NumType=Card	13	parataxis	_	_
-3	)	)	PUNCT	RPAR	_	2	punct	_	AltTag=PUNCT-ADV
+3	)	)	PUNCT	RPAR	_	2	punct	_	_
 4	Germania	Germania	PROPN	Np	_	13	nsubj	_	_
-5	,	,	PUNCT	COMMA	_	4	punct	_	AltTag=PUNCT-CONJ
+5	,	,	PUNCT	COMMA	_	4	punct	_	_
 6	Italia	Italia	PROPN	Np	_	4	conj	_	_
-7	,	,	PUNCT	COMMA	_	4	punct	_	AltTag=PUNCT-CONJ
+7	,	,	PUNCT	COMMA	_	4	punct	_	_
 8	Austria	Austria	PROPN	Np	_	4	conj	_	_
 9	și	și	CONJ	Crssp	Negative=Pos	4	cc	_	_
 10	Regatul	regat	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	conj	_	_
@@ -512,10 +512,10 @@
 21	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	22	case	_	_
 22	Directiva	directivă	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	19	nmod	_	_
 23	92/51/CEE	92/51/CEE	NUM	Mc	NumType=Card	22	nmod	_	_
-24	.	.	PUNCT	PERIOD	_	13	punct	_	AltTag=PUNCT-PRON
+24	.	.	PUNCT	PERIOD	_	13	punct	_	_
 
 # sent_id a_tree-ro-s24-root
-1	―	―	PUNCT	DASH	_	5	punct	_	AltTag=PUNCT-DET
+1	―	―	PUNCT	DASH	_	5	punct	_	_
 2	ambele	ambele	DET	Mlfpr	Case=Nom|Gender=Fem|Number=Plur|NumType=Card|PronType=Tot	3	nummod	_	AltTag=NUM-DET
 3	societăți	societate	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	5	nsubjpass	_	_
 4	sunt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	auxpass	_	_
@@ -527,7 +527,7 @@
 10	a	a	PART	Qn	PartType=Inf	12	mark	_	_
 11	fi	fi	AUX	Vanp	Tense=Pres|VerbForm=Inf	12	auxpass	_	_
 12	scutite	scuti	VERB	Vmp--pf	Gender=Fem|Number=Plur|VerbForm=Part	5	advcl	_	_
-13	,	,	PUNCT	COMMA	_	5	punct	_	AltTag=PUNCT-CONJ
+13	,	,	PUNCT	COMMA	_	5	punct	_	_
 14	și	și	CONJ	Crssp	Negative=Pos	5	cc	_	_
 15	ambele	ambele	DET	Mlfpr	Case=Nom|Gender=Fem|Number=Plur|NumType=Card|PronType=Tot	16	nsubj	_	AltTag=NUM-DET
 16	adoptă	adopta	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
@@ -536,16 +536,16 @@
 19	societăți	societate	NOUN	Ncfson	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	17	nmod	_	_
 20	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	21	case	_	_
 21	acțiuni	acțiune	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	19	nmod	_	_
-22	.	.	PUNCT	PERIOD	_	5	punct	_	AltTag=PUNCT-PRON
+22	.	.	PUNCT	PERIOD	_	5	punct	_	_
 
 # sent_id a_tree-ro-s25-root
 1	Și	și	CONJ	Crssp	Negative=Pos	9	cc	_	_
-2	,	,	PUNCT	COMMA	_	4	punct	_	AltTag=PUNCT-CONJ
+2	,	,	PUNCT	COMMA	_	4	punct	_	_
 3	după	după	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	_
 4	toane	toană	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	9	nmod	_	_
 5	sau	sau	CONJ	Ccssp	Negative=Pos	4	cc	_	_
 6	simpatie	simpatie	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	4	conj	_	_
-7	,	,	PUNCT	COMMA	_	4	punct	_	AltTag=PUNCT-CONJ
+7	,	,	PUNCT	COMMA	_	4	punct	_	_
 8	îi	el	PRON	Pp3mpa--------w	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Strength=Weak	9	dobj	_	_
 9	lăsam	lăsa	VERB	Vmii1	Mood=Ind|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
 10	să	să	PART	Qs	Mood=Sub	12	mark	_	_
@@ -554,7 +554,7 @@
 13	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	15	case	_	_
 14	cutare	cutare	DET	Di3--r---e	Case=Nom|Person=3|Position=Prenom|PronType=Ind	15	amod	_	_
 15	truc	truc	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	12	nmod:pmod	_	_
-16	.	.	PUNCT	PERIOD	_	9	punct	_	AltTag=PUNCT-PRON
+16	.	.	PUNCT	PERIOD	_	9	punct	_	_
 
 # sent_id a_tree-ro-s26-root
 1	Era	fi	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
@@ -567,22 +567,22 @@
 8	examinare	examinare	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	5	nmod:pmod	_	_
 9	a	al	DET	Tsfs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	det	_	_
 10	lui	lui	DET	Ds3---s	Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	8	nmod	_	_
-11	.	.	PUNCT	PERIOD	_	3	punct	_	AltTag=PUNCT-PRON
+11	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
 # sent_id a_tree-ro-s27-root
 1	O	un	DET	Tifsr	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	2	det	_	_
 2	explozie	explozie	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	10	nsubj	_	_
 3	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	_
 4	râs	râs	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	2	nmod	_	_
-5	,	,	PUNCT	COMMA	_	7	punct	_	AltTag=PUNCT-CONJ
+5	,	,	PUNCT	COMMA	_	7	punct	_	_
 6	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	7	mark	_	_
 7	răsunară	răsuna	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	10	advcl	_	_
 8	pereții	perete	NOUN	Ncmpry	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	7	nsubj	_	_
-9	,	,	PUNCT	COMMA	_	7	punct	_	AltTag=PUNCT-CONJ
+9	,	,	PUNCT	COMMA	_	7	punct	_	_
 10	izbucni	izbucni	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 11	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	_
 12	clasă	clasă	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	10	nmod	_	_
-13	.	.	PUNCT	PERIOD	_	10	punct	_	AltTag=PUNCT-PRON
+13	.	.	PUNCT	PERIOD	_	10	punct	_	_
 
 # sent_id a_tree-ro-s28-root
 1	Dar	dar	CONJ	Ccssp	Negative=Pos	5	cc	_	_
@@ -593,7 +593,7 @@
 6	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	_
 7	așa	așa	ADJ	Afp	Degree=Pos	8	amod	_	_
 8	fel	fel	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	5	nmod	_	_
-9	,	,	PUNCT	COMMA	_	5	punct	_	AltTag=PUNCT-CONJ
+9	,	,	PUNCT	COMMA	_	5	punct	_	_
 10	că	că	SCONJ	Csssp	Negative=Pos	14	mark	_	_
 11	li	el	PRON	Pp3-pd--------w	Case=Dat|Number=Plur|Person=3|PronType=Prs|Strength=Weak	14	expl	_	_
 12	s-	sine	PRON	Px3--a--y-----w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak|Variant=Short	14	expl:pass	_	_
@@ -603,7 +603,7 @@
 16	cheful	chef	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	14	nsubj	_	_
 17	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	18	case	_	_
 18	cinste	cinste	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	16	nmod	_	_
-19	.	.	PUNCT	PERIOD	_	5	punct	_	AltTag=PUNCT-PRON
+19	.	.	PUNCT	PERIOD	_	5	punct	_	_
 
 # sent_id a_tree-ro-s29-root
 1	Este	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
@@ -628,7 +628,7 @@
 20	care	care	PRON	Pw3--r	Case=Nom|Person=3|PronType=Int,Rel	22	nsubj	_	_
 21	-l	el	PRON	Pp3msa--y-----w	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Weak|Variant=Short	22	dobj	_	_
 22	știau	ști	VERB	Vmii3p	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	19	acl	_	_
-23	.	.	PUNCT	PERIOD	_	3	punct	_	AltTag=PUNCT-PRON
+23	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
 # sent_id a_tree-ro-s30-root
 1	Erau	fi	VERB	Vmii3p	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	7	cop	_	_
@@ -643,15 +643,15 @@
 10	că	că	SCONJ	Csssp	Negative=Pos	18	mark	_	_
 11	bietul	biet	ADJ	Afpmsry	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
 12	băiat	băiat	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	18	nsubj	_	_
-13	,	,	PUNCT	COMMA	_	15	punct	_	AltTag=PUNCT-CONJ
+13	,	,	PUNCT	COMMA	_	15	punct	_	_
 14	deși	deși	SCONJ	Csssp	Negative=Pos	15	mark	_	_
 15	bolnav	bolnav	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	18	advcl	_	_
-16	,	,	PUNCT	COMMA	_	15	punct	_	AltTag=PUNCT-CONJ
+16	,	,	PUNCT	COMMA	_	15	punct	_	_
 17	a	avea	AUX	Va--3s	Number=Sing|Person=3	18	aux	_	_
 18	pregătit	pregăti	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	9	ccomp	_	_
 19	totuși	totuși	ADV	Rgp	Degree=Pos	18	advmod	_	_
 20	lecțiile	lecție	NOUN	Ncfpry	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	18	dobj	_	_
-21	,	,	PUNCT	COMMA	_	7	punct	_	AltTag=PUNCT-CONJ
+21	,	,	PUNCT	COMMA	_	7	punct	_	_
 22	și-	sine	PRON	Px3--d--y-----w	Case=Dat|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak|Variant=Short	7	cc	_	_
 23	l	el	PRON	Pp3msa--y-----w	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Weak|Variant=Short	18	dobj	_	_
 24	ascultau	asculta	VERB	Vmii3p	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	7	conj	_	_
@@ -660,14 +660,14 @@
 27	mai	mai	ADV	Rp	_	28	mark	_	_
 28	mare	mare	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	29	amod	_	_
 29	indulgență	indulgență	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	24	nmod	_	_
-30	.	.	PUNCT	PERIOD	_	7	punct	_	AltTag=PUNCT-PRON
+30	.	.	PUNCT	PERIOD	_	7	punct	_	_
 
 # sent_id a_tree-ro-s31-root
 1	Cu	cu	ADP	Sp	AdpType=Prep	3	case	_	_
 2	toată	tot	DET	Di3fsr	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	3	det	_	_
 3	osteneala	osteneală	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	8	nmod	_	_
 4	noastră	meu	DET	Ds1fsrp	Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
-5	,	,	PUNCT	COMMA	_	3	punct	_	AltTag=PUNCT-CONJ
+5	,	,	PUNCT	COMMA	_	3	punct	_	_
 6	nu	nu	PART	Qz	Negative=Neg	7	neg	_	_
 7	puturăm	putea	VERB	Vmis1p	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	8	aux	_	_
 8	dormi	dormi	VERB	Vmnp	Tense=Pres|VerbForm=Inf	0	root	_	_
@@ -676,7 +676,7 @@
 11	zgomote	zgomot	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	8	nmod	_	_
 12	ale	al	DET	Tsfp	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	13	det	_	_
 13	oamenilor	om	PROPN	Npmpoy	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	11	nmod	_	_
-14	.	.	PUNCT	PERIOD	_	8	punct	_	AltTag=PUNCT-PRON
+14	.	.	PUNCT	PERIOD	_	8	punct	_	_
 
 # sent_id a_tree-ro-s32-root
 1	Pe_cât	pe_cât	ADV	Rw	PronType=Int,Rel	2	advmod	_	_
@@ -686,7 +686,7 @@
 5	întinz	întinde	VERB	Vmsp1s	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
 6	cu	cu	ADP	Sp	AdpType=Prep	7	case	_	_
 7	mintea	minte	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	5	nmod	_	_
-8	,	,	PUNCT	COMMA	_	2	punct	_	AltTag=PUNCT-CONJ
+8	,	,	PUNCT	COMMA	_	2	punct	_	_
 9	socotesc	socoti	VERB	Vmip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 10	că	că	SCONJ	Csssp	Negative=Pos	12	mark	_	_
 11	ar	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
@@ -695,7 +695,7 @@
 14	mijloc	mijloc	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	12	nsubj	_	_
 15	de	de	ADP	Sp	AdpType=Prep	16	case	_	_
 16	ușurare	ușurare	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	14	nmod	_	_
-17	.	.	PUNCT	PERIOD	_	9	punct	_	AltTag=PUNCT-PRON
+17	.	.	PUNCT	PERIOD	_	9	punct	_	_
 
 # sent_id a_tree-ro-s33-root
 1	Deasupra	deasupra	ADP	Sp	AdpType=Prep	2	case	_	_
@@ -704,7 +704,7 @@
 4	ridică	ridica	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	cine	cine	PRON	Pw3--r	Case=Nom|Person=3|PronType=Int,Rel	6	nsubj	_	_
 6	poate	putea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	csubj	_	_
-7	.	.	PUNCT	PERIOD	_	4	punct	_	AltTag=PUNCT-PRON
+7	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
 # sent_id a_tree-ro-s34-root
 1	Așa	așa	ADV	Rgp	Degree=Pos	2	advmod	_	_
@@ -713,14 +713,14 @@
 4	v	v	PRON	Pp2-pa--------w	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Weak	6	iobj	_	_
 5	-am	avea	AUX	Vaip1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
 6	tălmăcit	tălmăci	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	2	advcl	_	_
-7	,	,	PUNCT	COMMA	_	2	punct	_	AltTag=PUNCT-CONJ
+7	,	,	PUNCT	COMMA	_	2	punct	_	_
 8	și	și	ADV	Rgp	Degree=Pos	10	advmod	_	_
 9	un	un	DET	Timsr	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	10	det	_	_
 10	copil	copil	NOUN	Ncmsrn	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	13	nsubj	_	_
 11	putea	putea	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 12	să	să	PART	Qs	Mood=Sub	13	mark	_	_
 13	înțeleagă	înțelege	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	11	csubj	_	_
-14	.	.	PUNCT	PERIOD	_	11	punct	_	AltTag=PUNCT-PRON
+14	.	.	PUNCT	PERIOD	_	11	punct	_	_
 
 # sent_id a_tree-ro-s35-root
 1	Un	un	DET	Timsr	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	2	det	_	_
@@ -737,7 +737,7 @@
 12	stea	sta	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	10	ccomp	_	_
 13	în	în	ADP	Sp	AdpType=Prep	14	case	_	_
 14	Butucani	Butucani	PROPN	Np	_	12	nmod	_	_
-15	.	.	PUNCT	PERIOD	_	10	punct	_	AltTag=PUNCT-PRON
+15	.	.	PUNCT	PERIOD	_	10	punct	_	_
 
 # sent_id a_tree-ro-s36-root
 1	Străinul	străin	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	nsubj	_	_
@@ -746,7 +746,7 @@
 4	gătea	găti	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 5	să	să	PART	Qs	Mood=Sub	6	mark	_	_
 6	plece	pleca	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
-7	,	,	PUNCT	COMMA	_	4	punct	_	AltTag=PUNCT-CONJ
+7	,	,	PUNCT	COMMA	_	4	punct	_	_
 8	și	și	CONJ	Crssp	Negative=Pos	4	cc	_	_
 9	-ar	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
 10	fi	fi	AUX	Vanp	Tense=Pres|VerbForm=Inf	11	aux	_	_
@@ -757,7 +757,7 @@
 15	ar	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
 16	fi	fi	AUX	Vanp	Tense=Pres|VerbForm=Inf	17	aux	_	_
 17	putut	putea	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	13	advcl	_	_
-18	.	.	PUNCT	PERIOD	_	4	punct	_	AltTag=PUNCT-PRON
+18	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
 # sent_id a_tree-ro-s37-root
 1	Nu	nu	PART	Qz	Negative=Neg	3	neg	_	_
@@ -768,7 +768,7 @@
 6	-i	el	PRON	Pp3-sd--------w	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak	7	iobj	_	_
 7	cumpere	cumpăra	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
 8	nimic	nimic	PRON	Pz3msr	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Neg	7	dobj	_	_
-9	.	.	PUNCT	PERIOD	_	4	punct	_	AltTag=PUNCT-PRON
+9	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
 # sent_id a_tree-ro-s38-root
 1	Se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	2	expl:pv	_	_
@@ -780,7 +780,7 @@
 7	-și	sine	PRON	Px3--d--------w	Case=Dat|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	9	expl:pv	_	_
 8	putea	putea	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	aux	_	_
 9	aduce_aminte	aduce_aminte	VERB	Vmnp	Tense=Pres|VerbForm=Inf	2	advcl	_	_
-10	.	.	PUNCT	PERIOD	_	2	punct	_	AltTag=PUNCT-PRON
+10	.	.	PUNCT	PERIOD	_	2	punct	_	_
 
 # sent_id a_tree-ro-s39-root
 1	Nu	nu	PART	Qz	Negative=Neg	3	neg	_	_
@@ -798,15 +798,15 @@
 13	și	și	CONJ	Crssp	Negative=Pos	12	cc	_	_
 14	fără	fără	ADP	Sp	AdpType=Prep	15	case	_	_
 15	sens	sens	NOUN	Ncmsrn	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	12	conj	_	_
-16	.	.	PUNCT	PERIOD	_	4	punct	_	AltTag=PUNCT-PRON
+16	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
 # sent_id a_tree-ro-s40-root
 1	Clujenii	clujean	NOUN	Ncmpry	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	2	nsubj	_	_
 2	aveau	avea	VERB	Vmii3p	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-3	,	,	PUNCT	COMMA	_	5	punct	_	AltTag=PUNCT-CONJ
+3	,	,	PUNCT	COMMA	_	5	punct	_	_
 4	despre	despre	ADP	Sp	AdpType=Prep	5	case	_	_
 5	artă	artă	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	2	iobj	_	_
-6	,	,	PUNCT	COMMA	_	5	punct	_	AltTag=PUNCT-CONJ
+6	,	,	PUNCT	COMMA	_	5	punct	_	_
 7	opinii	opinie	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	2	dobj	_	_
 8	prea	prea	ADV	Rp	_	9	advmod	_	_
 9	rigide	rigid	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	7	amod	_	_
@@ -817,7 +817,7 @@
 14	îngăduință	îngăduință	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	12	nmod	_	_
 15	încercările	încercare	NOUN	Ncfpry	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	12	dobj	_	_
 16	tinerești	tineresc	ADJ	Afp-p-n	Definite=Ind|Degree=Pos|Number=Plur	15	amod	_	_
-17	.	.	PUNCT	PERIOD	_	2	punct	_	AltTag=PUNCT-PRON
+17	.	.	PUNCT	PERIOD	_	2	punct	_	_
 
 # sent_id a_tree-ro-s41-root
 1	Nimeni	nimeni	PRON	Pz3msr	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Neg	3	nsubj	_	_
@@ -827,7 +827,7 @@
 5	lămurească	lămuri	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
 6	taina	taină	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	5	dobj	_	_
 7	țipătului	țipăt	NOUN	Ncmsoy	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	nmod	_	_
-8	.	.	PUNCT	PERIOD	_	3	punct	_	AltTag=PUNCT-PRON
+8	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
 # sent_id a_tree-ro-s42-root
 1	Poți	putea	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -835,12 +835,12 @@
 3	să	să	PART	Qs	Mood=Sub	5	mark	_	_
 4	-mi	meu	PRON	Pp1-sd--------w	Case=Dat|Number=Sing|Person=1|PronType=Prs|Strength=Weak	5	iobj	_	_
 5	spui	spune	VERB	Vmsp1s	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
-6	,	,	PUNCT	COMMA	_	10	punct	_	AltTag=PUNCT-CONJ
+6	,	,	PUNCT	COMMA	_	10	punct	_	_
 7	Atâta	atâta	DET	Di3-sr	Case=Nom|Number=Sing|Person=3|PronType=Ind	8	det	_	_
 8	frumusețe	frumusețe	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	10	nsubj	_	_
 9	unde	unde	ADV	Rw	PronType=Int,Rel	10	advmod	_	_
 10	este	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	parataxis	_	_
-11	?	?	PUNCT	QUEST	_	10	punct	_	AltTag=PUNCT-PART
+11	?	?	PUNCT	QUEST	_	10	punct	_	_
 
 # sent_id a_tree-ro-s43-root
 1	Contribuie	contribui	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -849,7 +849,7 @@
 4	la	la	ADP	Sp	AdpType=Prep	5	case	_	_
 5	măreția	măreție	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	1	iobj	_	_
 6	omului	om	NOUN	Ncmsoy	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	5	nmod	_	_
-7	.	.	PUNCT	PERIOD	_	1	punct	_	AltTag=PUNCT-PRON
+7	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
 # sent_id a_tree-ro-s44-root
 1	Acum	acum	ADV	Rgp	Degree=Pos	5	advmod:tmod	_	_
@@ -858,7 +858,7 @@
 4	putea	putea	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	aux	_	_
 5	gândi	gândi	VERB	Vmnp	Tense=Pres|VerbForm=Inf	0	root	_	_
 6	nimic	nimic	PRON	Pz3msr	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Neg	5	dobj	_	_
-7	.	.	PUNCT	PERIOD	_	5	punct	_	AltTag=PUNCT-PRON
+7	.	.	PUNCT	PERIOD	_	5	punct	_	_
 
 # sent_id a_tree-ro-s45-root
 1	Să	să	PART	Qs	Mood=Sub	4	mark	_	_
@@ -866,7 +866,7 @@
 3	-l	el	PRON	Pp3msa--------w	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Weak	4	dobj	_	_
 4	crești	crește	VERB	Vmsp2s	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	voinic	voinic	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	4	cop	_	_
-6	,	,	PUNCT	COMMA	_	10	punct	_	AltTag=PUNCT-CONJ
+6	,	,	PUNCT	COMMA	_	10	punct	_	_
 7	să	să	PART	Qs	Mood=Sub	10	mark	_	_
 8	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	10	expl:pv	_	_
 9	poată	putea	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
@@ -877,7 +877,7 @@
 14	cu	cu	ADP	Sp	AdpType=Prep	16	case	_	_
 15	un	un	DET	Timsr	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	16	det	_	_
 16	urs	urs	NOUN	Ncmsrn	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	10	nmod	_	_
-17	.	.	PUNCT	PERIOD	_	4	punct	_	AltTag=PUNCT-PRON
+17	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
 # sent_id a_tree-ro-s46-root
 1	Putea	putea	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
@@ -891,7 +891,7 @@
 9	cu	cu	ADP	Sp	AdpType=Prep	10	case	_	_
 10	pinii	pin	NOUN	Ncmpry	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	8	iobj	_	_
 11	lui	lui	PRON	Pp3mso--------s	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	10	nmod	_	_
-12	?	?	PUNCT	QUEST	_	1	punct	_	AltTag=PUNCT-PART
+12	?	?	PUNCT	QUEST	_	1	punct	_	_
 
 # sent_id a_tree-ro-s47-root
 1	Montanul	montan	ADJ	Afpmsry	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
@@ -906,7 +906,7 @@
 10	acestui	acest	DET	Dd3mso---e	Case=Gen|Gender=Masc|Number=Sing|Person=3|Position=Prenom|PronType=Dem	11	det	_	_
 11	veac	veac	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	9	nmod	_	_
 12	aprins	aprinde	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	11	acl	_	_
-13	.	.	PUNCT	PERIOD	_	4	punct	_	AltTag=PUNCT-PRON
+13	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
 # sent_id a_tree-ro-s48-root
 1	Mă	eu	PRON	Pp1-sa--------w	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak	2	iobj	_	_
@@ -921,7 +921,7 @@
 10	cu	cu	ADP	Sp	AdpType=Prep	12	case	_	_
 11	atâta	atât	DET	Di3-sr	Case=Nom|Number=Sing|Person=3|PronType=Ind	12	det	_	_
 12	trufie	trufie	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	7	nmod	_	_
-13	.	.	PUNCT	PERIOD	_	2	punct	_	AltTag=PUNCT-PRON
+13	.	.	PUNCT	PERIOD	_	2	punct	_	_
 
 # sent_id a_tree-ro-s49-root
 1	Au	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
@@ -936,7 +936,7 @@
 10	lucruri	lucru	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	11	dobj	_	_
 11	poate	putea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
 12	fiecare	fiecare	PRON	Pi3-sr	Case=Nom|Number=Sing|Person=3|PronType=Ind	11	nsubj	_	_
-13	.	.	PUNCT	PERIOD	_	2	punct	_	AltTag=PUNCT-PRON
+13	.	.	PUNCT	PERIOD	_	2	punct	_	_
 
 # sent_id a_tree-ro-s50-root
 1	N-	nu	PART	Qz	Negative=Neg	2	neg	_	_
@@ -945,15 +945,15 @@
 4	să	să	PART	Qs	Mood=Sub	6	mark	_	_
 5	mă	eu	PRON	Pp1-sa--------w	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak	6	dobj	_	_
 6	cate	căta	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
-7	,	,	PUNCT	COMMA	_	2	punct	_	AltTag=PUNCT-CONJ
+7	,	,	PUNCT	COMMA	_	2	punct	_	_
 8	maica	maica	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	10	nsubj	_	_
 9	-i	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
 10	slabă	slab	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	2	conj	_	_
-11	,	,	PUNCT	COMMA	_	2	punct	_	AltTag=PUNCT-CONJ
+11	,	,	PUNCT	COMMA	_	2	punct	_	_
 12	nu	nu	PART	Qz	Negative=Neg	14	neg	_	_
 13	mai	mai	ADV	Rp	_	14	advmod	_	_
 14	poate	putea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
-15	.	.	PUNCT	PERIOD	_	2	punct	_	AltTag=PUNCT-PRON
+15	.	.	PUNCT	PERIOD	_	2	punct	_	_
 
 # sent_id a_tree-ro-s51-root
 1	Și	și	CONJ	Crssp	Negative=Pos	9	discourse	_	_
@@ -961,7 +961,7 @@
 3	vede	vedea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
 4	ea	el	PRON	Pp3fsr--------s	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Strong	3	nsubj	_	_
 5	poiana	poiană	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	3	dobj	_	_
-6	,	,	PUNCT	COMMA	_	3	punct	_	AltTag=PUNCT-CONJ
+6	,	,	PUNCT	COMMA	_	3	punct	_	_
 7	nu	nu	PART	Qz	Negative=Neg	8	neg	_	_
 8	poate	putea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
 9	răbda	răbda	VERB	Vmnp	Tense=Pres|VerbForm=Inf	0	root	_	_
@@ -971,7 +971,7 @@
 13	apropia	apropia	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	ccomp	_	_
 14	de	de	ADP	Sp	AdpType=Prep	15	case	_	_
 15	apă	apă	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	13	iobj	_	_
-16	.	.	PUNCT	PERIOD	_	9	punct	_	AltTag=PUNCT-PRON
+16	.	.	PUNCT	PERIOD	_	9	punct	_	_
 
 # sent_id a_tree-ro-s52-root
 1	Cel	Cel	DET	Tdmsr	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
@@ -983,9 +983,9 @@
 7	existența	existența	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	5	nmod	_	_
 8	numelui	numelui	NOUN	Ncmsoy	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	nmod	_	_
 9	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	_
-10	„	„	PUNCT	DBLQ	_	11	punct	_	AltTag=PUNCT-DET
+10	„	„	PUNCT	DBLQ	_	11	punct	_	_
 11	român	român	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	8	nmod	_	_
-12	”	”	PUNCT	DBLQ	_	11	punct	_	AltTag=PUNCT-DET
+12	”	”	PUNCT	DBLQ	_	11	punct	_	_
 13	ar	ar	AUX	Va--3	Person=3	14	aux	_	_
 14	putea	putea	VERB	Vmnp	Tense=Pres|VerbForm=Inf	0	root	_	_
 15	fi	fi	AUX	Vap--sm	Gender=Masc|Number=Sing|VerbForm=Part	16	aux	_	_
@@ -993,10 +993,10 @@
 17	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	18	case	_	_
 18	Cântecul	Cântecul	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	16	nmod:agent	_	_
 19	Nibelungilor	Nibelungilor	PROPN	Np	_	18	nmod	_	_
-20	:	:	PUNCT	COLON	_	14	punct	_	AltTag=PUNCT-CONJ
+20	:	:	PUNCT	COLON	_	14	punct	_	_
 
 # sent_id a_tree-ro-s53-root
-1	„	„	PUNCT	DBLQ	_	13	punct	_	AltTag=PUNCT-DET
+1	„	„	PUNCT	DBLQ	_	13	punct	_	_
 2	Ducele	Ducele	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	13	nsubj	_	_
 3	Ramunch	Ramunch	PROPN	Np	_	2	name	_	_
 4	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
@@ -1016,12 +1016,12 @@
 18	ca	ca	ADV	Rc	_	19	case	_	_
 19	păsările	păsările	NOUN	Ncfpry	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	13	nmod	_	_
 20	sălbatice	sălbatice	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	19	amod	_	_
-21	,	,	PUNCT	COMMA	_	13	punct	_	AltTag=PUNCT-CONJ
+21	,	,	PUNCT	COMMA	_	13	punct	_	_
 22	îi	îi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	dobj	_	_
 23	vedeai	vedeai	VERB	Vmii2s	Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	13	conj	_	_
 24	galopând	galopând	VERB	Vmg	VerbForm=Ger	23	advcl	_	_
-25	”	”	PUNCT	DBLQ	_	13	punct	_	AltTag=PUNCT-DET
-26	.	.	PUNCT	PERIOD	_	13	punct	_	AltTag=PUNCT-PRON
+25	”	”	PUNCT	DBLQ	_	13	punct	_	_
+26	.	.	PUNCT	PERIOD	_	13	punct	_	_
 
 # sent_id a_tree-ro-s54-root
 1	Ramunch	Ramunch	PROPN	Np	_	6	nsubj	_	_
@@ -1032,9 +1032,9 @@
 6	transliterație	transliterație	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
 7	a	a	DET	Tsfs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	8	det	_	_
 8	numelui	numelui	NOUN	Ncmsoy	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	nmod	_	_
-9	„	„	PUNCT	DBLQ	_	10	punct	_	AltTag=PUNCT-DET
+9	„	„	PUNCT	DBLQ	_	10	punct	_	_
 10	Român	Român	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	8	nmod	_	_
-11	”	”	PUNCT	DBLQ	_	10	punct	_	AltTag=PUNCT-DET
+11	”	”	PUNCT	DBLQ	_	10	punct	_	_
 12	reprezentând	reprezentând	VERB	Vmg	VerbForm=Ger	6	acl	_	_
 13	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	15	case	_	_
 14	acest	acest	DET	Dd3msr---e	Case=Nom|Gender=Masc|Number=Sing|Person=3|Position=Prenom|PronType=Dem	15	amod	_	_
@@ -1044,7 +1044,7 @@
 18	simbolic	simbolic	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
 19	al	al	DET	Tsms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	20	det	_	_
 20	românilor	românilor	NOUN	Ncmpoy	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	17	nmod	_	_
-21	.	.	PUNCT	PERIOD	_	6	punct	_	AltTag=PUNCT-PRON
+21	.	.	PUNCT	PERIOD	_	6	punct	_	_
 
 # sent_id a_tree-ro-s55-root
 1	Cele	Cele	DET	Tdfpr	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	3	det	_	_
@@ -1055,11 +1055,11 @@
 6	ale	ale	DET	Tsfp	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	7	det	_	_
 7	termenului	termenului	NOUN	Ncmsoy	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	nmod	_	_
 8	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	_
-9	„	„	PUNCT	DBLQ	_	10	punct	_	AltTag=PUNCT-DET
+9	„	„	PUNCT	DBLQ	_	10	punct	_	_
 10	rumân	rumân	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	7	nmod	_	_
 11	/	/	SYM	SLASH	AdpType=Prep	10	punct	_	AltTag=SYM-ADP
 12	român	român	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	10	conj	_	_
-13	”	”	PUNCT	DBLQ	_	10	punct	_	AltTag=PUNCT-DET
+13	”	”	PUNCT	DBLQ	_	10	punct	_	_
 14	cunoscute	cunoscute	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	4	advmod	_	_
 15	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	16	case	_	_
 16	mod	mod	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	14	nmod	_	_
@@ -1068,7 +1068,7 @@
 19	conținute	conținute	VERB	Vmp--pf	Gender=Fem|Number=Plur|VerbForm=Part	0	root	_	_
 20	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	21	case	_	_
 21	relatări	relatări	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	19	nmod	_	_
-22	,	,	PUNCT	COMMA	_	21	punct	_	AltTag=PUNCT-CONJ
+22	,	,	PUNCT	COMMA	_	21	punct	_	_
 23	jurnale	jurnale	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	21	conj	_	_
 24	și	și	CONJ	Crssp	Negative=Pos	21	cc	_	_
 25	rapoarte	rapoarte	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	21	conj	_	_
@@ -1084,7 +1084,7 @@
 35	XVI	XVI	NUM	Mo-s-r	Number=Sing|NumForm=Roman|NumType=Card	33	nummod	_	AltTag=NUM-ADJ
 36	-lea	-lea	DET	Tfms-y	Definite=Def|Gender=Masc|Number=Sing|PronType=Art|Variant=Short	35	det	_	_
 37	care	care	PRON	Pw3--r	Case=Nom|Person=3|PronType=Int,Rel	48	nsubj	_	_
-38	,	,	PUNCT	COMMA	_	42	punct	_	AltTag=PUNCT-CONJ
+38	,	,	PUNCT	COMMA	_	42	punct	_	_
 39	fiind	fiind	VERB	Vmg	VerbForm=Ger	42	cop	_	_
 40	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	41	case	_	_
 41	majoritate	majoritate	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	42	nmod	_	_
@@ -1092,34 +1092,34 @@
 43	ai	ai	DET	Tsmp	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	45	det	_	_
 44	Sfântului	Sfântului	NOUN	Ncmsoy	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	45	nmod	_	_
 45	Scaun	Scaun	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	42	nmod	_	_
-46	,	,	PUNCT	COMMA	_	42	punct	_	AltTag=PUNCT-CONJ
+46	,	,	PUNCT	COMMA	_	42	punct	_	_
 47	au	au	AUX	Va--3p	Number=Plur|Person=3	48	aux	_	_
 48	călătorit	călătorit	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	30	acl	_	_
 49	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	50	case	_	_
 50	țara_Românească	țara_Românească	PROPN	Npfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	48	nmod	_	_
-51	,	,	PUNCT	COMMA	_	50	punct	_	AltTag=PUNCT-CONJ
+51	,	,	PUNCT	COMMA	_	50	punct	_	_
 52	Moldova	Moldova	PROPN	Np	_	50	conj	_	_
 53	și	și	CONJ	Crssp	Negative=Pos	50	cc	_	_
 54	Transilvania	Transilvania	PROPN	Np	_	50	conj	_	_
-55	.	.	PUNCT	PERIOD	_	19	punct	_	AltTag=PUNCT-PRON
+55	.	.	PUNCT	PERIOD	_	19	punct	_	_
 
 # sent_id a_tree-ro-s56-root
 1	Astfel	Astfel	ADV	Rgp	Degree=Pos	5	advmod	_	_
-2	,	,	PUNCT	COMMA	_	5	punct	_	AltTag=PUNCT-CONJ
+2	,	,	PUNCT	COMMA	_	5	punct	_	_
 3	Tranquillo	Tranquillo	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	5	nsubj	_	_
 4	Andronico	Andronico	PROPN	Np	_	3	name	_	_
 5	notează	notează	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
 7	1534	1534	NUM	M	NumType=Card	5	nummod	_	_
-8	,	,	PUNCT	COMMA	_	5	punct	_	AltTag=PUNCT-CONJ
+8	,	,	PUNCT	COMMA	_	5	punct	_	_
 9	că	că	SCONJ	Csssp	Negative=Pos	13	mark	_	_
 10	valahii	valahii	NOUN	Ncmpry	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	13	nsubj	_	_
-11	„	„	PUNCT	DBLQ	_	13	punct	_	AltTag=PUNCT-DET
+11	„	„	PUNCT	DBLQ	_	13	punct	_	_
 12	se	se	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	13	expl:pv	_	_
 13	numesc	numesc	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	acl	_	_
 14	romani	romani	ADJ	Afpmp-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	13	xcomp	_	_
-15	”	”	PUNCT	DBLQ	_	13	punct	_	AltTag=PUNCT-DET
-16	.	.	PUNCT	PERIOD	_	5	punct	_	AltTag=PUNCT-PRON
+15	”	”	PUNCT	DBLQ	_	13	punct	_	_
+16	.	.	PUNCT	PERIOD	_	5	punct	_	_
 
 # sent_id a_tree-ro-s57-root
 1	Mărturii	Mărturii	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	11	nsubj	_	_
@@ -1127,11 +1127,11 @@
 3	despre	despre	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	_
 4	endonimul	endonimul	NOUN	Ncfpry	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	1	nmod	_	_
 5	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
-6	„	„	PUNCT	DBLQ	_	7	punct	_	AltTag=PUNCT-DET
+6	„	„	PUNCT	DBLQ	_	7	punct	_	_
 7	rumân	rumân	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	4	nmod	_	_
 8	/	/	SYM	SLASH	AdpType=Prep	7	punct	_	AltTag=SYM-ADP
 9	român	român	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	7	conj	_	_
-10	”	”	PUNCT	DBLQ	_	7	punct	_	AltTag=PUNCT-DET
+10	”	”	PUNCT	DBLQ	_	7	punct	_	_
 11	furnizează	furnizează	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 12	și	și	ADV	Rp	_	13	advmod	_	_
 13	autori	autori	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	11	dobj	_	_
@@ -1146,7 +1146,7 @@
 22	direct	direct	ADV	Rgp	Degree=Pos	21	amod	_	_
 23	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	24	case	_	_
 24	românii	românii	NOUN	Ncmpry	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	21	nmod	_	_
-25	.	.	PUNCT	PERIOD	_	11	punct	_	AltTag=PUNCT-PRON
+25	.	.	PUNCT	PERIOD	_	11	punct	_	_
 
 # sent_id a_tree-ro-s58-root
 1	Cel	Cel	DET	Tdmsr	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
@@ -1160,9 +1160,9 @@
 9	geografice	geografice	ADJ	Afpfson	Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
 10	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	_
 11	mențiunea	mențiunea	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	4	nmod	_	_
-12	„	„	PUNCT	DBLQ	_	13	punct	_	AltTag=PUNCT-DET
+12	„	„	PUNCT	DBLQ	_	13	punct	_	_
 13	rumânesc	rumânesc	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
-14	”	”	PUNCT	DBLQ	_	13	punct	_	AltTag=PUNCT-DET
+14	”	”	PUNCT	DBLQ	_	13	punct	_	_
 15	este	este	AUX	Va--3s	Number=Sing|Person=3	16	cop	_	_
 16	conținută	conținută	VERB	Vmp--sf	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
 17	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	19	case	_	_
@@ -1173,7 +1173,7 @@
 22	Getica	Getica	PROPN	Np	_	21	nmod	_	_
 23	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	24	case	_	_
 24	Iordanes	Iordanes	PROPN	Np	_	22	nmod	_	_
-25	:	:	PUNCT	COLON	_	16	punct	_	AltTag=PUNCT-CONJ
+25	:	:	PUNCT	COLON	_	16	punct	_	_
 
 # sent_id a_tree-ro-s59-root
 1	Denumirea	Denumirea	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	3	nsubj	_	_
@@ -1187,10 +1187,10 @@
 9	pronunții	pronunții	NOUN	Ncfson	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	5	nmod	_	_
 10	slave	slave	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	9	amod	_	_
 11	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc	13	case	_	_
-12	„	„	PUNCT	DBLQ	_	13	punct	_	AltTag=PUNCT-DET
+12	„	„	PUNCT	DBLQ	_	13	punct	_	_
 13	rumânesc	rumânesc	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
-14	”	”	PUNCT	DBLQ	_	13	punct	_	AltTag=PUNCT-DET
-15	.	.	PUNCT	PERIOD	_	3	punct	_	AltTag=PUNCT-PRON
+14	”	”	PUNCT	DBLQ	_	13	punct	_	_
+15	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
 # sent_id a_tree-ro-s60-root
 1	Deși	Deși	SCONJ	Csssp	Negative=Pos	7	mark	_	_
@@ -1203,7 +1203,7 @@
 8	a	a	PART	Qn	PartType=Inf	9	mark	_	_
 9	fi	fi	VERB	Vmnp	Tense=Pres|VerbForm=Inf	10	cop	_	_
 10	apocrifă	apocrifă	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	7	xcomp	_	_
-11	,	,	PUNCT	COMMA	_	15	punct	_	AltTag=PUNCT-CONJ
+11	,	,	PUNCT	COMMA	_	15	punct	_	_
 12	ea	ea	PRON	Pp3fsr--------s	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Strong	15	nsubj	_	_
 13	fiind	fiind	VERB	Vmg	VerbForm=Ger	15	cop	_	_
 14	o	o	DET	Tifsr	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	15	det	_	_
@@ -1213,13 +1213,13 @@
 18	textul	textul	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	15	nmod	_	_
 19	lui	lui	DET	Tf-so	Case=Gen|Definite=Def|Number=Sing|PronType=Art	20	det	_	_
 20	Iordanes	Iordanes	PROPN	Np	_	18	nmod	_	_
-21	,	,	PUNCT	COMMA	_	7	punct	_	AltTag=PUNCT-CONJ
+21	,	,	PUNCT	COMMA	_	7	punct	_	_
 22	relevanța	relevanța	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	25	nsubj	_	_
 23	ei	ei	DET	Ds3---s	Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	22	nmod	_	_
 24	istorică	istorică	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
 25	rămâne	rămâne	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 26	considerabilă	considerabilă	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	25	xcomp	_	_
-27	,	,	PUNCT	COMMA	_	32	punct	_	AltTag=PUNCT-CONJ
+27	,	,	PUNCT	COMMA	_	32	punct	_	_
 28	interpolarea	interpolarea	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	32	nsubj	_	_
 29	neputând	neputând	VERB	Vmg	VerbForm=Ger	32	aux	_	_
 30	fi	fi	VERB	Vmnp	Tense=Pres|VerbForm=Inf	32	cop	_	_
@@ -1234,7 +1234,7 @@
 39	al	al	DET	Tsms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	40	det	_	_
 40	XI	XI	NUM	Mo-s-r	Number=Sing|NumForm=Roman|NumType=Card	36	conj	_	AltTag=NUM-ADJ
 41	-lea	-lea	DET	Tfms-y	Definite=Def|Gender=Masc|Number=Sing|PronType=Art|Variant=Short	40	det	_	_
-42	.	.	PUNCT	PERIOD	_	25	punct	_	AltTag=PUNCT-PRON
+42	.	.	PUNCT	PERIOD	_	25	punct	_	_
 
 # sent_id a_tree-ro-s61-root
 1	Cea	Cea	DET	Tdfsr	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
@@ -1253,7 +1253,7 @@
 14	Neacșu	Neacșu	PROPN	Np	_	12	nmod	_	_
 15	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	16	case	_	_
 16	1521	1521	NUM	M	NumType=Card	12	nummod	_	_
-17	,	,	PUNCT	COMMA	_	19	punct	_	AltTag=PUNCT-CONJ
+17	,	,	PUNCT	COMMA	_	19	punct	_	_
 18	ce	ce	PRON	Pw3--r	Case=Nom|Person=3|PronType=Int,Rel	19	nsubj	_	_
 19	conține	conține	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl	_	_
 20	mențiunea	mențiunea	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	19	dobj	_	_
@@ -1262,8 +1262,8 @@
 23	(	(	PUNCT	LPAR	_	24	punct	_	_
 24	țeara	țeară	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	21	appos	_	_
 25	Rumânească	rumâneasc	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	24	amod	_	_
-26	)	)	PUNCT	RPAR	_	24	punct	_	AltTag=PUNCT-ADV
-27	.	.	PUNCT	PERIOD	_	4	punct	_	AltTag=PUNCT-PRON
+26	)	)	PUNCT	RPAR	_	24	punct	_	_
+27	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
 # sent_id a_tree-ro-s62-root
 1	Miron	Miron	PROPN	Np	_	3	nsubj	_	_
@@ -1272,12 +1272,12 @@
 4	asupra	asupra	ADP	Spsg	AdpType=Prep|Case=Gen	5	case	_	_
 5	denumirii	denumirii	NOUN	Ncfsoy	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	3	nmod	_	_
 6	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	_
-7	„	„	PUNCT	DBLQ	_	8	punct	_	AltTag=PUNCT-DET
+7	„	„	PUNCT	DBLQ	_	8	punct	_	_
 8	român	român	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	5	nmod	_	_
-9	,	,	PUNCT	COMMA	_	11	punct	_	AltTag=PUNCT-CONJ
+9	,	,	PUNCT	COMMA	_	11	punct	_	_
 10	adică	adică	ADV	Rgp	Degree=Pos	11	advmod	_	_
 11	roman	roman	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	8	appos	_	_
-12	”	”	PUNCT	DBLQ	_	8	punct	_	AltTag=PUNCT-DET
+12	”	”	PUNCT	DBLQ	_	8	punct	_	_
 13	ce	ce	PRON	Pw3--r	Case=Nom|Person=3|PronType=Int,Rel	15	dobj	_	_
 14	o	o	PRON	Pp3fsa--------w	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak	15	expl	_	_
 15	poartă	poartă	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	5	acl	_	_
@@ -1285,15 +1285,15 @@
 17	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	18	case	_	_
 18	Principatele	Principatele	NOUN	Ncfpry	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	16	nmod	_	_
 19	Române	Române	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	18	amod	_	_
-20	.	.	PUNCT	PERIOD	_	3	punct	_	AltTag=PUNCT-PRON
+20	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
 # sent_id a_tree-ro-s63-root
-1	)	)	PUNCT	RPAR	_	2	punct	_	AltTag=PUNCT-ADV
+1	)	)	PUNCT	RPAR	_	2	punct	_	_
 2	etc.	etc.	ADV	Yr	Abbr=Yes	13	dep	_	_
 3	În	În	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
 4	ultimele	ultimele	NUM	Mofprly	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|NumForm=Word|NumType=Card	5	amod	_	AltTag=NUM-ADJ
 5	decenii	decenii	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	13	nmod:tmod	_	_
-6	,	,	PUNCT	COMMA	_	5	punct	_	AltTag=PUNCT-CONJ
+6	,	,	PUNCT	COMMA	_	5	punct	_	_
 7	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	_
 8	mai	mai	ADV	Rp	_	9	advmod	_	_
 9	multe	multe	DET	Di3fp	Gender=Fem|Number=Plur|Person=3|PronType=Ind	10	amod	_	_
@@ -1307,55 +1307,55 @@
 17	care	care	PRON	Pw3--r	Case=Nom|Person=3|PronType=Int,Rel	18	nsubj	_	_
 18	derivă	derivă	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	acl	_	_
 19	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	21	case	_	_
-20	„	„	PUNCT	DBLQ	_	21	punct	_	AltTag=PUNCT-DET
+20	„	„	PUNCT	DBLQ	_	21	punct	_	_
 21	rumân	rumân	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	18	iobj	_	_
-22	”	”	PUNCT	DBLQ	_	21	punct	_	AltTag=PUNCT-DET
+22	”	”	PUNCT	DBLQ	_	21	punct	_	_
 23	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	24	case	_	_
 24	cea	cea	PRON	Pd3fsr	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	18	iobj	_	_
 25	care	care	PRON	Pw3--r	Case=Nom|Person=3|PronType=Int,Rel	26	nsubj	_	_
 26	derivă	derivă	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	acl	_	_
 27	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	29	case	_	_
-28	„	„	PUNCT	DBLQ	_	29	punct	_	AltTag=PUNCT-DET
+28	„	„	PUNCT	DBLQ	_	29	punct	_	_
 29	român	român	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	26	iobj	_	_
-30	”	”	PUNCT	DBLQ	_	29	punct	_	AltTag=PUNCT-DET
-31	.	.	PUNCT	PERIOD	_	13	punct	_	AltTag=PUNCT-PRON
+30	”	”	PUNCT	DBLQ	_	29	punct	_	_
+31	.	.	PUNCT	PERIOD	_	13	punct	_	_
 
 # sent_id a_tree-ro-s64-root
 1	Astfel	Astfel	ADV	Rgp	Degree=Pos	13	advmod	_	_
-2	,	,	PUNCT	COMMA	_	1	punct	_	AltTag=PUNCT-CONJ
+2	,	,	PUNCT	COMMA	_	1	punct	_	_
 3	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	_
 4	limba	limba	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	13	nmod	_	_
 5	engleză	engleză	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
 6	forma	forma	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	13	nsubj	_	_
-7	„	„	PUNCT	DBLQ	_	8	punct	_	AltTag=PUNCT-DET
+7	„	„	PUNCT	DBLQ	_	8	punct	_	_
 8	Rumania	Rumania	PROPN	Np	_	6	nmod	_	_
-9	”	”	PUNCT	DBLQ	_	8	punct	_	AltTag=PUNCT-DET
+9	”	”	PUNCT	DBLQ	_	8	punct	_	_
 10	a	a	AUX	Va--3s	Number=Sing|Person=3	13	aux	_	_
 11	fost	fost	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	13	auxpass	_	_
 12	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	13	case	_	_
 13	locuită	locuită	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
 14	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	16	case	_	_
-15	„	„	PUNCT	DBLQ	_	16	punct	_	AltTag=PUNCT-DET
+15	„	„	PUNCT	DBLQ	_	16	punct	_	_
 16	Romania	Romania	PROPN	Np	_	13	iobj	_	_
-17	”	”	PUNCT	DBLQ	_	16	punct	_	AltTag=PUNCT-DET
-18	.	.	PUNCT	PERIOD	_	13	punct	_	AltTag=PUNCT-PRON
+17	”	”	PUNCT	DBLQ	_	16	punct	_	_
+18	.	.	PUNCT	PERIOD	_	13	punct	_	_
 
 # sent_id a_tree-ro-s65-root
 1	În	În	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	_
 2	limba	limba	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	10	nmod	_	_
 3	italiană	italiană	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
 4	denumirea	denumirea	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	10	nsubj	_	_
-5	„	„	PUNCT	DBLQ	_	6	punct	_	AltTag=PUNCT-DET
+5	„	„	PUNCT	DBLQ	_	6	punct	_	_
 6	Rumania	Rumania	PROPN	Np	_	4	nmod	_	_
-7	”	”	PUNCT	DBLQ	_	6	punct	_	AltTag=PUNCT-DET
+7	”	”	PUNCT	DBLQ	_	6	punct	_	_
 8	a	a	AUX	Va--3s	Number=Sing|Person=3	10	aux	_	_
 9	fost	fost	AUX	Vap--sm	Gender=Masc|Number=Sing|VerbForm=Part	10	auxpass	_	_
 10	înlocuită	înlocuită	VERB	Vmp--sf	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
 11	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	13	case	_	_
-12	„	„	PUNCT	DBLQ	_	13	punct	_	AltTag=PUNCT-DET
+12	„	„	PUNCT	DBLQ	_	13	punct	_	_
 13	Romania	Romania	PROPN	Np	_	10	iobj	_	_
-14	”	”	PUNCT	DBLQ	_	13	punct	_	AltTag=PUNCT-DET
-15	,	,	PUNCT	COMMA	_	10	punct	_	AltTag=PUNCT-CONJ
+14	”	”	PUNCT	DBLQ	_	13	punct	_	_
+15	,	,	PUNCT	COMMA	_	10	punct	_	_
 16	iar	iar	ADV	Rc	_	10	cc	_	_
 17	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	18	case	_	_
 18	limba	limba	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	21	nmod	_	_
@@ -1363,40 +1363,40 @@
 20	se	se	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	21	expl:pass	_	_
 21	folosesc	folosesc	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
 22	formele	formele	NOUN	Ncfpry	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	21	nsubjpass	_	_
-23	„	„	PUNCT	DBLQ	_	24	punct	_	AltTag=PUNCT-DET
+23	„	„	PUNCT	DBLQ	_	24	punct	_	_
 24	Romenia	Romenia	PROPN	Np	_	22	nmod	_	_
-25	”	”	PUNCT	DBLQ	_	24	punct	_	AltTag=PUNCT-DET
+25	”	”	PUNCT	DBLQ	_	24	punct	_	_
 26	(	(	PUNCT	LPAR	_	29	punct	_	_
 27	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc	29	case	_	_
 28	a	a	PART	Qn	PartType=Inf	29	mark	_	_
 29	desemna	desemna	VERB	Vmnp	Tense=Pres|VerbForm=Inf	21	advcl	_	_
 30	statul	statul	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	29	dobj	_	_
 31	român	român	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	30	amod	_	_
-32	)	)	PUNCT	RPAR	_	29	punct	_	AltTag=PUNCT-ADV
+32	)	)	PUNCT	RPAR	_	29	punct	_	_
 33	și	și	CONJ	Crssp	Negative=Pos	22	cc	_	_
-34	„	„	PUNCT	DBLQ	_	35	punct	_	AltTag=PUNCT-DET
+34	„	„	PUNCT	DBLQ	_	35	punct	_	_
 35	Romeno	Romeno	PROPN	Np	_	22	conj	_	_
-36	”	”	PUNCT	DBLQ	_	35	punct	_	AltTag=PUNCT-DET
+36	”	”	PUNCT	DBLQ	_	35	punct	_	_
 37	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc	39	case	_	_
 38	a	a	PART	Qn	PartType=Inf	39	mark	_	_
 39	desemna	desemna	VERB	Vmnp	Tense=Pres|VerbForm=Inf	21	advcl	_	_
 40	poporul	poporul	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	39	dobj	_	_
 41	român	român	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	40	amod	_	_
-42	.	.	PUNCT	PERIOD	_	10	punct	_	AltTag=PUNCT-PRON
+42	.	.	PUNCT	PERIOD	_	10	punct	_	_
 
 # sent_id a_tree-ro-s66-root
 1	Astfel	Astfel	ADV	Rgp	Degree=Pos	6	advmod	_	_
-2	,	,	PUNCT	COMMA	_	1	punct	_	AltTag=PUNCT-CONJ
+2	,	,	PUNCT	COMMA	_	1	punct	_	_
 3	originile	originile	NOUN	Ncfpry	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	6	nsubj	_	_
 4	românilor	românilor	NOUN	Ncmpoy	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	3	nmod	_	_
 5	sunt	sunt	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	auxpass	_	_
 6	disputate	disputate	VERB	Vmp--pf	Gender=Fem|Number=Plur|VerbForm=Part	0	root	_	_
-7	,	,	PUNCT	COMMA	_	8	punct	_	AltTag=PUNCT-CONJ
+7	,	,	PUNCT	COMMA	_	8	punct	_	_
 8	existând	existând	VERB	Vmg	VerbForm=Ger	6	advcl	_	_
 9	mai	mai	ADV	Rp	_	10	advmod	_	_
 10	multe	multe	DET	Di3fp	Gender=Fem|Number=Plur|Person=3|PronType=Ind	11	amod	_	_
 11	teorii	teorii	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	8	dobj	_	_
-12	.	.	PUNCT	PERIOD	_	6	punct	_	AltTag=PUNCT-PRON
+12	.	.	PUNCT	PERIOD	_	6	punct	_	_
 
 # sent_id a_tree-ro-s67-root
 1	Se	Se	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	2	expl:pv	_	_
@@ -1415,20 +1415,20 @@
 14	indo-european	indo-european	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
 15	al	al	DET	Tsms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	16	det	_	_
 16	tracilor	tracilor	NOUN	Ncmpoy	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	13	nmod	_	_
-17	.	.	PUNCT	PERIOD	_	2	punct	_	AltTag=PUNCT-PRON
+17	.	.	PUNCT	PERIOD	_	2	punct	_	_
 
 # sent_id a_tree-ro-s68-root
 1	are	are	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	loc	loc	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	1	dobj	_	_
 3	retragerea	retragerea	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	1	nsubj	_	_
 4	aureliană	aureliană	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
-5	.	.	PUNCT	PERIOD	_	1	punct	_	AltTag=PUNCT-PRON
+5	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
 # sent_id a_tree-ro-s69-root
 1	În	În	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
 2	primul	primul	NUM	Momsrly	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card	3	amod	_	AltTag=NUM-ADJ
 3	mileniu	mileniu	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	9	nmod:tmod	_	_
-4	,	,	PUNCT	COMMA	_	3	punct	_	AltTag=PUNCT-CONJ
+4	,	,	PUNCT	COMMA	_	3	punct	_	_
 5	peste	peste	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	_
 6	teritoriul	teritoriul	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	9	nmod	_	_
 7	României	României	PROPN	Npfsoy	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	6	nmod	_	_
@@ -1438,7 +1438,7 @@
 11	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	_
 12	popoare	popoare	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	10	nmod	_	_
 13	migratoare	migratoare	ADJ	Afpf--n	Definite=Ind|Degree=Pos|Gender=Fem	12	amod	_	_
-14	:	:	PUNCT	COLON	_	9	punct	_	AltTag=PUNCT-CONJ
+14	:	:	PUNCT	COLON	_	9	punct	_	_
 
 # sent_id a_tree-ro-s70-root
 1	În	În	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	_
@@ -1454,7 +1454,7 @@
 11	sud	sud	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	9	nmod	_	_
 12	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	13	case	_	_
 13	Carpați	Carpați	PROPN	Np	_	11	nmod	_	_
-14	.	.	PUNCT	PERIOD	_	7	punct	_	AltTag=PUNCT-PRON
+14	.	.	PUNCT	PERIOD	_	7	punct	_	_
 
 # sent_id a_tree-ro-s71-root
 1	Dintre	Dintre	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	_
@@ -1466,11 +1466,11 @@
 7	rol	rol	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	5	dobj	_	_
 8	mai	mai	ADV	Rp	_	9	advmod	_	_
 9	important	important	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
-10	,	,	PUNCT	COMMA	_	2	punct	_	AltTag=PUNCT-CONJ
+10	,	,	PUNCT	COMMA	_	2	punct	_	_
 11	pot	pot	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
 12	fi	fi	AUX	Vanp	Tense=Pres|VerbForm=Inf	13	auxpass	_	_
 13	amintiți	aminti	VERB	Vmp--pm	Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	_
-14	:	:	PUNCT	COLON	_	13	punct	_	AltTag=PUNCT-CONJ
+14	:	:	PUNCT	COLON	_	13	punct	_	_
 
 # sent_id a_tree-ro-s72-root
 1	Începând	Începând	VERB	Vmg	VerbForm=Ger	11	advcl:tmod	_	_
@@ -1492,7 +1492,7 @@
 17	a	a	DET	Tsfs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	18	det	_	_
 18	Imperiului	Imperiului	NOUN	Ncmsoy	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	16	nmod	_	_
 19	Otoman	Otoman	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	_
-20	.	.	PUNCT	PERIOD	_	11	punct	_	AltTag=PUNCT-PRON
+20	.	.	PUNCT	PERIOD	_	11	punct	_	_
 
 # sent_id a_tree-ro-s73-root
 1	Prin	Prin	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	_
@@ -1501,7 +1501,7 @@
 4	dualist	dualist	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
 5	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	_
 6	1867	1867	NUM	M	NumType=Card	2	nummod	_	_
-7	,	,	PUNCT	COMMA	_	2	punct	_	AltTag=PUNCT-CONJ
+7	,	,	PUNCT	COMMA	_	2	punct	_	_
 8	Transilvania	Transilvania	PROPN	Np	_	11	nsubj	_	_
 9	și-	și-	PRON	Px3--d--y-----w	Case=Dat|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak|Variant=Short	15	expl:poss	_	_
 10	a	a	AUX	Va--3s	Number=Sing|Person=3	11	aux	_	_
@@ -1513,7 +1513,7 @@
 16	autonomiei	autonomiei	NOUN	Ncfsoy	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	15	nmod	_	_
 17	sale	sale	DET	Ds3fsos	Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	16	amod	_	_
 18	politice	politice	ADJ	Afpfson	Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
-19	,	,	PUNCT	COMMA	_	21	punct	_	AltTag=PUNCT-CONJ
+19	,	,	PUNCT	COMMA	_	21	punct	_	_
 20	fiind	fiind	VERB	Vmg	VerbForm=Ger	21	auxpass	_	_
 21	înglobată	înglobată	VERB	Vmp--sf	Gender=Fem|Number=Sing|VerbForm=Part	11	advcl	_	_
 22	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	23	case	_	_
@@ -1524,7 +1524,7 @@
 27	și	și	CONJ	Crssp	Negative=Pos	23	cc	_	_
 28	administrativ	administrativ	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	23	conj	_	_
 29	Ungariei	Ungariei	PROPN	Npfsoy	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	21	iobj	_	_
-30	.	.	PUNCT	PERIOD	_	11	punct	_	AltTag=PUNCT-PRON
+30	.	.	PUNCT	PERIOD	_	11	punct	_	_
 
 # sent_id a_tree-ro-s74-root
 1	În	În	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	_
@@ -1539,12 +1539,12 @@
 10	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	_
 11	partea	partea	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	5	nmod	_	_
 12	Antantei	Antantei	NOUN	Ncfsoy	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	11	nmod	_	_
-13	.	.	PUNCT	PERIOD	_	5	punct	_	AltTag=PUNCT-PRON
+13	.	.	PUNCT	PERIOD	_	5	punct	_	_
 
 # sent_id a_tree-ro-s75-root
 1	În	În	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	_
 2	1938	1938	NUM	M	NumType=Card	10	nummod	_	_
-3	,	,	PUNCT	COMMA	_	2	punct	_	AltTag=PUNCT-CONJ
+3	,	,	PUNCT	COMMA	_	2	punct	_	_
 4	regele	regele	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	10	nsubj	_	_
 5	Carol	Carol	PROPN	Np	_	4	nmod	_	_
 6	al	al	DET	Tsms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	det	_	_
@@ -1554,21 +1554,21 @@
 10	asumă	asumă	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 11	puteri	puteri	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	10	dobj	_	_
 12	dictatoriale	dictatoriale	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	11	amod	_	_
-13	.	.	PUNCT	PERIOD	_	10	punct	_	AltTag=PUNCT-PRON
+13	.	.	PUNCT	PERIOD	_	10	punct	_	_
 
 # sent_id a_tree-ro-s76-root
 1	În	În	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	_
 2	1938	1938	NUM	M	NumType=Card	10	nummod	_	_
-3	,	,	PUNCT	COMMA	_	5	punct	_	AltTag=PUNCT-CONJ
+3	,	,	PUNCT	COMMA	_	5	punct	_	_
 4	ca	ca	ADV	Rc	_	5	case	_	_
 5	aliat	aliat	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	10	nmod	_	_
 6	al	al	DET	Tsms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	det	_	_
 7	Germaniei	Germaniei	PROPN	Npfsoy	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	5	nmod	_	_
-8	,	,	PUNCT	COMMA	_	5	punct	_	AltTag=PUNCT-CONJ
+8	,	,	PUNCT	COMMA	_	5	punct	_	_
 9	România	România	PROPN	Np	_	10	nsubj	_	_
 10	declară	declară	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 11	război	război	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	10	dobj	_	_
 12	Uniunii	Uniunii	NOUN	Ncfsoy	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	10	iobj	_	_
 13	Sovietice	Sovietice	ADJ	Afpfson	Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	_
-14	.	.	PUNCT	PERIOD	_	10	punct	_	AltTag=PUNCT-PRON
+14	.	.	PUNCT	PERIOD	_	10	punct	_	_
 
