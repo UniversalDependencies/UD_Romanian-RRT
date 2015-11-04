@@ -5,18 +5,84 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></total>
+    <total><sentences>633</sentences><tokens>12094</tokens><words>12094</words><fused>0</fused></total>
   </size>
-  <lemmas unique="0" /><!--  -->
-  <forms unique="0" /><!--  -->
+  <lemmas unique="3824" /><!-- ,, ., de, în, și, avea, un, fi, a, sine, să, la, putea, 1938, din -->
+  <forms unique="4449" /><!-- ,, ., de, în, și, a, să, la, 1938, se, din, cu, o, mai, un -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments with the most frequent lemmas are optional (but easy to obtain). -->
-  <tags unique="0">
+  <tags unique="17">
+    <tag name="ADJ">898</tag><!-- mare, român, național, prezent, română, literar, naționale, nou, vechi, european -->
+    <tag name="ADP">1472</tag><!-- de, în, la, din, cu, pe, pentru, dintre, după, prin -->
+    <tag name="ADV">489</tag><!-- mai, ca, când, cum, cât, astfel, iar, și, atât, nici -->
+    <tag name="AUX">445</tag><!-- avea, fi, a, au, vrea, fost, este, sunt, era, ar -->
+    <tag name="CONJ">358</tag><!-- și, sau, dar, însă, că, fie, iar, căci, ori, and -->
+    <tag name="DET">605</tag><!-- un, al, a, o, lui, acest, cel, ale, tot, său -->
+    <tag name="INTJ">3</tag><!-- bravo, na, vai -->
+    <tag name="NOUN">2788</tag><!-- an, om, orașul, viață, caz, număr, timp, dată, medic, parte -->
+    <tag name="NUM">398</tag><!-- 1938, trei, 1, 3, primul, două, prima, 2, primele, doi -->
+    <tag name="PART">283</tag><!-- să, nu, a, N-, ca_să, de_a -->
+    <tag name="PRON">682</tag><!-- sine, el, care, eu, tu, ce, se, s-, acesta, acela -->
+    <tag name="PROPN">462</tag><!-- România, României, București, Iași, Nicolina, Moldova, Moldovei, Roman, Arghezi, Copou -->
+    <tag name="PUNCT">1624</tag><!-- ,, ., (, ), ", „, ”, :, -, ? -->
+    <tag name="SCONJ">95</tag><!-- că, dacă, deși, de, încât, deoarece, până, de_vreme_ce, după_ce, fiindcă -->
+    <tag name="SYM">17</tag><!-- /, %, +, _, • -->
+    <tag name="VERB">1471</tag><!-- putea, fi, face, este, afla, avea, trebui, fost, privi, vedea -->
+    <tag name="X">4</tag><!-- O405, Rev, metri_pătrați, Ä­ -->
   </tags>
   <!-- Statistics of features and values. The comments with the most frequent word forms are optional (but easy to obtain). -->
   <feats unique="0">
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="0">
+  <deps unique="49">
+    <dep name="acl">246</dep>
+    <dep name="advcl">175</dep>
+    <dep name="advcl:tcl">1</dep>
+    <dep name="advcl:tmod">8</dep>
+    <dep name="advmod">420</dep>
+    <dep name="advmod:tmod">25</dep>
+    <dep name="amod">813</dep>
+    <dep name="appos">81</dep>
+    <dep name="aux">374</dep>
+    <dep name="auxpass">122</dep>
+    <dep name="case">1438</dep>
+    <dep name="cc">340</dep>
+    <dep name="cc:preconj">6</dep>
+    <dep name="ccomp">134</dep>
+    <dep name="compound">17</dep>
+    <dep name="conj">489</dep>
+    <dep name="cop">128</dep>
+    <dep name="csubj">43</dep>
+    <dep name="csubjpass">9</dep>
+    <dep name="dep">7</dep>
+    <dep name="det">546</dep>
+    <dep name="discourse">9</dep>
+    <dep name="dobj">449</dep>
+    <dep name="expl">46</dep>
+    <dep name="expl:impers">5</dep>
+    <dep name="expl:pass">55</dep>
+    <dep name="expl:poss">39</dep>
+    <dep name="expl:pv">111</dep>
+    <dep name="foreign">16</dep>
+    <dep name="goeswith">7</dep>
+    <dep name="iobj">237</dep>
+    <dep name="list">6</dep>
+    <dep name="mark">335</dep>
+    <dep name="mwe">69</dep>
+    <dep name="name">118</dep>
+    <dep name="neg">92</dep>
+    <dep name="nmod">1459</dep>
+    <dep name="nmod:agent">53</dep>
+    <dep name="nmod:pmod">94</dep>
+    <dep name="nmod:tmod">92</dep>
+    <dep name="nsubj">628</dep>
+    <dep name="nsubjpass">74</dep>
+    <dep name="nummod">201</dep>
+    <dep name="parataxis">75</dep>
+    <dep name="punct">1632</dep>
+    <dep name="remnant">46</dep>
+    <dep name="root">633</dep>
+    <dep name="vocative">8</dep>
+    <dep name="xcomp">83</dep>
   </deps>
 </treebank>
