@@ -17,7 +17,7 @@ Word count:  12094
 Token count: 12094
 Dep. relations: 49 of which 11 language specific
 POS tags: 17
-Category=value feature pairs: 0!!!
+Category=value feature pairs: 53
 
 ACKNOWLEDGEMENTS
 
