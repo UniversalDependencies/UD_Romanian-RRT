@@ -30,7 +30,7 @@ C-A Perez. 2014. Resurse lingvistice pentru prelucrarea limbajului natural, PhD 
 CHANGELOG
 
 UD 1.2 --> 1.3
-- [add changes here]
+- the number of trees was considerably increased.
 
 
 === Machine-readable metadata =================================================
