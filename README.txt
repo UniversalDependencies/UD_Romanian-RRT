@@ -29,6 +29,9 @@ R. Ion, E. Irimia, D. Ștefănescu, D. Tufiș. 2012. ROMBAC: The Romanian Balanc
 E. Irimia, V. Barbu Mititelu. 2015. Building a Romanian Dependency Treebank. Corpus Linguistics 2015, Lancaster, UK, 21-24 July 2015.
 C-A Perez. 2014. Resurse lingvistice pentru prelucrarea limbajului natural, PhD thesis, A.I. Cuza University of Iasi.
 
+CHANGELOG
+
+Form v1.2 to v1.3 the number of trees was considerably increased.
 
 === Machine-readable metadata =================================================
 Documentation status: partial
