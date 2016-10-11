@@ -13,8 +13,8 @@ We split the treebank as follows: the test set (ro-ud-test.conllu) is 12.5% of t
 BASIC STATISTICS
 
 Tree count:  9521
-Word count:  218354
-Token count: 218354
+Word count:  218376
+Token count: 218376
 Dep. relations: 50 of which 11 language specific
 POS tags: 17
 Category=value feature pairs: 57
