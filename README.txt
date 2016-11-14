@@ -48,7 +48,7 @@ Documentation status: partial
 Data source: semi-automatic
 Data available since: UD v1.2
 License: CC BY-SA 4.0
-Genre: wiki legal news fiction medical nonfiction scientific
+Genre: wiki legal news fiction medical nonfiction science
 Contributors: Mititelu, Verginica; Irimia, Elena; Perez, Cenel-Augusto; Ion, Radu; Simionescu, Radu; Mărănduc, Cătălina
-Contact: Verginica Mititelu (vergi@racai.ro)
+Contact: vergi@racai.ro
 ===============================================================================
