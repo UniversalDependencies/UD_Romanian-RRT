@@ -1,5 +1,7 @@
 Romanian UD treebank
 
+*** Update Jan 17th, 2017: train == dev == test, doing bug fixing.
+
 The Romanian UD treebank (called RoRefTrees) (Barbu Mititelu et al., 2016) is based on RACAI-RoTb (Irimia and Barbu Mititelu, 2015) and on UAIC-RoTb (Perez, 2014). The distribution of text genres in RoRefTrees is not balanced: literature - 1818 sentences, law - 1606 sentences, medical - 1210 sentences, FrameNet translations - 1092 sentences, academic writing - 950 sentences, news - 933 sentences, science - 362 sentences, wikipedia - 251 sentences, miscellanea - 1301 sentences. The most frequent relation in RoRefTrees is nmod (14.97% relative frequency) and the least frequent is reparandum (only 1 occurrence in the whole treebank).
 
 For the third release of Romanian UD trees, the team of the SSPR project (Verginica Mititelu, Elena Irimia, Cenel-Augusto Perez, Radu Ion and Radu Simionescu) focused both on the size increase of the treebank and on the morphologic and syntactic annotation consistency of the treebank.
@@ -11,8 +13,8 @@ We split the treebank as follows: the test set (ro-ud-test.conllu) is 12.5% of t
 BASIC STATISTICS
 
 Tree count:  9523
-Word count:  218516
-Token count: 218516
+Word count:  218511
+Token count: 218511
 Dep. relations: 50 of which 11 language specific
 POS tags: 17
 Category=value feature pairs: 57
