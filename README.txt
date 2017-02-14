@@ -1,7 +1,5 @@
 Romanian UD treebank
 
-*** Update Jan 17th, 2017: train == dev == test, doing bug fixing.
-
 The Romanian UD treebank (called RoRefTrees) (Barbu Mititelu et al., 2016) is based on RACAI-RoTb (Irimia and Barbu Mititelu, 2015) and on UAIC-RoTb (Perez, 2014). The distribution of text genres in RoRefTrees is not balanced: literature - 1818 sentences, law - 1606 sentences, medical - 1210 sentences, FrameNet translations - 1092 sentences, academic writing - 950 sentences, news - 933 sentences, science - 362 sentences, wikipedia - 251 sentences, miscellanea - 1301 sentences. The most frequent relation in RoRefTrees is nmod (14.97% relative frequency) and the least frequent is reparandum (only 1 occurrence in the whole treebank).
 
 For the third release of Romanian UD trees, the team of the SSPR project (Verginica Mititelu, Elena Irimia, Cenel-Augusto Perez, Radu Ion and Radu Simionescu) focused both on the size increase of the treebank and on the morphologic and syntactic annotation consistency of the treebank.
@@ -43,7 +41,12 @@ UD 1.3 --> 1.4
 - removed most of the errors reported by the content validation tool;
 - extensive POS-tagging and lemmatization corrections;
 - ensuring more consistent data at the lexical, morphological and syntactic levels.
-
+UD 1.4 --> 2.0
+- manual improvements of the annotation
+- automatic conversion to UDv2 guidelines using Udapi (http://udapi.github.io/) ud.Convert1to2
+- automatic reconstruction of original texts (ud.ro.SetSpaceAfter), pseudo-documents marked with newdoc markup
+- re-split: train=185,113 (84.7%) tokens, dev=17,074 (7.8%) tokens, dev=16,324 (7.5%) tokens. Each pseudo-document equally distributed into train/dev/test.
+- test set omitted from the UDv2.0 official release because of CoNLL 2017 shared task.
 
 === Machine-readable metadata =================================================
 Documentation status: partial
@@ -51,6 +54,6 @@ Data source: semi-automatic
 Data available since: UD v1.2
 License: CC BY-SA 4.0
 Genre: wiki legal news fiction medical nonfiction science
-Contributors: Mititelu, Verginica; Irimia, Elena; Perez, Cenel-Augusto; Ion, Radu; Simionescu, Radu; Mărănduc, Cătălina
+Contributors: Mititelu, Verginica; Irimia, Elena; Perez, Cenel-Augusto; Ion, Radu; Simionescu, Radu; Mărănduc, Cătălina; Martin Popel
 Contact: vergi@racai.ro
 ===============================================================================
