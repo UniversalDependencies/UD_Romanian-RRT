@@ -42,7 +42,7 @@ UD 1.3 --> 1.4
 - extensive POS-tagging and lemmatization corrections;
 - ensuring more consistent data at the lexical, morphological and syntactic levels.
 UD 1.4 --> 2.0
-- manual improvements of the annotation
+- manual improvements of the annotation, concerning POS-tagging, syntactic labeling, one sentence split.
 - automatic conversion to UDv2 guidelines using Udapi (http://udapi.github.io/) ud.Convert1to2
 - automatic reconstruction of original texts (ud.ro.SetSpaceAfter), pseudo-documents marked with newdoc markup
 - re-split: train=185,113 (84.7%) tokens, dev=17,074 (7.8%) tokens, dev=16,324 (7.5%) tokens. Each pseudo-document equally distributed into train/dev/test.
