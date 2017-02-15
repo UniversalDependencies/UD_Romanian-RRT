@@ -54,6 +54,6 @@ Data source: semi-automatic
 Data available since: UD v1.2
 License: CC BY-SA 4.0
 Genre: wiki legal news fiction medical nonfiction science
-Contributors: Mititelu, Verginica; Irimia, Elena; Perez, Cenel-Augusto; Ion, Radu; Simionescu, Radu; Mărănduc, Cătălina; Martin Popel
+Contributors: Mititelu, Verginica; Irimia, Elena; Perez, Cenel-Augusto; Ion, Radu; Simionescu, Radu; Mărănduc, Cătălina; Popel, Martin
 Contact: vergi@racai.ro
 ===============================================================================
