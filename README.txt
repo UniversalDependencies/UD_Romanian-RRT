@@ -11,8 +11,8 @@ We split the treebank as follows: the test set (ro-ud-test.conllu) is 12.5% of t
 BASIC STATISTICS
 
 Tree count:  9523
-Word count:  218516
-Token count: 218516
+Word count:  218511
+Token count: 218511
 Dep. relations: 50 of which 11 language specific
 POS tags: 17
 Category=value feature pairs: 57
@@ -41,7 +41,12 @@ UD 1.3 --> 1.4
 - removed most of the errors reported by the content validation tool;
 - extensive POS-tagging and lemmatization corrections;
 - ensuring more consistent data at the lexical, morphological and syntactic levels.
-
+UD 1.4 --> 2.0
+- manual improvements of the annotation, concerning POS-tagging, syntactic labeling, one sentence split.
+- automatic conversion to UDv2 guidelines using Udapi (http://udapi.github.io/) ud.Convert1to2
+- automatic reconstruction of original texts (ud.ro.SetSpaceAfter), pseudo-documents marked with newdoc markup
+- re-split: train=185,113 (84.7%) tokens, dev=17,074 (7.8%) tokens, dev=16,324 (7.5%) tokens. Each pseudo-document equally distributed into train/dev/test.
+- test set omitted from the UDv2.0 official release because of CoNLL 2017 shared task.
 
 
 === Machine-readable metadata =================================================
@@ -50,6 +55,6 @@ Data source: semi-automatic
 Data available since: UD v1.2
 License: CC BY-SA 4.0
 Genre: wiki legal news fiction medical nonfiction science
-Contributors: Mititelu, Verginica; Irimia, Elena; Perez, Cenel-Augusto; Ion, Radu; Simionescu, Radu; Mărănduc, Cătălina
+Contributors: Mititelu, Verginica; Irimia, Elena; Perez, Cenel-Augusto; Ion, Radu; Simionescu, Radu; Mărănduc, Cătălina; Popel, Martin
 Contact: vergi@racai.ro
 ===============================================================================
