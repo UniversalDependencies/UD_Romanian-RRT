@@ -59,10 +59,10 @@ License: CC BY-SA 4.0
 Includes text: yes
 Genres: wiki legal news fiction medical nonfiction science
 Lemmas: automatic
-UPOS: converted from automatic
+UPOS: converted with corrections
 XPOS: automatic
-Features: converted from automatic
-Relations: automatic and manually corrected
+Features: converted with corrections
+Relations: manual native
 Contributors: Barbu Mititelu, Verginica; Irimia, Elena; Perez, Cenel-Augusto; Ion, Radu; Simionescu, Radu; Popel, Martin
 Contributing: elsewhere
 Contact: vergi@racai.ro
