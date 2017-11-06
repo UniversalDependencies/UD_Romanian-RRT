@@ -47,6 +47,8 @@ UD 1.4 --> 2.0
 - automatic reconstruction of original texts (ud.ro.SetSpaceAfter), pseudo-documents marked with newdoc markup
 - re-split: train=185,113 (84.7%) tokens, dev=17,074 (7.8%) tokens, dev=16,324 (7.5%) tokens. Each pseudo-document equally distributed into train/dev/test.
 - test set omitted from the UDv2.0 official release because of CoNLL 2017 shared task.
+UD 2.0 --> 2.1
+- no modifications to the previous version.
 
 
 === Machine-readable metadata =================================================
