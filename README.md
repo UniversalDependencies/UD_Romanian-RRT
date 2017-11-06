@@ -2,7 +2,7 @@
 
 The Romanian UD treebank (called RoRefTrees) (Barbu Mititelu et al., 2016) is the reference treebank in UD format for standard Romanian.
 
-# Introduction 
+# Introduction
 
 It is based on RACAI-RoTb (Irimia and Barbu Mititelu, 2015) and on UAIC-RoTb (Perez, 2014). The distribution of text genres in RoRefTrees is not balanced: literature - 1818 sentences, law - 1606 sentences, medical - 1210 sentences, FrameNet translations - 1092 sentences, academic writing - 950 sentences, news - 933 sentences, science - 362 sentences, wikipedia - 251 sentences, miscellanea - 1301 sentences. These genres can be told apart by the sentences id.
 
@@ -19,7 +19,7 @@ Dep. relations: 50 of which 11 language specific
 POS tags: 17
 Category=value feature pairs: 57
 
-# ACKNOWLEDGEMENTS
+# Acknowledgments
 
 This work was supported by a grant of the Romanian National Authority for Scientific Research and Innovation, CNCS - UEFISCDI, project number PN-II-RU-TE-2014-4-1362.
 
@@ -57,7 +57,7 @@ UD 2.0 --> 2.1
 Data available since: UD v1.2
 License: CC BY-SA 4.0
 Includes text: yes
-Genres: wiki legal news fiction medical nonfiction science
+Genre: wiki legal news fiction medical nonfiction science
 Lemmas: automatic
 UPOS: converted with corrections
 XPOS: automatic
