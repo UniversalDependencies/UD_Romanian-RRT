@@ -1,0 +1,41 @@
+Sun Feb 11 20:49:47 CET 2018
+perl -I perllib/lib/perl5 -I tools tools/evaluate_treebank.pl --verbose UD_Romanian
+Running the following version of tools/evaluate_treebank.pl:
+commit c1cb17aec6a5505b56b885f578dc6b1093bb4b30
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Sun Feb 11 20:27:50 2018 +0100
+Switched to branch 'master'
+Your branch is up-to-date with 'origin/master'.
+Evaluating the following revision of UD_Romanian:
+commit ceb963e6708b7a8149d43ac962a5a61faf2e14a5
+Merge: 06af5d1 bff7ad1
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Size: counted 218511 of 218511 words (nodes).
+Size: min(0, log((N/1000)**2)) = 10.7736727130358.
+Size: maximum value 13.815511 is for 1000000 words or more.
+Split: Found more than 10000 training words.
+Split: Found at least 10000 development words.
+Split: Found at least 10000 test words.
+Lemmas: source of annotation (from README) factor is 0.4.
+Universal POS tags: 17 out of 17 found in the corpus.
+Universal POS tags: source of annotation (from README) factor is 0.9.
+Features: 182666 out of 218511 total words have one or more features.
+Features: source of annotation (from README) factor is 0.9.
+Universal relations: 35 out of 37 found in the corpus.
+Universal relations: source of annotation (from README) factor is 1.
+Udapi: found 891 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 218511 words.
+Genres: found 6 out of 14 known.
+(weight=0.0769230769230769) * (score{features}=0.9) = 0.0692307692307692
+(weight=0.0769230769230769) * (score{genres}=0.428571428571429) = 0.032967032967033
+(weight=0.0769230769230769) * (score{lemmas}=0.4) = 0.0307692307692308
+(weight=0.256410256410256) * (score{size}=0.779824434850513) = 0.199954983295003
+(weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
+(weight=0.0769230769230769) * (score{tags}=0.9) = 0.0692307692307692
+(weight=0.307692307692308) * (score{udapi}=0.95922402075868) = 0.295145852541132
+(weight=0.0769230769230769) * (score{udeprels}=0.945945945945946) = 0.0727650727650728
+(TOTAL score=0.821345762081062) * (availability=1) * (validity=1) = 0.821345762081062
+STARS = 4
+UD_Romanian	0.821345762081062	4
+Switched to branch 'dev'
+Your branch is up-to-date with 'origin/dev'.
