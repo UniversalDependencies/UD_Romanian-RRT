@@ -51,9 +51,12 @@ UD 1.4 --> 2.0
 - test set omitted from the UDv2.0 official release because of CoNLL 2017 shared task.
 UD 2.0 --> 2.1
 - no modifications to the previous version.
+UD 2.1 --> 2.2
+- repository renamed from UD_Romanian to UD_Romanian-RRT
 
 
 
+<pre>
 === Machine-readable metadata =================================================
 Data available since: UD v1.2
 License: CC BY-SA 4.0
@@ -68,3 +71,4 @@ Contributors: Barbu Mititelu, Verginica; Irimia, Elena; Perez, Cenel-Augusto; Io
 Contributing: elsewhere
 Contact: vergi@racai.ro
 ===============================================================================
+</pre>
