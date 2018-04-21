@@ -61,7 +61,7 @@ UD 2.1 --> 2.2
 Data available since: UD v1.2
 License: CC BY-SA 4.0
 Includes text: yes
-Genre: wiki legal news fiction medical nonfiction science
+Genre: wiki legal news fiction medical nonfiction academic
 Lemmas: automatic
 UPOS: converted with corrections
 XPOS: automatic
