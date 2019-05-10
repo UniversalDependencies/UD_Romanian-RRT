@@ -6,6 +6,9 @@
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
     <total><sentences>9524</sentences><tokens>218511</tokens><words>218511</words><fused>0</fused></total>
+    <train><sentences>8043</sentences><tokens>185113</tokens><words>185113</words><fused>0</fused></train>
+    <dev><sentences>752</sentences><tokens>17074</tokens><words>17074</words><fused>0</fused></dev>
+    <test><sentences>729</sentences><tokens>16324</tokens><words>16324</words><fused>0</fused></test>
   </size>
   <lemmas unique="17332" /><!-- ,, de, ., în, și, avea, fi, un, sine, la, al, cu, să, care, el -->
   <forms unique="31542" /><!-- ,, de, ., în, și, a, la, se, cu, să, o, din, care, pe, un -->
@@ -59,7 +62,7 @@
     <feat name="NumForm" value="Digit" upos="NUM">3975</feat><!-- 1, 2, 3, 4, 5, 6, 7, 8, 2004, 10 -->
     <feat name="NumForm" value="Roman" upos="NUM">235</feat><!-- I, ii, iii, iv, V, XX, XIX, VI, VII, XIII -->
     <feat name="NumForm" value="Word" upos="NUM">1282</feat><!-- două, trei, primul, doi, prima, patru, cinci, doilea, doua, primele -->
-    <feat name="NumType" value="Card" upos="NUM">4817</feat><!-- 1, 2, 3, două, 4, trei, 5, 6, doi, 7 -->
+    <feat name="NumType" value="Card" upos="NUM">4831</feat><!-- 1, 2, 3, două, 4, trei, 5, 6, doi, 7 -->
     <feat name="NumType" value="Ord" upos="NUM">723</feat><!-- primul, prima, I, ii, doilea, doua, primele, iii, treia, ultimii -->
     <feat name="PartType" value="Inf" upos="PART">837</feat><!-- a, a-, -a -->
     <feat name="Person" value="1" upos="AUX,DET,PRON,VERB">1828</feat><!-- am, ne, mă, eu, noi, m-, -mi, mi-, mea, mine -->
@@ -123,7 +126,7 @@
     <dep name="expl:pv">2267</dep>
     <dep name="fixed">6716</dep>
     <dep name="flat">1390</dep>
-    <dep name="goeswith">308</dep>
+    <dep name="goeswith">307</dep>
     <dep name="iobj">1701</dep>
     <dep name="list">10</dep>
     <dep name="mark">6265</dep>
@@ -138,7 +141,7 @@
     <dep name="obl">11619</dep>
     <dep name="orphan">71</dep>
     <dep name="parataxis">1558</dep>
-    <dep name="punct">27897</dep>
+    <dep name="punct">27898</dep>
     <dep name="reparandum">1</dep>
     <dep name="root">9524</dep>
     <dep name="vocative">61</dep>
