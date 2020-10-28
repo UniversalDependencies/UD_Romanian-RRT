@@ -4723,7 +4723,7 @@
 5	azot	azot	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	3	nmod	_	_
 6	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
 7	28	28	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	3	nummod	_	_
-8	%	%	PUNCT	PERCENT	_	7	goeswith	_	_
+8	%	%	PUNCT	PERCENT	_	7	punct	_	_
 9	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	_
 10	greutate	greutate	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	7	nmod	_	_
 11	datorat	datorat	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
@@ -4735,7 +4735,7 @@
 17	procent	procent	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	15	iobj	_	_
 18	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	19	case	_	_
 19	80	80	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	17	nummod	_	_
-20	%	%	PUNCT	PERCENT	_	19	goeswith	_	_
+20	%	%	PUNCT	PERCENT	_	19	punct	_	_
 21	nitrat	nitrat	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	19	nmod	_	_
 22	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	23	nmod	_	_
 23	amoniu	amoniu	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	21	nmod	_	_
@@ -8950,7 +8950,7 @@
 9	complet	complet	ADV	Rgp	Degree=Pos	14	advmod	_	_
 10	(	(	PUNCT	LPAR	_	11	punct	_	SpaceAfter=No
 11	100	100	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	9	nummod	_	_
-12	%	%	PUNCT	PERCENT	_	11	goeswith	_	SpaceAfter=No
+12	%	%	PUNCT	PERCENT	_	11	punct	_	SpaceAfter=No
 13	)	)	PUNCT	RPAR	_	11	punct	_	_
 14	absorbită	absorbi	VERB	Vmp--sf	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
 15	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	16	case	_	_
@@ -9003,7 +9003,7 @@
 # text = Aproximativ 40 % din radioactivitatea totală s-a regăsit în materiile fecale.
 1	Aproximativ	aproximativ	ADV	Rgp	Degree=Pos	2	advmod	_	_
 2	40	40	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	9	nummod	_	_
-3	%	%	PUNCT	PERCENT	_	2	goeswith	_	_
+3	%	%	PUNCT	PERCENT	_	2	punct	_	_
 4	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
 5	radioactivitatea	radioactivitate	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	2	nmod	_	_
 6	totală	total	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
@@ -9603,12 +9603,12 @@
 7	generală	general	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
 8	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	_
 9	63	63	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	6	nummod	_	_
-10	%	%	PUNCT	PERCENT	_	9	goeswith	_	_
+10	%	%	PUNCT	PERCENT	_	9	punct	_	_
 11	(	(	PUNCT	LPAR	_	13	punct	_	SpaceAfter=No
 12	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	13	case	_	_
 13	intervalul	interval	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	6	appos	_	_
 14	5-161	5-161	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	13	nummod	_	_
-15	%	%	PUNCT	PERCENT	_	14	goeswith	_	SpaceAfter=No
+15	%	%	PUNCT	PERCENT	_	14	punct	_	SpaceAfter=No
 16	)	)	PUNCT	RPAR	_	13	punct	_	_
 17	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	18	case	_	_
 18	concentrațiile	concentrație	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	6	nmod	_	_
@@ -10163,7 +10163,7 @@
 2	puțin	puțin	ADV	Rgp	Degree=Pos	4	advmod	_	_
 3	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	_
 4	3	3	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	13	nummod	_	_
-5	%	%	PUNCT	PERCENT	_	4	goeswith	_	_
+5	%	%	PUNCT	PERCENT	_	4	punct	_	_
 6	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
 7	doza	doză	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	4	nmod	_	ToDo=nmod
 8	administrată	administra	VERB	Vmp--sf	Gender=Fem|Number=Sing|VerbForm=Part	7	acl	_	_
@@ -18681,7 +18681,7 @@
 3	încălzit	încălzit	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
 4	(	(	PUNCT	LPAR	_	5	punct	_	SpaceAfter=No
 5	T	T	NOUN	Ncm--n	Definite=Ind|Gender=Masc	2	appos	_	_
-6	>	>	PUNCT	GT	_	5	goeswith	_	_
+6	>	>	PUNCT	GT	_	5	punct	_	_
 7	0	0	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	5	goeswith	_	_
 8	K	K	NOUN	Yn	Abbr=Yes	5	goeswith	_	SpaceAfter=No
 9	)	)	PUNCT	RPAR	_	5	punct	_	_
