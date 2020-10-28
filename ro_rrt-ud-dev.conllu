@@ -660,7 +660,7 @@
 # newdoc id = 1984Orwell-b2-ttl
 # sent_id = dev-26
 # text = Sunt de partea ta, păruse a-i spune O'Brien.
-1	Sunt	fi	AUX	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+1	Sunt	fi	AUX	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	_
 3	partea	parte	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	0	root	_	_
 4	ta	tău	DET	Ds2fsrs	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	3	det	_	SpaceAfter=No
@@ -4723,7 +4723,7 @@
 5	azot	azot	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	3	nmod	_	_
 6	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
 7	28	28	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	3	nummod	_	_
-8	%	%	SYM	PERCENT	_	7	goeswith	_	_
+8	%	%	PUNCT	PERCENT	_	7	goeswith	_	_
 9	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	_
 10	greutate	greutate	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	7	nmod	_	_
 11	datorat	datorat	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
@@ -4735,7 +4735,7 @@
 17	procent	procent	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	15	iobj	_	_
 18	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	19	case	_	_
 19	80	80	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	17	nummod	_	_
-20	%	%	SYM	PERCENT	_	19	goeswith	_	_
+20	%	%	PUNCT	PERCENT	_	19	goeswith	_	_
 21	nitrat	nitrat	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	19	nmod	_	_
 22	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	23	nmod	_	_
 23	amoniu	amoniu	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	21	nmod	_	_
@@ -8950,7 +8950,7 @@
 9	complet	complet	ADV	Rgp	Degree=Pos	14	advmod	_	_
 10	(	(	PUNCT	LPAR	_	11	punct	_	SpaceAfter=No
 11	100	100	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	9	nummod	_	_
-12	%	%	SYM	PERCENT	_	11	goeswith	_	SpaceAfter=No
+12	%	%	PUNCT	PERCENT	_	11	goeswith	_	SpaceAfter=No
 13	)	)	PUNCT	RPAR	_	11	punct	_	_
 14	absorbită	absorbi	VERB	Vmp--sf	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
 15	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	16	case	_	_
@@ -9003,7 +9003,7 @@
 # text = Aproximativ 40 % din radioactivitatea totală s-a regăsit în materiile fecale.
 1	Aproximativ	aproximativ	ADV	Rgp	Degree=Pos	2	advmod	_	_
 2	40	40	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	9	nummod	_	_
-3	%	%	SYM	PERCENT	_	2	goeswith	_	_
+3	%	%	PUNCT	PERCENT	_	2	goeswith	_	_
 4	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
 5	radioactivitatea	radioactivitate	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	2	nmod	_	_
 6	totală	total	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
@@ -9603,12 +9603,12 @@
 7	generală	general	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
 8	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	_
 9	63	63	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	6	nummod	_	_
-10	%	%	SYM	PERCENT	_	9	goeswith	_	_
+10	%	%	PUNCT	PERCENT	_	9	goeswith	_	_
 11	(	(	PUNCT	LPAR	_	13	punct	_	SpaceAfter=No
 12	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	13	case	_	_
 13	intervalul	interval	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	6	appos	_	_
 14	5-161	5-161	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	13	nummod	_	_
-15	%	%	SYM	PERCENT	_	14	goeswith	_	SpaceAfter=No
+15	%	%	PUNCT	PERCENT	_	14	goeswith	_	SpaceAfter=No
 16	)	)	PUNCT	RPAR	_	13	punct	_	_
 17	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	18	case	_	_
 18	concentrațiile	concentrație	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	6	nmod	_	_
@@ -10163,7 +10163,7 @@
 2	puțin	puțin	ADV	Rgp	Degree=Pos	4	advmod	_	_
 3	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	_
 4	3	3	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	13	nummod	_	_
-5	%	%	SYM	PERCENT	_	4	goeswith	_	_
+5	%	%	PUNCT	PERCENT	_	4	goeswith	_	_
 6	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
 7	doza	doză	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	4	nmod	_	ToDo=nmod
 8	administrată	administra	VERB	Vmp--sf	Gender=Fem|Number=Sing|VerbForm=Part	7	acl	_	_
@@ -17147,7 +17147,7 @@
 16	ani	an	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	0	root	_	_
 17	(	(	PUNCT	LPAR	_	18	punct	_	SpaceAfter=No
 18	mod	mod	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	16	appos	_	_
-19	=	=	SYM	EQUAL	_	18	punct	_	_
+19	=	=	PUNCT	EQUAL	_	18	punct	_	_
 20	5	5	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	18	nummod	_	SpaceAfter=No
 21	)	)	PUNCT	RPAR	_	18	punct	_	_
 22	și	și	CCONJ	Crssp	Polarity=Pos	24	cc	_	_
@@ -17163,7 +17163,7 @@
 32	(	(	PUNCT	LPAR	_	33	punct	_	SpaceAfter=No
 33	valoarea	valoare	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	30	nmod	_	_
 34	minimă	minim	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	33	amod	_	_
-35	=	=	SYM	EQUAL	_	33	punct	_	_
+35	=	=	PUNCT	EQUAL	_	33	punct	_	_
 36	0	0	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	33	nummod	_	SpaceAfter=No
 37	)	)	PUNCT	RPAR	_	33	punct	_	_
 38	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	41	case	_	_
@@ -17180,7 +17180,7 @@
 49	medie	medie	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	47	obj	_	_
 50	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	54	case	_	_
 51	5,73	5,73	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	54	nummod	_	_
-52	±	±	SYM	PLUSMINUS	_	51	punct	_	_
+52	±	±	PUNCT	PLUSMINUS	_	51	punct	_	_
 53	0,111	0,111	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	51	nummod	_	_
 54	ani	an	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	49	nmod	_	SpaceAfter=No
 55	.	.	PUNCT	PERIOD	_	16	punct	_	_
@@ -17221,7 +17221,7 @@
 24	medie	mediu	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	_
 25	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	26	case	_	_
 26	22,95	22,95	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	23	nummod	_	_
-27	±	±	SYM	PLUSMINUS	_	26	punct	_	_
+27	±	±	PUNCT	PLUSMINUS	_	26	punct	_	_
 28	0,278	0,278	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	26	nummod	_	SpaceAfter=No
 29	,	,	PUNCT	COMMA	_	30	punct	_	_
 30	având	avea	VERB	Vmg	VerbForm=Ger	21	advcl	_	_
@@ -17232,7 +17232,7 @@
 35	26	26	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	34	nummod	_	_
 36	(	(	PUNCT	LPAR	_	37	punct	_	SpaceAfter=No
 37	mod	mod	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	34	appos	_	_
-38	=	=	SYM	EQUAL	_	37	punct	_	_
+38	=	=	PUNCT	EQUAL	_	37	punct	_	_
 39	26	26	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	37	nummod	_	SpaceAfter=No
 40	)	)	PUNCT	RPAR	_	37	punct	_	SpaceAfter=No
 41	.	.	PUNCT	PERIOD	_	7	punct	_	_
@@ -17265,7 +17265,7 @@
 24	medie	mediu	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	_
 25	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	26	case	_	_
 26	28,63	28,63	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	23	nummod	_	_
-27	±	±	SYM	PLUSMINUS	_	26	punct	_	_
+27	±	±	PUNCT	PLUSMINUS	_	26	punct	_	_
 28	0,280	0,280	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	26	nummod	_	SpaceAfter=No
 29	,	,	PUNCT	COMMA	_	30	punct	_	_
 30	având	avea	VERB	Vmg	VerbForm=Ger	21	advcl	_	_
@@ -17276,7 +17276,7 @@
 35	28	28	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	34	nummod	_	_
 36	(	(	PUNCT	LPAR	_	37	punct	_	SpaceAfter=No
 37	mod	mod	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	34	appos	_	_
-38	=	=	SYM	EQUAL	_	37	punct	_	_
+38	=	=	PUNCT	EQUAL	_	37	punct	_	_
 39	28	28	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	37	nummod	_	SpaceAfter=No
 40	)	)	PUNCT	RPAR	_	37	punct	_	SpaceAfter=No
 41	.	.	PUNCT	PERIOD	_	7	punct	_	_
@@ -17322,7 +17322,7 @@
 37	medie	mediu	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	36	amod	_	_
 38	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	42	case	_	_
 39	430,44	430,44	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	42	nummod	_	_
-40	±	±	SYM	PLUSMINUS	_	39	punct	_	_
+40	±	±	PUNCT	PLUSMINUS	_	39	punct	_	_
 41	5,443	5,443	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	39	nummod	_	_
 42	mg	mg	NOUN	Yn	Abbr=Yes	36	nmod	_	_
 43	/	/	PUNCT	SLASH	AdpType=Prep	42	punct	_	_
@@ -17396,7 +17396,7 @@
 23	medie	mediu	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
 24	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	25	case	_	_
 25	6,48	6,48	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	22	nummod	_	_
-26	±	±	SYM	PLUSMINUS	_	25	punct	_	_
+26	±	±	PUNCT	PLUSMINUS	_	25	punct	_	_
 27	0,54	0,54	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	25	nummod	_	SpaceAfter=No
 28	,	,	PUNCT	COMMA	_	35	punct	_	_
 29	valoarea	valoare	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	35	nsubj	_	_
@@ -17411,7 +17411,7 @@
 38	puncte	punct	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	35	nmod	_	ToDo=nmod
 39	(	(	PUNCT	LPAR	_	40	punct	_	SpaceAfter=No
 40	mod	mod	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	38	appos	_	_
-41	=	=	SYM	EQUAL	_	40	punct	_	_
+41	=	=	PUNCT	EQUAL	_	40	punct	_	_
 42	6	6	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	40	nummod	_	SpaceAfter=No
 43	)	)	PUNCT	RPAR	_	40	punct	_	SpaceAfter=No
 44	.	.	PUNCT	PERIOD	_	5	punct	_	_
@@ -18379,7 +18379,7 @@
 31	politică	politică	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	29	obj	_	_
 32	nazistă	nazist	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	31	amod	_	_
 33	pro-Axa	pro-Axa	ADV	Rgp	Degree=Pos	31	advmod	_	_
-34	Berlin	Berlin	PROPN	Np	_	33	nmon	_	SpaceAfter=No
+34	Berlin	Berlin	PROPN	Np	_	33	nmod	_	SpaceAfter=No
 35	,	,	PUNCT	COMMA	_	36	punct	_	_
 36	Roma	Roma	PROPN	Np	_	34	conj	_	SpaceAfter=No
 37	,	,	PUNCT	COMMA	_	38	punct	_	_
@@ -18681,7 +18681,7 @@
 3	încălzit	încălzit	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
 4	(	(	PUNCT	LPAR	_	5	punct	_	SpaceAfter=No
 5	T	T	NOUN	Ncm--n	Definite=Ind|Gender=Masc	2	appos	_	_
-6	>	>	SYM	GT	_	5	goeswith	_	_
+6	>	>	PUNCT	GT	_	5	goeswith	_	_
 7	0	0	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	5	goeswith	_	_
 8	K	K	NOUN	Yn	Abbr=Yes	5	goeswith	_	SpaceAfter=No
 9	)	)	PUNCT	RPAR	_	5	punct	_	_
