@@ -53,7 +53,8 @@ UD 2.0 --> 2.1
 - no modifications to the previous version.
 UD 2.1 --> 2.2
 - repository renamed from UD_Romanian to UD_Romanian-RRT
-
+UD 2.6 --> 2.7
+- manual improvement of the annotations, concerning POS-tagging, syntactic labeling
 
 
 <pre>
