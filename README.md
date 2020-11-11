@@ -33,9 +33,8 @@ C-A Perez. 2014. Resurse lingvistice pentru prelucrarea limbajului natural, PhD 
 
 # CHANGELOG
 
-UD 1.2 --> 1.3
-- the number of trees was considerably increased.
-UD 1.3 --> 1.4
+- UD 1.2 --> 1.3: the number of trees was considerably increased.
+- UD 1.3 --> 1.4:
 - increase the treebank size to 9523 sentences;
 - identical sentences (disregarding punctuation and numbers) at word form level have been removed;
 - added a scientific (Physics, Mathematics and Computer Science) sub-corpus to make up for the loss;
@@ -43,17 +42,15 @@ UD 1.3 --> 1.4
 - removed most of the errors reported by the content validation tool;
 - extensive POS-tagging and lemmatization corrections;
 - ensuring more consistent data at the lexical, morphological and syntactic levels.
-UD 1.4 --> 2.0
+- UD 1.4 --> 2.0:
 - manual improvements of the annotation, concerning POS-tagging, syntactic labeling, one sentence split.
 - automatic conversion to UDv2 guidelines using Udapi (http://udapi.github.io/) ud.Convert1to2
 - automatic reconstruction of original texts (ud.ro.SetSpaceAfter), pseudo-documents marked with newdoc markup
 - re-split: train=185,113 (84.7%) tokens, dev=17,074 (7.8%) tokens, dev=16,324 (7.5%) tokens. Each pseudo-document equally distributed into train/dev/test.
 - test set omitted from the UDv2.0 official release because of CoNLL 2017 shared task.
-UD 2.0 --> 2.1
-- no modifications to the previous version.
-UD 2.1 --> 2.2
-- repository renamed from UD_Romanian to UD_Romanian-RRT
-
+- UD 2.0 --> 2.1: no modifications to the previous version.
+- UD 2.1 --> 2.2: repository renamed from UD_Romanian to UD_Romanian-RRT
+- UD 2.6 --> 2.7: manual improvement of the annotations, concerning POS-tagging, syntactic labeling
 
 
 <pre>
