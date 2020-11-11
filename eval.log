@@ -3,9 +3,9 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Romanian-RRT:
-commit ff9be575f22ad65ac07d63bdff6c0b971d5581af
+commit 3bda1055fcf2dab411c78d8c216a585101df4681
+Merge: 28dcdf4 9b5f1d0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue Nov 12 17:38:24 2019 +0100
 Size: counted 218511 of 218511 words (nodes).
 Size: min(0, log((N/1000)**2)) = 10.7736727130358.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -13,66 +13,30 @@ Split: Found more than 10000 training words.
 Split: Found at least 10000 development words.
 Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.4.
-Universal POS tags: 17 out of 17 found in the corpus.
+Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.9.
-Features: 182671 out of 218511 total words have one or more features.
+Features: 182672 out of 218511 total words have one or more features.
 Features: source of annotation (from README) factor is 0.9.
 Universal relations: 35 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
-Udapi: found 700 bugs.
+Udapi: found 60 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 218511 words.
 Genres: found 7 out of 17 known.
 validate.py --lang ro --max-err=10 UD_Romanian-RRT/ro_rrt-ud-dev.conllu
-[Line 165 Sent dev-7 Node 7]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
-[Line 187 Sent dev-7 Node 29]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
-[Line 203 Sent dev-7 Node 45]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'ADV'
-[Line 666 Sent dev-26 Node 3]: [L3 Syntax leaf-fixed] 'fixed' not expected to have children (3:partea:fixed --> 4:ta:det)
-[Line 813 Sent dev-38 Node 3]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'ADV'
-[Line 1039 Sent dev-47 Node 2]: [L3 Syntax rel-upos-nummod] 'nummod' should be 'NUM' but it is 'DET'
-[Line 1360 Sent dev-60 Node 8]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'CCONJ'
-[Line 1458 Sent dev-63 Node 37]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'ADV'
-[Line 1562 Sent dev-67 Node 7]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP'
-...suppressing further errors regarding Syntax
-Syntax errors: 104
-*** FAILED *** with 104 errors
-Exit code: 1
+*** PASSED ***
 validate.py --lang ro --max-err=10 UD_Romanian-RRT/ro_rrt-ud-test.conllu
-[Line 353 Sent test-13 Node 5]: [L3 Syntax leaf-fixed] 'fixed' not expected to have children (5:punctul:fixed --> 8:sta:ccomp)
-[Line 523 Sent test-18 Node 31]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'VERB'
-[Line 744 Sent test-28 Node 4]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'ADV'
-[Line 976 Sent test-39 Node 12]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'DET'
-[Line 1322 Sent test-57 Node 21]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
-[Line 3287 Sent test-138 Node 10]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
-[Line 3298 Sent test-138 Node 20]: [L3 Syntax leaf-goeswith] 'goeswith' not expected to have children (20:mail:goeswith --> 21:-ul:det)
-[Line 3302 Sent test-138 Node 20]: [L3 Syntax leaf-goeswith] 'goeswith' not expected to have children (20:mail:goeswith --> 25:solicitată:acl)
-[Line 3640 Sent test-148 Node 27]: [L3 Syntax rel-upos-punct] 'punct' must be 'PUNCT' but it is 'SYM'
-...suppressing further errors regarding Syntax
-Syntax errors: 68
-*** FAILED *** with 68 errors
-Exit code: 1
+*** PASSED ***
 validate.py --lang ro --max-err=10 UD_Romanian-RRT/ro_rrt-ud-train.conllu
-[Line 12 Sent train-1 Node 9]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
-[Line 1625 Sent train-52 Node 35]: [L3 Syntax leaf-fixed] 'fixed' not expected to have children (35:relații:fixed --> 37:pace:nmod)
-[Line 1652 Sent train-53 Node 23]: [L3 Syntax rel-upos-nummod] 'nummod' should be 'NUM' but it is 'DET'
-[Line 2233 Sent train-81 Node 4]: [L3 Syntax leaf-fixed] 'fixed' not expected to have children (4:mult:fixed --> 3:cam:advmod)
-[Line 2702 Sent train-106 Node 3]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
-[Line 2768 Sent train-111 Node 6]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'PART'
-[Line 2930 Sent train-120 Node 33]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP'
-[Line 3044 Sent train-128 Node 14]: [L3 Syntax leaf-fixed] 'fixed' not expected to have children (14:întrebări:fixed --> 13:anumite:det)
-[Line 3053 Sent train-129 Node 4]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP'
-...suppressing further errors regarding Syntax
-Syntax errors: 944
-*** FAILED *** with 944 errors
-Exit code: 1
-Validity: 0.01
+*** PASSED ***
+Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.9) = 0.0692307692307692
 (weight=0.0769230769230769) * (score{genres}=0.411764705882353) = 0.0316742081447964
 (weight=0.0769230769230769) * (score{lemmas}=0.4) = 0.0307692307692308
 (weight=0.256410256410256) * (score{size}=0.779824434850513) = 0.199954983295003
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
-(weight=0.0769230769230769) * (score{tags}=0.9) = 0.0692307692307692
-(weight=0.307692307692308) * (score{udapi}=0.967964999473711) = 0.297835384453449
+(weight=0.0769230769230769) * (score{tags}=0.847058823529412) = 0.065158371040724
+(weight=0.307692307692308) * (score{udapi}=0.997254142812032) = 0.306847428557548
 (weight=0.0769230769230769) * (score{udeprels}=0.945945945945946) = 0.0727650727650728
-(TOTAL score=0.822742469171142) * (availability=1) * (validity=0.01) = 0.00822742469171142
-STARS = 0
-UD_Romanian-RRT	0.00822742469171142	0
+(TOTAL score=0.827682115085196) * (availability=1) * (validity=1) = 0.827682115085196
+STARS = 4
+UD_Romanian-RRT	0.827682115085196	4
