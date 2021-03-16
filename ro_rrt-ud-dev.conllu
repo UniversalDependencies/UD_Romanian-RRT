@@ -17967,7 +17967,7 @@
 
 # sent_id = dev-704
 # text = Mărturii suplimentare despre endonimul de „rumân / român ” furnizează și autori care au venit în mod prelungit în contact direct cu românii.
-1	Mărturii	mărturie	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	11	nsubj	_	_
+1	Mărturii	mărturie	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	11	obj	_	_
 2	suplimentare	suplimentar	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	1	amod	_	_
 3	despre	despre	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	_
 4	endonimul	endonimul	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	1	nmod	_	_
@@ -17979,7 +17979,7 @@
 10	”	”	PUNCT	DBLQ	_	7	punct	_	_
 11	furnizează	furniza	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 12	și	și	CCONJ	Crssp	Polarity=Pos	13	advmod	_	_
-13	autori	autor	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	11	obj	_	_
+13	autori	autor	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	11	nsubj	_	_
 14	care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	16	nsubj	_	_
 15	au	avea	AUX	Va--3p	Number=Plur|Person=3	16	aux	_	_
 16	venit	veni	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	13	acl	_	_
