@@ -1554,7 +1554,7 @@
 
 # sent_id = dev-67
 # text = Era ceva aproape normal pentru oamenii peste treizeci de ani să le fie frică de proprii lor copii.
-1	Era	fi	AUX	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	cop	_	_
+1	Era	fi	AUX	Vaii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	cop	_	_
 2	ceva	ceva	PRON	Pi3-sr	Case=Acc,Nom|Number=Sing|Person=3|PronType=Ind	0	root	_	_
 3	aproape	aproape	ADV	Rgp	Degree=Pos	4	advmod	_	_
 4	normal	normal	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Foreign=Yes|Gender=Masc|Number=Sing	2	amod	_	_
@@ -1807,9 +1807,9 @@
 7	Alianței	alianță	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	6	nmod	_	_
 8	D.A.	Dreptate_și_Adevăr	NOUN	Yn	Abbr=Yes	7	flat	_	_
 9	și	și	CCONJ	Crssp	Polarity=Pos	10	cc	_	_
-10	este	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+10	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 11	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	12	det	_	_
-12	om	om	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	10	xcomp	_	_
+12	om	om	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	3	conj	_	_
 13	înstărit	înstărit	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	SpaceAfter=No
 14	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
@@ -4933,8 +4933,8 @@
 4	care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	8	obl	_	_
 5	cantitatea	cantitate	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	8	nsubj:pass	_	_
 6	nu	nu	PART	Qz	Polarity=Neg	8	advmod	_	_
-7	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux:pass	_	_
-8	cunoscută	cunoscut	ADJ	Afpfsrn,Vmp--sf	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	2	acl	_	SpaceAfter=No
+7	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	cunoscută	cunoscut	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	2	acl	_	SpaceAfter=No
 9	,	,	PUNCT	COMMA	_	2	punct	_	_
 10	întregul	întreg	ADJ	Afpmsry	Case=Acc,Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
 11	obiect	obiect	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	13	nsubj	_	_
@@ -5191,7 +5191,7 @@
 # text = Dacă este cazul, se furnizează informații suplimentare, în sprijinul acestor notificări.
 1	Dacă	dacă	SCONJ	Csssp	Polarity=Pos	2	mark	_	_
 2	este	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
-3	cazul	caz	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	2	obj	_	SpaceAfter=No
+3	cazul	caz	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	2	subj	_	SpaceAfter=No
 4	,	,	PUNCT	COMMA	_	2	punct	_	_
 5	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	6	expl:pass	_	_
 6	furnizează	furniza	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -16744,7 +16744,7 @@
 7	lui	lui	DET	Ds3---s	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	6	det	_	_
 8	pestriță	pestriț	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	SpaceAfter=No
 9	,	,	PUNCT	COMMA	_	10	punct	_	_
-10	aprinsă	aprinde	VERB	Vmp--sf	Gender=Fem|Number=Sing|VerbForm=Part	6	advcl	_	_
+10	aprinsă	aprins	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
 11	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	13	case	_	_
 12	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	13	det	_	_
 13	putere	putere	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	10	obl:agent	_	_
