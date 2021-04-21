@@ -3960,7 +3960,7 @@
 43	,	,	PUNCT	COMMA	_	39	punct	_	_
 44	pot	putea	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	conj	_	_
 45	fi	fi	AUX	Vanp	Tense=Pres|VerbForm=Inf	48	cop	_	_
-46	deosebit	deosebi	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	48	advmod	_	_
+46	deosebit	deosebit	ADV	Rgp	Degree=Pos	48	advmod	_	_
 47	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	46	fixed	_	_
 48	mari	mare	ADJ	Afp-p-n	Definite=Ind|Degree=Pos|Number=Plur	44	ccomp	_	SpaceAfter=No
 49	,	,	PUNCT	COMMA	_	50	punct	_	_
