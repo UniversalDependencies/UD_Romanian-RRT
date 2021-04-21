@@ -4312,7 +4312,7 @@
 43	,	,	PUNCT	COMMA	_	44	punct	_	_
 44	5	5	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	42	conj	_	_
 45	sau	sau	CCONJ	Ccssp	Polarity=Pos	46	cc	_	_
-46	5a	5a	NUM	Mc-s-b	Number=Sing|NumForm=Both|NumType=Card	42	conj	_	_
+46	5a	5a	NUM	Mc-s-b	Number=Sing|NumForm=Combi|NumType=Card	42	conj	_	_
 47	trebuie	trebui	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	17	appos	_	_
 48	să	să	PART	Qs	Mood=Sub	49	mark	_	_
 49	îndeplinească	îndeplini	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	47	csubj	_	_
@@ -6007,8 +6007,8 @@
 2	,	,	PUNCT	COMMA	_	3	punct	_	_
 3	Haiganuș	Haiganuș	PROPN	Np	_	1	appos	_	_
 4	(	(	PUNCT	LPAR	_	5	punct	_	SpaceAfter=No
-5	n.	naște	VERB	Yv	Abbr=Yes	3	parataxis	_	_
-6	Benlian	Benlian	PROPN	Np	_	5	obl	_	SpaceAfter=No
+5	n.	născut	ADJ	Ya	Abbr=Yes	3	parataxis	_	_
+6	Benlian	Benlian	PROPN	Np	_	5	xcomp	_	SpaceAfter=No
 7	)	)	PUNCT	RPAR	_	5	punct	_	SpaceAfter=No
 8	,	,	PUNCT	COMMA	_	3	punct	_	_
 9	venise	veni	VERB	Vmil3s	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin	0	root	_	_
