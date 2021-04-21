@@ -10533,7 +10533,7 @@
 10	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	14	mark	_	_
 11	a	a	PART	Qn	PartType=Inf	14	mark	_	_
 12	nu	nu	PART	Qz	Polarity=Neg	14	advmod	_	_
-13	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	14	expl:pvs	_	_
+13	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	14	expl:pv	_	_
 14	apropia	apropia	VERB	Vmnp	Tense=Pres|VerbForm=Inf	9	ccomp	_	_
 15	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	16	case	_	_
 16	apă	apă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	14	iobj	_	SpaceAfter=No
@@ -14907,7 +14907,7 @@
 9	să	să	PART	Qs	Mood=Sub	10	mark	_	_
 10	aud	auzi	VERB	Vmip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	ccomp:pmod	_	_
 11	ce-	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	14	nsubj	_	SpaceAfter=No
-12	o	 o	PART	Qf	Tense=Fut	14	mark	_	_
+12	o	o	PART	Qf	Tense=Fut	14	mark	_	_
 13	să	să	PART	Qs	Mood=Sub	14	mark	_	_
 14	urmeze	urma	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	10	ccomp	_	SpaceAfter=No
 15	.	.	PUNCT	PERIOD	_	3	punct	_	_
@@ -18033,7 +18033,7 @@
 6	ziua	zi	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	3	appos	_	_
 7	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	_
 8	naștere	naștere	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	6	nmod	_	_
-9	a	a	ADP	Tsfs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	case	_	_
+9	a	a	DET	Tsfs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	det	_	_
 10	mecanicii	mecanic	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	8	nmod	_	_
 11	cuantice	cuantic	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	10	amod	_	SpaceAfter=No
 12	)	)	PUNCT	RPAR	_	6	punct	_	_
