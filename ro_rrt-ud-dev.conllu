@@ -637,7 +637,7 @@
 54	roz	roz	ADJ	Afp	Degree=Pos	53	xcomp	_	_
 55	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	57	case	_	_
 56	jurul	jur	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	55	fixed	_	_
-?57	lui	el	PRON	Pp3mso--------s	Case=Dat,Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	53	obl	_	_
+57	lui	el	PRON	Pp3mso--------s	Case=Dat,Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	53	obl	_	_
 58	și	și	CCONJ	Crssp	Polarity=Pos	60	cc	_	_
 59	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	60	expl:pv	_	_
 60	scufunda	scufunda	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	53	conj	_	_
