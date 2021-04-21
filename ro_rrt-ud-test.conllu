@@ -3361,7 +3361,7 @@
 23	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	24	case	_	_
 24	Fotbal	fotbal	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	21	nmod	_	_
 25	(	(	PUNCT	LPAR	_	26	punct	_	SpaceAfter=No
-26	F.I.F.A.	Federation_Internationale_de Football_Association	NOUN	Yn	Abbr=Yes	21	appos	_	SpaceAfter=No
+26	F.I.F.A.	Fédération_Internationale_de_Football_Association	NOUN	Yn	Abbr=Yes	21	appos	_	SpaceAfter=No
 27	)	)	PUNCT	RPAR	_	26	punct	_	SpaceAfter=No
 28	.	.	PUNCT	PERIOD	_	6	punct	_	_
 
@@ -4498,7 +4498,7 @@
 7	2	2	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	6	nummod	_	_
 8	litera	literă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	6	nmod	_	_
 9	(	(	PUNCT	LPAR	_	10	punct	_	SpaceAfter=No
-10	a	a	NOUN	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+10	a	a	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
 11	)	)	PUNCT	RPAR	_	10	punct	_	SpaceAfter=No
 12	,	,	PUNCT	COMMA	_	6	punct	_	_
 13	cuvintele	cuvânt	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	26	nsubj:pass	_	_
@@ -5357,7 +5357,7 @@
 # text = la 20 iulie / 1 august 1867, au mai fost numiți membri Titu Maiorescu și Nicolae Ionescu.
 1	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
 2	20	20	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	3	nummod	_	_
-3	iulie	iulie	NOUN	Ncm--n	Definite=Ind|Gender=Masc	12	nummod:tmod	_	_
+3	iulie	iulie	NOUN	Ncm--n	Definite=Ind|Gender=Masc	12	nmod:tmod	_	_
 4	/	/	PUNCT	SLASH	AdpType=Prep	3	punct	_	_
 5	1	1	NUM	Mo---dn	Definite=Ind|NumForm=Digit|NumType=Ord	6	nummod	_	_
 6	august	august	NOUN	Ncm--n	Definite=Ind|Gender=Masc	3	dep	_	_
@@ -8546,9 +8546,9 @@
 7	întinde	întinde	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	_
 9	noiembrie	noiembrie	NOUN	Ncm--n	Definite=Ind|Gender=Masc	7	nmod:tmod	_	_
-10	până	până	SCONJ	Csssp	Polarity=Pos	7	case	_	_
+10	până	până	SCONJ	Csssp	Polarity=Pos	12	case	_	_
 11	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	10	fixed	_	_
-12	aprilie	aprilie	NOUN	Ncm--n	Definite=Ind|Gender=Masc	10	nmod:tmod	_	SpaceAfter=No
+12	aprilie	aprilie	NOUN	Ncm--n	Definite=Ind|Gender=Masc	7	nmod:tmod	_	SpaceAfter=No
 13	.	.	PUNCT	PERIOD	_	7	punct	_	_
 
 # sent_id = test-346
