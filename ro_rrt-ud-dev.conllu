@@ -469,7 +469,7 @@
 7	,	,	PUNCT	COMMA	_	8	punct	_	_
 8	pur	pur	ADV	Rgp	Degree=Pos	6	appos	_	_
 9	și	și	CCONJ	Crssp	Polarity=Pos	8	fixed	_	_
-10	simplu	simplu	Degree=Pos	8	fixed	_	SpaceAfter=No
+10	simplu	simplu	ADV	Rgp	Degree=Pos	8	fixed	_	SpaceAfter=No
 11	,	,	PUNCT	COMMA	_	14	punct	_	_
 12	ca	ca	ADV	Rc	_	14	case	_	_
 13	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	14	det	_	_
@@ -1676,7 +1676,7 @@
 # newdoc id = Agenda-1-300
 # sent_id = dev-72
 # text = Marți, după-amiază, miniștrii desemnați ai cabinetului s-au prezentat în fața Parlamentului pentru a primi votul de învestitură.
-1	Marți	marți	NOUN	Rgp	Degree=Pos	11	advmod	_	SpaceAfter=No
+1	Marți	marți	ADV	Rgp	Degree=Pos	11	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	COMMA	_	1	punct	_	_
 3	după-amiază	după-amiază	ADV	Rgp	Degree=Pos	11	advmod	_	SpaceAfter=No
 4	,	,	PUNCT	COMMA	_	3	punct	_	_
@@ -3263,7 +3263,7 @@
 29	cel	cel	DET	Tdmsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Dem	31	det	_	_
 30	mai	mai	ADV	Rp	_	31	advmod	_	_
 31	puțin	puțin	ADV	Rgp	Degree=Pos	32	advmod	_	_
-32	afectat	afectat	ADJ	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	14	conj	_	_
+32	afectat	afectat	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	14	conj	_	_
 33	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	34	case	_	_
 34	istoria	istorie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	32	obl:agent	_	_
 35	recentă	recent	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	34	amod	_	SpaceAfter=No
@@ -4974,7 +4974,7 @@
 6	evaluarea	evaluare	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	4	obl	_	_
 7	pericolelor	pericol	NOUN	Ncfpoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Plur	6	nmod	_	_
 8	globale	global	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	7	amod	_	_
-9	asociate	asocia	ADJ	Vmp--pf	Gender=Fem|Number=Plur|VerbForm=Part	7	acl	_	_
+9	asociate	asocia	VERB	Vmp--pf	Gender=Fem|Number=Plur|VerbForm=Part	7	acl	_	_
 10	toxicității	toxicitate	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	9	iobj	_	SpaceAfter=No
 11	,	,	PUNCT	COMMA	_	12	punct	_	_
 12	inflamabilității	inflamabilitate	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	10	conj	_	_
@@ -5002,7 +5002,7 @@
 16	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	17	case	_	_
 17	lit.	literă	NOUN	Yn	Abbr=Yes	15	obl	_	_
 18	(	(	PUNCT	LPAR	_	19	punct	_	SpaceAfter=No
-?19	a	a	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	17	nmod	_	SpaceAfter=No
+19	a	a	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	17	nmod	_	SpaceAfter=No
 20	)	)	PUNCT	RPAR	_	19	punct	_	SpaceAfter=No
 21	,	,	PUNCT	COMMA	_	23	punct	_	_
 22	(	(	PUNCT	LPAR	_	23	punct	_	SpaceAfter=No
