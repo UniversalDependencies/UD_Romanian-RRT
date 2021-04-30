@@ -51,6 +51,7 @@ C-A Perez. 2014. Resurse lingvistice pentru prelucrarea limbajului natural, PhD 
 - UD 2.0 --> 2.1: no modifications to the previous version.
 - UD 2.1 --> 2.2: repository renamed from UD_Romanian to UD_Romanian-RRT
 - UD 2.6 --> 2.7: manual improvement of the annotations, concerning POS-tagging, syntactic labeling
+- UD 2.7 --> 2.8: automatic (but manually checked) improved POS-tagging, mainly for numerals and auxiliaries; some automatic dependency relation corrections (`obl` for nouns headed by verbs, `nsubj:pass` for subjects of passive constructions).  Correction scripts are in GitHub at [ro-ud-autocorrect](https://github.com/racai-ai/ro-ud-autocorrect).
 
 
 <pre>
