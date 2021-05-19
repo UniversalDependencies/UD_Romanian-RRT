@@ -2056,7 +2056,7 @@
 # text = 150000 de israelieni au manifestat la Tel Aviv cerând retragerea militarilor din Fâșia Gaza, precum și desființarea coloniilor evreiești din zonă.
 1	150000	150000	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	3	nummod	_	_
 2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	1	case	_	_
-3	israelieni	israelian	ADJ	Afpmp-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	5	nsubj	_	_
+3	israelieni	israelian	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	5	nsubj	_	_
 4	au	avea	AUX	Va--3p	Number=Plur|Person=3	5	aux	_	_
 5	manifestat	manifesta	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 6	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
@@ -5526,17 +5526,17 @@
 4	coletul	colet	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	5	nsubj	_	_
 5	constituie	constitui	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	7	det	_	_
-7	ambalaj	ambalaj	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	5	xcomp	_	_
+7	ambalaj	ambalaj	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	5	obj	_	_
 8	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	_
 9	vânzare	vânzare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
 10	.	.	PUNCT	PERIOD	_	5	punct	_	_
 
 # sent_id = dev-196
 # text = Ambalajul de vânzare este conceput astfel încât să constituie la punctul de vânzare o unitate de vânzare pentru utilizatorul final sau pentru consumator.
-1	Ambalajul	ambalaj	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	5	nsubj	_	_
+1	Ambalajul	ambalaj	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	5	nsubj:pass	_	_
 2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
 3	vânzare	vânzare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	1	nmod	_	_
-4	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	_
 5	conceput	concepe	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 6	astfel	astfel	ADV	Rgp	Degree=Pos	9	advmod	_	_
 7	încât	încât	SCONJ	Csssp	Polarity=Pos	6	fixed	_	_
@@ -5547,7 +5547,7 @@
 12	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	13	case	_	_
 13	vânzare	vânzare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	11	nmod	_	_
 14	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	15	det	_	_
-15	unitate	unitate	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	9	xcomp	_	_
+15	unitate	unitate	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	9	obj	_	_
 16	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	17	case	_	_
 17	vânzare	vânzare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	15	nmod	_	_
 18	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc	19	case	_	_
@@ -16601,7 +16601,7 @@
 15	suflet	suflet	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	13	obl	_	SpaceAfter=No
 16	,	,	PUNCT	COMMA	_	19	punct	_	_
 17	să	să	PART	Qs	Mood=Sub	19	mark	_	SpaceAfter=No
-18	-l	el	PRON	Pp3msa--y-----w	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Weak|Variant=Short	19	expl	_	_
+18	-l	el	PRON	Pp3msa--y-----w	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Weak|Variant=Short	19	obj	_	_
 19	iubească	iubi	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	13	conj	_	SpaceAfter=No
 20	,	,	PUNCT	COMMA	_	10	punct	_	_
 21	trebuia	trebui	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
@@ -18969,7 +18969,7 @@
 19	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	20	case	_	_
 20	incintă	incintă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	18	obl	_	_
 21	constituie	constitui	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
-22	radiația	radiație	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	21	xcomp	_	_
+22	radiația	radiație	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	21	obj	_	_
 23	corpului	corp	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	22	nmod	_	_
 24	negru	negru	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	23	amod	_	SpaceAfter=No
 25	.	.	PUNCT	PERIOD	_	5	punct	_	_

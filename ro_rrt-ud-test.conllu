@@ -2303,7 +2303,7 @@
 2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
 3	lunetiști	lunetist	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	1	obl:agent	_	_
 4	și	și	CCONJ	Crssp	Polarity=Pos	5	cc	_	_
-5	angajați	angajat	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	1	conj	_	_
+5	angajați	angaja	VERB	Vmp--pm	Gender=Masc|Number=Plur|VerbForm=Part	1	conj	_	_
 6	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
 7	lupte	luptă	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	5	obl:pmod	_	_
 8	corp	corp	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	7	nmod	_	_
@@ -2543,7 +2543,7 @@
 # text = De remarcat este faptul că atelierul oferă membrilor Casei de Ajutor Reciproc a Pensionarilor o reducere de 20% pentru orice serviciu prestat.
 1	De	de	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	_
 2	remarcat	remarca	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	3	xcomp	_	_
-3	este	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	faptul	fapt	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	3	nsubj	_	_
 5	că	că	SCONJ	Csssp	Polarity=Pos	7	mark	_	_
 6	atelierul	atelier	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	7	nsubj	_	_
@@ -2606,7 +2606,7 @@
 16	mass-media	mass-media	NOUN	Nc	_	15	iobj	_	_
 17	va	vrea	AUX	Va--3s	Number=Sing|Person=3	19	aux	_	_
 18	fi	fi	AUX	Vanp	Tense=Pres|VerbForm=Inf	19	cop	_	_
-19	diferit	diferi	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	12	csubj	_	SpaceAfter=No
+19	diferit	diferit	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	12	csubj	_	SpaceAfter=No
 20	.	.	PUNCT	PERIOD	_	12	punct	_	_
 
 # sent_id = test-116
@@ -7393,7 +7393,7 @@
 3	poate	putea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	constitui	constitui	VERB	Vmnp	Tense=Pres|VerbForm=Inf	3	ccomp	_	_
 5	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	6	det	_	_
-6	formulă	formulă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	4	xcomp	_	_
+6	formulă	formulă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	4	obj	_	_
 7	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	_
 8	înmulțirea	înmulțire	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	6	nmod	_	_
 9	a	al	DET	Tsfs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	det	_	_
@@ -12468,7 +12468,7 @@
 25	nu	nu	PART	Qz	Polarity=Neg	26	advmod	_	_
 26	constituia	constitui	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	ccomp	_	_
 27	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	28	det	_	_
-28	îngrijire	îngrijire	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	26	xcomp	_	_
+28	îngrijire	îngrijire	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	26	obj	_	_
 29	adecvată	adecvat	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	28	amod	_	SpaceAfter=No
 30	.	.	PUNCT	PERIOD	_	2	punct	_	_
 
@@ -12499,7 +12499,7 @@
 23	aparențele	aparență	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	24	obl	_	_
 24	constituie	constitui	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	14	acl	_	_
 25	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	26	det	_	_
-26	încălcare	încălcare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	24	xcomp	_	_
+26	încălcare	încălcare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	24	obj	_	_
 27	a	al	DET	Tsfs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	28	det	_	_
 28	secțiunii	secțiune	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	26	nmod	_	_
 29	5	5	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	28	nummod	_	_
@@ -14172,7 +14172,7 @@
 24	,	,	PUNCT	COMMA	_	25	punct	_	_
 25	constituie	constitui	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	_
 26	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	27	det	_	_
-27	pas	pas	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	25	xcomp	_	_
+27	pas	pas	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	25	obj	_	_
 28	important	important	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	27	amod	_	_
 29	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	30	case	_	_
 30	aprofundarea	aprofundare	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	27	nmod	_	_
@@ -16838,7 +16838,7 @@
 7	să	să	PART	Qs	Mood=Sub	8	mark	_	_
 8	constituie	constitui	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	3	csubj	_	_
 9	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	10	det	_	_
-10	element	element	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	8	xcomp	_	_
+10	element	element	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	8	obj	_	_
 11	favorizant	favorizant	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
 12	al	al	DET	Tsms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	13	det	_	_
 13	eliminării	eliminare	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	10	nmod	_	_
@@ -17005,7 +17005,7 @@
 2	Rumunense	Rumunense	PROPN	Np	_	1	flat	_	_
 3	constituie	constitui	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	5	det	_	_
-5	transliterație	transliterație	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	3	xcomp	_	_
+5	transliterație	transliterație	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	3	obj	_	_
 6	latinizantă	latinizant	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
 7	a	al	DET	Tsfs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	9	det	_	_
 8	unei	un	DET	Tifso	Case=Dat,Gen|Gender=Fem|Number=Sing|PronType=Ind	9	det	_	_
@@ -18107,11 +18107,11 @@
 
 # sent_id = test-713
 # text = Punctul esențial îl constituie determinarea energiei medii a oscilatorului.
-1	Punctul	punct	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	4	nsubj	_	_
+1	Punctul	punct	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	4	obj	_	_
 2	esențial	esențial	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	1	amod	_	_
 3	îl	el	PRON	Pp3msa--------w	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Weak	4	expl	_	_
 4	constituie	constitui	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	determinarea	determinare	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	4	xcomp	_	_
+5	determinarea	determinare	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	4	nsubj	_	_
 6	energiei	energie	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	5	nmod	_	_
 7	medii	mediu	ADJ	Afpfson	Case=Dat,Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
 8	a	al	DET	Tsfs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	9	det	_	_
