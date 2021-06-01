@@ -650,7 +650,7 @@
 67	ar	avea	AUX	Va--3	Person=3	69	aux	_	_
 68	fi	fi	AUX	Vanp	Tense=Pres|VerbForm=Inf	69	aux	_	_
 69	lăsat	lăsa	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	60	advcl	_	_
-70	apa	apă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	69	iobj	_	_
+70	apa	apă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	69	obj	_	_
 71	să	să	PART	Qs	Mood=Sub	72	mark	_	_
 72	intre	intra	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	69	ccomp	_	_
 73	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	74	case	_	_
