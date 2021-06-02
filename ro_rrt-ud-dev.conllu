@@ -16925,8 +16925,8 @@
 26	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	aux:pass	_	_
 27	îngăduit	îngădui	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	17	advcl	_	_
 28	să	să	PART	Qs	Mood=Sub	30	mark	_	_
-29	fie	fi	AUX	Vasp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	30	aux:pass	_	_
-30	zgârcit	zgârci	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	27	ccomp	_	_
+29	fie	fi	AUX	Vasp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	30	cop	_	_
+30	zgârcit	zgârcit	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	27	csubj:pass	_	_
 31	când	când	ADV	Rw	PronType=Int,Rel	32	advmod	_	_
 32	este	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	advcl	_	_
 33	vorba	vorbă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	32	fixed	_	_
