@@ -8385,7 +8385,7 @@
 10	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	_
 11	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	10	fixed	_	_
 12	moșia	moșie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	9	nmod	_	_
-13	Ciocănești	ciocăni	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	12	nmod	_	_
+13	Ciocănești	Ciocănești	PROPN	Np	_	12	nmod	_	_
 14	a	al	DET	Tsfs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	15	det	_	_
 15	mănăstirii	mănăstire	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	12	nmod	_	_
 16	cosesc	cosi	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	_
