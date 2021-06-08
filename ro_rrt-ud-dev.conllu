@@ -3,7 +3,7 @@
 # text = Într-o zi senină și friguroasă de aprilie, pe când ceasurile băteau ora treisprezece, Winston Smith, cu bărbia înfundată în piept pentru a scăpa de vântul care-l lua pe sus, se strecură iute prin ușile de sticlă ale Blocului Victoria, deși nu destul de repede pentru a împiedica un vârtej de praf și nisip să pătrundă o dată cu el.
 1	Într-	întru	ADP	Spsay	AdpType=Prep|Case=Acc|Variant=Short	3	case	_	SpaceAfter=No
 2	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	3	det	_	_
-3	zi	zi	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	37	nmod:tmod	_	_
+3	zi	zi	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	37	obl:tmod	_	_
 4	senină	senin	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
 5	și	și	CCONJ	Crssp	Polarity=Pos	6	cc	_	_
 6	friguroasă	friguros	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	4	conj	_	_
@@ -2158,7 +2158,7 @@
 # sent_id = dev-94
 # text = În data de 22 mai, la Madrid, a fost oficiată căsătoria prințului moștenitor Felipe al Spaniei cu fosta jurnalistă Letizia Ortiz Rocasolano.
 1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	_
-2	data	dată	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	12	nmod:tmod	_	_
+2	data	dată	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	12	obl:tmod	_	_
 3	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
 4	22	22	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	5	nummod	_	_
 5	mai	mai	NOUN	Ncm--n	Definite=Ind|Gender=Masc	2	nmod	_	SpaceAfter=No
@@ -2235,7 +2235,7 @@
 # sent_id = dev-97
 # text = În anul 1610, porumbul-boabe se vindea intens în piețele din Lombardia și Veneția, iar țăranii învățaseră să facă polenta (mămăligă).
 1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	_
-2	anul	an	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	7	nmod:tmod	_	_
+2	anul	an	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	7	obl:tmod	_	_
 3	1610	1610	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	2	nummod	_	SpaceAfter=No
 4	,	,	PUNCT	COMMA	_	2	punct	_	_
 5	porumbul-boabe	porumb-boabe	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	7	nsubj:pass	_	_
@@ -2387,7 +2387,7 @@
 5	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	_
 6	noi	eu	PRON	Pp1-pr--------s	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs|Strength=Strong	4	obl	_	_
 7	după	după	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	_
-8	anul	an	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	4	nmod:tmod	_	_
+8	anul	an	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	4	obl:tmod	_	_
 9	1800	1800	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	8	nummod	_	_
 10	a	avea	AUX	Va--3s	Number=Sing|Person=3	12	aux	_	_
 11	fost	fi	AUX	Vap--sm	Gender=Masc|Number=Sing|VerbForm=Part	12	aux:pass	_	_
@@ -2442,7 +2442,7 @@
 9	odată	odată	ADV	Rgp	Degree=Pos	12	case	_	_
 10	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	9	fixed	_	_
 11	primele	prim	NUM	Mofprly	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur|NumForm=Word|NumType=Ord	12	nummod	_	_
-12	înscrisuri	înscris	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	6	nmod:tmod	_	_
+12	înscrisuri	înscris	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	6	obl:tmod	_	_
 13	despre	despre	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	_
 14	traseul	traseu	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	12	nmod	_	_
 15	parcurs	parcurge	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	14	acl	_	_
@@ -2674,7 +2674,7 @@
 5	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	_
 6	cursul	curs	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	5	fixed	_	_
 7	unei	un	DET	Tifso	Case=Dat,Gen|Gender=Fem|Number=Sing|PronType=Ind	8	det	_	_
-8	meditații	meditație	NOUN	Ncfson	Case=Dat,Gen|Definite=Ind|Gender=Fem|Number=Sing	18	nmod:tmod	_	_
+8	meditații	meditație	NOUN	Ncfson	Case=Dat,Gen|Definite=Ind|Gender=Fem|Number=Sing	18	obl:tmod	_	_
 9	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	_
 10	mai	mai	ADV	Rp	_	11	advmod	_	_
 11	multe	mult	DET	Di3fp	Gender=Fem|Number=Plur|Person=3|PronType=Ind	12	det	_	_
@@ -2780,7 +2780,7 @@
 2	,	,	PUNCT	COMMA	_	9	punct	_	_
 3	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
 4	această	acest	DET	Dd3fsr---e	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|Position=Prenom|PronType=Dem	5	det	_	_
-5	perioadă	perioadă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	9	nmod:tmod	_	SpaceAfter=No
+5	perioadă	perioadă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	9	obl:tmod	_	SpaceAfter=No
 6	,	,	PUNCT	COMMA	_	5	punct	_	_
 7	ziua	zi	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	9	nsubj	_	_
 8	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	9	expl:pv	_	_
@@ -2794,7 +2794,7 @@
 # text = În 10 ianuarie se află în faza de LUNĂ NOUĂ, este invizibilă, răsare în jurul orei 8,40 și de la această dată începe să crească.
 1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
 2	10	10	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	3	nummod	_	_
-3	ianuarie	ianuarie	NOUN	Ncm--n	Definite=Ind|Gender=Masc	5	nmod:tmod	_	_
+3	ianuarie	ianuarie	NOUN	Ncm--n	Definite=Ind|Gender=Masc	5	obl:tmod	_	_
 4	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	5	expl:pv	_	_
 5	află	afla	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
@@ -2809,7 +2809,7 @@
 15	răsare	răsări	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
 16	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	18	case	_	_
 17	jurul	jur	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	16	fixed	_	_
-18	orei	oră	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	15	nmod:tmod	_	_
+18	orei	oră	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	15	obl:tmod	_	_
 19	8,40	8,40	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	18	nummod	_	_
 20	și	și	CCONJ	Crssp	Polarity=Pos	25	cc	_	_
 21	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	24	case	_	_
@@ -3045,7 +3045,7 @@
 18	funcție	funcție	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	16	nmod	_	SpaceAfter=No
 19	,	,	PUNCT	COMMA	_	21	punct	_	_
 20	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	21	case	_	_
-21	martie	martie	NOUN	Ncm--n	Definite=Ind|Gender=Masc	16	nmod:tmod	_	_
+21	martie	martie	NOUN	Ncm--n	Definite=Ind|Gender=Masc	16	obl:tmod	_	_
 22	2001	2001	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	21	nummod	_	SpaceAfter=No
 23	,	,	PUNCT	COMMA	_	21	punct	_	_
 24	a	al	DET	Tsfs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	25	det	_	_
@@ -3565,7 +3565,7 @@
 3	cei	acela	PRON	Pd3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	1	iobj	_	_
 4	care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	14	nsubj	_	_
 5	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	_
-6	data	dată	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	14	nmod:tmod	_	_
+6	data	dată	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	14	obl:tmod	_	_
 7	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	_
 8	31.12.2005	31.12.2005	NUM	Mc-s-b	Number=Sing|NumForm=Combi|NumType=Card	6	nummod	_	SpaceAfter=No
 9	,	,	PUNCT	COMMA	_	10	punct	_	_
@@ -6279,7 +6279,7 @@
 # text = „În tinerețe, am aruncat discuției cuvântul de lirism absolut.
 1	„	„	PUNCT	DBLQ	_	6	punct	_	SpaceAfter=No
 2	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
-3	tinerețe	tinerețe	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	6	nmod:tmod	_	SpaceAfter=No
+3	tinerețe	tinerețe	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	6	obl:tmod	_	SpaceAfter=No
 4	,	,	PUNCT	COMMA	_	3	punct	_	_
 5	am	avea	AUX	Va--1	Person=1	6	aux	_	_
 6	aruncat	arunca	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
@@ -6423,7 +6423,7 @@
 # sent_id = dev-240
 # text = În ianuarie 1879, o cronică dramatică nesemnată ataca spectacolul de la Teatrul Național cu O noapte furtunoasă de I. L. Caragiale.
 1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	_
-2	ianuarie	ianuarie	NOUN	Ncm--n	Definite=Ind|Gender=Masc	9	nmod:tmod	_	_
+2	ianuarie	ianuarie	NOUN	Ncm--n	Definite=Ind|Gender=Masc	9	obl:tmod	_	_
 3	1879	1879	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	2	nummod	_	SpaceAfter=No
 4	,	,	PUNCT	COMMA	_	2	punct	_	_
 5	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	6	det	_	_
@@ -6698,7 +6698,7 @@
 # text = În același interval, A. a elaborat și o metodologie a culegerii și transcrierii, adecvată relevării specificului genului și stilului cântecelor epice versificate.
 1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
 2	același	același	DET	Dd3msr---e	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|Position=Prenom|PronType=Dem	3	det	_	_
-3	interval	interval	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	7	nmod:tmod	_	SpaceAfter=No
+3	interval	interval	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	7	obl:tmod	_	SpaceAfter=No
 4	,	,	PUNCT	COMMA	_	3	punct	_	_
 5	A.	A.	NOUN	Yn	Abbr=Yes	7	nsubj	_	_
 6	a	avea	AUX	Va--3s	Number=Sing|Person=3	7	aux	_	_
@@ -6745,7 +6745,7 @@
 19	manifestă	manifesta	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	acl	_	_
 20	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	22	case	_	_
 21	timpul	timp	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	20	fixed	_	_
-22	executării	executare	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	19	nmod:tmod	_	_
+22	executării	executare	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	19	obl:tmod	_	_
 23	acestuia	acesta	PRON	Pd3mso	Case=Dat,Gen|Gender=Masc|Number=Sing|Person=3|PronType=Dem	22	nmod	_	_
 24	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	26	case	_	_
 25	către	către	ADP	Spsa	AdpType=Prep|Case=Acc	24	fixed	_	_
@@ -6824,7 +6824,7 @@
 19	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	22	det	_	_
 20	foarte	foarte	ADV	Rp	_	21	advmod	_	_
 21	lungă	lung	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
-22	întrerupere	întrerupere	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	16	nmod:tmod	_	_
+22	întrerupere	întrerupere	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	16	obl:tmod	_	_
 23	”	”	PUNCT	DBLQ	_	22	punct	_	SpaceAfter=No
 24	.	.	PUNCT	PERIOD	_	7	punct	_	_
 
@@ -7082,7 +7082,7 @@
 13	pleacă	pleca	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	SpaceAfter=No
 14	,	,	PUNCT	COMMA	_	16	punct	_	_
 15	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	16	case	_	_
-16	anul	an	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	13	nmod:tmod	_	_
+16	anul	an	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	13	obl:tmod	_	_
 17	1871	1871	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	16	nummod	_	SpaceAfter=No
 18	,	,	PUNCT	COMMA	_	20	punct	_	_
 19	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	20	case	_	_
@@ -8706,7 +8706,7 @@
 6	observată	observa	VERB	Vmp--sf	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
 7	după	după	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	_
 8	primul	prim	NUM	Momsrly	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|NumForm=Word|NumType=Ord	9	nummod	_	_
-9	an	an	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	6	nmod:tmod	_	_
+9	an	an	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	6	obl:tmod	_	_
 10	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	_
 11	tratament	tratament	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	9	nmod	_	_
 12	și	și	CCONJ	Crssp	Polarity=Pos	15	cc	_	_
@@ -9250,7 +9250,7 @@
 22	general	general	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	21	fixed	_	_
 23	după	după	ADP	Spsa	AdpType=Prep|Case=Acc	25	case	_	_
 24	2	2	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	25	nummod	_	_
-25	ore	oră	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	20	nmod:tmod	_	_
+25	ore	oră	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	20	obl:tmod	_	_
 26	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	28	case	_	_
 27	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	26	fixed	_	_
 28	administrare	administrare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	25	nmod	_	SpaceAfter=No
@@ -9320,7 +9320,7 @@
 6	confruntați	confrunta	VERB	Vmii2p	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	2	acl	_	_
 7	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	_
 8	prima	prim	NUM	Mofsrly	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing|NumForm=Word|NumType=Ord	9	nummod	_	_
-9	dată	dată	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	6	nmod:tmod	_	_
+9	dată	dată	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	6	obl:tmod	_	_
 10	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	_
 11	aceste	acest	DET	Dd3fpr---e	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|Position=Prenom|PronType=Dem	12	det	_	_
 12	simptome	simptom	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	6	obl:pmod	_	SpaceAfter=No
@@ -9441,7 +9441,7 @@
 23	Europene	european	ADJ	Afpfson	Case=Dat,Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	SpaceAfter=No
 24	,	,	PUNCT	COMMA	_	18	punct	_	_
 25	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	26	case	_	_
-26	data	dată	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	4	nmod:tmod	_	_
+26	data	dată	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	4	obl:tmod	_	_
 27	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	29	case	_	_
 28	19	19	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	29	nummod	_	_
 29	septembrie	septembrie	NOUN	Ncm--n	Definite=Ind|Gender=Masc	26	nmod	_	_
@@ -9554,7 +9554,7 @@
 19	după	după	ADP	Spsa	AdpType=Prep|Case=Acc	22	case	_	_
 20	doar	doar	ADV	Rgp	Degree=Pos	21	advmod	_	_
 21	câteva	câtva	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	22	det	_	_
-22	zile	zi	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	18	nmod:tmod	_	_
+22	zile	zi	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	18	obl:tmod	_	_
 23	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	24	case	_	_
 24	administrare	administrare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	22	nmod	_	SpaceAfter=No
 25	.	.	PUNCT	PERIOD	_	18	punct	_	_
@@ -9653,7 +9653,7 @@
 # text = În timpul tratamentului cu epoetină alfa poate exista o creștere moderată, dependentă de doză, a numărului trombocitelor, în limite normale.
 1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
 2	timpul	timp	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	1	fixed	_	_
-3	tratamentului	tratament	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	7	nmod:tmod	_	_
+3	tratamentului	tratament	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	7	obl:tmod	_	_
 4	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
 5	epoetină	epoetină	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	3	nmod	_	_
 6	alfa	alfa	NOUN	Ncm--n	Definite=Ind|Gender=Masc	5	nmod	_	_
@@ -12611,7 +12611,7 @@
 16	ora	oră	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	3	obl	_	_
 17	8	8	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	16	nummod	_	SpaceAfter=No
 18	,	,	PUNCT	COMMA	_	19	punct	_	_
-19	noaptea	noapte	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	3	nmod:tmod	_	_
+19	noaptea	noapte	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	3	obl:tmod	_	_
 20	trecută	trecut	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	SpaceAfter=No
 21	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
@@ -13429,7 +13429,7 @@
 14	fără	fără	ADP	Spsa	AdpType=Prep|Case=Acc	15	case	_	_
 15	întârziere	întârziere	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	10	obl	_	_
 16	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	17	case	_	_
-17	sfârșitul	sfârșit	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	10	nmod:tmod	_	_
+17	sfârșitul	sfârșit	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	10	obl:tmod	_	_
 18	probelor	probă	NOUN	Ncfpoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Plur	17	nmod	_	_
 19	ecvestre	ecvestru	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	18	amod	_	_
 20	ale	al	DET	Tsfp	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	21	det	_	_
@@ -13483,7 +13483,7 @@
 10	mult	mult	ADV	Rgp	Degree=Pos	12	advmod	_	_
 11	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	_
 12	un	unu	NUM	Mcmsrl	Case=Acc,Nom|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card	13	nummod	_	_
-13	an	an	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	7	nmod:tmod	_	_
+13	an	an	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	7	obl:tmod	_	_
 14	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	16	case	_	_
 15	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	14	fixed	_	_
 16	punerea	punere	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	13	nmod	_	_
@@ -13581,7 +13581,7 @@
 9	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	_
 10	a	al	DET	Tsfs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	det	_	_
 11	treizecea	treizeci	NUM	Mofs-l	Gender=Fem|Number=Sing|NumForm=Word|NumType=Ord	12	nummod	_	_
-12	zi	zi	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	6	nmod:tmod	_	_
+12	zi	zi	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	6	obl:tmod	_	_
 13	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	15	case	_	_
 14	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	13	fixed	_	_
 15	data	dată	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	12	nmod	_	_
@@ -13652,7 +13652,7 @@
 14	,	,	PUNCT	COMMA	_	17	punct	_	_
 15	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	17	case	_	_
 16	trei	trei	NUM	Mc-p-l	Number=Plur|NumForm=Word|NumType=Card	17	nummod	_	_
-17	ori	oară	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	13	nmod:tmod	_	_
+17	ori	oară	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	13	obl:tmod	_	_
 18	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	17	advmod	_	_
 19	total	total	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	18	fixed	_	SpaceAfter=No
 20	,	,	PUNCT	COMMA	_	17	punct	_	_
@@ -13672,7 +13672,7 @@
 5	plăcile	placă	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	4	nsubj:pass	_	_
 6	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	_
 7	trei	trei	NUM	Mc-p-l	Number=Plur|NumForm=Word|NumType=Card	8	nummod	_	_
-8	ori	oară	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	4	nmod:tmod	_	_
+8	ori	oară	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	4	obl:tmod	_	_
 9	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	_
 10	PBS	PBS	PROPN	Np	_	4	obl	_	SpaceAfter=No
 11	.	.	PUNCT	PERIOD	_	4	punct	_	_
@@ -13753,7 +13753,7 @@
 23	prezente	prezent	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	22	amod	_	_
 24	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	26	case	_	_
 25	timpul	timp	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	24	fixed	_	_
-26	depășirii	depășire	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	23	nmod:tmod	_	_
+26	depășirii	depășire	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	23	obl:tmod	_	_
 27	valorii	valoare	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	26	nmod	_	_
 28	limită	limită	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	27	nmod	_	SpaceAfter=No
 29	.	.	PUNCT	PERIOD	_	15	punct	_	_
@@ -13806,7 +13806,7 @@
 22	asistențe	asistență	NOUN	Ncfson	Case=Dat,Gen|Definite=Ind|Gender=Fem|Number=Sing	20	nmod	_	_
 23	eficiente	eficient	ADJ	Afpfson	Case=Dat,Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
 24	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	25	case	_	_
-25	caz	caz	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	15	nmod:tmod	_	_
+25	caz	caz	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	15	obl:tmod	_	_
 26	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	27	case	_	_
 27	urgență	urgență	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	25	nmod	_	SpaceAfter=No
 28	.	.	PUNCT	PERIOD	_	15	punct	_	_
@@ -13866,12 +13866,12 @@
 16	experții	expert	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	12	obj	_	_
 17	desemnați	desemna	VERB	Vmp--pm	Gender=Masc|Number=Plur|VerbForm=Part	16	acl	_	_
 18	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	19	case	_	_
-19	termen	termen	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	12	nmod:tmod	_	_
+19	termen	termen	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	12	obl:tmod	_	_
 20	foarte	foarte	ADV	Rp	_	21	advmod	_	_
 21	scurt	scurt	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	_
 22	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	24	case	_	_
 23	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	22	fixed	_	_
-24	activarea	activare	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	12	nmod:tmod	_	_
+24	activarea	activare	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	12	obl:tmod	_	_
 25	experților	expert	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	24	nmod	_	_
 26	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	28	case	_	_
 27	către	către	ADP	Spsa	AdpType=Prep|Case=Acc	26	fixed	_	_
@@ -16433,7 +16433,7 @@
 # sent_id = dev-654
 # text = Până dimineață au fost înapoi la casa starostelui, au îngropat lucrurile și s-au împrăștiat.
 1	Până	până	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	_
-2	dimineață	dimineață	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	4	nmod:tmod	_	_
+2	dimineață	dimineață	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	4	obl:tmod	_	_
 3	au	avea	AUX	Va--3p	Number=Plur|Person=3	4	aux	_	_
 4	fost	fi	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 5	înapoi	înapoi	ADV	Rgp	Degree=Pos	4	advmod	_	_
@@ -16983,7 +16983,7 @@
 7	mai	mai	ADV	Rp	_	8	advmod	_	_
 8	curat	curat	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	SpaceAfter=No
 9	,	,	PUNCT	COMMA	_	10	punct	_	_
-10	întunecați	întuneca	VERB	Vmp--pm	Gender=Masc|Number=Plur|VerbForm=Part	2	acl	_	_
+10	întunecați	întunecat	ADJ	Afpmp-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	2	amod	_	_
 11	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	_
 12	chip	chip	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
 13	,	,	PUNCT	COMMA	_	15	punct	_	_
@@ -18046,7 +18046,7 @@
 # text = Până în secolul al XIX-lea au coexistat pentru spațiul dintre Nistru și Tisa denumirile de „Rumânia ” și „România ”, precum și endonimul „rumâni ” alături de „români ”, forma scrisă cu „u ” fiind predominantă.
 1	Până	până	SCONJ	Csssp	Polarity=Pos	3	case	_	_
 2	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	1	fixed	_	_
-3	secolul	secol	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	8	nmod:tmod	_	_
+3	secolul	secol	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	8	obl:tmod	_	_
 4	al	al	DET	Tsms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	5	det	_	_
 5	XIX	xix	NUM	Mo-s-r	Number=Sing|NumForm=Roman|NumType=Ord	3	nummod	_	SpaceAfter=No
 6	-lea	-lea	DET	Tfms-y	Definite=Def|Gender=Masc|Number=Sing|PronType=Art|Variant=Short	5	det	_	_
@@ -18261,7 +18261,7 @@
 # sent_id = dev-714
 # text = În secolul al XVIII-lea, Moldova și țara Românească și-au păstrat în continuare autonomia internă, dar în 1711 și 1716 respectiv, începe perioada domnitorilor fanarioți, numiți direct de turci din rândul familiilor nobile de greci din Constantinopol.
 1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	_
-2	secolul	secol	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	13	nmod:tmod	_	_
+2	secolul	secol	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	13	obl:tmod	_	_
 3	al	al	DET	Tsms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det	_	_
 4	XVIII	xviii	NUM	Mo-s-r	Number=Sing|NumForm=Roman|NumType=Ord	2	nummod	_	SpaceAfter=No
 5	-lea	-lea	DET	Tfms-y	Definite=Def|Gender=Masc|Number=Sing|PronType=Art|Variant=Short	4	det	_	SpaceAfter=No
@@ -18325,12 +18325,12 @@
 17	)	)	PUNCT	RPAR	_	15	punct	_	SpaceAfter=No
 18	,	,	PUNCT	COMMA	_	20	punct	_	_
 19	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	20	case	_	_
-20	anul	an	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	6	nmod:tmod	_	_
+20	anul	an	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	6	obl:tmod	_	_
 21	1859	1859	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	20	nummod	_	SpaceAfter=No
 22	,	,	PUNCT	COMMA	_	25	punct	_	_
 23	odată	odată	ADV	Rgp	Degree=Pos	25	case	_	_
 24	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	23	fixed	_	_
-25	alegerea	alegere	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	6	nmod:tmod	_	_
+25	alegerea	alegere	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	6	obl:tmod	_	_
 26	concomitentă	concomitent	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	25	amod	_	_
 27	ca	ca	ADV	Rc	_	28	advmod	_	_
 28	domnitor	domnitor	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	25	nmod	_	_
@@ -18522,14 +18522,14 @@
 26	Centrale	central	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	25	amod	_	_
 27	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	29	case	_	_
 28	6	6	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	29	nummod	_	_
-29	decembrie	decembrie	NOUN	Ncm--n	Definite=Ind|Gender=Masc	22	nmod:tmod	_	_
+29	decembrie	decembrie	NOUN	Ncm--n	Definite=Ind|Gender=Masc	22	obl:tmod	_	_
 30	1916	1916	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	29	nummod	_	SpaceAfter=No
 31	.	.	PUNCT	PERIOD	_	14	punct	_	_
 
 # sent_id = dev-722
 # text = În noiembrie 1918, capitală a redevenit orașul București.
 1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	_
-2	noiembrie	noiembrie	NOUN	Ncm--n	Definite=Ind|Gender=Masc	7	nmod:tmod	_	_
+2	noiembrie	noiembrie	NOUN	Ncm--n	Definite=Ind|Gender=Masc	7	obl:tmod	_	_
 3	1918	1918	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	2	nummod	_	SpaceAfter=No
 4	,	,	PUNCT	COMMA	_	2	punct	_	_
 5	capitală	capitală	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	7	xcomp	_	_
@@ -18543,7 +18543,7 @@
 # text = În timpul regimului Antonescu, Pogromul de la Iași din 27 - 29 iunie 1941 a fost printre cele mai grave evenimente de acest fel din lume, prea puțin cunoscut ieșenilor înșiși atât înainte, cât și după Revoluția română din 1989.
 1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
 2	timpul	timp	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	1	fixed	_	_
-3	regimului	regim	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	22	nmod:tmod	_	_
+3	regimului	regim	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	22	obl:tmod	_	_
 4	Antonescu	Antonescu	PROPN	Np	_	3	nmod	_	SpaceAfter=No
 5	,	,	PUNCT	COMMA	_	3	punct	_	_
 6	Pogromul	pogrom	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	22	nsubj	_	_
@@ -18589,7 +18589,7 @@
 # sent_id = dev-724
 # text = În mai 1944, orașul a fost scena unor lupte grele între forțele româno-germane și Armata roșie, zile în care o mare parte din zonele istorice ale orașului a fost distrusă.
 1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	_
-2	mai	mai	NOUN	Ncm--n	Definite=Ind|Gender=Masc	8	nmod:tmod	_	_
+2	mai	mai	NOUN	Ncm--n	Definite=Ind|Gender=Masc	8	obl:tmod	_	_
 3	1944	1944	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	2	nummod	_	SpaceAfter=No
 4	,	,	PUNCT	COMMA	_	2	punct	_	_
 5	orașul	oraș	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	8	nsubj	_	_
@@ -18655,7 +18655,7 @@
 # sent_id = dev-726
 # text = În perioada postbelică orașul a continuat să se dezvolte, construindu-se noi cartiere și întreprinderi industriale.
 1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	_
-2	perioada	perioadă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	6	nmod:tmod	_	_
+2	perioada	perioadă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	6	obl:tmod	_	_
 3	postbelică	postbelic	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
 4	orașul	oraș	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	6	nsubj	_	_
 5	a	avea	AUX	Va--3s	Number=Sing|Person=3	6	aux	_	_
