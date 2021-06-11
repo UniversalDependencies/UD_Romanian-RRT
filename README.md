@@ -10,6 +10,70 @@ It is based on RACAI-RoTb (Irimia and Barbu Mititelu, 2015) and on UAIC-RoTb (Pe
 
 We split the treebank as follows: the test set (ro-ud-test.conllu) is 12.5% of the whole treebank, the development set (ro-ud-dev.conllu) also 12.5%, while the rest of the treebank (75%) is the training set (ro-ud-train.conllu). The data was split in a random fashion.
 
+The corpus is split into documents corresponding to several genres:
+
+**Legal**: document ids:
+Acquis-b1-ttl,
+Acquis-b2-ttl,
+Acquis-b3-ttl,
+JRC-b1,
+JRC-b2,
+JRC-noi-b1,
+JRC-noi-b2,
+JRC-noi-b3
+
+**News**: document ids:
+Agenda-1-300,
+Agenda-b1,
+Agenda-b2,
+Agenda-b3
+
+**Fiction**: document ids:
+1984Orwell-b1-ttl,
+1984Orwell-b2-ttl,
+1984Orwell-b3-ttl,
+1984Orwell-b4-ttl,
+Literatura-1-300,
+Literatura-b1,
+Literatura-b2,
+Literatura-noi-b1
+
+**Medical**: document ids:
+EMEA-b1,
+EMEA-b2,
+EMEA-b3,
+EMEA-noi-b1,
+Medical-1,
+Medical-2
+
+**Nonfiction**: document ids:
+PhysicsCompSciMath
+
+**Academic**: document ids:
+DGLR-1-300,
+DGLR-b1,
+DGLR-b2,
+DGLR-b3,
+DGLR-noi-b1
+
+**FrameNet**: document ids:
+FrameNet-b1,
+FrameNet-b2,
+FrameNet-b3,
+FrameNet-b4
+
+**Wikipedia**: document ids:
+Wikipedia-2-FirstUDRelease,
+Wikipedia-b1,
+Wikipedia-b2
+
+**Miscellanea**: document ids:
+DTLR-b1,
+DTLR-b2,
+DTLR-b3,
+FirstUDRelease-ICIA,
+FirstUDRelease-UAIC
+
 # BASIC STATISTICS
 
 Tree count:  9523
