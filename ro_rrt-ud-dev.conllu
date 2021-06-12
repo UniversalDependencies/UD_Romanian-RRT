@@ -2504,7 +2504,7 @@
 2	străini	străin	ADJ	Afpmp-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	1	amod	_	_
 3	care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	4	nsubj	_	_
 4	au	avea	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	acl	_	_
-5	vârsta	vârsta	VERB	Vmnp	Tense=Pres|VerbForm=Inf	4	obj	_	_
+5	vârsta	vârstă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	4	obj	_	_
 6	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
 7	muncă	muncă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	5	obl	_	_
 8	și	și	CCONJ	Crssp	Polarity=Pos	11	cc	_	_
@@ -2514,7 +2514,7 @@
 12	instituțiilor	instituție	NOUN	Ncfpoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Plur	11	nmod	_	_
 13	care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	14	nsubj	_	_
 14	protejează	proteja	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	12	acl	_	_
-15	minorii	minor	ADJ	Afpmpry	Case=Acc,Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur	14	obj	_	SpaceAfter=No
+15	minorii	minor	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	14	obj	_	SpaceAfter=No
 16	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
 # sent_id = dev-109
@@ -2667,7 +2667,7 @@
 
 # sent_id = dev-115
 # text = Se povestește că, în cursul unei meditații de mai multe ore, Zhang San Feng a auzit niște zgomote neobișnuite.
-1	Se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	2	expl:impers	_	_
+1	Se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	2	expl:pass	_	_
 2	povestește	povesti	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	că	că	SCONJ	Csssp	Polarity=Pos	18	mark	_	SpaceAfter=No
 4	,	,	PUNCT	COMMA	_	8	punct	_	_
@@ -2815,7 +2815,7 @@
 21	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	24	case	_	_
 22	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	21	fixed	_	_
 23	această	acest	DET	Dd3fsr---e	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|Position=Prenom|PronType=Dem	24	det	_	_
-24	dată	dată	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	25	obl:pmod	_	_
+24	dată	dată	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	25	obl	_	_
 25	începe	începe	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
 26	să	să	PART	Qs	Mood=Sub	27	mark	_	_
 27	crească	crește	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	25	ccomp	_	SpaceAfter=No
@@ -9681,9 +9681,9 @@
 1	DECLARAREA	declarare	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	12	parataxis	_	_
 2	SUBSTANȚEI	substanță	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	1	nmod	_	_
 3	(	(	PUNCT	LPAR	_	4	punct	_	SpaceAfter=No
-4	LOR	lui	PRON	Ps3---p	Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	2	dep	_	SpaceAfter=No
+4	LOR	LOR	PROPN	Np	_	2	dep	_	SpaceAfter=No
 5	)	)	PUNCT	RPAR	_	4	punct	_	_
-6	ACTIVĂ	activa	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	amod	_	_
+6	ACTIVĂ	activ	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
 7	(	(	PUNCT	LPAR	_	8	punct	_	SpaceAfter=No
 8	E	E	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
 9	)	)	PUNCT	RPAR	_	8	punct	_	_
@@ -9756,9 +9756,9 @@
 5	fi	fi	AUX	Vanp	Tense=Pres|VerbForm=Inf	6	cop	_	_
 6	necesară	necesar	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	4	ccomp	_	_
 7	vaccinarea	vaccinare	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	6	nsubj	_	_
-8	separată	separa	VERB	Vmp--sf	Gender=Fem|Number=Sing|VerbForm=Part	7	acl	_	_
+8	separată	separat	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
 9	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	_
-10	vaccin	vaccin	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	7	obl:pmod	_	_
+10	vaccin	vaccin	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	7	nmod:pmod	_	_
 11	HBV	HBV	PROPN	Np	_	10	nmod	_	_
 12	și	și	CCONJ	Crssp	Polarity=Pos	13	cc	_	_
 13	vaccin	vaccin	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	10	conj	_	_
@@ -10092,7 +10092,7 @@
 9	disoproxil	disoproxil	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	8	nmod	_	_
 10	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	_
 11	pacienții	pacient	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	3	nmod	_	_
-12	infectați	infecta	VERB	Vmp--pm	Gender=Masc|Number=Plur|VerbForm=Part	11	acl	_	_
+12	infectați	infectat	ADJ	Afpmp-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	11	amod	_	_
 13	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	_
 14	HIV	HIV	PROPN	Np	_	12	obl	_	SpaceAfter=No
 15	,	,	PUNCT	COMMA	_	3	punct	_	_
@@ -10406,7 +10406,7 @@
 9	dar	dar	CCONJ	Ccssp	Polarity=Pos	12	cc	_	_
 10	a	avea	AUX	Va--3s	Number=Sing|Person=3	12	aux	_	_
 11	fost	fi	AUX	Vap--sm	Gender=Masc|Number=Sing|VerbForm=Part	12	cop	_	_
-12	apropiat	apropia	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	5	conj	_	_
+12	apropiat	apropiat	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	5	conj	_	_
 13	democraților	democrat	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	12	iobj	_	SpaceAfter=No
 14	,	,	PUNCT	COMMA	_	19	punct	_	_
 15	care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	19	nsubj	_	_
@@ -10519,7 +10519,7 @@
 3	lucrărilor	lucrare	NOUN	Ncfpoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Plur	11	obl	_	_
 4	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	6	nsubj	_	_
 5	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	6	expl:pass	_	_
-6	execută	executa	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	acl	_	SpaceAfter=No
+6	execută	executa	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	3	acl	_	SpaceAfter=No
 7	,	,	PUNCT	COMMA	_	3	punct	_	_
 8	Podul	pod	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	11	nsubj	_	_
 9	Traian	Traian	PROPN	Np	_	8	flat	_	_
@@ -10695,7 +10695,7 @@
 2	comunității	comunitate	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	1	nmod	_	_
 3	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	strâns	strâns	ADV	Rgp	Degree=Pos	5	advmod	_	_
-5	legată	lega	VERB	Vmp--sf	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+5	legată	legat	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
 6	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
 7	dispariția	dispariție	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	5	obl:pmod	_	_
 8	comunismului	comunism	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
@@ -11111,9 +11111,9 @@
 # newdoc id = FrameNet-b1
 # sent_id = dev-452
 # text = Firma a fost amendată cu un total de 2.437.
-1	Firma	firmă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	4	nsubj	_	_
+1	Firma	firmă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	4	nsubj:pass	_	_
 2	a	avea	AUX	Va--3s	Number=Sing|Person=3	4	aux	_	_
-3	fost	fi	AUX	Vap--sm	Gender=Masc|Number=Sing|VerbForm=Part	4	aux	_	_
+3	fost	fi	AUX	Vap--sm	Gender=Masc|Number=Sing|VerbForm=Part	4	aux:pass	_	_
 4	amendată	amenda	VERB	Vmp--sf	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
 5	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
 6	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	7	det	_	_
@@ -11124,16 +11124,16 @@
 
 # sent_id = dev-453
 # text = Mesele erau înviorate de lecturi sau poezii recitate sau scandate la comanda lui Charles.
-1	Mesele	masă	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	3	nsubj	_	_
-2	erau	fi	AUX	Vaii3p	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	aux	_	_
+1	Mesele	masă	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	3	nsubj:pass	_	_
+2	erau	fi	AUX	Vaii3p	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	aux:pass	_	_
 3	înviorate	înviora	VERB	Vmp--pf	Gender=Fem|Number=Plur|VerbForm=Part	0	root	_	_
 4	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
-5	lecturi	lectură	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	3	obl	_	_
+5	lecturi	lectură	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	3	obl:agent	_	_
 6	sau	sau	CCONJ	Ccssp	Polarity=Pos	7	cc	_	_
 7	poezii	poezie	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	5	conj	_	_
-8	recitate	recita	VERB	Vmp--pf	Gender=Fem|Number=Plur|VerbForm=Part	7	advcl	_	_
+8	recitate	recitat	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	7	amod	_	_
 9	sau	sau	CCONJ	Ccssp	Polarity=Pos	10	cc	_	_
-10	scandate	scanda	VERB	Vmp--pf	Gender=Fem|Number=Plur|VerbForm=Part	8	conj	_	_
+10	scandate	scandat	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	8	conj	_	_
 11	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	_
 12	comanda	comandă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	10	obl	_	_
 13	lui	lui	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	14	det	_	_
@@ -11150,7 +11150,7 @@
 6	să	să	PART	Qs	Mood=Sub	9	mark	_	_
 7	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	9	expl:pv	_	_
 8	fi	fi	AUX	Vanp	Tense=Pres|VerbForm=Inf	9	aux	_	_
-9	aventurat	aventura	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	5	ccomp	_	_
+9	aventurat	aventura	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	5	csubj	_	_
 10	astfel	astfel	ADV	Rgp	Degree=Pos	9	advmod	_	_
 11	prin	prin	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	_
 12	pădurea	pădure	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	9	obl	_	_
@@ -11158,11 +11158,11 @@
 14	,	,	PUNCT	COMMA	_	16	punct	_	_
 15	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	16	case	_	_
 16	nervii	nerv	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	9	obl	_	_
-17	încordați	încorda	VERB	Vmp--pm	Gender=Masc|Number=Plur|VerbForm=Part	16	amod	_	_
+17	încordați	încordat	ADJ	Afpmp-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	16	amod	_	_
 18	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc	20	case	_	_
 19	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	20	det	_	_
 20	zbârnăit	zbârnăit	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	17	obl	_	_
-21	brusc	brusc	ADV	Rgp	Degree=Pos	20	advmod	_	_
+21	brusc	brusc	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
 22	al	al	DET	Tsms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	23	det	_	_
 23	coardelor	coardă	NOUN	Ncfpoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Plur	20	nmod	_	_
 24	arcului	arc	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	23	nmod	_	SpaceAfter=No
@@ -11245,7 +11245,7 @@
 29	căci	căci	CCONJ	Ccssp	Polarity=Pos	32	mark	_	_
 30	erau	fi	AUX	Vaii3p	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	32	cop	_	_
 31	prea	prea	ADV	Rp	_	32	advmod	_	_
-32	mici	mic	ADJ	Afp-p-n	Definite=Ind|Degree=Pos|Number=Plur	15	acl	_	_
+32	mici	mic	ADJ	Afp-p-n	Definite=Ind|Degree=Pos|Number=Plur	25	advcl	_	_
 33	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc	36	mark	_	_
 34	a	a	PART	Qn	PartType=Inf	36	mark	_	_
 35	fi	fi	AUX	Vanp	Tense=Pres|VerbForm=Inf	36	aux	_	_
@@ -11258,7 +11258,7 @@
 
 # sent_id = dev-457
 # text = Era făcut de vestiții frați Boulting, care începuseră deja să ridiculizeze instituțiile naționale în comedii cum ar fi Cumnații, Lucky Jim și Sunt bine, Jack.
-1	Era	fi	AUX	Vaii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	aux	_	_
+1	Era	fi	AUX	Vaii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	aux:pass	_	_
 2	făcut	face	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 3	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
 4	vestiții	vestit	ADJ	Afpmpry	Case=Acc,Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur	5	amod	_	_
@@ -11280,12 +11280,12 @@
 20	Cumnații	cumnat	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	19	nsubj	_	SpaceAfter=No
 21	,	,	PUNCT	COMMA	_	22	punct	_	_
 22	Lucky	Lucky	PROPN	Np	_	20	conj	_	_
-23	Jim	Jim	PROPN	Np	_	22	fixed	_	_
+23	Jim	Jim	PROPN	Np	_	22	flat	_	_
 24	și	și	CCONJ	Crssp	Polarity=Pos	25	cc	_	_
-25	Sunt	fi	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	conj	_	_
-26	bine	bine	ADV	Rgp	Degree=Pos	25	fixed	_	SpaceAfter=No
+25	Sunt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	26	conj	_	_
+26	bine	bine	ADV	Rgp	Degree=Pos	20	flat	_	SpaceAfter=No
 27	,	,	PUNCT	COMMA	_	25	punct	_	_
-28	Jack	jack	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	25	fixed	_	SpaceAfter=No
+28	Jack	Jack	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	25	flat	_	SpaceAfter=No
 29	.	.	PUNCT	PERIOD	_	2	punct	_	_
 
 # sent_id = dev-458
@@ -11593,7 +11593,7 @@
 2	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
 3	perimetrul	perimetru	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	9	obl	_	_
 4	slab	slab	ADV	Rgp	Degree=Pos	5	advmod	_	_
-5	colonizat	coloniza	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	3	acl	_	_
+5	colonizat	colonizat	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
 6	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
 7	Europa	Europa	PROPN	Np	_	3	nmod	_	_
 8	au	avea	AUX	Va--3p	Number=Plur|Person=3	9	aux	_	_
@@ -11619,8 +11619,8 @@
 5	despre	despre	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	_
 6	faptul	fapt	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	3	nmod	_	_
 7	că	că	SCONJ	Csssp	Polarity=Pos	9	mark	_	_
-8	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
-9	infestat	infesta	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	6	acl	_	_
+8	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	infestat	infestat	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Foreign=Yes|Gender=Masc|Number=Sing	6	acl	_	_
 10	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	_
 11	HIV	HIV	PROPN	Np	_	9	obl	_	_
 12	devine	deveni	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -13545,7 +13545,7 @@
 18	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	20	case	_	_
 19	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	18	fixed	_	_
 20	părțile	parte	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	15	obl	_	_
-21	interesate	interesa	VERB	Vmp--pf	Gender=Fem|Number=Plur|VerbForm=Part	20	acl	_	_
+21	interesate	interesat	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	20	amod	_	_
 22	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	25	case	_	_
 23	vederea	vedere	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	22	fixed	_	_
 24	unei	un	DET	Tifso	Case=Dat,Gen|Gender=Fem|Number=Sing|PronType=Ind	25	det	_	_
@@ -13622,7 +13622,7 @@
 17	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	20	nsubj	_	_
 18	nu	nu	PART	Qz	Polarity=Neg	20	advmod	_	_
 19	sunt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
-20	destinate	destina	VERB	Vmp--pf	Gender=Fem|Number=Plur|VerbForm=Part	16	acl	_	_
+20	destinate	destinat	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	16	acl	_	_
 21	Comunității	comunitate	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	20	iobj	_	_
 22	sau	sau	CCONJ	Ccssp	Polarity=Pos	20	conj	_	_
 23	care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	24	nsubj	_	_
@@ -13733,7 +13733,7 @@
 3	:	:	PUNCT	COLON	_	1	punct	_	_
 4	"	"	PUNCT	DBLQ	_	5	punct	_	SpaceAfter=No
 5	Populația	populație	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	15	nsubj	_	_
-6	expusă	expune	VERB	Vmp--sf	Gender=Fem|Number=Sing|VerbForm=Part	5	acl	_	_
+6	expusă	expus	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
 7	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	_
 8	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	9	det	_	_
 9	nivel	nivel	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	6	obl:pmod	_	_
@@ -13742,7 +13742,7 @@
 12	decât	decât	ADV	Rc	_	13	advmod	_	_
 13	VL	VL	PROPN	Np	_	11	obl	_	SpaceAfter=No
 14	"	"	PUNCT	DBLQ	_	5	punct	_	_
-15	indică	indica	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+15	indică	indica	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 16	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	17	det	_	_
 17	estimare	estimare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	15	obj	_	_
 18	a	al	DET	Tsfs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	19	det	_	_
@@ -13833,7 +13833,7 @@
 18	,	,	PUNCT	COMMA	_	19	punct	_	_
 19	accesibilă	accesibil	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	14	conj	_	_
 20	prin	prin	ADP	Spsa	AdpType=Prep|Case=Acc	21	case	_	_
-21	TESTA	testa	VERB	Vmnp	Tense=Pres|VerbForm=Inf	19	obl	_	_
+21	TESTA	TESTA	PROPN	Np	_	19	obl	_	_
 22	și	și	CCONJ	Crssp	Polarity=Pos	23	cc	_	_
 23	conectată	conecta	VERB	Vmp--sf	Gender=Fem|Number=Sing|VerbForm=Part	14	conj	_	_
 24	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	25	case	_	_
@@ -13841,8 +13841,8 @@
 26	unei	un	DET	Tifso	Case=Dat,Gen|Gender=Fem|Number=Sing|PronType=Ind	27	det	_	_
 27	aplicații	aplicație	NOUN	Ncfson	Case=Dat,Gen|Definite=Ind|Gender=Fem|Number=Sing	25	nmod	_	_
 28	normale	normal	ADJ	Afpfson	Case=Dat,Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	27	amod	_	_
-29	e-	fi	VERB	Vmip3s----y	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Variant=Short|VerbForm=Fin	27	nmod	_	SpaceAfter=No
-30	mail	mail	NOUN	Ncms-n	Definite=Ind|Foreign=Yes|Gender=Masc|Number=Sing	29	flat	_	_
+29	e-	electronic	ADJ	Ya	Abbr=Yes	30	amod	_	SpaceAfter=No
+30	mail	mail	NOUN	Ncms-n	Definite=Ind|Foreign=Yes|Gender=Masc|Number=Sing	27	nmod	_	_
 31	SMTP	SMTP	PROPN	Np	_	27	nmod	_	SpaceAfter=No
 32	.	.	PUNCT	PERIOD	_	7	punct	_	_
 
@@ -13864,7 +13864,7 @@
 14	să	să	PART	Qs	Mood=Sub	15	mark	_	_
 15	trimită	trimite	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	12	conj	_	_
 16	experții	expert	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	12	obj	_	_
-17	desemnați	desemna	VERB	Vmp--pm	Gender=Masc|Number=Plur|VerbForm=Part	16	acl	_	_
+17	desemnați	desemnat	ADJ	Afpmp-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	16	amod	_	_
 18	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	19	case	_	_
 19	termen	termen	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	12	obl:tmod	_	_
 20	foarte	foarte	ADV	Rp	_	21	advmod	_	_
@@ -13912,18 +13912,18 @@
 # sent_id = dev-552
 # text = Se asigură că browser-ul web și sistemele de e-mail instalate suportă încriptarea SSL pe 128 biți.
 1	Se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	2	obj	_	_
-2	asigură	asigura	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	asigură	asigura	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	că	că	SCONJ	Csssp	Polarity=Pos	13	mark	_	_
 4	browser	browser	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	13	nsubj	_	SpaceAfter=No
 5	-ul	-ul	DET	Tfmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art|Variant=Short	4	det	_	_
 6	web	web	NOUN	Nc	_	4	nmod	_	_
 7	și	și	CCONJ	Crssp	Polarity=Pos	8	cc	_	_
 8	sistemele	sistem	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	4	conj	_	_
-9	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	_
-10	e-	fi	VERB	Vmip3s----y	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Variant=Short|VerbForm=Fin	8	nmod	_	SpaceAfter=No
-11	mail	mail	NOUN	Ncms-n	Definite=Ind|Foreign=Yes|Gender=Masc|Number=Sing	10	flat	_	_
-12	instalate	instala	VERB	Vmp--pf	Gender=Fem|Number=Plur|VerbForm=Part	8	acl	_	_
-13	suportă	suporta	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ccomp:pmod	_	_
+9	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	_
+10	e-	electronic	ADJ	Ya	Abbr=Yes	11	amod	_	SpaceAfter=No
+11	mail	mail	NOUN	Ncms-n	Definite=Ind|Foreign=Yes|Gender=Masc|Number=Sing	8	nmod	_	_
+12	instalate	instalat	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	8	amod	_	_
+13	suportă	suporta	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp:pmod	_	_
 14	încriptarea	încriptare	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	13	obj	_	_
 15	SSL	SSL	PROPN	Np	_	14	nmod	_	_
 16	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	18	case	_	_
@@ -14324,7 +14324,7 @@
 14	sau	sau	CCONJ	Ccssp	Polarity=Pos	16	cc	_	_
 15	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	16	det	_	_
 16	test	test	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	13	conj	_	_
-17	continuate	continua	VERB	Vmp--pf	Gender=Fem|Number=Plur|VerbForm=Part	13	acl	_	_
+17	continuate	continuat	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	13	amod	_	_
 18	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	20	case	_	_
 19	această	acest	DET	Dd3fsr---e	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|Position=Prenom|PronType=Dem	20	det	_	_
 20	bază	bază	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	17	obl	_	_
@@ -14342,13 +14342,13 @@
 2	14	14	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	8	parataxis	_	SpaceAfter=No
 3	)	)	PUNCT	RPAR	_	2	punct	_	_
 4	Acest	acest	DET	Dd3msr---e	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|Position=Prenom|PronType=Dem	5	det	_	_
-5	cadru	cadru	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	11	nsubj:pass	_	_
+5	cadru	cadru	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	11	nsubj	_	_
 6	general	general	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
 7	ar	avea	AUX	Va--3	Person=3	8	aux	_	_
 8	trebui	trebui	VERB	Vmnp	Tense=Pres|VerbForm=Inf	0	root	_	_
 9	să	să	PART	Qs	Mood=Sub	11	mark	_	_
-10	fie	fi	AUX	Vasp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	_
-11	deschis	deschide	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	8	csubj	_	_
+10	fie	fi	AUX	Vasp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+11	deschis	deschis	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	8	csubj	_	_
 12	participării	participare	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	11	iobj	_	_
 13	țărilor	țară	NOUN	Ncfpoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Plur	12	nmod	_	_
 14	asociate	asociat	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	13	amod	_	SpaceAfter=No
@@ -14539,7 +14539,7 @@
 20	fiecare	fiecare	DET	Di3-sr---e	Case=Acc,Nom|Number=Sing|Person=3|Position=Prenom|PronType=Ind	21	det	_	_
 21	an	an	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	18	obl	_	_
 22	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	23	case	_	_
-23	site	sită	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	18	obl	_	SpaceAfter=No
+23	site	site	NOUN	Nc	_	18	obl	_	SpaceAfter=No
 24	-ul	-ul	DET	Tfmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art|Variant=Short	23	det	_	_
 25	internet	internet	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	23	nmod	_	_
 26	al	al	DET	Tsms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	27	det	_	_
