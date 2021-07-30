@@ -89,11 +89,7 @@ This work was supported by a grant of the Romanian National Authority for Scient
 
 # REFERENCES
 
-V. Barbu Mititelu, R. Ion, R. Simionescu, E. Irimia, C-A Perez. 2016. The Romanian Treebank Annotated According to Universal Dependencies. Proceedings of HrTAL2016, Dubrovnik, Croatia, 29 September - 1 October 2016.
-R. Ion, E. Irimia, D. Ștefănescu, D. Tufiș. 2012. ROMBAC: The Romanian Balanced Annotated Corpus. Proceedings of LREC'12, Istanbul, Turkey.
-E. Irimia, V. Barbu Mititelu. 2015. Building a Romanian Dependency Treebank. Corpus Linguistics 2015, Lancaster, UK, 21-24 July 2015.
-C-A Perez. 2014. Resurse lingvistice pentru prelucrarea limbajului natural, PhD thesis, A.I. Cuza University of Iasi.
-
+Verginica Barbu Mititelu, “Modern Syntactic Analysis of Romanian”. In Ofelia Ichim, Luminiţa Botoşineanu, Daniela Butnaru, Marius-Radu Clim, Ofelia Ichim, Veronica Olariu (eds.), Clasic şi modern în cercetarea filologică românească actuală, Iaşi, Publishing House of "Alexandru Ioan Cuza" University, 2018, pp. 67-78.
 
 # CHANGELOG
 
