@@ -2940,7 +2940,7 @@
 8	aprilie	aprilie	NOUN	Ncm--n	Definite=Ind|Gender=Masc	7	nmod	_	SpaceAfter=No
 9	,	,	PUNCT	COMMA	_	12	punct	_	_
 10	dar	dar	CCONJ	Ccssp	Polarity=Pos	12	cc	_	_
-11	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	12	expl:impers	_	_
+11	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	12	expl:pv	_	_
 12	pare	părea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
 13	că	că	SCONJ	Csssp	Polarity=Pos	16	mark	_	_
 14	relația	relație	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	16	nsubj	_	_
@@ -16701,7 +16701,7 @@
 9	,	,	PUNCT	COMMA	_	12	punct	_	_
 10	cum	cum	ADV	Rw	PronType=Int,Rel	12	advmod	_	_
 11	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	12	expl:pv	_	_
-12	apropie	apropia	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
+12	apropie	apropia	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
 13	și	și	CCONJ	Crssp	Polarity=Pos	15	cc	_	_
 14	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	15	expl:pv	_	_
 15	depărtează	depărta	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	12	conj	_	_
@@ -17423,7 +17423,7 @@
 2	aceea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	5	obl	_	SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	2	punct	_	_
 4	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	5	expl:impers	_	_
-5	recomandă	recomanda	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	recomandă	recomanda	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	scăderea	scădere	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	5	nsubj	_	_
 7	aportului	aport	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	6	nmod	_	_
 8	lichidian	lichidian	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	SpaceAfter=No
@@ -17483,7 +17483,7 @@
 14	frecvent	frecvent	ADV	Rgp	Degree=Pos	11	nmod	_	SpaceAfter=No
 15	,	,	PUNCT	COMMA	_	7	punct	_	_
 16	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	17	expl:pass	_	_
-17	recomandă	recomanda	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+17	recomandă	recomanda	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 18	evitarea	evitare	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	17	nsubj:pass	_	_
 19	alimentelor	aliment	NOUN	Ncfpoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Plur	18	nmod	_	_
 20	mai	mai	ADV	Rp	_	21	advmod	_	_
@@ -17649,7 +17649,7 @@
 18	,	,	PUNCT	COMMA	_	19	punct	_	_
 19	scară	scară	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	11	appos	_	_
 20	care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	21	nsubj	_	_
-21	determină	determina	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	acl	_	_
+21	determină	determina	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	19	acl	_	_
 22	trei	trei	NUM	Mc-p-l	Number=Plur|NumForm=Word|NumType=Card	23	nummod	_	_
 23	nivele	nivel	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	21	xcomp	_	_
 24	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	27	case	_	_
@@ -18137,7 +18137,7 @@
 12	care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	15	nsubj	_	_
 13	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	15	mark	_	_
 14	fapt	fapt	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	13	fixed	_	_
-15	indică	indica	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	acl	_	_
+15	indică	indica	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	11	acl	_	_
 16	însuși	însuși	DET	Dh3ms	Gender=Masc|Number=Sing|Person=3|PronType=Emp	17	det	_	_
 17	drumul	drum	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	15	obj	_	_
 18	parcurs	parcurge	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	17	acl	_	_
@@ -18412,7 +18412,7 @@
 21	al	al	DET	Tsms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	22	det	_	_
 22	II	doi	NUM	Mo-s-r	Number=Sing|NumForm=Roman|NumType=Ord	20	nummod	_	SpaceAfter=No
 23	-lea	-lea	DET	Tfms-y	Definite=Def|Gender=Masc|Number=Sing|PronType=Art|Variant=Short	22	det	_	_
-24	suspendă	suspenda	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+24	suspendă	suspenda	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 25	Constituția	constituție	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	24	obj	_	_
 26	României	România	PROPN	Npfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	25	nmod	_	_
 27	și	și	CCONJ	Crssp	Polarity=Pos	29	cc	_	_
@@ -18455,7 +18455,7 @@
 2	,	,	PUNCT	COMMA	_	1	punct	_	_
 3	Antonescu	Antonescu	PROPN	Np	_	5	nsubj	_	_
 4	își	sine	PRON	Px3--d--------w	Case=Dat|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	5	expl:pv	_	_
-5	asumă	asuma	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	asumă	asuma	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	puteri	putere	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	5	obj	_	_
 7	dictatoriale	dictatorial	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	6	amod	_	_
 8	și	și	CCONJ	Crssp	Polarity=Pos	9	cc	_	_
@@ -19060,7 +19060,7 @@
 
 # sent_id = dev-741
 # text = Rezultă că pentru orice lungime de undă raportul dintre puterea emisă de o suprafață materială oarecare și puterea emisă de suprafața corpului negru este egal cu coeficientul de absorbție al materialului pentru lungimea de undă respectivă.
-1	Rezultă	rezulta	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+1	Rezultă	rezulta	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	că	că	SCONJ	Csssp	Polarity=Pos	25	mark	_	_
 3	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
 4	orice	orice	DET	Di3--r---e	Case=Acc,Nom|Person=3|Position=Prenom|PronType=Ind	5	det	_	_
@@ -19173,7 +19173,7 @@
 22	,	,	PUNCT	COMMA	_	25	punct	_	_
 23	care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	25	nsubj:pass	_	_
 24	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	25	expl:pass	_	_
-25	determină	determina	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	acl	_	_
+25	determină	determina	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	18	acl	_	_
 26	teoretic	teoretic	ADV	Rgp	Degree=Pos	25	advmod	_	_
 27	(	(	PUNCT	LPAR	_	33	punct	_	SpaceAfter=No
 28	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	31	case	_	_
@@ -19336,7 +19336,7 @@
 14	culoarea	culoare	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	17	nsubj	_	_
 15	acestuia	acesta	PRON	Pd3mso	Case=Dat,Gen|Gender=Masc|Number=Sing|Person=3|PronType=Dem	14	nmod	_	_
 16	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	17	expl:pv	_	_
-17	schimbă	schimba	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	ccomp	_	_
+17	schimbă	schimba	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
 18	(	(	PUNCT	LPAR	_	22	punct	_	SpaceAfter=No
 19	lungimea	lungime	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	22	nsubj	_	_
 20	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	21	case	_	_
