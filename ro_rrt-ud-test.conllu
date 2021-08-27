@@ -1822,7 +1822,7 @@
 8	,	,	PUNCT	COMMA	_	9	punct	_	_
 9	suprafață	suprafața	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	2	nmod	_	_
 10	130	130	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	11	nummod	_	_
-!11	mp	metri_pătrați	X	Y	Abbr=Yes	9	obl	_	SpaceAfter=No
+11	mp	metri_pătrați	X	Y	Abbr=Yes	9	nmod	_	SpaceAfter=No
 12	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
 # sent_id = test-78
@@ -3180,7 +3180,7 @@
 13	,	,	PUNCT	COMMA	_	14	punct	_	_
 14	preparate	preparat	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	5	conj	_	_
 15	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	16	case	_	_
-!16	orez	orez	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	14	obl	_	_
+16	orez	orez	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	14	nmod	_	_
 17	sau	sau	CCONJ	Ccssp	Polarity=Pos	18	cc	_	_
 18	paste	pastă	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	16	conj	_	SpaceAfter=No
 19	,	,	PUNCT	COMMA	_	20	punct	_	_
@@ -3195,7 +3195,7 @@
 28	,	,	PUNCT	COMMA	_	29	punct	_	_
 29	preparate	preparat	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	5	conj	_	_
 30	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	31	case	_	_
-!31	pește	pește	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	29	obl	_	SpaceAfter=No
+31	pește	pește	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	29	nmod	_	SpaceAfter=No
 32	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
 # sent_id = test-136
@@ -3489,10 +3489,10 @@
 6	Presă	presă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	4	nmod	_	_
 7	Agenda	agendă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	4	nmod	_	_
 8	premiază	premia	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-9	primul	prim	NUM	Momsrly	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|NumForm=Word|NumType=Ord	10	nummod	_	_
-10	născut	născut	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	8	obj	_	_
+9	primul	prim	NUM	Momsrly	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|NumForm=Word|NumType=Ord	8	obj	_	_
+10	născut	naște	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	9	acl	_	_
 11	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	_
-!12	Timișoara	Timișoara	PROPN	Np	_	10	obl	_	_
+12	Timișoara	Timișoara	PROPN	Np	_	10	obl	_	_
 13	al	al	DET	Tsms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	15	det	_	_
 14	fiecărui	fiecare	DET	Di3mso---e	Case=Dat,Gen|Gender=Masc|Number=Sing|Person=3|Position=Prenom|PronType=Ind	15	det	_	_
 15	an	an	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
@@ -3720,7 +3720,7 @@
 107	alte	alt	DET	Di3fpr---e	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|Position=Prenom|PronType=Ind	108	det	_	_
 108	scopuri	scop	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	103	obl	_	_
 109	decât	decât	ADV	Rc	_	110	case	_	_
-!110	cele	acela	PRON	Pd3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem	107	nmod	_	_
+110	cele	acela	PRON	Pd3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem	108	nmod	_	_
 111	prevăzute	prevedea	VERB	Vmp--pf	Gender=Fem|Number=Plur|VerbForm=Part	110	amod	_	_
 112	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	113	case	_	_
 113	articolul	articol	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	111	obl	_	_
@@ -3974,7 +3974,7 @@
 24	3	3	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	23	nummod	_	_
 25	litera	litera	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	23	nmod	_	_
 26	(	(	PUNCT	LPAR	_	27	punct	_	SpaceAfter=No
-!27	a	a	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	25	obl	_	SpaceAfter=No
+27	a	a	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	25	nmod	_	SpaceAfter=No
 28	)	)	PUNCT	RPAR	_	27	punct	_	_
 29	și	și	CCONJ	Crssp	Polarity=Pos	32	cc	_	_
 30	fără	fără	ADP	Spsa	AdpType=Prep|Case=Acc	32	mark	_	_
@@ -4113,7 +4113,7 @@
 9	3	3	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	8	nummod	_	_
 10	litera	litera	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	8	nmod	_	_
 11	(	(	PUNCT	LPAR	_	12	punct	_	SpaceAfter=No
-!12	a	a	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
+12	a	a	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
 13	)	)	PUNCT	RPAR	_	12	punct	_	_
 14	și	și	CCONJ	Crssp	Polarity=Pos	4	cc	_	ToDo=cc-without-conj
 15	fără	fără	ADP	Spsa	AdpType=Prep|Case=Acc	17	case	_	_
@@ -4795,7 +4795,7 @@
 23	convenției	convenție	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	22	iobj	_	_
 24	și	și	CCONJ	Crssp	Polarity=Pos	29	cc	_	_
 25	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc	26	case	_	_
-!26	care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	29	obl	_	_
+26	care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	29	obl	_	_
 27	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	cop	_	_
 28	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	29	case	_	_
 29	vigoare	vigoare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	19	conj	_	_
@@ -15465,7 +15465,7 @@
 15	formele	formă	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	10	obj	_	_
 16	depreciate	depreciat	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	15	amod	_	_
 17	ale	al	DET	Tsfp	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	19	det	_	_
-!18	celui	acel	PRON	Pd3mso	Case=Dat,Gen|Gender=Masc|Number=Sing|Person=3|PronType=Dem	19	nmod	_	_
+18	celui	cel	DET	Tdmso	Case=Dat,Gen|Gender=Masc|Number=Sing|PronType=Dem	19	det	_	_
 19	francez	francez	ADJ	Afpms-n	Definite=Ind|Gender=Masc|Number=Sing	15	amod	_	SpaceAfter=No
 20	.	.	PUNCT	PERIOD	_	8	punct	_	_
 
@@ -18500,8 +18500,8 @@
 # text = Se trasează caracteristica I = I (U) pentru diferite fluxuri ale luminii incidente și pentru diferite frecvențe ale acesteia.
 1	Se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	2	expl:pass	_	_
 2	trasează	trasa	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	caracteristica	caracteristic	ADJ	Afpfsry	Case=Acc,Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	2	nsubj:pass	_	_
-!4	I	I	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	3	nmod	_	_
+3	caracteristica	caracteristică	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	2	nsubj:pass	_	_
+4	I	I	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	3	nmod	_	_
 5	=	=	PUNCT	EQUAL	_	4	punct	_	_
 6	I	I	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	4	nmod	_	_
 7	(	(	PUNCT	LPAR	_	8	punct	_	SpaceAfter=No
