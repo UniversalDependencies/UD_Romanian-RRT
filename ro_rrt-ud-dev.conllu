@@ -1658,7 +1658,7 @@
 3	lăsă	lăsa	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	brațele	braț	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	3	iobj	_	_
 5	să	să	PART	Qs	Mood=Sub	7	mark	_	SpaceAfter=No
-6	-i	el	PRON	Pp3mpa--y-----w	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Strength=Weak|Variant=Short	7	iobj	_	_
+6	-i	el	PRON	Pp3mpa--y-----w	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Strength=Weak|Variant=Short	7	expl:poss	_	_
 7	cadă	cădea	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
 8	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	_
 9	lângă	lângă	ADP	Spsa	AdpType=Prep|Case=Acc	8	fixed	_	_
@@ -3836,7 +3836,7 @@
 3	informații	informație	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	7	nsubj:pass	_	_
 4	științifice	științific	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	3	amod	_	_
 5	au	avea	AUX	Va--3p	Number=Plur|Person=3	7	aux	_	_
-6	fost	fi	AUX	Vap--sm	Gender=Masc|Number=Sing|VerbForm=Part	7	aux	_	_
+6	fost	fi	AUX	Vap--sm	Gender=Masc|Number=Sing|VerbForm=Part	7	aux:pass	_	_
 7	aduse	aduce	VERB	Vmp--pf	Gender=Fem|Number=Plur|VerbForm=Part	0	root	_	_
 8	integral	integral	ADV	Rgp	Degree=Pos	7	advmod	_	_
 9	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	_
@@ -4434,7 +4434,7 @@
 14	pasăre	pasăre	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	11	nmod	_	_
 15	care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	18	nsubj:pass	_	_
 16	nu	nu	PART	Qz	Polarity=Neg	18	advmod	_	_
-17	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
+17	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux:pass	_	_
 18	destinată	destina	VERB	Vmp--sf	Gender=Fem|Number=Sing|VerbForm=Part	11	acl	_	_
 19	comerțului	comerț	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	18	iobj	_	_
 20	intracomunitar	intracomunitar	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	_
@@ -4812,12 +4812,12 @@
 # sent_id = dev-169
 # text = Efectele se limitează de regulă la ambalaj și nu provoacă în mod normal proiectarea unor fragmente de dimensiuni apreciabile sau la distanțe apreciabile.
 1	Efectele	efect	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	3	nsubj	_	_
-2	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	3	expl:pass	_	_
+2	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	3	expl:pv	_	_
 3	limitează	limita	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
 5	regulă	regulă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	3	obl	_	_
 6	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
-7	ambalaj	ambalaj	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	3	obl	_	_
+7	ambalaj	ambalaj	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	3	obl:pmod	_	_
 8	și	și	CCONJ	Crssp	Polarity=Pos	10	cc	_	_
 9	nu	nu	PART	Qz	Polarity=Neg	10	advmod	_	_
 10	provoacă	provoca	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
@@ -4930,16 +4930,16 @@
 2	cazul	caz	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	13	obl	_	_
 3	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	_
 4	care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	8	obl	_	_
-5	cantitatea	cantitate	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	8	nsubj:pass	_	_
+5	cantitatea	cantitate	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	8	nsubj	_	_
 6	nu	nu	PART	Qz	Polarity=Neg	8	advmod	_	_
-7	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+7	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
 8	cunoscută	cunoscut	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	2	acl	_	SpaceAfter=No
 9	,	,	PUNCT	COMMA	_	2	punct	_	_
 10	întregul	întreg	ADJ	Afpmsry	Case=Acc,Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
-11	obiect	obiect	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	13	nsubj	_	_
-12	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+11	obiect	obiect	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	13	nsubj:pass	_	_
+12	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux:pass	_	_
 13	considerat	considera	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
-14	explozibil	explozibil	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	13	obl	_	_
+14	explozibil	explozibil	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	13	xcomp	_	_
 15	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	16	case	_	_
 16	sensul	sens	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	13	obl	_	_
 17	prezentei	prezent	ADJ	Afpfsoy	Case=Dat,Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
@@ -5069,12 +5069,12 @@
 18	anumite	anumit	DET	Di3fp	Gender=Fem|Number=Plur|Person=3|PronType=Ind	19	det	_	_
 19	privințe	privință	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	27	obl	_	SpaceAfter=No
 20	,	,	PUNCT	COMMA	_	19	punct	_	_
-21	dispozițiile	dispoziție	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	27	nsubj	_	_
+21	dispozițiile	dispoziție	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	27	nsubj:pass	_	_
 22	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	23	case	_	_
 23	convenția	convenție	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	21	nmod	_	_
 24	menționată	menționat	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	_
 25	să	să	PART	Qs	Mood=Sub	27	mark	_	_
-26	fie	fi	AUX	Vasp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	27	aux	_	_
+26	fie	fi	AUX	Vasp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	27	aux:pass	_	_
 27	depășite	depăși	VERB	Vmp--pf	Gender=Fem|Number=Plur|VerbForm=Part	12	csubj	_	SpaceAfter=No
 28	.	.	PUNCT	PERIOD	_	12	punct	_	_
 
@@ -5144,10 +5144,10 @@
 4	aceasta	acesta	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	15	obl	_	SpaceAfter=No
 5	,	,	PUNCT	COMMA	_	4	punct	_	_
 6	și	și	CCONJ	Crssp	Polarity=Pos	7	advmod	_	_
-7	produsele	produs	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	17	nsubj	_	_
+7	produsele	produs	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	17	nsubj:pass	_	_
 8	chimice	chimic	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	7	amod	_	_
 9	care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	11	nsubj	_	_
-10	sunt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+10	sunt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	_
 11	supuse	supune	VERB	Vmp--pf	Gender=Fem|Number=Plur|VerbForm=Part	7	acl	_	_
 12	procedurii	procedură	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	11	iobj	_	_
 13	APS	APS	PROPN	Np	_	12	nmod	_	_
@@ -5308,7 +5308,7 @@
 23	să	să	PART	Qs	Mood=Sub	25	mark	_	_
 24	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	25	expl:pass	_	_
 25	poată	putea	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	15	advcl	_	_
-26	utiliza	utiliza	VERB	Vmnp	Tense=Pres|VerbForm=Inf	25	obj	_	_
+26	utiliza	utiliza	VERB	Vmnp	Tense=Pres|VerbForm=Inf	25	ccomp	_	_
 27	eficient	eficient	ADV	Rgp	Degree=Pos	26	advmod	_	_
 28	și	și	CCONJ	Crssp	Polarity=Pos	29	cc	_	_
 29	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	27	conj	_	_
@@ -5352,11 +5352,11 @@
 12	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	10	fixed	_	_
 13	produsele	produs	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	9	nmod	_	_
 14	chimice	chimic	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	13	amod	_	_
-15	care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	17	nsubj	_	_
+15	care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	20	nsubj:pass	_	_
 16	ar	avea	AUX	Va--3	Person=3	17	aux	_	_
 17	trebui	trebui	VERB	Vmnp	Tense=Pres|VerbForm=Inf	13	acl	_	_
 18	să	să	PART	Qs	Mood=Sub	20	mark	_	_
-19	fie	fi	AUX	Vasp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
+19	fie	fi	AUX	Vasp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	20	aux:pass	_	_
 20	supuse	supune	VERB	Vmp--pf	Gender=Fem|Number=Plur|VerbForm=Part	17	ccomp	_	_
 21	acestui	acest	DET	Dd3mso---e	Case=Dat,Gen|Gender=Masc|Number=Sing|Person=3|Position=Prenom|PronType=Dem	22	det	_	_
 22	control	control	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	20	iobj	_	_
@@ -5462,9 +5462,9 @@
 # newdoc id = Acquis-b3-ttl
 # sent_id = dev-193
 # text = Ambalajul coletului este conceput astfel încât să faciliteze manipularea și transportul unui anumit număr de ambalaje de vânzare sau de produse în vrac sau clasificate, pentru a evita manipularea lor fizică și daunele legate de transport.
-1	Ambalajul	ambalaj	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	4	nsubj	_	_
+1	Ambalajul	ambalaj	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	4	nsubj:pass	_	_
 2	coletului	colet	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	1	nmod	_	_
-3	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
 4	conceput	concepe	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 5	astfel	astfel	ADV	Rgp	Degree=Pos	8	advmod	_	_
 6	încât	încât	SCONJ	Csssp	Polarity=Pos	5	fixed	_	_
@@ -5565,8 +5565,8 @@
 3	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	_
 4	vânzare	vânzare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
 5	,	,	PUNCT	COMMA	_	2	punct	_	_
-6	preambalajele	preambalajele	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	8	nsubj	_	_
-7	sunt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+6	preambalajele	preambalajele	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	8	nsubj:pass	_	_
+7	sunt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	aux:pass	_	_
 8	concepute	concepe	VERB	Vmp--pf	Gender=Fem|Number=Plur|VerbForm=Part	0	root	_	_
 9	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	14	advmod	_	_
 10	așa	așa	ADJ	Afp	Degree=Pos	9	fixed	_	_
@@ -5587,7 +5587,7 @@
 25	să	să	PART	Qs	Mood=Sub	27	mark	_	_
 26	nu	nu	PART	Qz	Polarity=Neg	27	advmod	_	_
 27	poată	putea	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	14	conj	_	_
-28	fi	fi	AUX	Vanp	Tense=Pres|VerbForm=Inf	29	aux	_	_
+28	fi	fi	AUX	Vanp	Tense=Pres|VerbForm=Inf	29	aux:pass	_	_
 29	modificat	modifica	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	27	obj	_	_
 30	fără	fără	ADP	Spsa	AdpType=Prep|Case=Acc	34	mark	_	_
 31	ca	ca	ADV	Rc	_	30	fixed	_	_
