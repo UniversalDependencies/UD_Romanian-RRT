@@ -3632,7 +3632,7 @@
 3	verificări	verificare	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	5	obl	_	_
 4	a	avea	AUX	Va--3s	Number=Sing|Person=3	5	aux	_	_
 5	rezultat	rezulta	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
-6	faptul	fapt	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	5	obj	_	_
+6	faptul	fapt	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	5	nsubj	_	_
 7	că	că	SCONJ	Csssp	Polarity=Pos	13	mark	_	_
 8	Sergiu	Sergiu	PROPN	Np	_	13	nsubj	_	_
 9	Marius	Marius	PROPN	Np	_	8	flat	_	_
@@ -4880,7 +4880,7 @@
 7	extrem	extrem	ADV	Rgs	Degree=Sup	10	advmod	_	_
 8	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
 9	puțin	puțin	ADV	Rgp	Degree=Pos	10	advmod	_	_
-10	sensibile	sensibil	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	3	amod	_	_
+10	sensibile	sensibil	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	5	amod	_	_
 11	și	și	CCONJ	Crssp	Polarity=Pos	12	cc	_	_
 12	prezintă	prezenta	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
 13	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	14	det	_	_
@@ -8460,7 +8460,7 @@
 7	gard	gard	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	14	obl	_	_
 8	prostia	prostie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	14	obj	_	_
 9	cine	cine	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	11	nsubj	_	_
-10	mai	mai	ADV	Rp	_	11	obl	_	_
+10	mai	mai	ADV	Rp	_	11	advmod	_	_
 11	știa	ști	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 12	s-	să	PART	Qs-y	Mood=Sub|Variant=Short	14	mark	_	SpaceAfter=No
 13	o	el	PRON	Pp3fsa--------w	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak	14	expl	_	_
@@ -9091,7 +9091,7 @@
 6	suplimentare	suplimentar	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	5	amod	_	SpaceAfter=No
 7	,	,	PUNCT	COMMA	_	3	punct	_	_
 8	adresați	adresa	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	SpaceAfter=No
-9	-vă	tu	PRON	Pp2-pa--y-----w	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Weak|Variant=Short	8	obj	_	_
+9	-vă	tu	PRON	Pp2-pa--y-----w	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Weak|Variant=Short	8	expl:pv	_	_
 10	medicului	medic	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	8	iobj	_	_
 11	dumneavoastră	dumneavoastră	PRON	Pp2-----------s	Person=2|PronType=Prs|Strength=Strong	10	nmod	_	_
 12	sau	sau	CCONJ	Ccssp	Polarity=Pos	13	cc	_	_
@@ -9132,7 +9132,7 @@
 12	au	avea	AUX	Va--3p	Number=Plur|Person=3	15	aux	_	_
 13	fost	fi	AUX	Vap--sm	Gender=Masc|Number=Sing|VerbForm=Part	15	cop	_	_
 14	semnificativ	semnificativ	ADV	Rgp	Degree=Pos	15	advmod	_	_
-15	diferite	diferi	VERB	Vmp--pf	Gender=Fem|Number=Plur|VerbForm=Part	5	conj	_	_
+15	diferite	diferit	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	5	conj	_	_
 16	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	15	obl	_	_
 17	punct	punct	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	16	fixed	_	_
 18	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	16	fixed	_	_
@@ -9798,7 +9798,7 @@
 18	adverse	advers	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	17	amod	_	SpaceAfter=No
 19	,	,	PUNCT	COMMA	_	21	punct	_	_
 20	unele	unul	PRON	Pi3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	21	nsubj	_	_
-21	neapărând	apăra	VERB	Vmg	VerbForm=Ger	3	advcl	_	_
+21	neapărând	apărea	VERB	Vmg	VerbForm=Ger	3	advcl	_	_
 22	deloc	deloc	ADV	Rgp	Degree=Pos	21	advmod	_	SpaceAfter=No
 23	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
@@ -10221,7 +10221,7 @@
 21	femeilor	femeie	NOUN	Ncfpoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Plur	20	nmod	_	_
 22	care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	23	nsubj	_	_
 23	iau	lua	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	acl	_	_
-24	Tracleer	Tracleer	PROPN	Np	_	23	ccomp	_	SpaceAfter=No
+24	Tracleer	Tracleer	PROPN	Np	_	23	obj	_	SpaceAfter=No
 25	.	.	PUNCT	PERIOD	_	2	punct	_	_
 
 # sent_id = dev-410
@@ -10729,7 +10729,7 @@
 13	martie	martie	NOUN	Ncm--n	Definite=Ind|Gender=Masc	10	nmod	_	SpaceAfter=No
 14	,	,	PUNCT	COMMA	_	6	punct	_	_
 15	să	să	PART	Qs	Mood=Sub	16	mark	_	_
-16	îndulcim	îndulci	VERB	Vmip1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	xcomp	_	_
+16	îndulcim	îndulci	VERB	Vmip1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	ccomp:pmod	_	_
 17	condițiile	condiție	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	16	obj	_	_
 18	impuse	impune	VERB	Vmp--pf	Gender=Fem|Number=Plur|VerbForm=Part	17	acl	_	_
 19	românilor	român	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	18	iobj	_	_
@@ -11074,7 +11074,7 @@
 2	cât	cât	ADV	Rw	PronType=Int,Rel	3	advmod	_	_
 3	poți	putea	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	advcl	_	_
 4	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
-5	măreția	măreție	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	1	iobj	_	_
+5	măreția	măreție	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	1	obl:pmod	_	_
 6	omului	om	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
 7	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
