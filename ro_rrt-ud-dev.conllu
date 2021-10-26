@@ -9758,7 +9758,7 @@
 7	vaccinarea	vaccinare	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	6	nsubj	_	_
 8	separată	separat	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
 9	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	_
-10	vaccin	vaccin	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	7	nmod:pmod	_	_
+10	vaccin	vaccin	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	7	obl:pmod	_	_
 11	HBV	HBV	PROPN	Np	_	10	nmod	_	_
 12	și	și	CCONJ	Crssp	Polarity=Pos	13	cc	_	_
 13	vaccin	vaccin	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	10	conj	_	_
@@ -11282,9 +11282,9 @@
 22	Lucky	Lucky	PROPN	Np	_	20	conj	_	_
 23	Jim	Jim	PROPN	Np	_	22	flat	_	_
 24	și	și	CCONJ	Crssp	Polarity=Pos	25	cc	_	_
-25	Sunt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	26	conj	_	_
+25	Sunt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	conj	_	_
 26	bine	bine	ADV	Rgp	Degree=Pos	20	flat	_	SpaceAfter=No
-27	,	,	PUNCT	COMMA	_	25	punct	_	_
+27	,	,	PUNCT	COMMA	_	28	punct	_	_
 28	Jack	Jack	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	25	flat	_	SpaceAfter=No
 29	.	.	PUNCT	PERIOD	_	2	punct	_	_
 
@@ -15416,7 +15416,7 @@
 5	cuprinde	cuprinde	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	articolele	articol	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	5	obj	_	_
 7	destinate	destinat	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	6	amod	_	_
-8	a	a	PART	Qn	PartType=Inf	9	mark	_	_
+8	a	a	PART	Qn	PartType=Inf	10	mark	_	_
 9	fi	fi	AUX	Vanp	Tense=Pres|VerbForm=Inf	10	aux:pass	_	_
 10	așezate	așeza	VERB	Vmp--pf	Gender=Fem|Number=Plur|VerbForm=Part	7	advcl	_	_
 11	sub	sub	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	_
