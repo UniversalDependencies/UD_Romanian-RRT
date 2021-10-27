@@ -4585,7 +4585,7 @@
 10	.	.	PUNCT	PERIOD	_	2	punct	_	_
 
 # sent_id = dev-164
-# text = (13) Modificările propuse la Directiva 96 / 22 / CEE sunt necesare dacă se dorește obținerea nivelului ales de protecție a sănătății împotriva reziduurilor prezente în carnea animalelor de fermă tratate cu acești hormoni de stimulare a creșterii, cu respectarea principiilor generale ale legislației alimentare definite în Regulamentul (CE) nr. 178 / 2002 și a obligațiilor internaționale ale Comunității.
+# text = (13) Modificările propuse la Directiva 96/22/CEE sunt necesare dacă se dorește obținerea nivelului ales de protecție a sănătății împotriva reziduurilor prezente în carnea animalelor de fermă tratate cu acești hormoni de stimulare a creșterii, cu respectarea principiilor generale ale legislației alimentare definite în Regulamentul (CE) nr. 178/2002 și a obligațiilor internaționale ale Comunității.
 1	(	(	PUNCT	LPAR	_	2	punct	_	SpaceAfter=No
 2	13	13	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	14	parataxis	_	SpaceAfter=No
 3	)	)	PUNCT	RPAR	_	2	punct	_	_
@@ -4593,10 +4593,10 @@
 5	propuse	propus	VERB	Vmp--pf	Gender=Fem|Number=Plur|VerbForm=Part	4	amod	_	_
 6	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
 7	Directiva	directivă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	4	nmod	_	_
-8	96	96	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	7	nummod	_	_
-9	/	/	PUNCT	SLASH	AdpType=Prep	7	punct	_	_
-10	22	22	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	7	nummod	_	_
-11	/	/	PUNCT	SLASH	AdpType=Prep	7	punct	_	_
+8	96	96	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	7	nummod	_	SpaceAfter=No
+9	/	/	PUNCT	SLASH	AdpType=Prep	7	punct	_	SpaceAfter=No
+10	22	22	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	7	nummod	_	SpaceAfter=No
+11	/	/	PUNCT	SLASH	AdpType=Prep	7	punct	_	SpaceAfter=No
 12	CEE	Comunitatea_Economică_Europeană	NOUN	Yn	Abbr=Yes	7	nmod	_	_
 13	sunt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
 14	necesare	necesar	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	0	root	_	_
@@ -4641,8 +4641,8 @@
 53	CE	Comisia_Europeană	NOUN	Yn	Abbr=Yes	51	nmod	_	SpaceAfter=No
 54	)	)	PUNCT	RPAR	_	53	punct	_	_
 55	nr.	număr	NOUN	Yn	Abbr=Yes	51	nmod	_	_
-56	178	178	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	55	nummod	_	_
-57	/	/	PUNCT	SLASH	AdpType=Prep	51	punct	_	_
+56	178	178	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	55	nummod	_	SpaceAfter=No
+57	/	/	PUNCT	SLASH	AdpType=Prep	51	punct	_	SpaceAfter=No
 58	2002	2002	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	51	nummod	_	_
 59	și	și	CCONJ	Crssp	Polarity=Pos	61	cc	_	_
 60	a	al	DET	Tsfs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	61	det	_	_
