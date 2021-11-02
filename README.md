@@ -111,8 +111,8 @@ Verginica Barbu Mititelu, “Modern Syntactic Analysis of Romanian”. In Ofelia
 - UD 2.0 --> 2.1: no modifications to the previous version.
 - UD 2.1 --> 2.2: repository renamed from UD_Romanian to UD_Romanian-RRT
 - UD 2.6 --> 2.7: manual improvement of the annotations, concerning POS-tagging, syntactic labeling
-- UD 2.7 --> 2.8: automatic (but manually checked) improved POS-tagging, mainly for numerals and auxiliaries; some automatic dependency relation corrections (`obl` for nouns headed by verbs, `nsubj:pass` for subjects of passive constructions).  Correction scripts are in GitHub at [ro-ud-autocorrect](https://github.com/racai-ai/ro-ud-autocorrect).
-
+- UD 2.7 --> 2.8: automatic (then manually checked) improved POS-tagging, mainly for numerals and auxiliaries; some automatic dependency relation corrections (`obl` for nouns headed by verbs, `nsubj:pass` for subjects of passive constructions).  Correction scripts are in GitHub at [ro-ud-autocorrect](https://github.com/racai-ai/ro-ud-autocorrect).
+- UD 2.8 --> 2.9: solving the verbal homography between present and past simple, the pronominal homonymy between dativ singular and accusative plural, the nominal homonymy between singular oblique cases and all cases in the plural; consistent use of the obl and nmod relations according to the guidelines.
 
 <pre>
 === Machine-readable metadata =================================================
