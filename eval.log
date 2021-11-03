@@ -1,0 +1,44 @@
+Running the following version of UD tools:
+commit 3478a99bb195eb8749c367af4f7b3fd357a12a4c
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 2 22:17:19 2021 +0100
+Evaluating the following revision of UD_Romanian-RRT:
+commit d9de5ea58831bbff7ff80cb8baf17fbfe28b854d
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Wed Nov 3 14:57:43 2021 +0100
+Size: counted 218510 of 218510 words (nodes).
+Size: min(0, log((N/1000)**2)) = 10.7736635601576.
+Size: maximum value 13.815511 is for 1000000 words or more.
+Split: Found more than 10000 training words.
+Split: Found at least 10000 development words.
+Split: Found at least 10000 test words.
+Lemmas: source of annotation (from README) factor is 0.4.
+Universal POS tags: 16 out of 17 found in the corpus.
+Universal POS tags: source of annotation (from README) factor is 0.9.
+Features: 182742 out of 218510 total words have one or more features.
+Features: source of annotation (from README) factor is 0.9.
+Universal relations: 35 out of 37 found in the corpus.
+Universal relations: source of annotation (from README) factor is 1.
+Udapi:
+               TOTAL         67
+Udapi: found 67 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 218510 words.
+Genres: found 7 out of 17 known.
+validate.py --lang ro --max-err=10 UD_Romanian-RRT/ro_rrt-ud-dev.conllu
+*** PASSED ***
+validate.py --lang ro --max-err=10 UD_Romanian-RRT/ro_rrt-ud-test.conllu
+*** PASSED ***
+validate.py --lang ro --max-err=10 UD_Romanian-RRT/ro_rrt-ud-train.conllu
+*** PASSED ***
+Validity: 1
+(weight=0.0769230769230769) * (score{features}=0.9) = 0.0692307692307692
+(weight=0.0769230769230769) * (score{genres}=0.411764705882353) = 0.0316742081447964
+(weight=0.0769230769230769) * (score{lemmas}=0.4) = 0.0307692307692308
+(weight=0.256410256410256) * (score{size}=0.779823772343095) = 0.199954813421306
+(weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
+(weight=0.0769230769230769) * (score{tags}=0.847058823529412) = 0.065158371040724
+(weight=0.307692307692308) * (score{udapi}=0.996933778774427) = 0.306748855007516
+(weight=0.0769230769230769) * (score{udeprels}=0.945945945945946) = 0.0727650727650728
+(TOTAL score=0.827583371661467) * (availability=1) * (validity=1) = 0.827583371661467
+STARS = 4
+UD_Romanian-RRT	0.827583371661467	4
