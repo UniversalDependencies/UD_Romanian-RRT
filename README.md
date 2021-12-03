@@ -92,11 +92,9 @@ This work was supported by a grant of the Romanian National Authority for Scient
 Verginica Barbu Mititelu, “Modern Syntactic Analysis of Romanian”. In Ofelia Ichim, Luminiţa Botoşineanu, Daniela Butnaru, Marius-Radu Clim, Ofelia Ichim, Veronica Olariu (eds.), Clasic şi modern în cercetarea filologică românească actuală, Iaşi, Publishing House of "Alexandru Ioan Cuza" University, 2018, pp. 67-78.
 
 For RACAI-RoTb:
-
 Elena Irimia, Verginica Barbu Mititelu, RACAI-RoTb: nucleu de corpus de limbă română adnotat sintactic cu relaţii de dependenţă, Revista Română de Interacţiune Om-Calculator 8 (2) 2015, p. 101-120.
 
 For UAIC-RoTb:
-
 Cenel Augusto Perez. 2014. Linguistic Resources for Natural Language Processing. (PhD thesis). Faculty of Computer Science, Al. I. Cuza University, Iasi.
 
 
