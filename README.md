@@ -91,6 +91,13 @@ This work was supported by a grant of the Romanian National Authority for Scient
 
 Verginica Barbu Mititelu, “Modern Syntactic Analysis of Romanian”. In Ofelia Ichim, Luminiţa Botoşineanu, Daniela Butnaru, Marius-Radu Clim, Ofelia Ichim, Veronica Olariu (eds.), Clasic şi modern în cercetarea filologică românească actuală, Iaşi, Publishing House of "Alexandru Ioan Cuza" University, 2018, pp. 67-78.
 
+For RACAI-RoTb:
+Elena Irimia, Verginica Barbu Mititelu, RACAI-RoTb: nucleu de corpus de limbă română adnotat sintactic cu relaţii de dependenţă, Revista Română de Interacţiune Om-Calculator 8 (2) 2015, p. 101-120.
+
+For UAIC-RoTb:
+Cenel Augusto Perez. 2014. Linguistic Resources for Natural Language Processing. (PhD thesis). Faculty of Computer Science, Al. I. Cuza University, Iasi.
+
+
 # CHANGELOG
 
 - UD 1.2 --> 1.3: the number of trees was considerably increased.
@@ -111,8 +118,8 @@ Verginica Barbu Mititelu, “Modern Syntactic Analysis of Romanian”. In Ofelia
 - UD 2.0 --> 2.1: no modifications to the previous version.
 - UD 2.1 --> 2.2: repository renamed from UD_Romanian to UD_Romanian-RRT
 - UD 2.6 --> 2.7: manual improvement of the annotations, concerning POS-tagging, syntactic labeling
-- UD 2.7 --> 2.8: automatic (but manually checked) improved POS-tagging, mainly for numerals and auxiliaries; some automatic dependency relation corrections (`obl` for nouns headed by verbs, `nsubj:pass` for subjects of passive constructions).  Correction scripts are in GitHub at [ro-ud-autocorrect](https://github.com/racai-ai/ro-ud-autocorrect).
-
+- UD 2.7 --> 2.8: automatic (then manually checked) improved POS-tagging, mainly for numerals and auxiliaries; some automatic dependency relation corrections (`obl` for nouns headed by verbs, `nsubj:pass` for subjects of passive constructions).  Correction scripts are in GitHub at [ro-ud-autocorrect](https://github.com/racai-ai/ro-ud-autocorrect).
+- UD 2.8 --> 2.9: solving the verbal homography between present and past simple, the pronominal homonymy between dativ singular and accusative plural, the nominal homonymy between singular oblique cases and all cases in the plural; consistent use of the obl and nmod relations according to the guidelines.
 
 <pre>
 === Machine-readable metadata =================================================
