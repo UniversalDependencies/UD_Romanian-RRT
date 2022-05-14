@@ -10,51 +10,51 @@
     <dev><sentences>752</sentences><tokens>17073</tokens><words>17073</words><fused>0</fused></dev>
     <test><sentences>729</sentences><tokens>16324</tokens><words>16324</words><fused>0</fused></test>
   </size>
-  <lemmas unique="17278" /><!-- ,, de, ., în, și, avea, fi, un, sine, la, al, cu, să, care, el -->
+  <lemmas unique="17283" /><!-- ,, de, ., în, și, avea, fi, un, sine, la, al, cu, să, care, el -->
   <forms unique="31538" /><!-- ,, de, ., în, și, a, la, se, cu, să, o, din, care, pe, un -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="16">
-    <tag name="ADJ">15291</tag><!-- mare, prezent, european, nou, asemenea, mic, necesar, român, național, general -->
-    <tag name="ADP">30626</tag><!-- de, în, la, cu, din, pe, pentru, prin, după, întru -->
-    <tag name="ADV">9520</tag><!-- mai, ca, când, cum, iar, astfel, nici, decât, numai, mult -->
-    <tag name="AUX">8559</tag><!-- fi, avea, vrea -->
+    <tag name="ADJ">15298</tag><!-- mare, prezent, european, nou, asemenea, mic, necesar, român, național, general -->
+    <tag name="ADP">30625</tag><!-- de, în, la, cu, din, pe, pentru, prin, după, întru -->
+    <tag name="ADV">9519</tag><!-- mai, ca, când, cum, iar, astfel, nici, decât, numai, mult -->
+    <tag name="AUX">8563</tag><!-- fi, avea, vrea -->
     <tag name="CCONJ">6929</tag><!-- și, sau, dar, însă, ci, ori, fie, deci, căci, insă -->
     <tag name="DET">12026</tag><!-- un, al, lui, acest, cel, tot, alt, său, mult, meu -->
-    <tag name="INTJ">40</tag><!-- iată, vai, atențiune, ei, ia, iaca, păi, zău, adio, ah -->
-    <tag name="NOUN">54268</tag><!-- an, timp, caz, parte, stat, articol, dată, loc, număr, comisie -->
+    <tag name="INTJ">41</tag><!-- iată, vai, atențiune, ei, ia, iaca, păi, zău, adio, ah -->
+    <tag name="NOUN">54270</tag><!-- an, timp, caz, parte, stat, articol, dată, loc, număr, comisie -->
     <tag name="NUM">5605</tag><!-- doi, 1, 2, prim, 3, trei, 4, unu, 5, 6 -->
     <tag name="PART">4885</tag><!-- să, nu, a, o -->
     <tag name="PRON">11808</tag><!-- sine, el, care, ce, eu, acela, acesta, tu, unul, tot -->
-    <tag name="PROPN">5886</tag><!-- România, Winston, București, Timișoara, Iași, Moldova, Paris, Europa, Ion, Alexandru -->
+    <tag name="PROPN">5889</tag><!-- România, Winston, București, Timișoara, Iași, Moldova, Paris, Europa, Ion, Alexandru -->
     <tag name="PUNCT">27990</tag><!-- ,, ., (, ), ", /, „, -, ”, ; -->
     <tag name="SCONJ">1984</tag><!-- că, dacă, până, încât, deoarece, deși, fără, fiindcă, întrucât, de -->
-    <tag name="VERB">23014</tag><!-- putea, avea, trebui, face, fi, lua, prevedea, da, vedea, începe -->
+    <tag name="VERB">22999</tag><!-- putea, avea, trebui, face, fi, lua, prevedea, da, vedea, începe -->
     <tag name="X">79</tag><!-- 5a, American, alia, in, inter, metri_pătrați, -a, ACTIVE, Awards, A­ -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="60">
     <feat name="Abbr" value="Yes" upos="ADJ,ADV,NOUN,PRON,X">1348</feat><!-- art., a., nr., CE, b., mg, lit., alin., ml, CEE -->
-    <feat name="AdpType" value="Prep" upos="ADP,PUNCT">31172</feat><!-- de, în, la, cu, din, pe, pentru, prin, după, într- -->
+    <feat name="AdpType" value="Prep" upos="ADP,PUNCT">31171</feat><!-- de, în, la, cu, din, pe, pentru, prin, după, într- -->
     <feat name="Case" value="Acc" upos="ADP,NOUN,PRON">35083</feat><!-- de, în, la, se, cu, din, pe, pentru, s-, prin -->
-    <feat name="Case" value="Acc,Nom" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">45140</feat><!-- care, o, un, ce, el, cel, toate, acest, cele, orice -->
-    <feat name="Case" value="Dat" upos="ADP,PRON">1517</feat><!-- își, -și, și-, îi, -i, i, i-, conform, -mi, le -->
-    <feat name="Case" value="Dat,Gen" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">11368</feat><!-- lui, unei, unui, unor, comisiei, României, europene, celor, consiliului, acestor -->
+    <feat name="Case" value="Acc,Nom" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">45143</feat><!-- care, o, un, ce, el, cel, toate, acest, cele, orice -->
+    <feat name="Case" value="Dat" upos="ADP,PRON">1516</feat><!-- își, -și, și-, îi, -i, i, i-, conform, -mi, le -->
+    <feat name="Case" value="Dat,Gen" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">11367</feat><!-- lui, unei, unui, unor, comisiei, României, europene, celor, consiliului, acestor -->
     <feat name="Case" value="Gen" upos="ADP">299</feat><!-- asupra, împotriva, deasupra, înaintea, dinaintea, contra, împrejurul, înlăuntrul, -mpotriva, înafara -->
     <feat name="Case" value="Nom" upos="NOUN,PRON">86</feat><!-- eu, tu, ni -->
     <feat name="Case" value="Voc" upos="NOUN">48</feat><!-- domnule, Marino, Graham, Porcule, tovarășe, Labrador, bowling, doamne, Adonis, Benjamin -->
     <feat name="Definite" value="Def" upos="ADJ,DET,NOUN,NUM,PROPN">29120</feat><!-- lui, cazul, timpul, statele, Comisia, cadrul, partea, prezentul, fața, comisiei -->
-    <feat name="Definite" value="Ind" upos="ADJ,NOUN,NUM,PROPN">39938</feat><!-- ani, timp, mare, conformitate, loc, membre, mod, acord, parte, b -->
+    <feat name="Definite" value="Ind" upos="ADJ,NOUN,NUM,PROPN">39947</feat><!-- ani, timp, mare, conformitate, loc, membre, mod, acord, parte, b -->
     <feat name="Degree" value="Cmp" upos="ADJ">30</feat><!-- superior, superioară, superioare, superiorilor -->
-    <feat name="Degree" value="Pos" upos="ADJ,ADV,NOUN">20812</feat><!-- mare, astfel, numai, asemenea, mult, înainte, așa, chiar, puțin, atunci -->
+    <feat name="Degree" value="Pos" upos="ADJ,ADV,NOUN">20818</feat><!-- mare, astfel, numai, asemenea, mult, înainte, așa, chiar, puțin, atunci -->
     <feat name="Degree" value="Sup" upos="ADJ,ADV">28</feat><!-- extrem, perfect, extremă, nespus, excesiv, extraordinar, perfectă, excelent, extreme -->
     <feat name="Foreign" value="Yes" upos="ADJ,ADP,NOUN,NUM,PROPN,VERB,X">119</feat><!-- of, Book, de, mail, Act, Albion, Award, Awards, A­, Beauty -->
-    <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">53208</feat><!-- o, a, ale, unei, toate, cele, conformitate, membre, două, această -->
-    <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">37104</feat><!-- un, al, fost, el, unui, cel, ani, acest, timp, cazul -->
-    <feat name="Mood" value="Imp" upos="AUX,VERB">112</feat><!-- lasă, luați, lăsați, Uite, adresați, spuneți, citește, spălați, agitați, ascultă -->
-    <feat name="Mood" value="Ind" upos="AUX,VERB">13034</feat><!-- este, sunt, era, poate, trebuie, pot, e, are, avea, erau -->
-    <feat name="Mood" value="Sub" upos="AUX,PART,VERB">4334</feat><!-- să, fie, s-, facă, aibă, ia, dea, poată, aplice, vadă -->
-    <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">29715</feat><!-- au, sunt, ale, pot, toate, ani, cele, le, membre, două -->
+    <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">53210</feat><!-- o, a, ale, unei, toate, cele, conformitate, membre, două, această -->
+    <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">37109</feat><!-- un, al, fost, el, unui, cel, ani, acest, timp, cazul -->
+    <feat name="Mood" value="Imp" upos="AUX,VERB">111</feat><!-- lasă, luați, lăsați, adresați, spuneți, Uite, citește, spălați, agitați, ascultă -->
+    <feat name="Mood" value="Ind" upos="AUX,VERB">13029</feat><!-- este, sunt, era, poate, trebuie, pot, e, are, avea, erau -->
+    <feat name="Mood" value="Sub" upos="AUX,PART,VERB">4333</feat><!-- să, fie, s-, facă, aibă, ia, dea, poată, aplice, vadă -->
+    <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">29716</feat><!-- au, sunt, ale, pot, toate, ani, cele, le, membre, două -->
     <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">81600</feat><!-- a, o, un, este, al, fost, era, poate, va, lui -->
     <feat name="Number[psor]" value="Plur" upos="DET,PRON">276</feat><!-- lor, noastre, nostru, noastră, noștri, voastră, vostru, voștri, voastre -->
     <feat name="Number[psor]" value="Sing" upos="DET,PRON">778</feat><!-- lui, ei, său, sale, sa, mea, meu, mele, săi, ta -->
@@ -65,9 +65,9 @@
     <feat name="NumType" value="Card" upos="NUM">4875</feat><!-- 1, 2, 3, două, 4, trei, 5, 6, doi, 7 -->
     <feat name="NumType" value="Ord" upos="NUM">730</feat><!-- primul, ii, prima, i, doilea, doua, primele, iii, iv, treia -->
     <feat name="PartType" value="Inf" upos="PART">840</feat><!-- a, a-, -a -->
-    <feat name="Person" value="1" upos="AUX,DET,PRON,VERB">1828</feat><!-- am, ne, mă, eu, noi, m-, -mi, mi-, mea, mine -->
-    <feat name="Person" value="2" upos="AUX,DET,PRON,VERB">1595</feat><!-- dumneavoastră, vă, te, ai, luați, ați, -ți, vezi, aveți, v- -->
-    <feat name="Person" value="3" upos="AUX,DET,PRON,VERB">31645</feat><!-- se, a, care, este, au, ce, sunt, s-, era, poate -->
+    <feat name="Person" value="1" upos="AUX,DET,PRON,VERB">1826</feat><!-- am, ne, mă, eu, noi, m-, -mi, mi-, mea, mine -->
+    <feat name="Person" value="2" upos="AUX,DET,PRON,VERB">1591</feat><!-- dumneavoastră, vă, te, ai, luați, ați, -ți, vezi, aveți, v- -->
+    <feat name="Person" value="3" upos="AUX,DET,PRON,VERB">31644</feat><!-- se, a, care, este, au, ce, sunt, s-, era, poate -->
     <feat name="Polarity" value="Neg" upos="ADV,PART">1630</feat><!-- nu, n-, non-, ne, non -->
     <feat name="Polarity" value="Pos" upos="CCONJ,SCONJ">8913</feat><!-- și, că, sau, dacă, dar, până, însă, încât, deoarece, deși -->
     <feat name="Position" value="Postnom" upos="DET">120</feat><!-- asta, aceea, acesta, ăsta, aceasta, acela, aia, aceia, acestea, astea -->
@@ -85,62 +85,62 @@
     <feat name="Strength" value="Strong" upos="PRON">998</feat><!-- el, ea, dumneavoastră, ei, ele, eu, noi, mine, lui, sine -->
     <feat name="Strength" value="Weak" upos="PRON">6197</feat><!-- se, s-, le, o, își, -și, -l, și-, îi, îl -->
     <feat name="Tense" value="Fut" upos="PART">10</feat><!-- o -->
-    <feat name="Tense" value="Imp" upos="AUX,VERB">2518</feat><!-- era, avea, erau, putea, trebuia, făcea, stătea, știa, aveau, părea -->
+    <feat name="Tense" value="Imp" upos="AUX,VERB">2516</feat><!-- era, avea, erau, putea, trebuia, făcea, stătea, știa, aveau, părea -->
     <feat name="Tense" value="Past" upos="AUX,VERB">609</feat><!-- zise, începu, făcu, scoase, luă, întoarse, fu, opri, puse, putu -->
     <feat name="Tense" value="Pqp" upos="AUX,VERB">589</feat><!-- fusese, începuse, făcuse, văzuse, trecuse, devenise, scosese, avusese, fuseseră, petrecuse -->
-    <feat name="Tense" value="Pres" upos="AUX,VERB">13965</feat><!-- este, sunt, fi, poate, trebuie, pot, fie, e, are, face -->
+    <feat name="Tense" value="Pres" upos="AUX,VERB">13960</feat><!-- este, sunt, fi, poate, trebuie, pot, fie, e, are, face -->
     <feat name="Variant" value="Short" upos="ADJ,ADP,ADV,AUX,CCONJ,DET,NOUN,PART,PRON,SCONJ,VERB">3275</feat><!-- s-, într-, -și, -i, -l, și-, -se, n-, -o, l- -->
-    <feat name="VerbForm" value="Fin" upos="AUX,VERB">15071</feat><!-- este, sunt, era, poate, trebuie, pot, fie, e, are, avea -->
+    <feat name="VerbForm" value="Fin" upos="AUX,VERB">15064</feat><!-- este, sunt, era, poate, trebuie, pot, fie, e, are, avea -->
     <feat name="VerbForm" value="Ger" upos="AUX,VERB">1161</feat><!-- fiind, având, începând, ținând, făcând, lăsând, urmând, înregistrând, făcându, putând -->
-    <feat name="VerbForm" value="Inf" upos="AUX,VERB">2725</feat><!-- fi, putea, trebui, avea, face, aduce, lua, asigura, permite, vedea -->
-    <feat name="VerbForm" value="Part" upos="AUX,VERB">8271</feat><!-- fost, avut, prevăzute, făcut, spus, putut, rupt, dat, murit, devenit -->
+    <feat name="VerbForm" value="Inf" upos="AUX,VERB">2724</feat><!-- fi, putea, trebui, avea, face, aduce, lua, asigura, permite, vedea -->
+    <feat name="VerbForm" value="Part" upos="AUX,VERB">8268</feat><!-- fost, avut, prevăzute, făcut, spus, putut, rupt, dat, murit, devenit -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="49">
-    <dep name="acl">4857</dep>
-    <dep name="advcl">3267</dep>
+    <dep name="acl">4869</dep>
+    <dep name="advcl">3270</dep>
     <dep name="advcl:tcl">99</dep>
-    <dep name="advmod">10050</dep>
+    <dep name="advmod">10047</dep>
     <dep name="advmod:tmod">133</dep>
-    <dep name="amod">13261</dep>
-    <dep name="appos">1141</dep>
-    <dep name="aux">4731</dep>
-    <dep name="aux:pass">1645</dep>
-    <dep name="case">26854</dep>
+    <dep name="amod">13247</dep>
+    <dep name="appos">1140</dep>
+    <dep name="aux">4622</dep>
+    <dep name="aux:pass">1757</dep>
+    <dep name="case">26857</dep>
     <dep name="cc">6489</dep>
     <dep name="cc:preconj">93</dep>
-    <dep name="ccomp">2316</dep>
-    <dep name="ccomp:pmod">221</dep>
+    <dep name="ccomp">2310</dep>
+    <dep name="ccomp:pmod">222</dep>
     <dep name="compound">61</dep>
-    <dep name="conj">8687</dep>
-    <dep name="cop">2128</dep>
-    <dep name="csubj">800</dep>
+    <dep name="conj">8685</dep>
+    <dep name="cop">2129</dep>
+    <dep name="csubj">804</dep>
     <dep name="csubj:pass">58</dep>
-    <dep name="dep">35</dep>
+    <dep name="dep">36</dep>
     <dep name="det">11880</dep>
-    <dep name="discourse">19</dep>
-    <dep name="expl">545</dep>
-    <dep name="expl:impers">122</dep>
-    <dep name="expl:pass">1126</dep>
-    <dep name="expl:poss">608</dep>
-    <dep name="expl:pv">2256</dep>
-    <dep name="fixed">6579</dep>
+    <dep name="discourse">20</dep>
+    <dep name="expl">547</dep>
+    <dep name="expl:impers">130</dep>
+    <dep name="expl:pass">1132</dep>
+    <dep name="expl:poss">611</dep>
+    <dep name="expl:pv">2247</dep>
+    <dep name="fixed">6576</dep>
     <dep name="flat">1397</dep>
     <dep name="goeswith">89</dep>
-    <dep name="iobj">1688</dep>
+    <dep name="iobj">1656</dep>
     <dep name="list">10</dep>
-    <dep name="mark">6347</dep>
-    <dep name="nmod">20118</dep>
-    <dep name="nsubj">10049</dep>
-    <dep name="nsubj:pass">1980</dep>
+    <dep name="mark">6348</dep>
+    <dep name="nmod">20119</dep>
+    <dep name="nsubj">9975</dep>
+    <dep name="nsubj:pass">2063</dep>
     <dep name="nummod">4238</dep>
-    <dep name="obj">7580</dep>
-    <dep name="obl">11640</dep>
-    <dep name="obl:agent">844</dep>
-    <dep name="obl:pmod">1535</dep>
+    <dep name="obj">7566</dep>
+    <dep name="obl">11637</dep>
+    <dep name="obl:agent">852</dep>
+    <dep name="obl:pmod">1554</dep>
     <dep name="obl:tmod">552</dep>
     <dep name="orphan">69</dep>
-    <dep name="parataxis">1569</dep>
+    <dep name="parataxis">1570</dep>
     <dep name="punct">27990</dep>
     <dep name="reparandum">1</dep>
     <dep name="root">9524</dep>
