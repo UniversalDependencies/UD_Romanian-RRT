@@ -56,13 +56,13 @@
 53	a	a	PART	Qn	PartType=Inf	54	mark	_	_
 54	împiedica	împiedica	VERB	Vmnp	Tense=Pres|VerbForm=Inf	51	advcl	_	_
 55	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	56	det	_	_
-56	vârtej	vârtej	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	54	iobj	_	_
+56	vârtej	vârtej	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	54	obj	_	_
 57	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	58	case	_	_
 58	praf	praf	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	56	nmod	_	_
 59	și	și	CCONJ	Crssp	Polarity=Pos	60	cc	_	_
 60	nisip	nisip	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	58	conj	_	_
 61	să	să	PART	Qs	Mood=Sub	62	mark	_	_
-62	pătrundă	pătrunde	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	54	ccomp	_	_
+62	pătrundă	pătrunde	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	54	xcomp	_	_
 63	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	62	advmod	_	_
 64	dată	dată	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	63	goeswith	_	_
 65	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	66	case	_	_
@@ -267,7 +267,7 @@
 
 # sent_id = dev-11
 # text = Se pregătea pentru momentul ăsta de săptămâni întregi și nu-i trecuse niciodată prin cap că i-ar mai fi trebuit și altceva afară de curaj.
-1	Se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	2	obj	_	_
+1	Se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	2	expl:pv	_	_
 2	pregătea	pregăti	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 3	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	_
 4	momentul	moment	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	2	obl	_	_
@@ -486,7 +486,7 @@
 24	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
 # sent_id = dev-21
-# text = Avea un scris mic, dar ca de copil, care se ridica și cobora pe pagină, mâncând mai întâi literele mari și până la urmă și punctuația:
+# text = Avea un scris mic, dar ca de copil, care se ridica și cobora pe pagină, mâncând mai întâi literele mari și până la urmă și punctuația.
 1	Avea	avea	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 2	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	3	det	_	_
 3	scris	scris	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	1	obj	_	_
@@ -516,7 +516,7 @@
 27	urmă	urmă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	25	fixed	_	_
 28	și	și	CCONJ	Crssp	Polarity=Pos	29	advmod	_	_
 29	punctuația	punctuație	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	22	conj	_	SpaceAfter=No
-30	:	:	PUNCT	COLON	_	1	punct	_	_
+30	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
 # sent_id = dev-22
 # text = 4 aprilie 1984, Aseară la cinema, Numai filme de război.
@@ -18867,11 +18867,11 @@
 10	izotermă	izoterm	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
 11	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	_
 12	care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	15	obl	_	_
-13	s-	sine	PRON	Px3--a--y-----w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak|Variant=Short	15	expl:pv	_	SpaceAfter=No
+13	s-	sine	PRON	Px3--a--y-----w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak|Variant=Short	15	expl:pass	_	SpaceAfter=No
 14	a	avea	AUX	Va--3s	Number=Sing|Person=3	15	aux	_	_
 15	practicat	practica	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	9	acl	_	_
 16	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	17	det	_	_
-17	orificiu	orificiu	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	15	obj	_	_
+17	orificiu	orificiu	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	15	nsubj:pass	_	_
 18	și	și	CCONJ	Crssp	Polarity=Pos	25	cc	_	_
 19	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	20	case	_	_
 20	care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	25	obl	_	_
@@ -18928,7 +18928,7 @@
 9	și	și	CCONJ	Crssp	Polarity=Pos	10	cc	_	_
 10	absorb	absorbi	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
 11	continuu	continuu	ADV	Rgp	Degree=Pos	10	advmod	_	_
-12	radiație	radiație	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	10	obj	_	_
+12	radiație	radiație	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	8	obj	_	_
 13	electromagnetică	electromagnetic	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	_
 14	(	(	PUNCT	LPAR	_	15	punct	_	SpaceAfter=No
 15	fotoni	foton	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	12	appos	_	SpaceAfter=No
@@ -18938,9 +18938,9 @@
 19	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	20	case	_	_
 20	echilibru	echilibru	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	26	obl	_	_
 21	energiile	energie	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	26	nsubj	_	_
-22	emise	emite	VERB	Vmp--pf	Gender=Fem|Number=Plur|VerbForm=Part	21	amod	_	_
+22	emise	emis	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	21	amod	_	_
 23	și	și	CCONJ	Crssp	Polarity=Pos	24	cc	_	_
-24	absorbite	absorbi	VERB	Vmp--pf	Gender=Fem|Number=Plur|VerbForm=Part	22	conj	_	_
+24	absorbite	absorbit	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	22	conj	_	_
 25	sunt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	26	cop	_	_
 26	egale	egal	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	8	conj	_	SpaceAfter=No
 27	.	.	PUNCT	PERIOD	_	8	punct	_	_
@@ -19340,7 +19340,7 @@
 19	lungimea	lungime	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	22	nsubj	_	_
 20	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	21	case	_	_
 21	undă	undă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	19	nmod	_	_
-22	scade	scădea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	appos	_	SpaceAfter=No
+22	scade	scădea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	parataxis	_	SpaceAfter=No
 23	)	)	PUNCT	RPAR	_	22	punct	_	SpaceAfter=No
 24	.	.	PUNCT	PERIOD	_	5	punct	_	_
 
