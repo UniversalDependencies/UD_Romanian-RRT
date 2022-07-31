@@ -7533,8 +7533,8 @@
 1	Nicăieri	nicăieri	ADV	Rz	PronType=Neg	7	obl	_	_
 2	poate	poate	ADV	Rgp	Degree=Pos	0	root	_	_
 3	nu	nu	PART	Qz	Polarity=Neg	7	advmod	_	_
-4	l	el	PRON	Pp3msa--y-----w	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Weak|Variant=Short	7	obj	_	SpaceAfter=No
-5	-ar	avea	AUX	Va--3-----y	Person=3|Variant=Short	7	aux	_	_
+4	l-	el	PRON	Pp3msa--y-----w	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Weak|Variant=Short	7	obj	_	SpaceAfter=No
+5	ar	avea	AUX	Va--3	Person=3	7	aux	_	_
 6	fi	fi	AUX	Vanp	Tense=Pres|VerbForm=Inf	7	aux	_	_
 7	copleșit	copleși	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	2	nsubj	_	_
 8	atâta	atât	DET	Di3-sr	Case=Acc,Nom|Number=Sing|Person=3|PronType=Ind	9	det	_	_
@@ -8087,7 +8087,7 @@
 # text = Intră pe dindos în sufragerie, unde constată că masa era nepusă.
 1	Intră	intra	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
-3	dindos	dindos	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	1	obl	_	_
+3	dindos	dindos	NOUN	Ncms-n	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	1	obl	_	_
 4	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
 5	sufragerie	sufragerie	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	1	obl:pmod	_	SpaceAfter=No
 6	,	,	PUNCT	COMMA	_	8	punct	_	_
