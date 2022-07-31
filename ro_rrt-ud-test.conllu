@@ -727,7 +727,7 @@
 15	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	16	expl:pv	_	_
 16	putea	putea	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	acl	_	_
 17	uneori	uneori	ADV	Rgp	Degree=Pos	16	advmod	_	_
-18	pierde	pierde	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	ccomp	_	_
+18	pierde	pierde	VERB	Vmnp	Tense=Pres|VerbForm=Inf	16	ccomp	_	_
 19	și	și	CCONJ	Crssp	Polarity=Pos	21	advmod	_	_
 20	câte	câte	ADV	Rgp	Degree=Pos	21	advmod	_	_
 21	zece	zece	NUM	Mc-p-l	Number=Plur|NumForm=Word|NumType=Card	22	nummod	_	_
@@ -1871,7 +1871,7 @@
 3	închiriez	închiria	VERB	Vmip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
 4	apartament	apartament	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	3	obj	_	_
 5	(	(	PUNCT	LPAR	_	6	punct	_	SpaceAfter=No
-6	ne	eu	ADV	Pp1-pa--------w	Polarity=Neg	8	advmod	_	SpaceAfter=No|ToDo=neg
+6	ne	ne	ADV	Rp	Polarity=Neg	8	advmod	_	SpaceAfter=No|ToDo=neg
 7	)	)	PUNCT	RPAR	_	6	punct	_	_
 8	mobilat	mobilat	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	SpaceAfter=No
 9	,	,	PUNCT	COMMA	_	10	punct	_	_
@@ -4212,7 +4212,7 @@
 11	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
 # sent_id = test-157
-# text = Acesta notează într-un registru, care poate fi cel prevăzut în Directiva 2001 / 82 / CE, cel puțin următoarele informații: Se interzice deținătorilor de animale de fermă deținerea, în cadrul exploatației lor, de medicamente veterinare care conțin estradiol 17-beta sau derivații esterificați ai acestuia.
+# text = Acesta notează într-un registru, care poate fi cel prevăzut în Directiva 2001/82/CE, cel puțin următoarele informații: Se interzice deținătorilor de animale de fermă deținerea, în cadrul exploatației lor, de medicamente veterinare care conțin estradiol 17-beta sau derivații esterificați ai acestuia.
 1	Acesta	acesta	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	_
 2	notează	nota	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	într-	întru	ADP	Spsay	AdpType=Prep|Case=Acc|Variant=Short	5	case	_	SpaceAfter=No
@@ -4226,10 +4226,10 @@
 11	prevăzut	prevedea	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	10	acl	_	_
 12	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	13	case	_	_
 13	Directiva	directivă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	11	obl	_	_
-14	2001	2001	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	13	nummod	_	_
-15	/	/	PUNCT	SLASH	AdpType=Prep	14	punct	_	_
-16	82	82	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	14	nummod	_	_
-17	/	/	PUNCT	SLASH	AdpType=Prep	14	punct	_	_
+14	2001	2001	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	13	nummod	_	SpaceAfter=No
+15	/	/	PUNCT	SLASH	AdpType=Prep	14	punct	_	SpaceAfter=No
+16	82	82	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	14	nummod	_	SpaceAfter=No
+17	/	/	PUNCT	SLASH	AdpType=Prep	14	punct	_	SpaceAfter=No
 18	CE	Comisia_Europeană	NOUN	Yn	Abbr=Yes	14	nmod	_	SpaceAfter=No
 19	,	,	PUNCT	COMMA	_	5	punct	_	_
 20	cel	cel	DET	Tdmsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Dem	22	advmod	_	_
@@ -7469,7 +7469,7 @@
 1	Aș	avea	AUX	Va--1s	Number=Sing|Person=1	2	aux	_	_
 2	vrea	vrea	VERB	Vmnp	Tense=Pres|VerbForm=Inf	0	root	_	_
 3	să	să	PART	Qs	Mood=Sub	4	mark	_	_
-4	transcriu	transcrie	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+4	transcriu	transcrie	VERB	Vmip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
 5	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	6	det	_	_
 6	pagină	pagină	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	4	obj	_	_
 7	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	_
@@ -14755,7 +14755,7 @@
 # text = poruncește să zdrobesc, în tocul ușii, o căpățână de ceapă.
 1	poruncește	porunci	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	să	să	PART	Qs	Mood=Sub	3	mark	_	_
-3	zdrobesc	zdrobi	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	SpaceAfter=No
+3	zdrobesc	zdrobi	VERB	Vmip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	ccomp	_	SpaceAfter=No
 4	,	,	PUNCT	COMMA	_	6	punct	_	_
 5	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	_
 6	tocul	toc	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	3	obl	_	_
@@ -15745,7 +15745,7 @@
 13	revolută	revolut	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	SpaceAfter=No
 14	,	,	PUNCT	COMMA	_	5	punct	_	_
 15	el	el	PRON	Pp3msr--------s	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	17	nsubj	_	_
-16	ne	eu	PRON	Pp1-pa--------w	Case=Acc|Number=Plur|Person=1|PronType=Prs|Strength=Weak	17	iobj	_	_
+16	ne	eu	PRON	Pp1-pa--------w	Case=Acc|Number=Plur|Person=1|PronType=Prs|Strength=Weak	17	obj	_	_
 17	face	face	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 18	să	să	PART	Qs	Mood=Sub	19	mark	_	_
 19	asistăm	asista	VERB	Vmip1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	17	ccomp	_	_
@@ -16102,7 +16102,7 @@
 3	ai	avea	AUX	Va--2s	Number=Sing|Person=2	4	aux	_	_
 4	învățat	învăța	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 5	să	să	PART	Qs	Mood=Sub	6	mark	_	_
-6	prețuiesc	prețui	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+6	prețuiesc	prețui	VERB	Vmip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
 7	poezia	poezie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	6	obj	_	_
 8	domnului	domn	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	7	nmod	_	_
 9	Bucuța	Bucuța	PROPN	Np	_	8	nmod	_	_
@@ -16244,7 +16244,7 @@
 # sent_id = test-657
 # text = Dacă ne însușim definiția platoniciană, apoi desigur nici o altă lirică europeană n-a subliniat emoția până la acel "ethereal" unde plutește pulverizat cântecul celor mai reprezentativi din poeții englezi.
 1	Dacă	dacă	SCONJ	Csssp	Polarity=Pos	3	mark	_	_
-2	ne	eu	PRON	Pp1-pa--------w	Case=Acc|Number=Plur|Person=1|PronType=Prs|Strength=Weak	3	expl:pv	_	_
+2	ne	eu	PRON	Pp1-pd--------w	Case=Dat|Number=Plur|Person=1|PronType=Prs|Strength=Weak	3	expl:pv	_	_
 3	însușim	însuși	VERB	Vmip1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	16	advcl	_	_
 4	definiția	definiție	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	3	obj	_	_
 5	platoniciană	platonician	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	SpaceAfter=No
