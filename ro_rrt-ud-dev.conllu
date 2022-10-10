@@ -546,7 +546,7 @@
 8	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	_
 9	refugiați	refugiat	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	7	obl	_	SpaceAfter=No
 10	,	,	PUNCT	COMMA	_	11	punct	_	_
-11	bombardat	bombarda	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	7	acl	_	_
+11	bombardat	bombarda	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	6	acl	_	_
 12	undeva	undeva	ADV	Rgp	Degree=Pos	11	advmod	_	_
 13	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	_
 14	Mediterana	Mediterana	PROPN	Np	_	11	obl	_	SpaceAfter=No
@@ -11245,7 +11245,7 @@
 29	căci	căci	CCONJ	Ccssp	Polarity=Pos	32	mark	_	_
 30	erau	fi	AUX	Vaii3p	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	32	cop	_	_
 31	prea	prea	ADV	Rp	_	32	advmod	_	_
-32	mici	mic	ADJ	Afp-p-n	Definite=Ind|Degree=Pos|Number=Plur	25	advcl	_	_
+32	mici	mic	ADJ	Afp-p-n	Definite=Ind|Degree=Pos|Number=Plur	15	advcl	_	_
 33	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc	36	mark	_	_
 34	a	a	PART	Qn	PartType=Inf	36	mark	_	_
 35	fi	fi	AUX	Vanp	Tense=Pres|VerbForm=Inf	36	aux:pass	_	_
