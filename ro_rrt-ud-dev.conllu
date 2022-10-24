@@ -63,8 +63,8 @@
 60	nisip	nisip	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	58	conj	_	_
 61	să	să	PART	Qs	Mood=Sub	62	mark	_	_
 62	pătrundă	pătrunde	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	54	xcomp	_	_
-63	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	62	advmod	_	_
-64	dată	dată	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	63	goeswith	_	_
+63	o	odată	ADV	Rgp	Degree=Pos|Typo=Yes	62	advmod	_	_
+64	dată	_	X	X	_	63	goeswith	_	_
 65	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	66	case	_	_
 66	el	el	PRON	Pp3msr--------s	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	62	obl	_	SpaceAfter=No
 67	.	.	PUNCT	PERIOD	_	37	punct	_	_
