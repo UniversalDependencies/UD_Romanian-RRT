@@ -8750,8 +8750,8 @@
 4	prin	prin	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	_
 5	intermediul	intermediu	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	4	fixed	_	_
 6	citocromului	citocrom	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	3	obl	_	_
-7	P450	P450	PROPN	Np	_	6	nmod	_	_
-8	2C9	2C9	PROPN	Np	_	7	goeswith	_	_
+7	P450	P450_2C9	PROPN	Np	Typo=Yes	6	nmod	_	_
+8	2C9	_	X	X	_	7	goeswith	_	_
 9	(	(	PUNCT	LPAR	_	10	punct	_	SpaceAfter=No
 10	CYP2C9	CYP2C9	PROPN	Np	_	6	appos	_	SpaceAfter=No
 11	)	)	PUNCT	RPAR	_	10	punct	_	SpaceAfter=No
@@ -10847,8 +10847,8 @@
 8	donat	dona	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 9	sânge	sânge	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	8	obj	_	_
 10	numai	numai	ADV	Rgp	Degree=Pos	11	advmod	_	_
-11	5	5	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	14	nummod	_	_
-12	065	065	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	11	goeswith	_	_
+11	5	5_065	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card|Typo=Yes	14	nummod	_	_
+12	065	_	X	X	_	11	goeswith	_	_
 13	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	_
 14	persoane	persoană	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	8	nsubj	_	SpaceAfter=No
 15	,	,	PUNCT	COMMA	_	20	punct	_	_
@@ -17285,8 +17285,8 @@
 # text = Cantitatea de L- Dopa conținută în doza de Stalevo recomandată la V1 a variat între 50 mg / zi (valoarea minimă) și 1.200 mg / zi (valoarea maximă), înregistrând o valoare medie de 430,44 ± 5,443 mg / zi și având cel mai frecvent valoarea de 400 mg / zi.
 1	Cantitatea	cantitate	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	14	nsubj	_	_
 2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
-3	L-	L	NOUN	Ncm--n	Definite=Ind|Gender=Masc	1	nmod	_	_
-4	Dopa	dopă	PROPN	Np	_	3	goeswith	_	_
+3	L-	L-Dopa	NOUN	Ncm--n	Definite=Ind|Gender=Masc|Typo=Yes	1	nmod	_	_
+4	Dopa	_	X	X	_	3	goeswith	_	_
 5	conținută	conține	VERB	Vmp--sf	Gender=Fem|Number=Sing|VerbForm=Part	1	acl	_	_
 6	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
 7	doza	doză	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	5	obl	_	_
@@ -17683,11 +17683,11 @@
 19	codeină	codeină	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	11	nmod	_	_
 20	(	(	PUNCT	LPAR	_	21	punct	_	SpaceAfter=No
 21	Codoliprane	Codoliprane	PROPN	Np	_	19	appos	_	_
-22	®	marcă_înregistrată	NOUN	Yn	Abbr=Yes	21	goeswith	_	SpaceAfter=No
+22	®	marcă_înregistrată	NOUN	Yn	Abbr=Yes	21	nmod	_	SpaceAfter=No
 23	,	,	PUNCT	COMMA	_	24	punct	_	_
 24	Theraplix	Theraplix	PROPN	Np	_	21	conj	_	_
-25	ș.	și	NOUN	Yn	Abbr=Yes	21	conj	_	_
-26	a.	alții	NOUN	Yn	Abbr=Yes	25	goeswith	_	SpaceAfter=No
+25	ș.	și	NOUN	Yn	Abbr=Yes	26	cc	_	_
+26	a.	alții	NOUN	Yn	Abbr=Yes	21	conj	_	SpaceAfter=No
 27	)	)	PUNCT	RPAR	_	21	punct	_	SpaceAfter=No
 28	,	,	PUNCT	COMMA	_	29	punct	_	_
 29	medicamente	medicament	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	15	appos	_	_
