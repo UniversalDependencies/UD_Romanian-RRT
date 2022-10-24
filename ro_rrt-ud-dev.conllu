@@ -17686,7 +17686,7 @@
 22	®	marcă_înregistrată	NOUN	Yn	Abbr=Yes	21	nmod	_	SpaceAfter=No
 23	,	,	PUNCT	COMMA	_	24	punct	_	_
 24	Theraplix	Theraplix	PROPN	Np	_	21	conj	_	_
-25	ș.	și	NOUN	Yn	Abbr=Yes	26	cc	_	_
+25	ș.	și	CCONJ	Yc	Abbr=Yes	26	cc	_	_
 26	a.	alții	NOUN	Yn	Abbr=Yes	21	conj	_	SpaceAfter=No
 27	)	)	PUNCT	RPAR	_	21	punct	_	SpaceAfter=No
 28	,	,	PUNCT	COMMA	_	29	punct	_	_
