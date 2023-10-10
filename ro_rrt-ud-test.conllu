@@ -8027,7 +8027,7 @@
 10	,	,	PUNCT	COMMA	_	11	punct	_	_
 11	metalic	metalic	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	9	conj	_	SpaceAfter=No
 12	,	,	PUNCT	COMMA	_	24	punct	_	_
-13	ca	ca	ADV	Rc	_	24	advmod	_	_
+13	ca	ca	ADV	Rc	_	24	mark	_	_
 14	și	și	CCONJ	Crssp	Polarity=Pos	13	fixed	_	_
 15	când	când	ADV	Rw	PronType=Int,Rel	13	fixed	_	_
 16	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	17	det	_	_
