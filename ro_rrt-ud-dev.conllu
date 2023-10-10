@@ -18067,7 +18067,7 @@
 22	România	România	PROPN	Np	_	18	conj	_	_
 23	”	”	PUNCT	DBLQ	_	22	punct	_	SpaceAfter=No
 24	,	,	PUNCT	COMMA	_	25	punct	_	_
-25	precum	precum	ADV	Rw	PronType=Int,Rel	15	conj	_	_
+25	precum	precum	ADV	Rw	PronType=Int,Rel	15	cc	_	_
 26	și	și	CCONJ	Crssp	Polarity=Pos	25	fixed	_	_
 27	endonimul	endonimul	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	15	conj	_	_
 28	„	„	PUNCT	DBLQ	_	29	punct	_	SpaceAfter=No
@@ -18462,7 +18462,7 @@
 10	șef	șef	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	9	xcomp	_	_
 11	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	10	fixed	_	_
 12	stat	stat	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	10	fixed	_	_
-13	precum	precum	ADV	Rw	PronType=Int,Rel	10	conj	_	_
+13	precum	precum	ADV	Rw	PronType=Int,Rel	10	cc	_	_
 14	și	și	CCONJ	Crssp	Polarity=Pos	13	fixed	_	_
 15	președinte	președinte	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	10	conj	_	_
 16	al	al	DET	Tsms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	17	det	_	_
