@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 04abe686385f14a9a6f68784bd723a6b60ded594
+commit e9726a6a7d6913193d90edb45a4cb549235c5b16
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 00:14:39 2023 +0200
+Date:   Sat Nov 4 17:10:55 2023 +0100
 Evaluating the following revision of UD_Romanian-RRT:
-commit 7cb69b0ad41816335838b913bf29ee28ffd912bd
+commit 244ddf4b958953720c58224612aad6c2fce8dbaf
+Merge: 1da484e f4cf722
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 14 12:19:10 2022 +0100
 Size: counted 218522 of 218522 words (nodes).
 Size: min(0, log((N/1000)**2)) = 10.7737733919319.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -20,8 +20,8 @@ Features: source of annotation (from README) factor is 0.9.
 Universal relations: 35 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Udapi:
-               TOTAL         72
-Udapi: found 72 bugs.
+               TOTAL         92
+Udapi: found 92 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 218522 words.
 Genres: found 7 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang ro --max-err=10 UD_Romanian-RRT/ro_rrt-ud-dev.conllu
@@ -37,8 +37,8 @@ Validity: 1
 (weight=0.256410256410256) * (score{size}=0.779831722232018) = 0.199956851854364
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.847058823529412) = 0.065158371040724
-(weight=0.307692307692308) * (score{udapi}=0.996705137240186) = 0.306678503766211
+(weight=0.307692307692308) * (score{udapi}=0.995789897584683) = 0.306396891564518
 (weight=0.0769230769230769) * (score{udeprels}=0.945945945945946) = 0.0727650727650728
-(TOTAL score=0.827515058853219) * (availability=1) * (validity=1) = 0.827515058853219
+(TOTAL score=0.827233446651526) * (availability=1) * (validity=1) = 0.827233446651526
 STARS = 4
-UD_Romanian-RRT	0.827515058853219	4
+UD_Romanian-RRT	0.827233446651526	4
