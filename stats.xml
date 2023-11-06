@@ -10,23 +10,23 @@
     <dev><sentences>752</sentences><tokens>17073</tokens><words>17073</words><fused>0</fused></dev>
     <test><sentences>729</sentences><tokens>16324</tokens><words>16324</words><fused>0</fused></test>
   </size>
-  <lemmas unique="17296" /><!-- ,, de, ., în, și, avea, fi, un, sine, la, al, cu, să, care, el -->
+  <lemmas unique="17295" /><!-- ,, de, ., în, și, avea, fi, un, sine, la, al, cu, să, care, el -->
   <forms unique="31533" /><!-- ,, de, ., în, și, a, la, se, cu, să, o, din, care, pe, un -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="16">
-    <tag name="ADJ">15299</tag><!-- mare, prezent, european, nou, asemenea, mic, necesar, român, național, general -->
+    <tag name="ADJ">15298</tag><!-- mare, prezent, european, nou, asemenea, mic, necesar, român, național, general -->
     <tag name="ADP">31055</tag><!-- de, în, la, cu, din, pe, pentru, prin, după, ca -->
     <tag name="ADV">8866</tag><!-- mai, când, cum, iar, astfel, nici, decât, numai, mult, înainte -->
     <tag name="AUX">8565</tag><!-- fi, avea, vrea -->
     <tag name="CCONJ">6930</tag><!-- și, sau, dar, însă, ci, ori, fie, deci, căci, insă -->
     <tag name="DET">12025</tag><!-- un, al, lui, acest, cel, tot, alt, său, mult, meu -->
     <tag name="INTJ">41</tag><!-- iată, vai, atențiune, ei, ia, iaca, păi, zău, adio, ah -->
-    <tag name="NOUN">54256</tag><!-- an, timp, caz, parte, stat, articol, dată, loc, număr, comisie -->
+    <tag name="NOUN">54258</tag><!-- an, timp, caz, parte, stat, articol, dată, loc, număr, comisie -->
     <tag name="NUM">5549</tag><!-- doi, 1, 2, prim, 3, trei, 4, unu, 5, 6 -->
     <tag name="PART">4885</tag><!-- să, nu, a, o -->
     <tag name="PRON">11807</tag><!-- sine, el, care, ce, eu, acela, acesta, tu, unul, tot -->
-    <tag name="PROPN">5886</tag><!-- România, Winston, București, Timișoara, Iași, Moldova, Paris, Europa, Ion, Alexandru -->
+    <tag name="PROPN">5885</tag><!-- România, Winston, București, Timișoara, Iași, Moldova, Paris, Europa, Ion, Alexandru -->
     <tag name="PUNCT">27997</tag><!-- ,, ., (, ), ", /, „, -, ”, ; -->
     <tag name="SCONJ">2201</tag><!-- că, dacă, ca, până, încât, deoarece, deși, fără, fiindcă, întrucât -->
     <tag name="VERB">22999</tag><!-- putea, avea, trebui, face, fi, lua, prevedea, da, vedea, începe -->
@@ -46,7 +46,7 @@
     <feat name="Definite" value="Def" upos="ADJ,DET,NOUN,NUM,PROPN">29124</feat><!-- lui, cazul, timpul, statele, Comisia, cadrul, partea, prezentul, fața, comisiei -->
     <feat name="Definite" value="Ind" upos="ADJ,NOUN,NUM,PROPN">39936</feat><!-- ani, timp, mare, conformitate, loc, membre, mod, acord, parte, b -->
     <feat name="Degree" value="Cmp" upos="ADJ">30</feat><!-- superior, superioară, superioare, superiorilor -->
-    <feat name="Degree" value="Pos" upos="ADJ,ADV,NOUN">20820</feat><!-- mare, astfel, numai, asemenea, mult, înainte, așa, chiar, puțin, atunci -->
+    <feat name="Degree" value="Pos" upos="ADJ,ADV,NOUN">20819</feat><!-- mare, astfel, numai, asemenea, mult, înainte, așa, chiar, puțin, atunci -->
     <feat name="Degree" value="Sup" upos="ADJ,ADV">28</feat><!-- extrem, perfect, extremă, nespus, excesiv, extraordinar, perfectă, excelent, extreme -->
     <feat name="Foreign" value="Yes" upos="ADJ,ADP,NOUN,NUM,PROPN,VERB,X">121</feat><!-- of, Book, alia, de, mail, Act, Albion, Award, Awards, A­ -->
     <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">53203</feat><!-- o, a, ale, unei, toate, cele, conformitate, membre, două, această -->
@@ -98,50 +98,50 @@
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="49">
-    <dep name="acl">4870</dep>
-    <dep name="advcl">3269</dep>
-    <dep name="advcl:tcl">99</dep>
-    <dep name="advmod">9796</dep>
+    <dep name="acl">4869</dep>
+    <dep name="advcl">3277</dep>
+    <dep name="advcl:tcl">90</dep>
+    <dep name="advmod">9838</dep>
     <dep name="advmod:tmod">133</dep>
-    <dep name="amod">13242</dep>
+    <dep name="amod">13251</dep>
     <dep name="appos">1138</dep>
     <dep name="aux">4625</dep>
     <dep name="aux:pass">1757</dep>
-    <dep name="case">27088</dep>
-    <dep name="cc">6485</dep>
-    <dep name="cc:preconj">93</dep>
-    <dep name="ccomp">2306</dep>
+    <dep name="case">27143</dep>
+    <dep name="cc">6511</dep>
+    <dep name="cc:preconj">92</dep>
+    <dep name="ccomp">2307</dep>
     <dep name="ccomp:pmod">224</dep>
     <dep name="compound">61</dep>
-    <dep name="conj">8692</dep>
+    <dep name="conj">8691</dep>
     <dep name="cop">2130</dep>
     <dep name="csubj">806</dep>
     <dep name="csubj:pass">58</dep>
     <dep name="dep">37</dep>
-    <dep name="det">11882</dep>
+    <dep name="det">11883</dep>
     <dep name="discourse">20</dep>
-    <dep name="expl">549</dep>
+    <dep name="expl">548</dep>
     <dep name="expl:impers">130</dep>
     <dep name="expl:pass">1134</dep>
     <dep name="expl:poss">613</dep>
     <dep name="expl:pv">2245</dep>
-    <dep name="fixed">6553</dep>
-    <dep name="flat">1398</dep>
+    <dep name="fixed">6279</dep>
+    <dep name="flat">1484</dep>
     <dep name="goeswith">82</dep>
     <dep name="iobj">1645</dep>
     <dep name="list">10</dep>
-    <dep name="mark">6397</dep>
-    <dep name="nmod">20121</dep>
+    <dep name="mark">6391</dep>
+    <dep name="nmod">20168</dep>
     <dep name="nsubj">9974</dep>
     <dep name="nsubj:pass">2063</dep>
-    <dep name="nummod">4241</dep>
-    <dep name="obj">7572</dep>
-    <dep name="obl">11641</dep>
+    <dep name="nummod">4243</dep>
+    <dep name="obj">7580</dep>
+    <dep name="obl">11633</dep>
     <dep name="obl:agent">852</dep>
-    <dep name="obl:pmod">1553</dep>
-    <dep name="obl:tmod">552</dep>
+    <dep name="obl:pmod">1576</dep>
+    <dep name="obl:tmod">546</dep>
     <dep name="orphan">69</dep>
-    <dep name="parataxis">1570</dep>
+    <dep name="parataxis">1569</dep>
     <dep name="punct">27997</dep>
     <dep name="reparandum">1</dep>
     <dep name="root">9524</dep>
