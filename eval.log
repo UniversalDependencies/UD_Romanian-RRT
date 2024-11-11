@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
+commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 09:21:16 2024 +0200
+Date:   Sun Nov 10 10:33:45 2024 +0100
 Evaluating the following revision of UD_Romanian-RRT:
-commit b30f1bb3ac945c38a0837ccc092250ead946fe50
+commit c5fdab5b6814409f9ae322d8ab19a4154e199fed
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 6 12:56:39 2023 +0100
+Date:   Sun May 5 13:20:55 2024 +0200
 Size: counted 218522 of 218522 words (nodes).
 Size: min(0, log((N/1000)**2)) = 10.7737733919319.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -29,6 +29,14 @@ Genres: found 7 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang ro --max-err=10 UD_Romanian-RRT/ro_rrt-ud-test.conllu
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang ro --max-err=10 UD_Romanian-RRT/ro_rrt-ud-train.conllu
+[Line 2690 Sent train-105 Node 11]: [L3 Warning leaf-det] 'det' not expected to have children (11:câteva:det --> 10:vreo:amod)
+[Line 65178 Sent train-2315 Node 8]: [L3 Warning leaf-det] 'det' not expected to have children (8:celor:det --> 11:editat:acl)
+[Line 101168 Sent train-3943 Node 13]: [L3 Warning leaf-det] 'det' not expected to have children (13:mult:det --> 16:trebuie:advcl)
+[Line 115974 Sent train-4508 Node 1]: [L3 Warning leaf-det] 'det' not expected to have children (1:Orice:det --> 9:au:aux)
+[Line 130589 Sent train-5101 Node 1]: [L3 Warning leaf-det] 'det' not expected to have children (1:Multă:det --> 3:mâncarea:nmod)
+[Line 158791 Sent train-6097 Node 26]: [L3 Warning leaf-det] 'det' not expected to have children (26:același:det --> 32:statele:nmod)
+[Line 164700 Sent train-6323 Node 4]: [L3 Warning leaf-det] 'det' not expected to have children (4:Toate:det --> 20:vide:appos)
+Warnings: 7
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.9) = 0.0692307692307692
