@@ -10,7 +10,7 @@
 7	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	_
 8	aprilie	aprilie	NOUN	Ncm--n	Definite=Ind|Gender=Masc	3	nmod	_	SpaceAfter=No
 9	,	,	PUNCT	COMMA	_	3	punct	_	_
-10	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	13	mark	_	_
+10	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=SCONJ	13	mark	_	_
 11	când	când	ADV	Rw	PronType=Int,Rel	10	fixed	_	_
 12	ceasurile	ceas	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	13	nsubj	_	_
 13	băteau	bate	VERB	Vmii3p	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	37	advcl:tcl	_	_
