@@ -1220,7 +1220,7 @@
 2	!	!	PUNCT	EXCL	_	1	punct	_	_
 3	zbieră	zbiera	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	parataxis	_	_
 4	băiatul	băiat	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	3	nsubj	_	_
-5	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	9	advmod	_	_
+5	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=SCONJ	9	advmod	_	_
 6	când	când	ADV	Rw	PronType=Int,Rel	5	fixed	_	_
 7	ușa	ușă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	9	nsubj	_	_
 8	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	9	expl:pv	_	_
@@ -2045,7 +2045,7 @@
 12	unor	un	DET	Ti-po	Case=Dat,Gen|Number=Plur|PronType=Ind	13	det	_	_
 13	prizonieri	prizonier	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	11	nmod	_	_
 14	irakieni	irakian	ADJ	Afpmp-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	13	amod	_	_
-15	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	17	case	_	_
+15	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	17	case	_	_
 16	către	către	ADP	Spsa	AdpType=Prep|Case=Acc	15	fixed	_	_
 17	militari	militar	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	11	obl:agent	_	_
 18	ai	al	DET	Tsmp	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	19	det	_	_
@@ -2294,7 +2294,7 @@
 8	porumbul	porumb	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	9	nsubj	_	_
 9	dobândește	dobândi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 10	,	,	PUNCT	COMMA	_	11	punct	_	_
-11	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	9	advmod	_	_
+11	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	9	advmod	_	_
 12	asemenea	asemenea	ADV	Rgp	Degree=Pos	11	fixed	_	SpaceAfter=No
 13	,	,	PUNCT	COMMA	_	11	punct	_	_
 14	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	16	det	_	_
@@ -2715,7 +2715,7 @@
 
 # sent_id = dev-117
 # text = De asemenea, ei au dreptul să fie asistați de un traducător dacă nu înțeleg limba oficială.
-1	De	de	ADP	Spsa	AdpType=Prep|Case=Acc	5	advmod	_	_
+1	De	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	5	advmod	_	_
 2	asemenea	asemenea	ADJ	Afp	Degree=Pos	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	1	punct	_	_
 4	ei	el	PRON	Pp3mpr--------s	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Strength=Strong	5	nsubj	_	_
@@ -3970,7 +3970,7 @@
 53	neapărat	neapărat	ADV	Rgp	Degree=Pos	54	advmod	_	_
 54	evitat	evitat	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	52	csubj	_	SpaceAfter=No
 55	,	,	PUNCT	COMMA	_	58	punct	_	_
-56	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	58	case	_	_
+56	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	58	case	_	_
 57	vederea	vedere	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	56	fixed	_	_
 58	protejării	protejare	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	52	obl	_	_
 59	sănătății	sănătate	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	58	nmod	_	_
@@ -3979,7 +3979,7 @@
 
 # sent_id = dev-153
 # text = De asemenea, utilizarea regulată a acestor substanțe pentru stimularea creșterii la animale riscă să mărească concentrația acestor substanțe în mediul înconjurător.
-1	De	de	ADP	Spsa	AdpType=Prep|Case=Acc	14	advmod	_	_
+1	De	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	14	advmod	_	_
 2	asemenea	asemenea	ADJ	Afp	Degree=Pos	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	1	punct	_	_
 4	utilizarea	utilizare	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	14	nsubj	_	_
@@ -4073,7 +4073,7 @@
 66	administrat	administra	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	61	acl	_	_
 67	acești	acest	DET	Dd3mpr---e	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|Position=Prenom|PronType=Dem	68	det	_	_
 68	hormoni	hormon	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	66	nsubj:pass	_	_
-69	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	71	case	_	_
+69	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	71	case	_	_
 70	vederea	vedere	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	69	fixed	_	_
 71	stimulării	stimulare	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	66	obl	_	_
 72	creșterii	creștere	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	71	nmod	_	SpaceAfter=No
@@ -4124,7 +4124,7 @@
 
 # sent_id = dev-155
 # text = De asemenea, în conformitate cu articolul 7 din Regulamentul (CE) nr. 178 / 2002 al Parlamentului European și al Consiliului din 28 ianuarie 2002 de stabilire a principiilor generale și a cerințelor generale ale legislației alimentare, de instituire a Autorității Europene pentru securitatea alimentelor și de stabilire a procedurilor în domeniul siguranței alimentare, trebuie să se aplice interdicția provizorie cu privire la cei cinci hormoni, până în momentul în care Comunitatea obține, din orice surse, informații științifice mai complete, care ar putea să clarifice și să completeze lacunele existente în nivelul actual al cunoștințelor referitoare la aceste substanțe.
-1	De	de	ADP	Spsa	AdpType=Prep|Case=Acc	59	advmod	_	_
+1	De	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	59	advmod	_	_
 2	asemenea	asemenea	ADJ	Afp	Degree=Pos	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	1	punct	_	_
 4	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
@@ -4254,7 +4254,7 @@
 17	scopuri	scop	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	9	nmod	_	_
 18	terapeutice	terapeutic	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	17	amod	_	_
 19	sau	sau	CCONJ	Ccssp	Polarity=Pos	23	cc	_	_
-20	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	23	case	_	_
+20	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	23	case	_	_
 21	vederea	vedere	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	20	fixed	_	_
 22	unui	un	DET	Timso	Case=Dat,Gen|Gender=Masc|Number=Sing|PronType=Ind	23	det	_	_
 23	tratament	tratament	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	17	conj	_	_
@@ -4303,7 +4303,7 @@
 66	22	22	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	63	nummod	_	_
 67	/	/	PUNCT	SLASH	AdpType=Prep	63	punct	_	_
 68	CE	Comisia_Europeană	NOUN	Yn	Abbr=Yes	63	nmod	_	_
-69	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	71	case	_	_
+69	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	71	case	_	_
 70	vederea	vedere	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	69	fixed	_	_
 71	evitării	evitare	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	61	obl	_	_
 72	oricărei	oricare	DET	Di3fso---e	Case=Dat,Gen|Gender=Fem|Number=Sing|Person=3|Position=Prenom|PronType=Ind	73	det	_	_
@@ -4418,7 +4418,7 @@
 
 # sent_id = dev-160
 # text = De asemenea, marcajul de sănătate care trebuie aplicat pe carnea proaspătă de pasăre care nu este destinată comerțului intracomunitar sau livrării în țări terțe, conform Deciziei 2004 / 666 / CE, ar trebui modificat pentru a se facilita utilizarea la nivel național.
-1	De	de	ADP	Spsa	AdpType=Prep|Case=Acc	36	advmod	_	_
+1	De	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	36	advmod	_	_
 2	asemenea	asemenea	ADJ	Afp	Degree=Pos	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	1	punct	_	_
 4	marcajul	marcaj	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	37	nsubj	_	_
@@ -4654,7 +4654,7 @@
 
 # sent_id = dev-165
 # text = De asemenea, nu există alt mijloc semnificativ mai puțin restrictiv pentru schimburi și care să permită obținerea, într-un mod la fel de eficient, a nivelului ales de protecție a sănătății, la care ar putea să recurgă Comunitatea în mod rezonabil în momentul de față, având în vedere fezabilitatea tehnică și economică.
-1	De	de	ADP	Spsa	AdpType=Prep|Case=Acc	5	advmod	_	_
+1	De	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	5	advmod	_	_
 2	asemenea	asemenea	ADJ	Afp	Degree=Pos	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	1	punct	_	_
 4	nu	nu	PART	Qz	Polarity=Neg	5	advmod	_	_
@@ -5208,7 +5208,7 @@
 1	(	(	PUNCT	LPAR	_	2	punct	_	SpaceAfter=No
 2	10	10	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	8	parataxis	_	SpaceAfter=No
 3	)	)	PUNCT	RPAR	_	2	punct	_	_
-4	De	de	ADP	Spsa	AdpType=Prep|Case=Acc	8	advmod	_	_
+4	De	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	8	advmod	_	_
 5	asemenea	asemenea	ADJ	Afp	Degree=Pos	4	fixed	_	SpaceAfter=No
 6	,	,	PUNCT	COMMA	_	4	punct	_	_
 7	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
@@ -5286,7 +5286,7 @@
 1	(	(	PUNCT	LPAR	_	2	punct	_	SpaceAfter=No
 2	12	12	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	8	parataxis	_	SpaceAfter=No
 3	)	)	PUNCT	RPAR	_	2	punct	_	_
-4	De	de	ADP	Spsa	AdpType=Prep|Case=Acc	8	advmod	_	_
+4	De	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	8	advmod	_	_
 5	asemenea	asemenea	ADJ	Afp	Degree=Pos	4	fixed	_	SpaceAfter=No
 6	,	,	PUNCT	COMMA	_	4	punct	_	_
 7	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
@@ -6747,7 +6747,7 @@
 21	timpul	timp	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	20	fixed	_	_
 22	executării	executare	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	19	obl:tmod	_	_
 23	acestuia	acesta	PRON	Pd3mso	Case=Dat,Gen|Gender=Masc|Number=Sing|Person=3|PronType=Dem	22	nmod	_	_
-24	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	26	case	_	_
+24	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	26	case	_	_
 25	către	către	ADP	Spsa	AdpType=Prep|Case=Acc	24	fixed	_	_
 26	performer	performer	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	22	obl:agent	_	SpaceAfter=No
 27	.	.	PUNCT	PERIOD	_	7	punct	_	_
@@ -7041,7 +7041,7 @@
 
 # sent_id = dev-266
 # text = De asemenea, instituția academică orientează și coordonează activitatea a 15 comitete naționale, 58 de comisii și șase colective de lucru.
-1	De	de	ADP	Spsa	AdpType=Prep|Case=Acc	6	advmod	_	_
+1	De	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	6	advmod	_	_
 2	asemenea	asemenea	ADJ	Afp	Degree=Pos	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	1	punct	_	_
 4	instituția	instituție	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	6	nsubj	_	_
@@ -8040,7 +8040,7 @@
 5	inventată	inventa	VERB	Vmp--sf	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
 6	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
 7	Paris	Paris	PROPN	Np	_	5	obl	_	_
-8	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	_
+8	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	11	case	_	_
 9	către	către	ADP	Spsa	AdpType=Prep|Case=Acc	8	fixed	_	_
 10	patru	patru	NUM	Mc-p-l	Number=Plur|NumForm=Word|NumType=Card	11	nummod	_	_
 11	tâlhari	tâlhar	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	5	obl:agent	_	_
@@ -8677,7 +8677,7 @@
 2	a	avea	AUX	Va--3s	Number=Sing|Person=3	3	aux	_	_
 3	realizat	realiza	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	COMMA	_	5	punct	_	_
-5	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	3	advmod	_	_
+5	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	3	advmod	_	_
 6	asemenea	asemenea	ADJ	Afp	Degree=Pos	5	fixed	_	SpaceAfter=No
 7	,	,	PUNCT	COMMA	_	5	punct	_	_
 8	studii	studiu	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	3	obj	_	_
@@ -9463,7 +9463,7 @@
 11	să	să	PART	Qs	Mood=Sub	13	mark	_	_
 12	fie	fi	AUX	Vasp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	13	aux:pass	_	_
 13	supravegheat	supraveghea	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	10	csubj	_	_
-14	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	17	case	_	_
+14	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	17	case	_	_
 15	către	către	ADP	Spsa	AdpType=Prep|Case=Acc	14	fixed	_	_
 16	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	17	det	_	_
 17	medic	medic	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	13	obl:agent	_	_
@@ -9521,7 +9521,7 @@
 17	poate	putea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 18	contribui	contribui	VERB	Vmnp	Tense=Pres|VerbForm=Inf	17	ccomp	_	SpaceAfter=No
 19	,	,	PUNCT	COMMA	_	20	punct	_	_
-20	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	18	advmod	_	_
+20	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	18	advmod	_	_
 21	asemenea	asemenea	ADJ	Afp	Degree=Pos	20	fixed	_	SpaceAfter=No
 22	,	,	PUNCT	COMMA	_	20	punct	_	_
 23	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	24	case	_	_
@@ -9625,7 +9625,7 @@
 # text = Metabolizarea extrahepatică de către CYP3A4 în intestin, CYP1A1 în plămân și 1B1 în țesutul tumoral contribuie potențial la eliminarea prin metabolizare a erlotinibului.
 1	Metabolizarea	metabolizare	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	17	nsubj	_	_
 2	extrahepatică	extrahepatic	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	1	amod	_	_
-3	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
+3	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	5	case	_	_
 4	către	către	ADP	Spsa	AdpType=Prep|Case=Acc	3	fixed	_	_
 5	CYP3A4	CYP3A4	PROPN	Np	_	1	obl:agent	_	_
 6	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
@@ -9765,7 +9765,7 @@
 14	DTPc	DTPc	PROPN	Np	_	13	nmod	_	_
 15	și	și	CCONJ	Crssp	Polarity=Pos	20	cc	_	SpaceAfter=No
 16	,	,	PUNCT	COMMA	_	17	punct	_	_
-17	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	20	advmod	_	_
+17	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	20	advmod	_	_
 18	asemenea	asemenea	ADJ	Afp	Degree=Pos	17	fixed	_	SpaceAfter=No
 19	,	,	PUNCT	COMMA	_	17	punct	_	_
 20	administrarea	administrare	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	7	conj	_	_
@@ -12040,7 +12040,7 @@
 5	saudiți	saudit	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	10	nsubj:pass	_	_
 6	au	avea	AUX	Va--3p	Number=Plur|Person=3	10	aux	_	_
 7	fost	fi	AUX	Vap--sm	Gender=Masc|Number=Sing|VerbForm=Part	10	aux:pass	_	_
-8	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	10	advmod	_	_
+8	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	10	advmod	_	_
 9	asemenea	asemenea	ADJ	Afp	Degree=Pos	8	fixed	_	_
 10	executați	executa	VERB	Vmp--pm	Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	_
 11	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	_
@@ -12196,7 +12196,7 @@
 2	Caskie	Caskie	PROPN	Np	_	1	flat	_	_
 3	a	avea	AUX	Va--3s	Number=Sing|Person=3	4	aux	_	_
 4	supraviețuit	supraviețui	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
-5	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	4	advmod	_	_
+5	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	4	advmod	_	_
 6	asemenea	asemenea	ADJ	Afp	Degree=Pos	5	fixed	_	_
 7	impactului	impact	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	4	iobj	_	_
 8	inițial	inițial	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	SpaceAfter=No
@@ -12617,7 +12617,7 @@
 
 # sent_id = dev-506
 # text = De asemenea sunt servite gustări și există o masă de biliard și televizor.
-1	De	de	ADP	Spsa	AdpType=Prep|Case=Acc	4	advmod	_	_
+1	De	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	4	advmod	_	_
 2	asemenea	asemenea	ADJ	Afp	Degree=Pos	1	fixed	_	_
 3	sunt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
 4	servite	servi	VERB	Vmp--pf	Gender=Fem|Number=Plur|VerbForm=Part	0	root	_	_
@@ -13546,7 +13546,7 @@
 19	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	18	fixed	_	_
 20	părțile	parte	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	15	obl	_	_
 21	interesate	interesat	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	20	amod	_	_
-22	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	25	case	_	_
+22	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	25	case	_	_
 23	vederea	vedere	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	22	fixed	_	_
 24	unei	un	DET	Tifso	Case=Dat,Gen|Gender=Fem|Number=Sing|PronType=Ind	25	det	_	_
 25	consultări	consultare	NOUN	Ncfson	Case=Dat,Gen|Definite=Ind|Gender=Fem|Number=Sing	15	obl	_	_
@@ -13563,7 +13563,7 @@
 6	ședere	ședere	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	3	conj	_	_
 7	sunt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	aux:pass	_	_
 8	rambursate	rambursa	VERB	Vmp--pf	Gender=Fem|Number=Plur|VerbForm=Part	0	root	_	_
-9	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	_
+9	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	11	case	_	_
 10	către	către	ADP	Spsa	AdpType=Prep|Case=Acc	9	fixed	_	_
 11	Comisie	comisie	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	8	obl:agent	_	SpaceAfter=No
 12	.	.	PUNCT	PERIOD	_	8	punct	_	_
@@ -13873,7 +13873,7 @@
 23	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	22	fixed	_	_
 24	activarea	activare	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	12	obl:tmod	_	_
 25	experților	expert	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	24	nmod	_	_
-26	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	28	case	_	_
+26	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	28	case	_	_
 27	către	către	ADP	Spsa	AdpType=Prep|Case=Acc	26	fixed	_	_
 28	statele	stat	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	24	obl:agent	_	_
 29	participante	participant	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	28	amod	_	SpaceAfter=No
@@ -17731,7 +17731,7 @@
 
 # sent_id = dev-697
 # text = De asemenea, se utilizează și novocaina în perfuzie intravenoasă (20 ml xilocaină 1% într-un litru de ser glucozat 5%, perfuzie lentă).
-1	De	de	ADP	Spsa	AdpType=Prep|Case=Acc	5	advmod	_	_
+1	De	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	5	advmod	_	_
 2	asemenea	asemenea	ADJ	Afp	Degree=Pos	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	1	punct	_	_
 4	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	5	expl:pass	_	_
