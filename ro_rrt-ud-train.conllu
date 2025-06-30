@@ -176086,7 +176086,7 @@
 
 # sent_id = train-6845
 # text = Ca să dovedim aceasta, n-avem decât să strivim o furnică într-o hârtie de turnesol.
-1	Ca	ca	ADV	Rc	_	3	mark	_	_
+1	Ca	ca	ADV	Rc	ExtPos=SCONJ	3	mark	_	_
 2	să	să	PART	Qs	Mood=Sub	1	fixed	_	_
 3	dovedim	dovedi	VERB	Vmip1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	advcl	_	_
 4	aceasta	acesta	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	3	obj	_	SpaceAfter=No
@@ -176369,7 +176369,7 @@
 
 # sent_id = train-6855
 # text = Ca să nu se vadă că scrie prea repede, prea curgător, se prefăcea că mai caută câte un cuvânt în dicționar.
-1	Ca	ca	ADV	Rc	_	5	mark	_	_
+1	Ca	ca	ADV	Rc	ExtPos=SCONJ	5	mark	_	_
 2	să	să	PART	Qs	Mood=Sub	1	fixed	_	_
 3	nu	nu	PART	Qz	Polarity=Neg	5	advmod	_	_
 4	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	5	expl:pass	_	_
