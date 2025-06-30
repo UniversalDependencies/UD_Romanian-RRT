@@ -95,7 +95,7 @@
 5	învârti	învârti	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	7	det	_	_
 7	clipă	clipă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	5	obl	_	_
-8	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	_
+8	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	10	case	_	_
 9	jurul	jur	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	8	fixed	_	_
 10	datei	dată	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	5	obl	_	_
 11	nesigure	nesigur	ADJ	Afpfson	Case=Dat,Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
@@ -635,7 +635,7 @@
 52	marea	mare	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	53	nsubj	_	_
 53	devenea	deveni	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	49	conj	_	_
 54	roz	roz	ADJ	Afp	Degree=Pos	53	xcomp	_	_
-55	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	57	case	_	_
+55	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	57	case	_	_
 56	jurul	jur	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	55	fixed	_	_
 57	lui	el	PRON	Pp3mso--------s	Case=Dat,Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	53	obl	_	_
 58	și	și	CCONJ	Crssp	Polarity=Pos	60	cc	_	_
@@ -2807,7 +2807,7 @@
 13	invizibilă	invizibil	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	5	conj	_	SpaceAfter=No
 14	,	,	PUNCT	COMMA	_	15	punct	_	_
 15	răsare	răsări	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
-16	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	18	case	_	_
+16	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	18	case	_	_
 17	jurul	jur	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	16	fixed	_	_
 18	orei	oră	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	15	obl:tmod	_	_
 19	8,40	8,40	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	18	nummod	_	_
@@ -8548,7 +8548,7 @@
 8	că	că	SCONJ	Csssp	Polarity=Pos	10	mark	_	_
 9	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	10	expl:pv	_	_
 10	naște	naște	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl	_	_
-11	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	16	case	_	_
+11	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	16	case	_	_
 12	jurul	jur	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	11	fixed	_	_
 13	și	și	CCONJ	Crssp	Polarity=Pos	15	cc	_	_
 14	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	15	case	_	_
@@ -10721,7 +10721,7 @@
 5	,	,	PUNCT	COMMA	_	6	punct	_	_
 6	începând	începe	VERB	Vmg	VerbForm=Ger	16	advcl	_	_
 7	undeva	undeva	ADV	Rgp	Degree=Pos	10	advmod	_	_
-8	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	_
+8	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	10	case	_	_
 9	jurul	jur	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	8	fixed	_	_
 10	datei	dată	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	6	obl	_	_
 11	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	13	case	_	_
@@ -11659,7 +11659,7 @@
 23	cățărarea	cățărare	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	20	conj	_	_
 24	și	și	CCONJ	Crssp	Polarity=Pos	25	cc	_	_
 25	înotul	înot	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	20	conj	_	_
-26	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	29	case	_	_
+26	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	29	case	_	_
 27	jurul	jur	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	26	fixed	_	_
 28	frumoasei	frumos	ADJ	Afpfsoy	Case=Dat,Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	29	amod	_	_
 29	coaste	coastă	NOUN	Ncfson	Case=Dat,Gen|Definite=Ind|Gender=Fem|Number=Sing	25	nmod	_	_
@@ -11688,7 +11688,7 @@
 18	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	20	case	_	_
 19	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	20	det	_	_
 20	prosop	prosop	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	5	conj	_	_
-21	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	23	case	_	_
+21	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	23	case	_	_
 22	jurul	jur	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	21	fixed	_	_
 23	gâtului	gât	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	20	nmod	_	SpaceAfter=No
 24	,	,	PUNCT	COMMA	_	1	punct	_	_

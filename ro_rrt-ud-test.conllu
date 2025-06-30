@@ -490,7 +490,7 @@
 
 # sent_id = test-18
 # text = În jurul taliei de la salopetă avea prinsă o eșarfă roșie îngustă, emblema Ligii Tineretului Anti-Sex, pe care și-o petrecea de mai multe ori, destul de strâns ca să-i scoată în relief frumusețea șoldurilor.
-1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
+1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	3	case	_	_
 2	jurul	jur	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	1	fixed	_	_
 3	taliei	talie	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	7	obl	_	_
 4	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	6	case	_	_
@@ -860,7 +860,7 @@
 12	banderolă	banderolă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	10	obj	_	_
 13	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	_
 14	leucoplast	leucoplast	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	12	nmod	_	_
-15	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	17	case	_	_
+15	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	17	case	_	_
 16	jurul	jur	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	15	fixed	_	_
 17	încheieturii	încheietură	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
 18	.	.	PUNCT	PERIOD	_	2	punct	_	_
@@ -3143,7 +3143,7 @@
 7	vârfurile	vârf	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	4	obl:agent	_	_
 8	copacilor	copac	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	7	nmod	_	SpaceAfter=No
 9	,	,	PUNCT	COMMA	_	16	punct	_	_
-10	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	_
+10	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	12	case	_	_
 11	jurul	jur	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	10	fixed	_	_
 12	cărora	care	PRON	Pw3-po	Case=Dat,Gen|Number=Plur|Person=3|PronType=Int,Rel	16	obl	_	_
 13	pescarii	pescar	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	16	nsubj	_	_
@@ -8064,7 +8064,7 @@
 16	să	să	PART	Qs	Mood=Sub	18	mark	_	_
 17	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	18	expl:pv	_	_
 18	învârtească	învârti	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	15	ccomp	_	_
-19	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	21	case	_	_
+19	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	21	case	_	_
 20	jurul	jur	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	19	fixed	_	_
 21	sârmei	sârmă	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	18	obl	_	_
 22	subțiri	subțire	ADJ	Afpfson	Case=Dat,Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	_
