@@ -15,7 +15,7 @@
 
 # sent_id = test-2
 # text = pe urmă ți-arăta o barcă de salvare plină cu copii și un elicopter care se oprise deasupra ei.
-1	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	4	advmod	_	_
+1	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	4	advmod	_	_
 2	urmă	urmă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	1	fixed	_	_
 3	ți-	tu	PRON	Pp2-sd--y-----w	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Weak|Variant=Short	4	iobj	_	SpaceAfter=No
 4	arăta	arăta	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
@@ -124,7 +124,7 @@
 
 # sent_id = test-5
 # text = pe urmă elicopterul a lansat o bombă de 20 de kilograme direct pe ei, o flamă îngrozitoare și barca s-a făcut toată pulbere.
-1	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	5	advmod	_	_
+1	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	5	advmod	_	_
 2	urmă	urmă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	1	fixed	_	_
 3	elicopterul	elicopter	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	5	nsubj	_	_
 4	a	avea	AUX	Va--3s	Number=Sing|Person=3	5	aux	_	_
@@ -612,7 +612,7 @@
 
 # sent_id = test-23
 # text = Pe urmă veniră trei zile cumplite, când nu apăru deloc.
-1	Pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	3	advmod	_	_
+1	Pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	3	advmod	_	_
 2	urmă	urmă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	1	fixed	_	_
 3	veniră	veni	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	trei	trei	NUM	Mc-p-l	Number=Plur|NumForm=Word|NumType=Card	5	nummod	_	_
@@ -1608,7 +1608,7 @@
 79	să	să	PART	Qs	Mood=Sub	80	mark	_	_
 80	uiți	uita	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	78	csubj	_	SpaceAfter=No
 81	,	,	PUNCT	COMMA	_	85	punct	_	_
-82	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	85	advmod	_	_
+82	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	85	advmod	_	_
 83	urmă	urmă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	82	fixed	_	_
 84	a	a	PART	Qn	PartType=Inf	85	mark	_	_
 85	readuce	readuce	VERB	Vmnp	Tense=Pres|VerbForm=Inf	75	conj	_	_
@@ -7791,7 +7791,7 @@
 # sent_id = test-309
 # text = Și pe urmă eu călătorisem așa de mult, încât ajunsesem să fiu cu desăvârșire pentru nil admirari;
 1	Și	și	CCONJ	Crssp	Polarity=Pos	5	cc	_	_
-2	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	5	advmod	_	_
+2	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	5	advmod	_	_
 3	urmă	urmă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	2	fixed	_	_
 4	eu	eu	PRON	Pp1-sn--------s	Case=Nom|Number=Sing|Person=1|PronType=Prs|Strength=Strong	5	nsubj	_	_
 5	călătorisem	călători	VERB	Vmil1	Mood=Ind|Person=1|Tense=Pqp|VerbForm=Fin	0	root	_	_
