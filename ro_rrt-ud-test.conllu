@@ -5986,7 +5986,7 @@
 
 # sent_id = test-222
 # text = Până și plenitudinea, în asemenea clipe, îi pare însămânțată de dezastre.
-1	Până	până	SCONJ	Csssp	Polarity=Pos	3	advmod	_	_
+1	Până	până	SCONJ	Csssp	ExtPos=ADV|Polarity=Pos	3	advmod	_	_
 2	și	și	CCONJ	Crssp	Polarity=Pos	1	fixed	_	_
 3	plenitudinea	plenitudine	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	10	nsubj	_	SpaceAfter=No
 4	,	,	PUNCT	COMMA	_	7	punct	_	_

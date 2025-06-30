@@ -368,7 +368,7 @@
 8	clipa	clipă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	15	obl	_	_
 9	asta	acesta	DET	Dd3fsr---o	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|Position=Postnom|PronType=Dem	8	det	_	SpaceAfter=No
 10	,	,	PUNCT	COMMA	_	8	punct	_	_
-11	până	până	SCONJ	Csssp	Polarity=Pos	13	advmod	_	_
+11	până	până	SCONJ	Csssp	ExtPos=ADV|Polarity=Pos	13	advmod	_	_
 12	și	și	CCONJ	Crssp	Polarity=Pos	11	fixed	_	_
 13	monologul	monolog	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	15	nsubj	_	_
 14	îi	el	PRON	Pp3-sd--------w	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak	15	iobj	_	_

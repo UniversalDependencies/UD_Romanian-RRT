@@ -1223,7 +1223,7 @@
 20	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	21	case	_	_
 21	ticălos	ticălos	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	18	conj	_	_
 22	încât	încât	SCONJ	Csssp	Polarity=Pos	29	mark	_	_
-23	până	până	SCONJ	Csssp	Polarity=Pos	26	advmod	_	_
+23	până	până	SCONJ	Csssp	ExtPos=ADV|Polarity=Pos	26	advmod	_	_
 24	și	și	CCONJ	Crssp	Polarity=Pos	23	fixed	_	_
 25	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	26	det	_	_
 26	copil	copil	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	31	nsubj	_	_
@@ -1568,7 +1568,7 @@
 34	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	46	advmod	_	_
 35	urmă	urmă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	34	fixed	_	SpaceAfter=No
 36	,	,	PUNCT	COMMA	_	34	punct	_	_
-37	până	până	SCONJ	Csssp	Polarity=Pos	39	advmod	_	_
+37	până	până	SCONJ	Csssp	ExtPos=ADV|Polarity=Pos	39	advmod	_	_
 38	și	și	CCONJ	Crssp	Polarity=Pos	37	fixed	_	_
 39	vederea	vedere	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	46	nsubj	_	_
 40	lui	lui	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	41	det	_	_
@@ -3116,7 +3116,7 @@
 
 # sent_id = train-131
 # text = Până și fața aspră a lui O'Brien se îmbujorase.
-1	Până	până	SCONJ	Csssp	Polarity=Pos	3	advmod	_	_
+1	Până	până	SCONJ	Csssp	ExtPos=ADV|Polarity=Pos	3	advmod	_	_
 2	și	și	CCONJ	Crssp	Polarity=Pos	1	fixed	_	_
 3	fața	față	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	9	nsubj	_	_
 4	aspră	aspru	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
@@ -5379,7 +5379,7 @@
 
 # sent_id = train-209
 # text = Până și străzile care duceau la barierele lui exterioare gemeau de gardieni cu mutre de gorile, îmbrăcați în uniforme negre și înarmați cu bastoane.
-1	Până	până	SCONJ	Csssp	Polarity=Pos	3	advmod	_	_
+1	Până	până	SCONJ	Csssp	ExtPos=ADV|Polarity=Pos	3	advmod	_	_
 2	și	și	CCONJ	Crssp	Polarity=Pos	1	fixed	_	_
 3	străzile	stradă	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	10	nsubj	_	_
 4	care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	5	nsubj	_	_
@@ -7383,7 +7383,7 @@
 # sent_id = train-294
 # text = Dar până și ăsta era un eveniment memorabil în singurătatea claustrată în care erai obligat să trăiești.
 1	Dar	dar	CCONJ	Ccssp	Polarity=Pos	7	cc	_	_
-2	până	până	SCONJ	Csssp	Polarity=Pos	4	advmod	_	_
+2	până	până	SCONJ	Csssp	ExtPos=ADV|Polarity=Pos	4	advmod	_	_
 3	și	și	CCONJ	Crssp	Polarity=Pos	2	fixed	_	_
 4	ăsta	acesta	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	_
 5	era	fi	AUX	Vaii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	cop	_	_
@@ -11912,7 +11912,7 @@
 
 # sent_id = train-532
 # text = Până și de pe monedă ochii ăia te urmăreau.
-1	Până	până	SCONJ	Csssp	Polarity=Pos	5	advmod	_	_
+1	Până	până	SCONJ	Csssp	ExtPos=ADV|Polarity=Pos	5	advmod	_	_
 2	și	și	CCONJ	Crssp	Polarity=Pos	1	fixed	_	_
 3	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	5	case	_	_
 4	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	3	fixed	_	_
@@ -14451,7 +14451,7 @@
 6	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
 7	reper	reper	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
 8	,	,	PUNCT	COMMA	_	1	punct	_	_
-9	până	până	SCONJ	Csssp	Polarity=Pos	13	advmod	_	_
+9	până	până	SCONJ	Csssp	ExtPos=ADV|Polarity=Pos	13	advmod	_	_
 10	și	și	CCONJ	Crssp	Polarity=Pos	9	fixed	_	_
 11	propria	propriu	ADJ	Afpfsry	Case=Acc,Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
 12	ta	tău	DET	Ds2fsrs	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	13	det	_	_
@@ -14507,12 +14507,12 @@
 
 # sent_id = train-638
 # text = Până și numele țărilor, până și forma lor pe hartă erau altele.
-1	Până	până	SCONJ	Csssp	Polarity=Pos	3	advmod	_	_
+1	Până	până	SCONJ	Csssp	ExtPos=ADV|Polarity=Pos	3	advmod	_	_
 2	și	și	CCONJ	Crssp	Polarity=Pos	1	fixed	_	_
 3	numele	nume	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	13	nsubj	_	_
 4	țărilor	țară	NOUN	Ncfpoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Plur	3	nmod	_	SpaceAfter=No
 5	,	,	PUNCT	COMMA	_	8	punct	_	_
-6	până	până	SCONJ	Csssp	Polarity=Pos	8	advmod	_	_
+6	până	până	SCONJ	Csssp	ExtPos=ADV|Polarity=Pos	8	advmod	_	_
 7	și	și	CCONJ	Crssp	Polarity=Pos	6	fixed	_	_
 8	forma	formă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	3	conj	_	_
 9	lor	lui	DET	Ds3---p	Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	8	det	_	_
@@ -16730,7 +16730,7 @@
 31	și	și	CCONJ	Crssp	Polarity=Pos	32	cc	_	_
 32	funinginea	funingine	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	30	conj	_	_
 33	Londrei	Londra	PROPN	Npfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	30	nmod	_	_
-34	până	până	ADP	Spsa	AdpType=Prep|Case=Acc	37	advmod	_	_
+34	până	până	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	37	advmod	_	_
 35	și	și	CCONJ	Crssp	Polarity=Pos	34	fixed	_	_
 36	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	37	case	_	_
 37	porii	por	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	29	obl	_	_
@@ -166451,7 +166451,7 @@
 # newdoc id = Literatura-1-300
 # sent_id = train-6391
 # text = Până și faptul că v-ați însușit atât de subtil limba engleză.
-1	Până	până	SCONJ	Csssp	Polarity=Pos	3	advmod	_	_
+1	Până	până	SCONJ	Csssp	ExtPos=ADV|Polarity=Pos	3	advmod	_	_
 2	și	și	CCONJ	Crssp	Polarity=Pos	1	fixed	_	_
 3	faptul	fapt	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	0	root	_	_
 4	că	că	SCONJ	Csssp	Polarity=Pos	7	mark	_	_
@@ -168524,7 +168524,7 @@
 8	să	să	PART	Qs	Mood=Sub	10	mark	_	SpaceAfter=No
 9	-mi	eu	PRON	Pp1-sd--y-----w	Case=Dat|Number=Sing|Person=1|PronType=Prs|Strength=Weak|Variant=Short	10	iobj	_	_
 10	arate	arăta	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	_
-11	până	până	SCONJ	Csssp	Polarity=Pos	13	advmod	_	_
+11	până	până	SCONJ	Csssp	ExtPos=ADV|Polarity=Pos	13	advmod	_	_
 12	și	și	CCONJ	Crssp	Polarity=Pos	11	fixed	_	_
 13	faptul	fapt	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	10	obj	_	_
 14	că	că	SCONJ	Csssp	Polarity=Pos	16	mark	_	_
