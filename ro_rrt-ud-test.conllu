@@ -1160,7 +1160,7 @@
 7	dacă	dacă	SCONJ	Csssp	Polarity=Pos	16	mark	_	_
 8	înainte	înainte	ADV	Rgp	Degree=Pos	16	advmod	_	_
 9	sau	sau	CCONJ	Ccssp	Polarity=Pos	12	cc	_	_
-10	după	după	ADP	Spsa	AdpType=Prep|Case=Acc	12	mark	_	_
+10	după	după	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=SCONJ	12	mark	_	_
 11	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	10	fixed	_	_
 12	avusese	avea	VERB	Vmil3s	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin	8	conj	_	_
 13	visul	vis	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	12	obj	_	_
@@ -11559,7 +11559,7 @@
 
 # sent_id = test-472
 # text = După ce 4.000 au pierit în 1952, guvernul a introdus Actele Aerului Curat, cu 2.000 de Zone de Aer Curat locale.
-1	După	după	ADP	Spsa	AdpType=Prep|Case=Acc	5	mark	_	_
+1	După	după	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=SCONJ	5	mark	_	_
 2	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	1	fixed	_	_
 3	4.000	4.000	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	5	nsubj	_	_
 4	au	avea	AUX	Va--3p	Number=Plur|Person=3	5	aux	_	_
@@ -11644,7 +11644,7 @@
 15	murit	muri	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	11	acl	_	_
 16	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	17	case	_	_
 17	foame	foame	NOUN	Ncfs-n	Definite=Ind|Gender=Fem|Number=Sing	15	obl	_	_
-18	după	după	ADP	Spsa	AdpType=Prep|Case=Acc	22	mark	_	_
+18	după	după	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=SCONJ	22	mark	_	_
 19	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	18	fixed	_	_
 20	a	avea	AUX	Va--3s	Number=Sing|Person=3	22	aux	_	_
 21	fost	fi	AUX	Vap--sm	Gender=Masc|Number=Sing|VerbForm=Part	22	aux	_	_
@@ -17315,7 +17315,7 @@
 4	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
 5	3	3	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	6	nummod	_	_
 6	ani	an	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	21	obl	_	_
-7	după	după	ADP	Spsa	AdpType=Prep|Case=Acc	11	mark	_	_
+7	după	după	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=SCONJ	11	mark	_	_
 8	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	7	fixed	_	_
 9	trupele	trupă	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	11	nsubj	_	_
 10	sovietice	sovietic	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	9	amod	_	_
