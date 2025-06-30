@@ -11720,7 +11720,7 @@
 # text = Aceasta este pentru că gonococcus piere rapid în afara corpului uman, fiind dependent de cantitatea corectă de căldură și umezeală.
 1	Aceasta	acesta	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	_
 2	este	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc	6	mark	_	_
+3	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=SCONJ	6	mark	_	_
 4	că	că	SCONJ	Csssp	Polarity=Pos	3	fixed	_	_
 5	gonococcus	gonococcus	PROPN	Np	_	6	nsubj	_	_
 6	piere	pieri	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
@@ -17710,7 +17710,7 @@
 29	arestați	aresta	VERB	Vmp--pm	Gender=Masc|Number=Plur|VerbForm=Part	3	advcl	_	_
 30	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	31	case	_	_
 31	securitate	securitate	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	29	obl:agent	_	_
-32	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc	34	mark	_	_
+32	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=SCONJ	34	mark	_	_
 33	că	că	SCONJ	Csssp	Polarity=Pos	32	fixed	_	_
 34	organizaseră	organiza	VERB	Vmil3p	Mood=Ind|Number=Plur|Person=3|Tense=Pqp|VerbForm=Fin	29	advcl	_	_
 35	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	36	det	_	_

@@ -399,7 +399,7 @@
 4	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	5	obj	_	_
 5	scarpine	scărpina	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	SpaceAfter=No
 6	,	,	PUNCT	COMMA	_	18	punct	_	_
-7	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc	18	mark	_	_
+7	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=SCONJ	18	mark	_	_
 8	că	că	SCONJ	Csssp	Polarity=Pos	7	fixed	_	_
 9	ori	oară	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	13	advmod	_	_
 10	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	9	fixed	_	_
@@ -2416,7 +2416,7 @@
 13	putem	putea	VERB	Vmip1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 14	sta	sta	VERB	Vmnp	Tense=Pres|VerbForm=Inf	13	ccomp	_	_
 15	liniștiți	liniștit	ADJ	Afpmp-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	14	xcomp	_	_
-16	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc	25	mark	_	_
+16	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=SCONJ	25	mark	_	_
 17	că	că	SCONJ	Csssp	Polarity=Pos	16	fixed	_	_
 18	producția	producție	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	25	nsubj	_	_
 19	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	20	case	_	_
@@ -6944,7 +6944,7 @@
 3	doilea	doi	NUM	Moms-l	Gender=Masc|Number=Sing|NumForm=Word|NumType=Ord	4	nummod	_	_
 4	rând	rând	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
 5	,	,	PUNCT	COMMA	_	4	punct	_	_
-6	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc	12	mark	_	_
+6	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=SCONJ	12	mark	_	_
 7	că	că	SCONJ	Csssp	Polarity=Pos	6	fixed	_	_
 8	poezia	poezie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	12	nsubj	_	_
 9	unui	un	DET	Timso	Case=Dat,Gen|Gender=Masc|Number=Sing|PronType=Ind	10	det	_	_
@@ -12003,7 +12003,7 @@
 8	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	_
 9	troacele	troacă	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	7	obl	_	_
 10	vitelor	vită	NOUN	Ncfpoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Plur	9	nmod	_	_
-11	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc	13	mark	_	_
+11	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=SCONJ	13	mark	_	_
 12	că	că	SCONJ	Csssp	Polarity=Pos	11	fixed	_	_
 13	plonjează	plonja	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
 14	înăuntru	înăuntru	ADV	Rgp	Degree=Pos	13	advmod	_	_
@@ -16915,7 +16915,7 @@
 16	dar	dar	CCONJ	Ccssp	Polarity=Pos	17	cc	_	_
 17	închisese	închide	VERB	Vmil3s	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin	3	conj	_	_
 18	ochii	ochi	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	17	obj	_	_
-19	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc	27	mark	_	_
+19	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=SCONJ	27	mark	_	_
 20	că	că	SCONJ	Csssp	Polarity=Pos	19	fixed	_	_
 21	și	și	CCONJ	Crssp	Polarity=Pos	23	advmod	_	_
 22	unui	un	DET	Timso	Case=Dat,Gen|Gender=Masc|Number=Sing|PronType=Ind	23	det	_	_
@@ -17585,7 +17585,7 @@
 3	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
 5	mirare	mirare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
-6	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc	20	mark	_	_
+6	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=SCONJ	20	mark	_	_
 7	că	că	SCONJ	Csssp	Polarity=Pos	6	fixed	_	_
 8	spasmul	spasm	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	20	nsubj:pass	_	_
 9	ureteral	ureteral	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
@@ -17601,7 +17601,7 @@
 19	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux:pass	_	_
 20	dovedit	dovedi	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	5	advcl	_	_
 21	și	și	CCONJ	Crssp	Polarity=Pos	29	cc	_	_
-22	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc	29	mark	_	_
+22	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=SCONJ	29	mark	_	_
 23	că	că	SCONJ	Csssp	Polarity=Pos	22	fixed	_	_
 24	produsele	produs	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	29	nsubj	_	_
 25	antispastice	antispastic	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	24	amod	_	_
