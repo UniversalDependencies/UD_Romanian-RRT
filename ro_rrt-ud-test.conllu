@@ -1379,7 +1379,7 @@
 5	sosit	sosi	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 6	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	7	det	_	_
 7	știre	știre	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	5	nsubj	_	_
-8	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	_
+8	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	10	case	_	_
 9	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	8	fixed	_	_
 10	Frontul	front	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	5	obl	_	_
 11	Malabar	Malabar	PROPN	Np	_	10	nmod	_	SpaceAfter=No
@@ -8049,7 +8049,7 @@
 1	Maimuțoiul	maimuțoi	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	15	nsubj	_	_
 2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
 3	pâslă	pâslă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	1	nmod	_	_
-4	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	_
+4	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	6	case	_	_
 5	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	4	fixed	_	_
 6	parbriz	parbriz	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	COMMA	_	10	punct	_	_
@@ -11591,7 +11591,7 @@
 3	au	avea	AUX	Va--3p	Number=Plur|Person=3	5	aux	_	_
 4	fost	fi	AUX	Vap--sm	Gender=Masc|Number=Sing|VerbForm=Part	5	aux:pass	_	_
 5	spulberați	spulbera	VERB	Vmp--pm	Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	_
-6	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	_
+6	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	8	case	_	_
 7	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	6	fixed	_	_
 8	fața	față	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	5	obl	_	_
 9	pământului	pământ	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	8	nmod	_	_
@@ -12482,7 +12482,7 @@
 6	persoanei	persoană	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	5	iobj	_	_
 7	care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	8	nsubj	_	_
 8	coboară	coborî	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	6	acl	_	_
-9	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	_
+9	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	11	case	_	_
 10	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	9	fixed	_	_
 11	scenă	scenă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	8	obl	_	_
 12	să	să	PART	Qs	Mood=Sub	13	mark	_	_
@@ -13279,7 +13279,7 @@
 21	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	22	det	_	_
 22	apă	apă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	19	obj	_	_
 23	naturală	natural	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
-24	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	26	case	_	_
+24	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	26	case	_	_
 25	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	24	fixed	_	_
 26	teritoriul	teritoriu	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	22	nmod	_	_
 27	lor	lui	DET	Ds3---p	Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	26	det	_	SpaceAfter=No
@@ -16107,7 +16107,7 @@
 8	domnului	domn	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	7	nmod	_	_
 9	Bucuța	Bucuța	PROPN	Np	_	8	nmod	_	_
 10	încă	încă	ADV	Rgp	Degree=Pos	13	advmod	_	_
-11	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	13	case	_	_
+11	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	13	case	_	_
 12	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	11	fixed	_	_
 13	vremea	vreme	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	4	obl:tmod	_	_
 14	când	când	ADV	Rw	PronType=Int,Rel	15	advmod	_	_
@@ -18343,7 +18343,7 @@
 13	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	_
 14	atomi	atom	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	12	nmod	_	_
 15	N1	N1	NOUN	Ncm--n	Definite=Ind|Gender=Masc	14	nmod	_	_
-16	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	18	case	_	_
+16	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	18	case	_	_
 17	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	16	fixed	_	_
 18	nivelul	nivel	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	12	nmod	_	_
 19	inferior	inferior	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	_
@@ -18426,7 +18426,7 @@
 14	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	15	case	_	_
 15	atomi	atom	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	13	nmod	_	_
 16	N2	N2	NOUN	Ncm--n	Definite=Ind|Gender=Masc	15	nmod	_	_
-17	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	19	case	_	_
+17	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	19	case	_	_
 18	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	17	fixed	_	_
 19	nivelul	nivel	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	13	nmod	_	_
 20	superior	superior	ADJ	Afcms-n	Definite=Ind|Degree=Cmp|Gender=Masc|Number=Sing	19	amod	_	SpaceAfter=No

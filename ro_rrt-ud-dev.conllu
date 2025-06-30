@@ -99,7 +99,7 @@
 9	jurul	jur	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	8	fixed	_	_
 10	datei	dată	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	5	obl	_	_
 11	nesigure	nesigur	ADJ	Afpfson	Case=Dat,Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
-12	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	_
+12	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	14	case	_	_
 13	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	12	fixed	_	_
 14	pagină	pagină	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	10	nmod	_	_
 15	și	și	CCONJ	Crssp	Polarity=Pos	17	cc	_	_
@@ -2370,7 +2370,7 @@
 10	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	_
 11	semănat	semăna	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	9	obl	_	_
 12	boabe	boabă	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	9	nsubj:pass	_	_
-13	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	15	case	_	_
+13	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	15	case	_	_
 14	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	13	fixed	_	_
 15	știuleții	știulete	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	12	nmod	_	_
 16	cei	cel	DET	Tdmpr	Case=Acc,Nom|Gender=Masc|Number=Plur|PronType=Dem	18	det	_	_
@@ -3528,7 +3528,7 @@
 # sent_id = dev-142
 # text = Pneurile de pe partea dreaptă a mașinii au explodat, iar vehiculul a fost scăpat de sub control, intrând în coliziune cu un copac de pe marginea drumului.
 1	Pneurile	pneu	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	9	nsubj	_	_
-2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	_
+2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	4	case	_	_
 3	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	2	fixed	_	_
 4	partea	parte	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	1	nmod	_	_
 5	dreaptă	drept	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
@@ -3552,7 +3552,7 @@
 23	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	25	case	_	_
 24	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	25	det	_	_
 25	copac	copac	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	22	obl:pmod	_	_
-26	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	28	case	_	_
+26	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	28	case	_	_
 27	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	26	fixed	_	_
 28	marginea	margine	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	25	nmod	_	_
 29	drumului	drum	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	28	nmod	_	SpaceAfter=No
@@ -8382,7 +8382,7 @@
 7	domnitorului	domnitor	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	6	iobj	_	_
 8	că	că	SCONJ	Csssp	Polarity=Pos	16	mark	_	_
 9	locuitorii	locuitor	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	16	nsubj	_	_
-10	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	_
+10	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	12	case	_	_
 11	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	10	fixed	_	_
 12	moșia	moșie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	9	nmod	_	_
 13	Ciocănești	Ciocănești	PROPN	Np	_	12	nmod	_	_
@@ -11198,7 +11198,7 @@
 15	când	când	ADV	Rw	PronType=Int,Rel	17	advmod:tmod	_	_
 16	a	avea	AUX	Va--3s	Number=Sing|Person=3	17	aux	_	_
 17	deviat	devia	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	10	advcl:tcl	_	_
-18	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	20	case	_	_
+18	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	20	case	_	_
 19	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	18	fixed	_	_
 20	șosea	șosea	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	17	obl	_	_
 21	într-	întru	ADP	Spsay	AdpType=Prep|Case=Acc|Variant=Short	23	case	_	SpaceAfter=No
@@ -11860,7 +11860,7 @@
 # text = Un muncitor de pe un șantier de construcții s-a înecat când a intrat cu un car elevator în râul Tees, a aflat o anchetă.
 1	Un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	2	det	_	_
 2	muncitor	muncitor	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	11	nsubj	_	_
-3	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	_
+3	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	6	case	_	_
 4	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	3	fixed	_	_
 5	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	6	det	_	_
 6	șantier	șantier	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	2	nmod	_	_
@@ -12573,7 +12573,7 @@
 16	Eglinton	Eglinton	PROPN	Np	_	15	flat	_	_
 17	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	18	case	_	_
 18	Derry	Derry	PROPN	Np	_	14	nmod	_	_
-19	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	21	case	_	_
+19	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	21	case	_	_
 20	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	19	fixed	_	_
 21	8	8	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	12	nummod	_	_
 22	vineri	vineri	NOUN	Ncf--n	Definite=Ind|Gender=Fem	21	nmod	_	_
@@ -15539,7 +15539,7 @@
 10	ne	eu	PRON	Pp1-pa--------w	Case=Acc|Number=Plur|Person=1|PronType=Prs|Strength=Weak	11	obj	_	_
 11	tulburau	tulbura	VERB	Vmii3p	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	8	conj	_	_
 12	liniștea	liniște	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	11	obj	_	_
-13	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	15	case	_	_
+13	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	15	case	_	_
 14	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	13	fixed	_	_
 15	acum	acum	ADV	Rgp	Degree=Pos	8	advmod	_	SpaceAfter=No
 16	.	.	PUNCT	PERIOD	_	8	punct	_	_
