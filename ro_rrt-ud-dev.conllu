@@ -11000,7 +11000,7 @@
 7	-și	sine	PRON	Px3--d--y-----w	Case=Dat|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak|Variant=Short	9	expl:pv	_	_
 8	putea	putea	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	_
 9	aduce	aduce	VERB	Vmnp	Tense=Pres|VerbForm=Inf	8	obj	_	_
-10	aminte	aminte	ADV	Rgp	Degree=Pos	9	fixed	_	SpaceAfter=No
+10	aminte	aminte	ADV	Rgp	Degree=Pos	9	advmod	_	SpaceAfter=No
 11	.	.	PUNCT	PERIOD	_	2	punct	_	_
 
 # sent_id = dev-445
