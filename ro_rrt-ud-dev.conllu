@@ -290,7 +290,7 @@
 21	trebuit	trebui	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	12	csubj	_	_
 22	și	și	CCONJ	Crssp	Polarity=Pos	23	advmod	_	_
 23	altceva	altceva	PRON	Pi3-sr	Case=Acc,Nom|Number=Sing|Person=3|PronType=Ind	21	nsubj	_	_
-24	afară	afară	ADV	Rgp	Degree=Pos	26	case	_	_
+24	afară	afară	ADV	Rgp	Degree=Pos|ExtPos=ADP	26	case	_	_
 25	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	24	fixed	_	_
 26	curaj	curaj	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	21	obl	_	SpaceAfter=No
 27	.	.	PUNCT	PERIOD	_	2	punct	_	_
@@ -453,7 +453,7 @@
 24	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	26	det	_	_
 25	oarecare	oarecare	DET	Di3	Person=3|PronType=Ind	26	det	_	_
 26	amețeală	amețeală	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	6	conj	_	_
-27	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	29	case	_	_
+27	din	din	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	29	case	_	_
 28	cauza	cauză	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	27	fixed	_	_
 29	ginului	gin	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	26	nmod	_	SpaceAfter=No
 30	.	.	PUNCT	PERIOD	_	3	punct	_	_
@@ -856,7 +856,7 @@
 46	cunoșteau	cunoaște	VERB	Vmii3p	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	42	acl	_	SpaceAfter=No
 47	,	,	PUNCT	COMMA	_	40	punct	_	_
 48	văzuse	vedea	VERB	Vmil3s	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin	2	parataxis	_	_
-49	chiar	chiar	ADV	Rgp	Degree=Pos	52	advmod	_	_
+49	chiar	chiar	ADV	Rgp	Degree=Pos|ExtPos=ADV	52	advmod	_	_
 50	și	și	CCONJ	Crssp	Polarity=Pos	49	fixed	_	_
 51	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	52	det	_	_
 52	mișcare	mișcare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	48	obj	_	_
@@ -990,7 +990,7 @@
 10	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	_
 11	nimic	nimic	PRON	Pz3-sr	Case=Acc,Nom|Number=Sing|Person=3|PronType=Neg	8	obl	_	_
 12	altceva	altceva	PRON	Pi3-sr	Case=Acc,Nom|Number=Sing|Person=3|PronType=Ind	11	nmod	_	_
-13	afară	afară	ADV	Rgp	Degree=Pos	15	mark	_	_
+13	afară	afară	ADV	Rgp	Degree=Pos|ExtPos=ADP	15	mark	_	_
 14	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	13	fixed	_	_
 15	rezistat	rezista	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	8	advcl	_	SpaceAfter=No
 16	.	.	PUNCT	PERIOD	_	3	punct	_	_
@@ -1851,7 +1851,7 @@
 12	iugoslav	iugoslav	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
 13	Slobodan	Slobodan	PROPN	Np	_	11	nmod	_	_
 14	Miloșevici	Miloșevici	PROPN	Np	_	13	flat	_	_
-15	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	17	case	_	_
+15	din	din	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	17	case	_	_
 16	cauza	cauză	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	15	fixed	_	_
 17	stării	stare	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	8	obl	_	_
 18	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	19	case	_	_
@@ -1878,7 +1878,7 @@
 14	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	15	case	_	_
 15	Israel	Israel	PROPN	Np	_	12	obl	_	SpaceAfter=No
 16	,	,	PUNCT	COMMA	_	19	punct	_	_
-17	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	19	case	_	_
+17	din	din	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	19	case	_	_
 18	cauza	cauză	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	17	fixed	_	_
 19	amenințărilor	amenințare	NOUN	Ncfpoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Plur	7	obl	_	_
 20	antisemite	antisemit	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	19	amod	_	_
@@ -2464,7 +2464,7 @@
 3	riverane	riveran	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	2	amod	_	_
 4	Dunării	Dunăre	PROPN	Npfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	3	iobj	_	_
 5	sunt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
-6	chiar	chiar	ADV	Rgp	Degree=Pos	9	advmod	_	_
+6	chiar	chiar	ADV	Rgp	Degree=Pos|ExtPos=ADV	9	advmod	_	_
 7	și	și	CCONJ	Crssp	Polarity=Pos	6	fixed	_	_
 8	mai	mai	ADV	Rp	_	9	advmod	_	_
 9	avansate	avansat	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	0	root	_	_
@@ -6528,7 +6528,7 @@
 1	Mobilizat	mobiliza	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	10	advcl	_	_
 2	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	1	advmod	_	_
 3	loc	loc	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	2	fixed	_	_
-4	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	_
+4	din	din	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	6	case	_	_
 5	cauza	cauză	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	4	fixed	_	_
 6	sănătății	sănătate	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	1	obl	_	_
 7	precare	precar	ADJ	Afpfson	Case=Dat,Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	SpaceAfter=No
