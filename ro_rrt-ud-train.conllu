@@ -9582,7 +9582,7 @@
 20	fix	fix	ADV	Rgp	Degree=Pos	18	advmod	_	_
 21	înainte	înainte	ADV	Rgp	Degree=Pos	18	advmod	_	SpaceAfter=No
 22	;	;	PUNCT	SCOLON	AdpType=Prep	15	punct	_	_
-23	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	26	case	_	_
+23	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	26	case	_	_
 24	loc	loc	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	23	fixed	_	_
 25	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	23	fixed	_	_
 26	ochii	ochi	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	34	obl	_	_
@@ -14964,7 +14964,7 @@
 5	gin	gin	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	4	nsubj	_	_
 6	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
 7	piele	piele	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	4	obl	_	_
-8	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	_
+8	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	11	case	_	_
 9	loc	loc	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	8	fixed	_	_
 10	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	8	fixed	_	_
 11	transpirație	transpirație	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	4	obl	_	_
@@ -121033,7 +121033,7 @@
 15	sol	sol	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	8	obl	_	_
 16	astfel	astfel	ADV	Rgp	Degree=Pos	23	mark	_	_
 17	încât	încât	SCONJ	Csssp	Polarity=Pos	16	fixed	_	_
-18	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	21	case	_	_
+18	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	21	case	_	_
 19	loc	loc	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	18	fixed	_	_
 20	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	18	fixed	_	_
 21	iarbă	iarbă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	23	obl	_	SpaceAfter=No

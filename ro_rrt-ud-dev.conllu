@@ -8138,7 +8138,7 @@
 14	vecină	vecin	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
 15	închisă	închis	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	SpaceAfter=No
 16	,	,	PUNCT	COMMA	_	20	punct	_	_
-17	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	20	case	_	_
+17	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	20	case	_	_
 18	loc	loc	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	17	fixed	_	_
 19	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	17	fixed	_	_
 20	aceea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	11	obl	_	_
