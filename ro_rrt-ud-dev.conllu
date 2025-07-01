@@ -16929,7 +16929,7 @@
 30	zgârcit	zgârcit	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	27	csubj:pass	_	_
 31	când	când	ADV	Rw	PronType=Int,Rel	32	advmod	_	_
 32	este	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	advcl	_	_
-33	vorba	vorbă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	32	fixed	_	_
+33	vorba	vorbă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	32	nsubj	_	_
 34	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	35	case	_	_
 35	iubire	iubire	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	32	obl	_	SpaceAfter=No
 36	.	.	PUNCT	PERIOD	_	3	punct	_	_

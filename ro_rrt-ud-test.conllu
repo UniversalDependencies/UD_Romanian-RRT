@@ -5035,7 +5035,7 @@
 7	,	,	PUNCT	COMMA	_	9	punct	_	_
 8	dacă	dacă	SCONJ	Csssp	Polarity=Pos	9	mark	_	_
 9	este	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
-10	cazul	caz	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No
+10	cazul	caz	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	9	nsubj	_	SpaceAfter=No
 11	,	,	PUNCT	COMMA	_	15	punct	_	_
 12	care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	15	nsubj	_	_
 13	să	să	PART	Qs	Mood=Sub	15	mark	_	_
