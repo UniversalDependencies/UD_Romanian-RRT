@@ -2401,7 +2401,7 @@
 
 # sent_id = dev-104
 # text = În ceea ce privește capacitatea de a ne onora cota alocată, putem sta liniștiți pentru că producția de caviar a următorilor ani a început deja.
-1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
+1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	5	case	_	_
 2	ceea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	1	fixed	_	_
 3	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	1	fixed	_	_
 4	privește	privi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	fixed	_	_
@@ -3918,7 +3918,7 @@
 1	(	(	PUNCT	LPAR	_	2	punct	_	SpaceAfter=No
 2	9	9	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	19	parataxis	_	SpaceAfter=No
 3	)	)	PUNCT	RPAR	_	2	punct	_	_
-4	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	_
+4	În	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	12	case	_	_
 5	ceea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	4	fixed	_	_
 6	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	4	fixed	_	_
 7	privește	privi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	fixed	_	SpaceAfter=No

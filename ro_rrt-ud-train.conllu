@@ -22586,7 +22586,7 @@
 7	constatat	constata	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 8	unele	un	DET	Di3fpr---e	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|Position=Prenom|PronType=Ind	9	det	_	_
 9	deficiențe	deficiență	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	7	nsubj:pass	_	_
-10	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	_
+10	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	14	case	_	_
 11	ceea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	10	fixed	_	_
 12	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	10	fixed	_	_
 13	privește	privi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	fixed	_	_
@@ -32361,7 +32361,7 @@
 11	contractul	contract	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	8	obj	_	_
 12	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	13	case	_	_
 13	muncă	muncă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	11	nmod	_	_
-14	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	18	case	_	_
+14	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	18	case	_	_
 15	ceea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	14	fixed	_	_
 16	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	14	fixed	_	_
 17	privește	privi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	fixed	_	_
@@ -39894,7 +39894,7 @@
 27	,	,	PUNCT	COMMA	_	34	punct	_	_
 28	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	34	amod	_	_
 29	special	special	ADV	Rgp	Degree=Pos	28	fixed	_	_
-30	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	34	case	_	_
+30	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	34	case	_	_
 31	ceea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	30	fixed	_	_
 32	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	30	fixed	_	_
 33	privește	privi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	fixed	_	_
@@ -40043,7 +40043,7 @@
 1	De	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	15	advmod	_	_
 2	asemenea	asemenea	ADJ	Afp	Degree=Pos	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	1	punct	_	_
-4	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	_
+4	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	8	case	_	_
 5	ceea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	4	fixed	_	_
 6	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	4	fixed	_	_
 7	privește	privi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	fixed	_	_
@@ -40162,7 +40162,7 @@
 64	punctul	punct	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	62	nmod	_	_
 65	1	1	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	64	nummod	_	SpaceAfter=No
 66	,	,	PUNCT	COMMA	_	71	punct	_	_
-67	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	71	case	_	_
+67	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	71	case	_	_
 68	ceea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	67	fixed	_	_
 69	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	67	fixed	_	_
 70	privește	privi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	67	fixed	_	_
@@ -40176,7 +40176,7 @@
 78	articolul	articol	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	62	conj	_	_
 79	5	5	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	78	nummod	_	SpaceAfter=No
 80	,	,	PUNCT	COMMA	_	85	punct	_	_
-81	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	85	case	_	_
+81	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	85	case	_	_
 82	ceea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	81	fixed	_	_
 83	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	81	fixed	_	_
 84	privește	privi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	81	fixed	_	_
@@ -42573,7 +42573,7 @@
 60	,	,	PUNCT	COMMA	_	67	punct	_	_
 61	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	67	advmod	_	_
 62	special	special	ADV	Rgp	Degree=Pos	61	fixed	_	_
-63	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	67	case	_	_
+63	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	67	case	_	_
 64	ceea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	63	fixed	_	_
 65	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	63	fixed	_	_
 66	privește	privi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	63	fixed	_	_
@@ -43134,7 +43134,7 @@
 
 # sent_id = train-1623
 # text = În ceea ce privește art. 6, derogările prevăzute în primul paragraf sunt permise pentru o perioadă de tranziție de cinci ani începând cu 1 august 2004.
-1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
+1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	5	case	_	_
 2	ceea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	1	fixed	_	_
 3	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	1	fixed	_	_
 4	privește	privi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	fixed	_	_
@@ -43198,7 +43198,7 @@
 31	timpul	timp	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	29	nmod	_	_
 32	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	33	case	_	_
 33	lucru	lucru	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	31	nmod	_	_
-34	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	38	case	_	_
+34	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	38	case	_	_
 35	ceea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	34	fixed	_	_
 36	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	34	fixed	_	_
 37	privește	privi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	34	fixed	_	_
@@ -43572,7 +43572,7 @@
 
 # sent_id = train-1635
 # text = În ceea ce privește art. 16 lit. (b), derogările prevăzute în primul paragraf sunt permise în măsura în care perioada de referință nu depășește 12 luni în timpul primei părți a perioadei de tranziție prevăzute în al cincilea paragraf și șase luni ulterior.
-1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
+1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	5	case	_	_
 2	ceea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	1	fixed	_	_
 3	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	1	fixed	_	_
 4	privește	privi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	fixed	_	_
@@ -44188,7 +44188,7 @@
 28	lucrătorilor	lucrător	ADJ	Afpmpoy	Case=Dat,Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur	27	iobj	_	_
 29	offshore	offshore	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	28	amod	_	SpaceAfter=No
 30	,	,	PUNCT	COMMA	_	35	punct	_	_
-31	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	35	case	_	_
+31	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	35	case	_	_
 32	ceea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	31	fixed	_	_
 33	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	31	fixed	_	_
 34	privește	privi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	fixed	_	_
@@ -44453,7 +44453,7 @@
 31	derogări	derogare	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	30	obj	_	SpaceAfter=No
 32	,	,	PUNCT	COMMA	_	38	punct	_	_
 33	inclusiv	inclusiv	ADV	Rgp	Degree=Pos	38	advmod	_	_
-34	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	38	case	_	_
+34	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	38	case	_	_
 35	ceea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	34	fixed	_	_
 36	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	34	fixed	_	_
 37	privește	privi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	34	fixed	_	_
@@ -44824,7 +44824,7 @@
 3	au	avea	AUX	Va--3p	Number=Plur|Person=3	0	root	_	_
 4	posibilitatea	posibilitate	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	3	obj	_	SpaceAfter=No
 5	,	,	PUNCT	COMMA	_	10	punct	_	_
-6	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	_
+6	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	10	case	_	_
 7	ceea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	6	fixed	_	_
 8	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	6	fixed	_	_
 9	privește	privi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	fixed	_	_
@@ -45924,7 +45924,7 @@
 26	piețele	piață	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	21	nmod	_	_
 27	internaționale	internațional	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	26	amod	_	SpaceAfter=No
 28	,	,	PUNCT	COMMA	_	21	punct	_	_
-29	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	33	case	_	_
+29	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	33	case	_	_
 30	ceea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	29	fixed	_	_
 31	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	29	fixed	_	_
 32	privește	privi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	fixed	_	_
@@ -50277,7 +50277,7 @@
 12	primul	prim	NUM	Momsrly	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|NumForm=Word|NumType=Ord	11	fixed	_	_
 13	rând	rând	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	11	fixed	_	SpaceAfter=No
 14	,	,	PUNCT	COMMA	_	11	punct	_	_
-15	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	19	case	_	_
+15	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	19	case	_	_
 16	ceea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	15	fixed	_	_
 17	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	15	fixed	_	_
 18	privește	privi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	fixed	_	_
@@ -50432,7 +50432,7 @@
 1	(	(	PUNCT	LPAR	_	2	punct	_	SpaceAfter=No
 2	6	6	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	22	parataxis	_	SpaceAfter=No
 3	)	)	PUNCT	RPAR	_	2	punct	_	_
-4	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	_
+4	În	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	12	case	_	_
 5	ceea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	4	fixed	_	_
 6	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	4	fixed	_	_
 7	privește	privi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	fixed	_	SpaceAfter=No
@@ -50495,7 +50495,7 @@
 1	(	(	PUNCT	LPAR	_	2	punct	_	SpaceAfter=No
 2	7	7	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	32	parataxis	_	SpaceAfter=No
 3	)	)	PUNCT	RPAR	_	2	punct	_	_
-4	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	_
+4	În	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	14	case	_	_
 5	ceea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	4	fixed	_	_
 6	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	4	fixed	_	_
 7	privește	privi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	fixed	_	SpaceAfter=No
@@ -54761,7 +54761,7 @@
 1	(	(	PUNCT	LPAR	_	2	punct	_	SpaceAfter=No
 2	25	25	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	30	parataxis	_	SpaceAfter=No
 3	)	)	PUNCT	RPAR	_	2	punct	_	_
-4	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	_
+4	În	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	8	case	_	_
 5	ceea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	4	fixed	_	_
 6	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	4	fixed	_	_
 7	privește	privi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	fixed	_	_
@@ -56337,7 +56337,7 @@
 1	(	(	PUNCT	LPAR	_	2	punct	_	SpaceAfter=No
 2	1	1	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	42	parataxis	_	SpaceAfter=No
 3	)	)	PUNCT	RPAR	_	2	punct	_	_
-4	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	_
+4	În	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	8	case	_	_
 5	ceea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	4	fixed	_	_
 6	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	4	fixed	_	_
 7	privește	privi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	fixed	_	_
@@ -57164,7 +57164,7 @@
 1	(	(	PUNCT	LPAR	_	2	punct	_	SpaceAfter=No
 2	c	c	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	35	parataxis	_	SpaceAfter=No
 3	)	)	PUNCT	RPAR	_	2	punct	_	_
-4	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	_
+4	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	8	case	_	_
 5	ceea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	4	fixed	_	_
 6	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	4	fixed	_	_
 7	privește	privi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	fixed	_	_
@@ -59587,7 +59587,7 @@
 2	restituirii	restituire	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	1	nmod	_	_
 3	astfel	astfel	ADV	Rgp	Degree=Pos	4	obl	_	_
 4	calculată	calcula	VERB	Vmp--sf	Gender=Fem|Number=Sing|VerbForm=Part	1	acl	_	_
-5	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	_
+5	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	9	case	_	_
 6	ceea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	5	fixed	_	_
 7	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	5	fixed	_	_
 8	privește	privi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	fixed	_	_
@@ -82150,7 +82150,7 @@
 20	să	să	PART	Qs	Mood=Sub	22	mark	_	_
 21	fie	fi	AUX	Vasp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	_
 22	lacunare	lacunar	ADJ	Afpfson	Case=Dat,Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	5	ccomp	_	_
-23	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	27	case	_	_
+23	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	27	case	_	_
 24	ceea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	23	fixed	_	_
 25	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	23	fixed	_	_
 26	privește	privi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	fixed	_	_
@@ -107791,7 +107791,7 @@
 4	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	6	advmod	_	_
 5	asemenea	asemenea	ADJ	Afp	Degree=Pos	4	fixed	_	_
 6	îngrijorat	îngrijorat	ADV	Rgp	Degree=Pos	0	root	_	_
-7	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	_
+7	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	11	case	_	_
 8	ceea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	7	fixed	_	_
 9	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	7	fixed	_	_
 10	privește	privi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	fixed	_	_
@@ -123145,7 +123145,7 @@
 6	pre-	pre-	ADJ	Afp	Degree=Pos	7	advmod	_	SpaceAfter=No
 7	alegerilor	alegere	NOUN	Ncfpoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Plur	5	nmod	_	_
 8	Conservatorilor	conservator	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	7	nmod	_	_
-9	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	13	case	_	_
+9	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	13	case	_	_
 10	ceea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	9	fixed	_	_
 11	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	9	fixed	_	_
 12	privește	privi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	fixed	_	_
@@ -128379,7 +128379,7 @@
 16	terminat	termina	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	2	ccomp	_	_
 17	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	18	case	_	_
 18	dezacord	dezacord	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	16	obl	_	_
-19	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	23	case	_	_
+19	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	23	case	_	_
 20	ceea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	19	fixed	_	_
 21	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	19	fixed	_	_
 22	privește	privi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	fixed	_	_
@@ -150758,7 +150758,7 @@
 29	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	30	det	_	_
 30	situație	situație	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	27	obl	_	_
 31	identică	identic	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	30	amod	_	_
-32	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	36	case	_	_
+32	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	36	case	_	_
 33	ceea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	32	fixed	_	_
 34	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	32	fixed	_	_
 35	privește	privi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	fixed	_	_
@@ -151097,7 +151097,7 @@
 16	informații	informație	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	10	obj	_	_
 17	actualizate	actualizat	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	16	amod	_	_
 18	relevante	relevant	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	16	amod	_	_
-19	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	23	case	_	_
+19	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	23	case	_	_
 20	ceea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	19	fixed	_	_
 21	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	19	fixed	_	_
 22	privește	privi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	fixed	_	_
@@ -152376,7 +152376,7 @@
 25	92/260/CEE	92/260/CEE	NUM	Mc-s-b	Number=Sing|NumForm=Combi|NumType=Card	24	nummod	_	_
 26	sau	sau	CCONJ	Ccssp	Polarity=Pos	27	cc	_	_
 27	93/197/CEE	93/197/CEE	NUM	Mc-s-b	Number=Sing|NumForm=Combi|NumType=Card	25	conj	_	_
-28	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	32	case	_	_
+28	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	32	case	_	_
 29	ceea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	28	fixed	_	_
 30	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	28	fixed	_	_
 31	privește	privi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	fixed	_	_
@@ -152723,7 +152723,7 @@
 29	,	,	PUNCT	COMMA	_	36	punct	_	_
 30	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	36	advmod	_	_
 31	special	special	ADV	Rgp	Degree=Pos	30	fixed	_	_
-32	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	36	case	_	_
+32	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	36	case	_	_
 33	ceea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	32	fixed	_	_
 34	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	32	fixed	_	_
 35	privește	privi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	fixed	_	_
@@ -155596,7 +155596,7 @@
 20	,	,	PUNCT	COMMA	_	27	punct	_	_
 21	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	27	advmod	_	_
 22	special	special	ADV	Rgp	Degree=Pos	21	fixed	_	_
-23	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	27	case	_	_
+23	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	27	case	_	_
 24	ceea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	23	fixed	_	_
 25	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	23	fixed	_	_
 26	privește	privi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	fixed	_	_
@@ -157211,7 +157211,7 @@
 26	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	27	case	_	_
 27	zone	zonă	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	25	obl	_	_
 28	protejate	proteja	VERB	Vmp--pf	Gender=Fem|Number=Plur|VerbForm=Part	27	amod	_	_
-29	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	33	case	_	_
+29	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	33	case	_	_
 30	ceea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	29	fixed	_	_
 31	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	29	fixed	_	_
 32	privește	privi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	fixed	_	_
@@ -158685,7 +158685,7 @@
 # sent_id = train-6095
 # text = 1 În ceea ce privește liniile tarifare pentru care sunt enumerate contingente cu taxe vamale zero în anexa III, prezenta anexă se referă la cantitățile care depășesc contingentele.
 1	1	1	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	24	parataxis	_	_
-2	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	_
+2	În	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	6	case	_	_
 3	ceea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	2	fixed	_	_
 4	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	2	fixed	_	_
 5	privește	privi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	fixed	_	_
@@ -163138,7 +163138,7 @@
 
 # sent_id = train-6267
 # text = În ceea ce privește modalitățile prevăzute la articolul 3 din anexa VII, poziția pe care urmează să o adopte Consiliul Uniunii Europene în cadrul Consiliului de Miniștri se întemeiază pe o propunere din partea Comisiei.
-1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
+1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	5	case	_	_
 2	ceea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	1	fixed	_	_
 3	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	1	fixed	_	_
 4	privește	privi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	fixed	_	_
@@ -164046,7 +164046,7 @@
 7	rezultatele	rezultat	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	6	obj	_	_
 8	oricărei	oricare	DET	Di3fso---e	Case=Dat,Gen|Gender=Fem|Number=Sing|Person=3|Position=Prenom|PronType=Ind	9	det	_	_
 9	supravegheri	supraveghere	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	7	nmod	_	_
-10	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	_
+10	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	14	case	_	_
 11	ceea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	10	fixed	_	_
 12	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	10	fixed	_	_
 13	privește	privi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	fixed	_	_
@@ -185298,7 +185298,7 @@
 
 # sent_id = train-7164
 # text = În ceea ce privește efectele obstrucției asupra funcției renale, amintim că ne-am ocupat de acestea atunci când am discutat despre urgența înlăturării obstacolului în capitolul I.
-1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
+1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	5	case	_	_
 2	ceea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	1	fixed	_	_
 3	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	1	fixed	_	_
 4	privește	privi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	fixed	_	_
@@ -195613,7 +195613,7 @@
 5	făcut	face	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 6	declarații	declarație	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	5	obj	_	_
 7	publice	public	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	6	amod	_	_
-8	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	_
+8	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	12	case	_	_
 9	ceea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	8	fixed	_	_
 10	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	8	fixed	_	_
 11	privește	privi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	fixed	_	_
@@ -195628,7 +195628,7 @@
 20	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	27	advmod	_	_
 21	asemenea	asemenea	ADJ	Afp	Degree=Pos	20	fixed	_	SpaceAfter=No
 22	,	,	PUNCT	COMMA	_	20	punct	_	_
-23	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	27	case	_	_
+23	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	27	case	_	_
 24	ceea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	23	fixed	_	_
 25	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	23	fixed	_	_
 26	privește	privi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	fixed	_	_
