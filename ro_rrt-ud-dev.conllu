@@ -4678,7 +4678,7 @@
 22	mod	mod	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	18	nmod	_	_
 23	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	26	advmod	_	_
 24	fel	fel	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	23	fixed	_	_
-25	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	23	fixed	_	_
+25	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	23	case	_	_
 26	eficient	eficient	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	SpaceAfter=No
 27	,	,	PUNCT	COMMA	_	22	punct	_	_
 28	a	al	DET	Tsfs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	29	det	_	_
@@ -16402,7 +16402,7 @@
 17	surâde	surâde	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 18	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	21	advmod	_	_
 19	fel	fel	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	18	fixed	_	_
-20	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	18	fixed	_	_
+20	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	18	case	_	_
 21	prietenos	prietenos	ADV	Rgp	Degree=Pos	17	advmod	_	SpaceAfter=No
 22	.	.	PUNCT	PERIOD	_	17	punct	_	_
 

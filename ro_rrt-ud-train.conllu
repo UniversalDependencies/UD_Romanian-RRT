@@ -8370,7 +8370,7 @@
 25	aproape	aproape	ADV	Rgp	Degree=Pos	26	advmod	_	_
 26	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	29	advmod	_	_
 27	fel	fel	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	26	fixed	_	_
-28	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	26	fixed	_	_
+28	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	26	case	_	_
 29	uriașă	uriaș	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	24	amod	_	SpaceAfter=No
 30	,	,	PUNCT	COMMA	_	32	punct	_	_
 31	probabil	probabil	ADV	Rgp	Degree=Pos	32	advmod	_	_
@@ -66474,7 +66474,7 @@
 22	,	,	PUNCT	COMMA	_	27	punct	_	_
 23	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	26	advmod	_	_
 24	fel	fel	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	23	fixed	_	_
-25	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	23	fixed	_	_
+25	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	23	case	_	_
 26	radical	radical	ADV	Rgp	Degree=Pos	27	advmod	_	_
 27	afirmată	afirmat	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	21	acl	_	SpaceAfter=No
 28	.	.	PUNCT	PERIOD	_	17	punct	_	_
@@ -88433,7 +88433,7 @@
 3	lacrimi	lacrimă	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	1	obl	_	_
 4	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	7	advmod	_	_
 5	fel	fel	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	4	fixed	_	_
-6	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	4	fixed	_	_
+6	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	_
 7	amare	amar	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	3	amod	_	_
 8	moartea	moarte	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	1	obj	_	_
 9	motanului	motan	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
@@ -122869,7 +122869,7 @@
 34	"	"	PUNCT	DBLQ	_	38	punct	_	SpaceAfter=No
 35	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	38	case	_	_
 36	fel	fel	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	35	fixed	_	_
-37	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	35	fixed	_	_
+37	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	35	case	_	_
 38	sus	sus	ADV	Rgp	Degree=Pos	27	conj	_	_
 39	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	41	case	_	_
 40	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	41	det	_	_
@@ -139116,7 +139116,7 @@
 18	fi	fi	AUX	Vanp	Tense=Pres|VerbForm=Inf	22	cop	_	_
 19	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	22	advmod	_	_
 20	fel	fel	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	19	fixed	_	_
-21	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	19	fixed	_	_
+21	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	19	case	_	_
 22	confortabil	confortabil	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	3	conj	_	_
 23	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	25	case	_	_
 24	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	25	case	_	_
@@ -181736,7 +181736,7 @@
 10	erau	fi	AUX	Vaii3p	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	15	cop	_	_
 11	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	14	advmod	_	_
 12	fel	fel	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	11	fixed	_	_
-13	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	11	fixed	_	_
+13	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	_
 14	bine	bine	ADV	Rgp	Degree=Pos	15	advmod	_	_
 15	pregătiți	pregătit	ADJ	Afpmp-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	8	csubj	_	_
 16	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	18	case	_	_
@@ -191173,7 +191173,7 @@
 29	poate	poate	ADV	Rgp	Degree=Pos	33	advmod	_	_
 30	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	33	advmod	_	_
 31	fel	fel	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	30	fixed	_	_
-32	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	30	fixed	_	_
+32	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	30	case	_	_
 33	vast	vast	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	26	amod	_	_
 34	și	și	CCONJ	Crssp	Polarity=Pos	35	cc	_	_
 35	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	33	conj	_	orig_deprel=advmod
