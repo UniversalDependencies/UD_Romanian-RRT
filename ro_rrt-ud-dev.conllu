@@ -13280,7 +13280,7 @@
 18	achitat	achita	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	12	acl	_	_
 19	cheltuielile	cheltuială	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	18	obj	_	SpaceAfter=No
 20	,	,	PUNCT	COMMA	_	27	punct	_	_
-21	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc|ExyPos=SCONJ	27	mark	_	_
+21	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=SCONJ	27	mark	_	_
 22	toate	tot	PRON	Pi3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	21	fixed	_	_
 23	că	că	SCONJ	Csssp	Polarity=Pos	21	fixed	_	_
 24	The	the	PROPN	Np	_	27	nsubj	_	_
@@ -18043,7 +18043,7 @@
 
 # sent_id = dev-707
 # text = Până în secolul al XIX-lea au coexistat pentru spațiul dintre Nistru și Tisa denumirile de „Rumânia ” și „România ”, precum și endonimul „rumâni ” alături de „români ”, forma scrisă cu „u ” fiind predominantă.
-1	Până	până	SCONJ	Csssp	Polarity=Pos	3	case	_	_
+1	Până	până	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	3	case	_	_
 2	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	1	fixed	_	_
 3	secolul	secol	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	8	obl:tmod	_	_
 4	al	al	DET	Tsms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	5	det	_	_
@@ -18327,7 +18327,7 @@
 20	anul	an	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	6	obl:tmod	_	_
 21	1859	1859	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	20	nummod	_	SpaceAfter=No
 22	,	,	PUNCT	COMMA	_	25	punct	_	_
-23	odată	odată	ADV	Rgp	Degree=Pos	25	case	_	_
+23	odată	odată	ADV	Rgp	Degree=Pos|ExtPos=ADP	25	case	_	_
 24	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	23	fixed	_	_
 25	alegerea	alegere	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	6	obl:tmod	_	_
 26	concomitentă	concomitent	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	25	amod	_	_
@@ -18345,7 +18345,7 @@
 
 # sent_id = dev-716
 # text = Odată cu venirea sa la putere, Ion Gigurtu, președinte al Consiliului de miniștri, între 4 iulie și 4 septembrie 1940, a declarat că va duce o politică nazistă pro-Axa Berlin, Roma, antisemită și fascist-totalitară
-1	Odată	odată	ADV	Rgp	Degree=Pos	3	case	_	_
+1	Odată	odată	ADV	Rgp	Degree=Pos|ExtPos=ADP	3	case	_	_
 2	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	1	fixed	_	_
 3	venirea	venire	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	26	obl	_	_
 4	sa	său	DET	Ds3fsrs	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
@@ -18440,9 +18440,9 @@
 10	regelui	rege	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	9	iobj	_	_
 11	să	să	PART	Qs	Mood=Sub	12	mark	_	_
 12	abdice	abdica	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	9	ccomp	_	_
-13	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	15	case	_	_
-14	favoarea	favoare	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	13	fixed	_	_
-15	fiului	fiu	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	12	obl	_	_
+13	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	_
+14	favoarea	favoare	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	12	obl	_	_
+15	fiului	fiu	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	14	nmod	_	_
 16	său	său	DET	Ds3ms-s	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	15	det	_	SpaceAfter=No
 17	,	,	PUNCT	COMMA	_	18	punct	_	_
 18	Mihai	Mihai	PROPN	Np	_	15	appos	_	SpaceAfter=No
