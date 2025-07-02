@@ -109427,7 +109427,7 @@
 20	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	21	case	_	_
 21	aer	aer	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	19	nmod	_	_
 22	prinsă	prinde	VERB	Vmp--sf	Gender=Fem|Number=Sing|VerbForm=Part	19	acl	_	_
-23	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	25	case	_	_
+23	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	25	case	_	_
 24	interiorul	interior	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	23	fixed	_	_
 25	seringii	seringă	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	22	obl	_	SpaceAfter=No
 26	.	.	PUNCT	PERIOD	_	2	punct	_	_
@@ -138387,7 +138387,7 @@
 12	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	14	nsubj	_	_
 13	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	14	expl:pv	_	_
 14	întâmplă	întâmpla	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	11	acl	_	_
-15	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	21	case	_	_
+15	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	21	case	_	_
 16	interiorul	interior	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	15	fixed	_	_
 17	și	și	CCONJ	Crssp	Polarity=Pos	18	cc	_	_
 18	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	15	conj	_	_
@@ -139911,7 +139911,7 @@
 21	care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	23	nsubj	_	_
 22	încet	încet	ADV	Rgp	Degree=Pos	23	advmod	_	_
 23	DISPARE	dispărea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	acl	_	_
-24	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	26	case	_	_
+24	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	26	case	_	_
 25	interiorul	interior	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	24	fixed	_	_
 26	ei	lui	DET	Ds3---s	Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	23	obl	_	SpaceAfter=No
 27	.	.	PUNCT	PERIOD	_	2	punct	_	_
@@ -152861,7 +152861,7 @@
 1	(	(	PUNCT	LPAR	_	2	punct	_	SpaceAfter=No
 2	b	b	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	10	parataxis	_	SpaceAfter=No
 3	)	)	PUNCT	RPAR	_	2	punct	_	_
-4	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	_
+4	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	6	case	_	_
 5	interiorul	interior	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	4	fixed	_	_
 6	căruia	care	PRON	Pw3mso	Case=Dat,Gen|Gender=Masc|Number=Sing|Person=3|PronType=Int,Rel	10	obl	_	_
 7	nu	nu	PART	Qz	Polarity=Neg	10	advmod	_	_
@@ -160641,7 +160641,7 @@
 11	pot	putea	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 12	desfășura	desfășura	VERB	Vmnp	Tense=Pres|VerbForm=Inf	11	obj	_	_
 13	activitatea	activitate	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	12	obj	_	_
-14	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	19	case	_	_
+14	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	19	case	_	_
 15	interiorul	interior	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	14	fixed	_	_
 16	sau	sau	CCONJ	Ccssp	Polarity=Pos	17	cc	_	_
 17	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	14	conj	_	_
@@ -160667,7 +160667,7 @@
 13	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	_
 14	țări	țară	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	12	obl	_	_
 15	situate	situa	VERB	Vmp--pf	Gender=Fem|Number=Plur|VerbForm=Part	14	acl	_	_
-16	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	21	case	_	_
+16	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	21	case	_	_
 17	interiorul	interior	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	16	fixed	_	_
 18	sau	sau	CCONJ	Ccssp	Polarity=Pos	19	cc	_	_
 19	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	16	conj	_	_
@@ -188731,7 +188731,7 @@
 13	alt	alt	DET	Di3ms----e	Gender=Masc|Number=Sing|Person=3|Position=Prenom|PronType=Ind	14	det	_	_
 14	cation	cation	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	7	nmod	_	_
 15	lasă	lăsa	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-16	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	18	case	_	_
+16	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	18	case	_	_
 17	interiorul	interior	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	16	fixed	_	_
 18	celulei	celulă	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	15	obl	_	_
 19	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	20	det	_	_
@@ -204071,7 +204071,7 @@
 12	sau	sau	CCONJ	Ccssp	Polarity=Pos	13	cc	_	_
 13	poate	putea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
 14	apărea	apărea	VERB	Vmnp	Tense=Pres|VerbForm=Inf	13	ccomp	_	_
-15	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	18	case	_	_
+15	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	18	case	_	_
 16	interiorul	interior	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	15	fixed	_	_
 17	unei	un	DET	Tifso	Case=Dat,Gen|Gender=Fem|Number=Sing|PronType=Ind	18	det	_	_
 18	linii	linie	NOUN	Ncfson	Case=Dat,Gen|Definite=Ind|Gender=Fem|Number=Sing	14	obl	_	SpaceAfter=No
@@ -204084,7 +204084,7 @@
 3	pot	putea	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	include	include	VERB	Vmnp	Tense=Pres|VerbForm=Inf	3	ccomp	_	_
 5	comentarii	comentariu	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	3	nsubj	_	_
-6	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	_
+6	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	9	case	_	_
 7	interiorul	interior	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	6	fixed	_	_
 8	altor	alt	DET	Di3-po---e	Case=Dat,Gen|Number=Plur|Person=3|Position=Prenom|PronType=Ind	9	det	_	_
 9	comentarii	comentariu	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	4	obl	_	SpaceAfter=No
@@ -204267,7 +204267,7 @@
 8	ieșiri	ieșire	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	4	nmod	_	_
 9	plasate	plasa	VERB	Vmp--pf	Gender=Fem|Number=Plur|VerbForm=Part	8	acl	_	_
 10	oriunde	oriunde	ADV	Rgp	Degree=Pos	9	advmod	_	_
-11	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	13	case	_	_
+11	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	13	case	_	_
 12	interiorul	interior	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	11	fixed	_	_
 13	ciclului	ciclu	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No
 14	.	.	PUNCT	PERIOD	_	1	punct	_	_
@@ -205089,7 +205089,7 @@
 12	pot	putea	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
 13	fi	fi	AUX	Vanp	Tense=Pres|VerbForm=Inf	14	aux:pass	_	_
 14	definite	defini	VERB	Vmp--pf	Gender=Fem|Number=Plur|VerbForm=Part	12	ccomp	_	_
-15	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	18	case	_	_
+15	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	18	case	_	_
 16	interiorul	interior	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	15	fixed	_	_
 17	altor	alt	DET	Di3-po---e	Case=Dat,Gen|Number=Plur|Person=3|Position=Prenom|PronType=Ind	18	det	_	_
 18	funcții	funcție	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	14	obl	_	_
