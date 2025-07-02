@@ -4366,7 +4366,7 @@
 20	fi	fi	AUX	Vanp	Tense=Pres|VerbForm=Inf	21	aux:pass	_	_
 21	captat	capta	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	19	ccomp	_	SpaceAfter=No
 22	;	;	PUNCT	SCOLON	AdpType=Prep	19	punct	_	_
-23	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	37	advmod	_	_
+23	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	37	advmod	_	_
 24	plus	plus	ADV	Rgp	Degree=Pos	23	fixed	_	SpaceAfter=No
 25	,	,	PUNCT	COMMA	_	23	punct	_	_
 26	cât	cât	DET	Dw3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Int,Rel	28	mark	_	_
@@ -5644,7 +5644,7 @@
 8	tare	tare	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
 9	și	și	CCONJ	Crssp	Polarity=Pos	18	cc	_	SpaceAfter=No
 10	,	,	PUNCT	COMMA	_	11	punct	_	_
-11	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	18	advmod	_	_
+11	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	18	advmod	_	_
 12	plus	plus	ADV	Rgp	Degree=Pos	11	fixed	_	SpaceAfter=No
 13	,	,	PUNCT	COMMA	_	11	punct	_	_
 14	când	când	ADV	Rw	PronType=Int,Rel	16	advmod:tmod	_	_
@@ -20746,7 +20746,7 @@
 14	modificare	modificare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	15	nsubj	_	_
 15	presupunând	presupune	VERB	Vmg	VerbForm=Ger	9	advcl	_	SpaceAfter=No
 16	,	,	PUNCT	COMMA	_	17	punct	_	_
-17	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	15	advmod	_	_
+17	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	15	advmod	_	_
 18	plus	plus	ADV	Rgp	Degree=Pos	17	fixed	_	SpaceAfter=No
 19	,	,	PUNCT	COMMA	_	17	punct	_	_
 20	funcții	funcție	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	15	obj	_	_
@@ -26642,7 +26642,7 @@
 
 # sent_id = train-1162
 # text = În plus, redacția mai oferă 25 de cecuri de călătorie în valoare de 500 de euro fiecare.
-1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	6	obl	_	_
+1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	6	obl	_	_
 2	plus	plus	ADV	Rgp	Degree=Pos	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	1	punct	_	_
 4	redacția	redacție	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	6	nsubj	_	_
@@ -27374,7 +27374,7 @@
 28	predominante	predominant	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	27	amod	_	_
 29	-	-	PUNCT	DASH	_	27	punct	_	_
 30	apar	apărea	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
-31	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	30	advmod	_	_
+31	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	30	advmod	_	_
 32	plus	plus	ADV	Rgp	Degree=Pos	31	fixed	_	_
 33	șalăul	șalău	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	30	nsubj	_	_
 34	și	și	CCONJ	Crssp	Polarity=Pos	35	cc	_	_
@@ -53192,7 +53192,7 @@
 
 # sent_id = train-1891
 # text = În plus, determinările, tabelele sau studiile în cauză nu trebuie să fie obligatorii, ci să servească doar ca prep. de referință.
-1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	12	obl	_	_
+1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	12	obl	_	_
 2	plus	plus	ADV	Rgp	Degree=Pos	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	1	punct	_	_
 4	determinările	determinare	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	15	nsubj	_	SpaceAfter=No
@@ -53752,7 +53752,7 @@
 
 # sent_id = train-1904
 # text = În plus, condițiile standard ale polițelor nu pot conține nicio excludere sistematică a unor anumite tipuri de riscuri fără a prevedea în mod expres posibilitatea de a include acoperirea acelor riscuri prin acordul părților și nu pot prevedea ca relația contractuală cu asiguratul să fie menținută pe o perioadă excesiv de lungă sau să depășească obiectul inițial al poliței.
-1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	9	obl	_	_
+1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	9	obl	_	_
 2	plus	plus	ADV	Rgp	Degree=Pos	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	1	punct	_	_
 4	condițiile	condiție	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	9	nsubj	_	_
@@ -53844,7 +53844,7 @@
 1	(	(	PUNCT	LPAR	_	2	punct	_	SpaceAfter=No
 2	16	16	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	8	parataxis	_	SpaceAfter=No
 3	)	)	PUNCT	RPAR	_	2	punct	_	_
-4	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	8	obl	_	_
+4	În	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	8	obl	_	_
 5	plus	plus	ADV	Rgp	Degree=Pos	4	fixed	_	SpaceAfter=No
 6	,	,	PUNCT	COMMA	_	4	punct	_	_
 7	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
@@ -54218,7 +54218,7 @@
 
 # sent_id = train-1915
 # text = În plus, un risc a cărui natură se modifică semnificativ (de exemplu, o intensificare considerabilă a activităților teroriste) nu intră în sfera de aplicare a definiției, deoarece, în acest caz, riscul în sine nu este nou.
-1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	24	obl	_	_
+1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	24	obl	_	_
 2	plus	plus	ADV	Rgp	Degree=Pos	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	1	punct	_	_
 4	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	5	det	_	_
@@ -59535,7 +59535,7 @@
 2	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	_
 3	fixată	fixa	VERB	Vmp--sf	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	COMMA	_	5	punct	_	_
-5	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	3	advmod	_	_
+5	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	3	advmod	_	_
 6	plus	plus	ADV	Rgp	Degree=Pos	5	fixed	_	SpaceAfter=No
 7	,	,	PUNCT	COMMA	_	5	punct	_	_
 8	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	11	case	_	_
@@ -87807,7 +87807,7 @@
 14	depărteze	depărta	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	2	csubj	_	_
 15	mult	mult	ADV	Rgp	Degree=Pos	14	advmod	_	SpaceAfter=No
 16	,	,	PUNCT	COMMA	_	14	punct	_	_
-17	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	14	mark	_	_
+17	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	14	mark	_	_
 18	plus	plus	ADV	Rgp	Degree=Pos	17	fixed	_	_
 19	sau	sau	CCONJ	Ccssp	Polarity=Pos	20	cc	_	_
 20	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	17	conj	_	_
@@ -98674,7 +98674,7 @@
 
 # sent_id = train-3854
 # text = În plus s-au raportat, rar, cazuri de hepatită cu debut întârziat după aproximativ 18 luni de tratament.
-1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	5	advmod	_	_
+1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	5	advmod	_	_
 2	plus	plus	ADV	Rgp	Degree=Pos	1	fixed	_	_
 3	s-	sine	PRON	Px3--a--y-----w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak|Variant=Short	5	expl:pass	_	SpaceAfter=No
 4	au	avea	AUX	Va--3p	Number=Plur|Person=3	5	aux	_	_
@@ -103811,7 +103811,7 @@
 
 # sent_id = train-4039
 # text = În plus, nu s-au constatat modificări ale concentrației plasmatice a tadalafilului la 3 ore după administrarea concomitentă de alcool etilic.
-1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	7	advmod	_	_
+1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	7	advmod	_	_
 2	plus	plus	ADV	Rgp	Degree=Pos	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	1	punct	_	_
 4	nu	nu	PART	Qz	Polarity=Neg	7	advmod	_	_
@@ -113876,7 +113876,7 @@
 
 # sent_id = train-4425
 # text = În plus, glimepirida pare să aibă efecte extrapancreatice importante, demonstrate, de asemenea, pentru alte sulfoniluree.
-1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	5	advmod	_	_
+1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	5	advmod	_	_
 2	plus	plus	ADV	Rgp	Degree=Pos	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	1	punct	_	_
 4	glimepirida	glimepiridă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	5	nsubj	_	_
@@ -142977,7 +142977,7 @@
 5	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
 6	patru	patru	NUM	Mc-p-l	Number=Plur|NumForm=Word|NumType=Card	7	nummod	_	_
 7	mingi	minge	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	4	obl	_	_
-8	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	7	advmod	_	_
+8	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	7	advmod	_	_
 9	plus	plus	ADV	Rgp	Degree=Pos	8	fixed	_	SpaceAfter=No
 10	,	,	PUNCT	COMMA	_	4	punct	_	_
 11	a	avea	AUX	Va--3s	Number=Sing|Person=3	13	aux	_	_
@@ -153957,7 +153957,7 @@
 
 # sent_id = train-5963
 # text = În plus, criteriile încurajează aplicarea celor mai bune practici (pentru utilizarea optimă a mediului) și sensibilizează consumatorii față de protecția mediului.
-1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	5	advmod	_	_
+1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	5	advmod	_	_
 2	plus	plus	ADV	Rgp	Degree=Pos	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	2	punct	_	_
 4	criteriile	criteriu	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	5	nsubj	_	_
@@ -165847,7 +165847,7 @@
 
 # sent_id = train-6364
 # text = În plus, pe măsură ce tehnicile și bunele practici evoluează, instituțiile valorifică aceste progrese.
-1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	14	advmod	_	_
+1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	14	advmod	_	_
 2	plus	plus	ADV	Rgp	Degree=Pos	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	1	punct	_	_
 4	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=SCONJ	11	mark	_	_
@@ -187184,7 +187184,7 @@
 
 # sent_id = train-7236
 # text = În plus, pentru pneumoniile de ventilație se recomandă antibiotice sub formă de aerosoli.
-1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	9	advmod	_	_
+1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	9	advmod	_	_
 2	plus	plus	ADV	Rgp	Degree=Pos	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	1	punct	_	_
 4	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
@@ -189997,7 +189997,7 @@
 # sent_id = train-7324
 # text = Cuprinde în plus față de perioada refractară absolută și un scurt interval de timp pe parcursul căruia, cu ajutorul unor stimuli de intensitate mare, se pot obține răspunsuri locale care se propagă doar pe o distanță limitată în jurul locului de aplicare a stimulului.
 1	Cuprinde	cuprinde	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	6	advmod	_	_
+2	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	6	advmod	_	_
 3	plus	plus	ADV	Rgp	Degree=Pos	2	fixed	_	_
 4	față	față	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|ExtPos=ADP|Gender=Fem|Number=Sing	6	case	_	_
 5	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	4	fixed	_	_
@@ -197072,7 +197072,7 @@
 
 # sent_id = train-7586
 # text = În plus, sub influența tradiției bizantine și slavone, românii sunt, de asemenea, singurul popor creștin ortodox dintre popoarele latine.
-1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	18	advmod	_	_
+1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	18	advmod	_	_
 2	plus	plus	ADV	Rgp	Degree=Pos	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	1	punct	_	_
 4	sub	sub	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
@@ -205544,7 +205544,7 @@
 22	aceștia	acesta	PRON	Pd3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	20	obl:pmod	_	SpaceAfter=No
 23	,	,	PUNCT	COMMA	_	20	punct	_	_
 24	dar	dar	CCONJ	Ccssp	Polarity=Pos	29	cc	_	_
-25	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	29	advmod	_	_
+25	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	29	advmod	_	_
 26	plus	plus	ADV	Rgp	Degree=Pos	25	fixed	_	_
 27	mai	mai	ADV	Rp	_	29	advmod	_	_
 28	sunt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	29	aux:pass	_	_
