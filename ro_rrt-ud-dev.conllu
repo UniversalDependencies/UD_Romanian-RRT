@@ -165,7 +165,7 @@
 7	avea	avea	AUX	Vaii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	aux	_	_
 8	să	să	PART	Qs	Mood=Sub	10	mark	_	_
 9	fie	fi	AUX	Vasp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
-10	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	3	acl	_	_
+10	la	la	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	3	acl	_	_
 11	fel	fel	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	10	fixed	_	_
 12	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	13	case	_	_
 13	prezentul	prezent	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
@@ -4676,7 +4676,7 @@
 20	într-	întru	ADP	Spsay	AdpType=Prep|Case=Acc|Variant=Short	22	case	_	SpaceAfter=No
 21	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	22	det	_	_
 22	mod	mod	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	18	nmod	_	_
-23	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	26	advmod	_	_
+23	la	la	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	26	advmod	_	_
 24	fel	fel	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	23	fixed	_	_
 25	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	23	case	_	_
 26	eficient	eficient	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	SpaceAfter=No
@@ -16400,7 +16400,7 @@
 15	parcă	parcă	ADV	Rgp	Degree=Pos	17	advmod	_	_
 16	îmi	eu	PRON	Pp1-sd--------w	Case=Dat|Number=Sing|Person=1|PronType=Prs|Strength=Weak	17	iobj	_	_
 17	surâde	surâde	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-18	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	21	advmod	_	_
+18	la	la	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	21	advmod	_	_
 19	fel	fel	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	18	fixed	_	_
 20	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	18	case	_	_
 21	prietenos	prietenos	ADV	Rgp	Degree=Pos	17	advmod	_	SpaceAfter=No
