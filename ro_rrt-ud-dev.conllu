@@ -5311,7 +5311,7 @@
 26	utiliza	utiliza	VERB	Vmnp	Tense=Pres|VerbForm=Inf	25	ccomp	_	_
 27	eficient	eficient	ADV	Rgp	Degree=Pos	26	advmod	_	_
 28	și	și	CCONJ	Crssp	Polarity=Pos	29	cc	_	_
-29	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPOs=ADV	27	conj	_	_
+29	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	27	conj	_	_
 30	siguranță	siguranță	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	29	fixed	_	SpaceAfter=No
 31	.	.	PUNCT	PERIOD	_	8	punct	_	_
 
@@ -5379,10 +5379,10 @@
 12	li	el	PRON	Pp3-pd--------w	Case=Dat|Number=Plur|Person=3|PronType=Prs|Strength=Weak	14	iobj	_	_
 13	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	14	expl:pass	_	_
 14	furnizeze	furniza	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	10	csubj	_	SpaceAfter=No
-15	,	,	PUNCT	COMMA	_	16	punct	_	_
+15	,	,	PUNCT	COMMA	_	17	punct	_	_
 16	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	17	case	_	_
 17	cerere	cerere	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	14	obl	_	SpaceAfter=No
-18	,	,	PUNCT	COMMA	_	16	punct	_	_
+18	,	,	PUNCT	COMMA	_	17	punct	_	_
 19	informații	informație	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	14	nsubj	_	_
 20	privind	privind	ADP	Spsa	AdpType=Prep|Case=Acc	21	case	_	_
 21	circulațiile	circulație	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	19	nmod	_	_
@@ -5581,7 +5581,7 @@
 19	conținutul	conținut	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	14	obj	_	SpaceAfter=No
 20	,	,	PUNCT	COMMA	_	27	punct	_	_
 21	dar	dar	CCONJ	Ccssp	Polarity=Pos	27	cc	_	_
-22	astfel	astfel	ADV	Rgp	Degree=Pos|ExtPos=SCONJ	27	advmod	_	_
+22	astfel	astfel	ADV	Rgp	Degree=Pos|ExtPos=SCONJ	27	mark	_	_
 23	încât	încât	SCONJ	Csssp	Polarity=Pos	22	fixed	_	_
 24	conținutul	conținut	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	27	nsubj	_	_
 25	să	să	PART	Qs	Mood=Sub	27	mark	_	_
@@ -8722,7 +8722,7 @@
 # text = Rosiglitazonă Studiile in vitro demonstrează că rosiglitazona este metabolizată în special de CYP2C8, CYP2C9 constituind numai o cale secundară.
 1	Rosiglitazonă	rosiglitazonă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	5	parataxis	_	_
 2	Studiile	studiu	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	5	nsubj	_	_
-3	in	in	ADP	Spsa	AdpType=Prep|Case=Acc	2	amod	_	_
+3	in	in	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADJ	2	amod	_	_
 4	vitro	vitro	NOUN	Nc	_	3	fixed	_	_
 5	demonstrează	demonstra	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	că	că	SCONJ	Csssp	Polarity=Pos	9	mark	_	_
@@ -8790,9 +8790,9 @@
 9	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	_
 10	durata	durată	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	8	obl	_	_
 11	studiilor	studiu	NOUN	Ncfpoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Plur	10	nmod	_	_
-12	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	8	obl	_	_
-13	termen	termen	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	12	fixed	_	_
-14	lung	lung	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	12	fixed	_	SpaceAfter=No
+12	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	13	case	_	_
+13	termen	termen	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	8	obl	_	_
+14	lung	lung	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	SpaceAfter=No
 15	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
 # sent_id = dev-351
@@ -9133,11 +9133,11 @@
 13	fost	fi	AUX	Vap--sm	Gender=Masc|Number=Sing|VerbForm=Part	15	cop	_	_
 14	semnificativ	semnificativ	ADV	Rgp	Degree=Pos	15	advmod	_	_
 15	diferite	diferit	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	5	conj	_	_
-16	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	15	obl	_	_
-17	punct	punct	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	16	fixed	_	_
-18	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	16	fixed	_	_
-19	vedere	vedere	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	16	fixed	_	_
-20	statistic	statistic	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
+16	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	17	case	_	_
+17	punct	punct	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	15	obl	_	_
+18	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	19	case	_	_
+19	vedere	vedere	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	17	nmod	_	_
+20	statistic	statistic	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
 21	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	22	case	_	_
 22	glibenclamidă	glibenclamidă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	15	obl	_	SpaceAfter=No
 23	.	.	PUNCT	PERIOD	_	5	punct	_	_
@@ -9893,7 +9893,7 @@
 2	negri	negru	ADJ	Afpmp-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	1	amod	_	_
 3	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	4	expl:pv	_	_
 4	mișcă	mișca	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	4	advmod	_	_
+5	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	4	advmod	_	_
 6	sus	sus	ADV	Rgp	Degree=Pos	5	fixed	_	_
 7	și	și	CCONJ	Crssp	Polarity=Pos	11	cc	_	_
 8	nu	nu	PART	Qz	Polarity=Neg	11	advmod	_	_
@@ -9904,7 +9904,7 @@
 13	lichidul	lichid	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	12	obj	_	_
 14	prin	prin	ADP	Spsa	AdpType=Prep|Case=Acc	15	case	_	_
 15	fereastră	fereastră	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	12	obl	_	_
-16	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	21	mark	_	_
+16	o	un	DET	Tifsr	Case=Acc,Nom|ExtPos=ADV|Gender=Fem|Number=Sing|PronType=Ind	21	advmod	_	_
 17	dată	dată	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	16	fixed	_	_
 18	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	16	fixed	_	_
 19	acul	ac	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	21	nsubj:pass	_	_
@@ -10044,7 +10044,7 @@
 17	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux:pass	_	_
 18	rapid	rapid	ADV	Rgp	Degree=Pos	19	advmod	_	_
 19	convertit	converti	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	10	acl	_	_
-20	in	in	ADP	Spsa	AdpType=Prep|Case=Acc	19	advmod	_	_
+20	in	in	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	19	advmod	_	_
 21	vivo	vivo	NOUN	Nc	_	20	fixed	_	_
 22	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	23	case	_	_
 23	tenofovir	tenofovir	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	19	obl:pmod	_	_
@@ -10308,7 +10308,7 @@
 
 # sent_id = dev-413
 # text = Cu toate acestea, acidul nicotinic, o componentă a Trevaclyn, trece în lapte.
-1	Cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	13	advmod	_	_
+1	Cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	13	advmod	_	_
 2	toate	tot	PRON	Pi3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	1	fixed	_	_
 3	acestea	acesta	PRON	Pd3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem	1	fixed	_	SpaceAfter=No
 4	,	,	PUNCT	COMMA	_	1	punct	_	_
@@ -10459,7 +10459,7 @@
 18	șef	șef	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	16	obj	_	_
 19	al	al	DET	Tsms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	20	det	_	_
 20	Administrației	administrație	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	18	nmod	_	_
-21	Prezidențiale	prezidențial	ADJ	Afpfson	Case=Dat,Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	20	fixed	_	SpaceAfter=No
+21	Prezidențiale	prezidențial	ADJ	Afpfson	Case=Dat,Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	20	amod	_	SpaceAfter=No
 22	.	.	PUNCT	PERIOD	_	6	punct	_	_
 
 # sent_id = dev-420
@@ -10597,8 +10597,8 @@
 5	vină	veni	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	3	xcomp	_	_
 6	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
 7	saci	sac	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	5	obl	_	_
-8	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	7	fixed	_	_
-9	dormit	dormit	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	7	fixed	_	SpaceAfter=No
+8	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	_
+9	dormit	dormit	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	COMMA	_	11	punct	_	_
 11	lanterne	lanternă	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	7	conj	_	SpaceAfter=No
 12	,	,	PUNCT	COMMA	_	13	punct	_	_
@@ -10633,10 +10633,10 @@
 7	cauze	cauză	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	2	obj	_	_
 8	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	_
 9	Curtea	curte	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	2	obl	_	_
-10	Europeană	european	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	9	fixed	_	_
-11	a	al	DET	Tsfs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	9	fixed	_	_
-12	Drepturilor	drept	NOUN	Ncfpoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Plur	9	fixed	_	_
-13	Omului	om	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	9	fixed	_	SpaceAfter=No
+10	Europeană	european	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+11	a	al	DET	Tsfs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	12	det	_	_
+12	Drepturilor	drept	NOUN	Ncfpoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Plur	9	nmod	_	_
+13	Omului	om	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	12	nmod	_	SpaceAfter=No
 14	.	.	PUNCT	PERIOD	_	2	punct	_	_
 
 # sent_id = dev-428
