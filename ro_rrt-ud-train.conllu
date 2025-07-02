@@ -58147,7 +58147,7 @@
 
 # sent_id = train-1994
 # text = În orice caz, orice proporție stabilită în conformitate cu prezentul alineat trebuie să fie substanțial mai ridicată decât cele aplicate în conformitate cu articolul 7 alineatul (5).
-1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	13	obl	_	_
+1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	13	obl	_	_
 2	orice	orice	DET	Di3--r---e	Case=Acc,Nom|Person=3|Position=Prenom|PronType=Ind	1	fixed	_	_
 3	caz	caz	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
 4	,	,	PUNCT	COMMA	_	1	punct	_	_
@@ -80505,7 +80505,7 @@
 7	fie	fi	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
 8	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	9	det	_	_
 9	tărie	tărie	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	7	nsubj	_	_
-10	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	_
+10	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	12	case	_	_
 11	mijlocul	mijloc	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	10	fixed	_	_
 12	apelor	apă	NOUN	Ncfpoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Plur	7	obl	_	SpaceAfter=No
 13	,	,	PUNCT	COMMA	_	16	punct	_	_
@@ -91968,7 +91968,7 @@
 # sent_id = train-3518
 # text = Groaznic în mijlocul nostru puternicul cal își revarsă Oameni armați, și râzând cu hohote Sinon ne pune Caselor foc!
 1	Groaznic	groaznic	ADV	Rgp	Degree=Pos	8	advmod	_	_
-2	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	_
+2	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	4	case	_	_
 3	mijlocul	mijloc	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	2	fixed	_	_
 4	nostru	meu	DET	Ds1ms-p	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	8	obl	_	_
 5	puternicul	puternic	ADJ	Afpmsry	Case=Acc,Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
@@ -138694,7 +138694,7 @@
 4	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=SCONJ	6	mark	_	_
 5	că	că	SCONJ	Csssp	Polarity=Pos	4	fixed	_	_
 6	apare	apărea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
-7	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	6	advmod	_	_
+7	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	6	advmod	_	_
 8	neașteptate	neașteptat	ADJ	Afpfson	Case=Dat,Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	7	fixed	_	SpaceAfter=No
 9	,	,	PUNCT	COMMA	_	6	punct	_	_
 10	poate	putea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -179507,7 +179507,7 @@
 10	,	,	PUNCT	COMMA	_	7	punct	_	_
 11	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	12	expl:pv	_	_
 12	află	afla	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-13	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	16	case	_	_
+13	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	16	case	_	_
 14	mijlocul	mijloc	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	13	fixed	_	_
 15	unei	un	DET	Tifso	Case=Dat,Gen|Gender=Fem|Number=Sing|PronType=Ind	16	det	_	_
 16	populații	populație	NOUN	Ncfson	Case=Dat,Gen|Definite=Ind|Gender=Fem|Number=Sing	12	obl	_	_
