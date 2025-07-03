@@ -13081,11 +13081,11 @@
 34	,	,	PUNCT	COMMA	_	27	punct	_	_
 35	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	36	expl:pv	_	_
 36	afunda	afunda	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	conj	_	_
-37	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	42	advmod	_	_
+37	din	din	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos	42	advmod	_	_
 38	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	37	fixed	_	_
 39	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	37	fixed	_	_
 40	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	37	fixed	_	_
-41	mai	mai	ADV	Rp	_	37	fixed	_	_
+41	mai	mai	ADV	Rp	_	42	advmod	_	_
 42	mult	mult	ADV	Rgp	Degree=Pos	36	advmod	_	SpaceAfter=No
 43	.	.	PUNCT	PERIOD	_	2	punct	_	_
 
@@ -13112,11 +13112,11 @@
 19	el	el	PRON	Pp3msr--------s	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	17	obl	_	_
 20	prin	prin	ADP	Spsa	AdpType=Prep|Case=Acc	21	case	_	_
 21	apa	apă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	17	obl	_	_
-22	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	27	advmod	_	_
+22	din	din	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	27	advmod	_	_
 23	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	22	fixed	_	_
 24	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	22	fixed	_	_
 25	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	22	fixed	_	_
-26	mai	mai	ADV	Rp	_	22	fixed	_	_
+26	mai	mai	ADV	Rp	_	27	advmod	_	_
 27	neagră	negru	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	SpaceAfter=No
 28	.	.	PUNCT	PERIOD	_	2	punct	_	_
 
@@ -13846,7 +13846,7 @@
 14	și	și	CCONJ	Crssp	Polarity=Pos	16	cc	_	_
 15	le	el	PRON	Pp3fpa--------w	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs|Strength=Weak	16	obj	_	_
 16	azvârlea	azvârli	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	conj	_	_
-17	cât	cât	ADV	Rw	PronType=Int,Rel	16	advmod	_	_
+17	cât	cât	ADV	Rw	ExtPos=ADV|PronType=Int,Rel	16	advmod	_	_
 18	colo	colo	ADV	Rgp	Degree=Pos	17	fixed	_	_
 19	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	20	case	_	_
 20	dispreț	dispreț	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	16	obl	_	SpaceAfter=No
@@ -13990,13 +13990,13 @@
 3	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	4	det	_	_
 4	fluierat	fluierat	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	2	obj	_	_
 5	asurzitor	asurzitor	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
-6	care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	7	nsubj	_	_
-7	o	el	PRON	Pp3fsa--------w	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak	4	acl	_	_
-8	ținu	ține	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	fixed	_	_
+6	care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	8	nsubj	_	_
+7	o	el	PRON	Pp3fsa--------w	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak	8	expl	_	_
+8	ținu	ține	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	acl	_	_
 9	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	_
 10	aceeași	același	DET	Dd3fsr---e	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|Position=Prenom|PronType=Dem	11	det	_	_
-11	notă	notă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	7	nmod	_	_
-12	timp	timp	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	7	nmod	_	_
+11	notă	notă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	8	obl	_	_
+12	timp	timp	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	8	obl	_	_
 13	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	16	case	_	_
 14	treizeci	treizeci	NUM	Mc-p-l	Number=Plur|NumForm=Word|NumType=Card	16	nummod	_	_
 15	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	_
@@ -14043,8 +14043,8 @@
 22	minunată	minunat	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	20	amod	_	_
 23	închizând	închide	VERB	Vmg	VerbForm=Ger	19	advcl	_	_
 24	cartea	carte	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	23	obj	_	_
-25	cât	cât	DET	Dw3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Int,Rel	31	mark	_	_
-26	timp	timp	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	25	fixed	_	_
+25	cât	cât	DET	Dw3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Int,Rel	26	det	_	_
+26	timp	timp	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	31	obl	_	_
 27	cerneala	cerneală	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	31	nsubj	_	_
 28	mai	mai	ADV	Rp	_	31	advmod	_	_
 29	era	fi	AUX	Vaii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	31	cop	_	_
@@ -14501,7 +14501,7 @@
 1	Totul	tot	PRON	Pi3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	3	nsubj	_	_
 2	era	fi	AUX	Vaii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
 3	altfel	altfel	ADV	Rgp	Degree=Pos	0	root	_	_
-4	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	3	advmod	_	_
+4	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	3	advmod	_	_
 5	atunci	atunci	ADV	Rgp	Degree=Pos	4	fixed	_	SpaceAfter=No
 6	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
@@ -14662,7 +14662,7 @@
 19	pe-	pe	ADP	Spsay	AdpType=Prep|Case=Acc|Variant=Short	21	case	_	SpaceAfter=No
 20	a	al	DET	Tsfs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	21	det	_	_
 21	lui	lui	PRON	Ps3---s	Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	17	obj	_	_
-22	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=SCONJ	25	advmod	_	_
+22	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	25	advmod	_	_
 23	timp	timp	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	22	fixed	_	_
 24	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	22	fixed	_	_
 25	coborau	coborî	VERB	Vmii3p	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	17	advcl	_	_
@@ -15420,7 +15420,7 @@
 14	el	el	PRON	Pp3msr--------s	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	16	nsubj	_	_
 15	îl	el	PRON	Pp3msa--------w	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Weak	16	expl	_	_
 16	știa	ști	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	acl	_	_
-17	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	16	advmod	_	_
+17	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	16	advmod	_	_
 18	ascuns	ascuns	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	17	fixed	_	SpaceAfter=No
 19	,	,	PUNCT	COMMA	_	24	punct	_	_
 20	fiindcă	fiindcă	SCONJ	Csssp	Polarity=Pos	24	mark	_	_
@@ -15813,7 +15813,7 @@
 17	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	16	fixed	_	_
 18	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	16	fixed	_	_
 19	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	16	fixed	_	_
-20	mai	mai	ADV	Rp	_	16	fixed	_	_
+20	mai	mai	ADV	Rp	_	21	advmod	_	_
 21	mult	mult	ADV	Rgp	Degree=Pos	15	advmod	_	SpaceAfter=No
 22	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
@@ -15843,7 +15843,7 @@
 22	să	să	PART	Qs	Mood=Sub	24	mark	_	_
 23	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	24	expl:pv	_	_
 24	scurgă	scurge	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	20	ccomp	_	_
-25	ori	oară	NOUN	Ncfp-n	Definite=Ind|ExtPos=SCONJ|Gender=Fem|Number=Plur	29	advmod	_	_
+25	ori	oară	NOUN	Ncfp-n	Definite=Ind|ExtPos=ADV|Gender=Fem|Number=Plur	29	advmod	_	_
 26	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	25	fixed	_	_
 27	câte	cât	DET	Dw3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Int,Rel	25	fixed	_	_
 28	ori	oară	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	25	fixed	_	_
@@ -16060,7 +16060,7 @@
 32	transpirați	transpirat	ADJ	Afpmp-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	29	amod	_	_
 33	și	și	CCONJ	Crssp	Polarity=Pos	34	cc	_	_
 34	întorși	întoarce	VERB	Vmp--pm	Gender=Masc|Number=Plur|VerbForm=Part	32	conj	_	_
-35	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	34	advmod	_	_
+35	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	34	advmod	_	_
 36	dos	dos	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	35	fixed	_	SpaceAfter=No
 37	,	,	PUNCT	COMMA	_	41	punct	_	_
 38	iar	iar	ADV	Rc	_	41	cc	_	_
@@ -16616,7 +16616,7 @@
 13	care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	14	nsubj	_	_
 14	persista	persista	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	acl	_	_
 15	și	și	CCONJ	Crssp	Polarity=Pos	19	advmod	_	_
-16	după	după	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=SCONJ	19	advmod	_	_
+16	după	după	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	19	advmod	_	_
 17	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	16	fixed	_	_
 18	el	el	PRON	Pp3msr--------s	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	19	nsubj	_	_
 19	plecase	pleca	VERB	Vmil3s	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin	14	advcl	_	SpaceAfter=No
@@ -17287,7 +17287,7 @@
 13	mică	mic	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
 14	tot	tot	ADV	Rgp	_	15	advmod	_	_
 15	țopăind	țopăi	VERB	Vmg	VerbForm=Ger	8	advcl	_	_
-16	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	15	obl	_	_
+16	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	15	advmod	_	_
 17	jur-împrejur	jur-împrejur	ADV	Rgp	Degree=Pos	16	fixed	_	SpaceAfter=No
 18	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
