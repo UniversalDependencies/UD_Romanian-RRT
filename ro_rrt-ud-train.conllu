@@ -6157,7 +6157,7 @@
 3	palier	palier	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	17	obl	_	SpaceAfter=No
 4	,	,	PUNCT	COMMA	_	3	punct	_	_
 5	așezată	așeza	VERB	Vmp--sf	Gender=Fem|Number=Sing|VerbForm=Part	17	amod	_	_
-6	față	față	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	10	case	_	_
+6	față	față	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|ExtPos=ADP|Gender=Fem|Number=Sing	10	case	_	_
 7	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	6	fixed	_	_
 8	față	față	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	6	fixed	_	_
 9	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	6	fixed	_	_
@@ -6246,11 +6246,11 @@
 2	câte	câte	ADV	Rgp	Degree=Pos	3	advmod	_	_
 3	o	unu	NUM	Mcfsrln	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	4	nummod	_	_
 4	privire	privire	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	1	obj	_	_
-5	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	_
+5	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	10	case	_	_
 6	susul	sus	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	5	fixed	_	_
 7	și	și	CCONJ	Crssp	Polarity=Pos	8	cc	_	_
 8	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	5	conj	_	_
-9	josul	jos	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	8	fixed	_	_
+9	josul	jos	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|ExtPos=ADP|Gender=Masc|Number=Sing	8	fixed	_	_
 10	străzii	stradă	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	1	obl	_	_
 11	și	și	CCONJ	Crssp	Polarity=Pos	15	cc	_	_
 12	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	15	advmod	_	_
@@ -6431,7 +6431,7 @@
 18	rost	rost	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	17	obj	_	_
 19	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	20	case	_	_
 20	unul	unul	PRON	Pi3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	17	obl:pmod	_	_
-21	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	17	advmod	_	_
+21	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	17	advmod	_	_
 22	ascuns	ascunde	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	21	fixed	_	_
 23	și	și	CCONJ	Crssp	Polarity=Pos	27	cc	_	_
 24	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	27	case	_	_
@@ -6906,7 +6906,7 @@
 26	care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	31	obj	_	_
 27	Winston	Winston	PROPN	Np	_	31	nsubj	_	_
 28	abia	abia	ADV	Rgp	Degree=Pos	31	advmod	_	_
-29	dacă	dacă	SCONJ	Csssp	Polarity=Pos	28	fixed	_	SpaceAfter=No
+29	dacă	dacă	SCONJ	Csssp	Polarity=Pos	31	mark	_	SpaceAfter=No
 30	-l	el	PRON	Pp3msa--y-----w	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Weak|Variant=Short	31	expl	_	_
 31	cunoștea	cunoaște	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	22	conj	_	SpaceAfter=No
 32	.	.	PUNCT	PERIOD	_	3	punct	_	_
@@ -7483,7 +7483,7 @@
 12	;	;	PUNCT	SCOLON	AdpType=Prep	2	punct	_	_
 13	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	_
 14	viața	viață	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	21	obl	_	_
-15	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	14	advmod	_	_
+15	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADJ	14	amod	_	_
 16	zi	zi	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	15	fixed	_	_
 17	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	15	fixed	_	_
 18	zi	zi	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	15	fixed	_	_
@@ -7529,7 +7529,7 @@
 30	,	,	PUNCT	COMMA	_	26	punct	_	_
 31	cum	cum	ADV	Rw	PronType=Int,Rel	32	advmod	_	_
 32	umbla	umbla	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	22	xcomp	_	_
-33	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	32	advmod	_	_
+33	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	32	advmod	_	_
 34	colo-colo	colo-colo	ADV	Rgp	Degree=Pos	33	fixed	_	_
 35	prin	prin	ADP	Spsa	AdpType=Prep|Case=Acc	36	case	_	_
 36	sală	sală	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	32	obl	_	_
@@ -7759,7 +7759,7 @@
 15	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	17	case	_	_
 16	multă	mult	DET	Di3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	17	det	_	_
 17	lume	lume	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	14	obl	_	SpaceAfter=No
-18	-n	în	ADP	Spsay	AdpType=Prep|Case=Acc|Variant=Short	17	advmod	_	_
+18	-n	în	ADP	Spsay	AdpType=Prep|Case=Acc|ExtPos=ADV|Variant=Short	14	advmod	_	_
 19	jur	jur	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	18	fixed	_	SpaceAfter=No
 20	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
@@ -8163,7 +8163,7 @@
 
 # sent_id = train-338
 # text = De jur împrejurul postamentului se găseau tele-ecrane.
-1	De	de	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	_
+1	De	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	4	case	_	_
 2	jur	jur	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	1	fixed	_	_
 3	împrejurul	împrejurul	ADP	Spsg	AdpType=Prep|Case=Gen	1	fixed	_	_
 4	postamentului	postament	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	6	obl	_	_
@@ -8335,7 +8335,7 @@
 22	își	sine	PRON	Px3--d--------w	Case=Dat|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	23	expl:poss	_	_
 23	foră	fora	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	conj	_	_
 24	drumul	drum	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	23	obj	_	_
-25	până	până	SCONJ	Csssp	Polarity=Pos	28	case	_	_
+25	până	până	SCONJ	Csssp	ExtPos=ADP|Polarity=Pos	28	case	_	_
 26	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	25	fixed	_	_
 27	mijlocul	mijloc	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	25	fixed	_	_
 28	mulțimii	mulțime	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	23	obl	_	SpaceAfter=No
@@ -8526,7 +8526,7 @@
 3	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	4	expl:pv	_	_
 4	aflau	afla	VERB	Vmii3p	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 5	înghesuiți	înghesui	VERB	Vmp--pm	Gender=Masc|Number=Plur|VerbForm=Part	4	xcomp	_	_
-6	claie	claie	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	4	advmod	_	_
+6	claie	claie	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|ExtPos=ADV|Gender=Fem|Number=Sing	4	advmod	_	_
 7	peste	peste	ADP	Spsa	AdpType=Prep|Case=Acc	6	fixed	_	_
 8	grămadă	grămadă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	6	fixed	_	_
 9	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	10	det	_	_
@@ -8839,11 +8839,11 @@
 17	iese	ieși	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	parataxis	_	_
 18	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	19	case	_	_
 19	gară	gară	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	17	obl	_	_
-20	și-	și	CCONJ	Crssp	Polarity=Pos	21	cc	_	SpaceAfter=No
-21	o	el	PRON	Pp3fsa--------w	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak	17	conj	_	_
-22	ia	lua	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	fixed	_	_
+20	și-	și	CCONJ	Crssp	Polarity=Pos	22	cc	_	SpaceAfter=No
+21	o	el	PRON	Pp3fsa--------w	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak	22	expl	_	_
+22	ia	lua	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	conj	_	_
 23	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	24	case	_	_
-24	stânga	stângă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	21	nmod	_	SpaceAfter=No
+24	stânga	stângă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	22	nmod	_	SpaceAfter=No
 25	;	;	PUNCT	SCOLON	AdpType=Prep	27	punct	_	_
 26	doi	doi	NUM	Mcmp-l	Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	27	nummod	_	_
 27	kilometri	kilometru	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	11	parataxis	_	_
@@ -8931,18 +8931,18 @@
 
 # sent_id = train-375
 # text = O iei la stânga, la dreapta și iarăși la stânga.
-1	O	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	0	root	_	_
-2	iei	lua	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	fixed	_	_
+1	O	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	2	expl	_	_
+2	iei	lua	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	_
-4	stânga	stângă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	1	obl:pmod	_	SpaceAfter=No
+4	stânga	stângă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	2	obl:pmod	_	SpaceAfter=No
 5	,	,	PUNCT	COMMA	_	7	punct	_	_
 6	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
 7	dreapta	dreaptă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	4	conj	_	_
 8	și	și	CCONJ	Crssp	Polarity=Pos	11	cc	_	_
-9	iarăși	iarăși	ADV	Rgp	Degree=Pos	1	advmod	_	_
+9	iarăși	iarăși	ADV	Rgp	Degree=Pos	2	advmod	_	_
 10	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	_
 11	stânga	stângă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	4	conj	_	SpaceAfter=No
-12	.	.	PUNCT	PERIOD	_	1	punct	_	_
+12	.	.	PUNCT	PERIOD	_	2	punct	_	_
 
 # sent_id = train-376
 # text = Și poarta n-are bara de sus.
@@ -9039,10 +9039,10 @@
 # sent_id = train-385
 # text = Dar, pentru moment, nu-și puteau croi drumul afară din mulțime.
 1	Dar	dar	CCONJ	Ccssp	Polarity=Pos	8	cc	_	SpaceAfter=No
-2	,	,	PUNCT	COMMA	_	3	punct	_	_
-3	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc	8	advmod	_	_
-4	moment	moment	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	3	fixed	_	SpaceAfter=No
-5	,	,	PUNCT	COMMA	_	3	punct	_	_
+2	,	,	PUNCT	COMMA	_	4	punct	_	_
+3	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	_
+4	moment	moment	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
+5	,	,	PUNCT	COMMA	_	4	punct	_	_
 6	nu	nu	PART	Qz	Polarity=Neg	8	advmod	_	SpaceAfter=No
 7	-și	sine	PRON	Px3--d--y-----w	Case=Dat|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak|Variant=Short	9	expl:poss	_	_
 8	puteau	putea	VERB	Vmii3p	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
@@ -9393,7 +9393,7 @@
 25	i-	el	PRON	Pp3-sd--y-----w	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak|Variant=Short	27	iobj	_	SpaceAfter=No
 26	o	el	PRON	Pp3fsa--------w	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak	27	obj	_	_
 27	strânse	strânge	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	conj	_	_
-28	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	27	advmod	_	_
+28	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	27	advmod	_	_
 29	fugă	fugă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	28	fixed	_	SpaceAfter=No
 30	.	.	PUNCT	PERIOD	_	20	punct	_	_
 
@@ -9608,29 +9608,29 @@
 
 # sent_id = train-407
 # text = Winston o apucă pe drumul brăzdat de lumini și umbre călcând în pete de aur ori de câte ori crengile se despărțeau.
-1	Winston	Winston	PROPN	Np	_	2	nsubj	_	_
-2	o	el	PRON	Pp3fsa--------w	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak	0	root	_	_
-3	apucă	apuca	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	fixed	_	_
+1	Winston	Winston	PROPN	Np	_	3	nsubj	_	_
+2	o	el	PRON	Pp3fsa--------w	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak	3	expl	_	_
+3	apucă	apuca	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
-5	drumul	drum	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	2	nmod	_	_
+5	drumul	drum	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	3	nmod	_	_
 6	brăzdat	brăzda	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	5	amod	_	_
 7	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	_
 8	lumini	lumină	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	6	obl:agent	_	_
 9	și	și	CCONJ	Crssp	Polarity=Pos	10	cc	_	_
 10	umbre	umbră	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	8	conj	_	_
-11	călcând	călca	VERB	Vmg	VerbForm=Ger	2	advcl	_	_
+11	călcând	călca	VERB	Vmg	VerbForm=Ger	3	advcl	_	_
 12	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	13	case	_	_
 13	pete	pată	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	11	obl:pmod	_	_
 14	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	15	case	_	_
 15	aur	aur	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	13	nmod	_	_
-16	ori	oară	NOUN	Ncfp-n	Definite=Ind|ExtPos=SCONJ|Gender=Fem|Number=Plur	22	advmod:tmod	_	_
+16	ori	oară	NOUN	Ncfp-n	Definite=Ind|ExtPos=ADV|Gender=Fem|Number=Plur	22	advmod:tmod	_	_
 17	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	16	fixed	_	_
 18	câte	cât	DET	Dw3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Int,Rel	16	fixed	_	_
 19	ori	oară	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	16	fixed	_	_
 20	crengile	creangă	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	22	nsubj	_	_
 21	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	22	expl:pv	_	_
 22	despărțeau	despărți	VERB	Vmii3p	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	advcl:tcl	_	SpaceAfter=No
-23	.	.	PUNCT	PERIOD	_	2	punct	_	_
+23	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
 # sent_id = train-408
 # text = Sub copacii de pe partea stângă, pământul era acoperit cu clopoței.
@@ -9821,7 +9821,7 @@
 7	greu	greu	ADV	Rgp	Degree=Pos	0	root	_	_
 8	să	să	PART	Qs	Mood=Sub	9	mark	_	_
 9	călătorești	călători	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	csubj	_	_
-10	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	9	advmod	_	_
+10	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	9	advmod	_	_
 11	unul	unul	PRON	Pi3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	10	fixed	_	_
 12	singur	singur	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	10	fixed	_	_
 13	fără	fără	SCONJ	Csssp	Polarity=Pos	15	mark	_	_
@@ -10326,7 +10326,7 @@
 5	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	7	obj	_	_
 6	puteai	putea	VERB	Vmii2s	Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	4	acl	_	_
 7	ascunde	ascunde	VERB	Vmnp	Tense=Pres|VerbForm=Inf	6	ccomp	_	_
-8	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	7	advmod	_	_
+8	la	la	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	7	advmod	_	_
 9	infinit	infinit	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	8	fixed	_	SpaceAfter=No
 10	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
@@ -10346,13 +10346,13 @@
 12	ani	an	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	7	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	COMMA	_	23	punct	_	_
 14	dar	dar	CCONJ	Ccssp	Polarity=Pos	23	cc	_	SpaceAfter=No
-15	,	,	PUNCT	COMMA	_	16	punct	_	_
-16	mai	mai	ADV	Rp	_	23	advmod	_	_
-17	devreme	devreme	ADV	Rgp	Degree=Pos	16	fixed	_	_
-18	sau	sau	CCONJ	Ccssp	Polarity=Pos	16	fixed	_	_
-19	mai	mai	ADV	Rp	_	16	fixed	_	_
-20	târziu	târziu	ADV	Rgp	Degree=Pos	16	fixed	_	SpaceAfter=No
-21	,	,	PUNCT	COMMA	_	16	punct	_	_
+15	,	,	PUNCT	COMMA	_	17	punct	_	_
+16	mai	mai	ADV	Rp	_	17	advmod	_	_
+17	devreme	devreme	ADV	Rgp	Degree=Pos	23	advmod	_	_
+18	sau	sau	CCONJ	Ccssp	Polarity=Pos	20	cc	_	_
+19	mai	mai	ADV	Rp	_	20	advmod	_	_
+20	târziu	târziu	ADV	Rgp	Degree=Pos	17	conj	_	SpaceAfter=No
+21	,	,	PUNCT	COMMA	_	17	punct	_	_
 22	tot	tot	ADV	Rgp	_	23	advmod	_	_
 23	puneau	pune	VERB	Vmii3p	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	conj	_	_
 24	ei	el	PRON	Pp3mpr--------s	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Strength=Strong	23	nsubj	_	_
@@ -10809,7 +10809,7 @@
 1	Omul	om	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	3	nsubj:pass	_	_
 2	fu	fi	AUX	Vais3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	_
 3	proiectat	proiecta	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
-4	de-a	de-a	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	_
+4	de-a	de-a	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	6	case	_	_
 5	curmezișul	curmezișul	ADV	Rgp	Degree=Pos	4	fixed	_	_
 6	celulei	celulă	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	3	obl	_	_
 7	și	și	CCONJ	Crssp	Polarity=Pos	9	cc	_	_
@@ -10874,7 +10874,7 @@
 12	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	13	det	_	_
 13	scheunat	scheunat	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No
 14	,	,	PUNCT	COMMA	_	19	punct	_	_
-15	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	19	advmod	_	_
+15	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	19	advmod	_	_
 16	tot	tot	DET	Di3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	15	fixed	_	_
 17	cazul	caz	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	15	fixed	_	_
 18	era	fi	AUX	Vaii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	19	cop	_	_
@@ -11129,7 +11129,7 @@
 3	care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	5	nsubj	_	_
 4	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	5	expl:pv	_	_
 5	aruncase	arunca	VERB	Vmil3s	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin	1	acl	_	_
-6	de-a	de-a	ADP	Spsa	AdpType=Prep|Case=Acc	5	advmod	_	_
+6	de-a	de-a	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	5	advmod	_	_
 7	dreptul	drept	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	6	fixed	_	_
 8	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	_
 9	genunchi	genunchi	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	5	obl	_	SpaceAfter=No
@@ -11256,7 +11256,7 @@
 2	omului	om	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	9	punct	_	_
 4	care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	9	nsubj	_	_
-5	și	și	CCONJ	Crssp	Polarity=Pos	9	advmod	_	_
+5	și	și	CCONJ	Crssp	ExtPos=ADV|Polarity=Pos	9	advmod	_	_
 6	așa	așa	ADV	Rgp	Degree=Pos	5	fixed	_	_
 7	era	fi	AUX	Vaii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	_
 8	foarte	foarte	ADV	Rp	_	9	advmod	_	_
@@ -11781,7 +11781,7 @@
 12	zise	zice	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	parataxis	_	_
 13	ea	el	PRON	Pp3fsr--------s	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Strong	12	nsubj	_	SpaceAfter=No
 14	,	,	PUNCT	COMMA	_	12	punct	_	_
-15	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	22	mark	_	_
+15	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=SCONJ	22	mark	_	_
 16	caz	caz	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	15	fixed	_	_
 17	c-	că	SCONJ	Cssspy	Polarity=Pos|Variant=Short	15	fixed	_	SpaceAfter=No
 18	ar	avea	AUX	Va--3	Person=3	22	aux	_	_
@@ -11790,7 +11790,7 @@
 21	microfon	microfon	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	22	nsubj:pass	_	_
 22	ascuns	ascunde	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	3	advcl	_	_
 23	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	24	case	_	_
-24	cine	cine	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	22	advmod	_	_
+24	cine	cine	PRON	Pw3--r	Case=Acc,Nom|ExtPos=ADV|Person=3|PronType=Int,Rel	22	advmod	_	_
 25	știe	ști	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	fixed	_	_
 26	unde	unde	ADV	Rw	PronType=Int,Rel	24	fixed	_	SpaceAfter=No
 27	.	.	PUNCT	PERIOD	_	3	punct	_	_
@@ -11831,7 +11831,7 @@
 9	avea	avea	AUX	Vaii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	aux	_	_
 10	să	să	PART	Qs	Mood=Sub	11	mark	_	_
 11	dureze	dura	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
-12	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	11	advmod	_	_
+12	la	la	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	11	advmod	_	_
 13	infinit	infinit	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	12	fixed	_	SpaceAfter=No
 14	?	?	PUNCT	QUEST	_	3	punct	_	_
 
@@ -13874,7 +13874,7 @@
 18	fapt	fapt	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	17	fixed	_	SpaceAfter=No
 19	,	,	PUNCT	COMMA	_	17	punct	_	_
 20	abia	abia	ADV	Rgp	Degree=Pos	24	advmod	_	_
-21	dacă	dacă	SCONJ	Csssp	Polarity=Pos	20	fixed	_	_
+21	dacă	dacă	SCONJ	Csssp	Polarity=Pos	24	mark	_	_
 22	el	el	PRON	Pp3msr--------s	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	24	nsubj	_	_
 23	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	24	expl:pv	_	_
 24	uita	uita	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	1	conj	_	_
