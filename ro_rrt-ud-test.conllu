@@ -10160,7 +10160,7 @@
 5	,	,	PUNCT	COMMA	_	8	punct	_	_
 6	nu	nu	PART	Qz	Polarity=Neg	8	advmod	_	_
 7	suntem	fi	AUX	Vaip1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	cop	_	_
-8	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|extPos=ADJ	4	conj	_	_
+8	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADJ	4	conj	_	_
 9	stare	stare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	8	fixed	_	_
 10	să	să	PART	Qs	Mood=Sub	11	mark	_	_
 11	smulgem	smulge	VERB	Vmip1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	xcomp	_	_
