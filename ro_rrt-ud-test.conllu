@@ -16331,7 +16331,7 @@
 14	toți	tot	PRON	Pi3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Ind	15	amod	_	_
 15	aceia	acela	PRON	Pd3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	10	conj	_	_
 16	cari	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	27	nsubj	_	SpaceAfter=No
-17	,	,	PUNCT	COMMA	_	21	punct	_	_
+17	,	,	PUNCT	COMMA	_	19	punct	_	_
 18	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	19	case	_	_
 19	lipsa	lipsă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	27	obl	_	_
 20	unor	un	DET	Ti-po	Case=Dat,Gen|Number=Plur|PronType=Ind	21	det	_	_
