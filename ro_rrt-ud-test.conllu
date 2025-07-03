@@ -7252,8 +7252,8 @@
 8	,	,	PUNCT	COMMA	_	10	punct	_	_
 9	prea	prea	ADV	Rp	_	10	obl	_	_
 10	duios	duios	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	4	conj	_	_
-11	De	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=SCONJ	14	advmod	_	_
-12	când	când	ADV	Rw	PronType=Int,Rel	11	fixed	_	_
+11	De	de	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	_
+12	când	când	ADV	Rw	PronType=Int,Rel	14	advmod	_	_
 13	au	avea	AUX	Va--3p	Number=Plur|Person=3	14	aux	_	_
 14	dat	da	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	2	advcl	_	_
 15	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	16	case	_	_
@@ -8150,7 +8150,7 @@
 13	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	14	expl:pv	_	_
 14	duceau	duce	VERB	Vmii3p	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 15	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	19	case	_	_
-16	nu	nu	PART	Qz	ExtPos=PRON|Polarity=Neg	19	amod	_	_
+16	nu	nu	PART	Qz	ExtPos=DET|Polarity=Neg	19	det	_	_
 17	știu	ști	VERB	Vmip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	16	fixed	_	_
 18	ce	ce	DET	Dw3--r---e	Case=Acc,Nom|Person=3|Position=Prenom|PronType=Int,Rel	16	fixed	_	_
 19	instanță	instanță	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	14	obl	_	SpaceAfter=No
