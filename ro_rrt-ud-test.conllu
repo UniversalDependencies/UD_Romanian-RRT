@@ -15326,7 +15326,7 @@
 21	poezie	poezie	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
 22	lirică	liric	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	_
 23	și	și	CCONJ	Crssp	Polarity=Pos	28	cc	_	_
-24	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	28	advmod	_	_
+24	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	28	advmod	_	_
 25	atare	atare	ADJ	Afp	Degree=Pos	24	fixed	_	_
 26	nu	nu	PART	Qz	Polarity=Neg	28	advmod	_	_
 27	mă	eu	PRON	Pp1-sa--------w	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak	28	obj	_	_
@@ -16514,7 +16514,7 @@
 5	au	avea	AUX	Va--3p	Number=Plur|Person=3	7	aux	_	_
 6	fost	fi	AUX	Vap--sm	Gender=Masc|Number=Sing|VerbForm=Part	7	aux:pass	_	_
 7	consemnate	consemna	VERB	Vmp--pf	Gender=Fem|Number=Plur|VerbForm=Part	0	root	_	_
-8	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	7	advmod	_	_
+8	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	7	advmod	_	_
 9	total	total	ADV	Rgp	Degree=Pos	8	fixed	_	_
 10	97	97	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	12	nummod	_	_
 11	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	_

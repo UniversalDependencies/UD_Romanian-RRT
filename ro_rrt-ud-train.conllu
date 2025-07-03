@@ -22144,7 +22144,7 @@
 
 # sent_id = train-964
 # text = Ca atare, ei nu i se cuvin concediul și indemnizația de maternitate.
-1	Ca	ca	ADV	Rc	_	8	advmod	_	_
+1	Ca	ca	ADV	Rc	ExtPos=ADV	8	advmod	_	_
 2	atare	atare	ADJ	Afp	Degree=Pos	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	1	punct	_	_
 4	ei	el	PRON	Pp3mpr--------s	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Strength=Strong	8	nsubj	_	_
@@ -53339,7 +53339,7 @@
 28	calitatea	calitate	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	26	nmod	_	_
 29	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	30	case	_	_
 30	membru	membru	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	28	nmod	_	_
-31	ca	ca	ADV	Rc	_	30	advmod	_	_
+31	ca	ca	ADV	Rc	ExtPos=ADV	30	advmod	_	_
 32	atare	atare	ADJ	Afp	Degree=Pos	31	fixed	_	_
 33	să	să	PART	Qs	Mood=Sub	35	mark	_	_
 34	fie	fi	AUX	Vasp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	35	cop	_	_
@@ -85476,7 +85476,7 @@
 15	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc	16	case	_	_
 16	menținerea	menținere	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	14	obl	_	_
 17	ta	tău	DET	Ds2fsrs	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	16	det	_	_
-18	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	14	advmod	_	_
+18	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	14	advmod	_	_
 19	atare	atare	ADJ	Afp	Degree=Pos	18	fixed	_	SpaceAfter=No
 20	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
@@ -167194,7 +167194,7 @@
 5	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	6	mark	_	_
 6	combătut	combate	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	4	ccomp	_	_
 7	tradiționalismul	tradiționalism	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	6	obj	_	_
-8	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	7	advmod	_	_
+8	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	7	advmod	_	_
 9	atare	atare	ADJ	Afp	Degree=Pos	8	fixed	_	SpaceAfter=No
 10	,	,	PUNCT	COMMA	_	6	punct	_	_
 11	ci	ci	CCONJ	Ccssp	Polarity=Pos	4	cc	_	ToDo=cc-without-conj
@@ -180818,7 +180818,7 @@
 19	domnului	domn	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	18	nmod	_	_
 20	Manigomian	Manigomian	PROPN	Np	_	19	nmod	_	_
 21	și	și	CCONJ	Crssp	Polarity=Pos	24	cc	_	_
-22	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	24	advmod	_	_
+22	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	24	advmod	_	_
 23	atare	atare	ADJ	Afp	Degree=Pos	22	fixed	_	_
 24	unul	unul	PRON	Pi3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	18	conj	_	_
 25	care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	27	nsubj	_	_
@@ -187864,7 +187864,7 @@
 5	au	avea	AUX	Va--3p	Number=Plur|Person=3	7	aux	_	_
 6	fost	fi	AUX	Vap--sm	Gender=Masc|Number=Sing|VerbForm=Part	7	aux:pass	_	_
 7	consemnate	consemna	VERB	Vmp--pf	Gender=Fem|Number=Plur|VerbForm=Part	0	root	_	_
-8	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	7	advmod	_	_
+8	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	7	advmod	_	_
 9	total	total	ADV	Rgp	Degree=Pos	8	fixed	_	_
 10	30	30	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	12	nummod	_	_
 11	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	_
