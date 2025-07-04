@@ -63872,7 +63872,7 @@
 # text = El zugrăvește mai cu seamă intelectualitatea satelor de peste munți, compusă din preoți, notari, doctori.
 1	El	el	PRON	Pp3msr--------s	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	2	nsubj	_	_
 2	zugrăvește	zugrăvi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	mai	mai	ADV	Rp	_	2	advmod	_	_
+3	mai	mai	ADV	Rp	ExtPos=ADV	2	advmod	_	_
 4	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	3	fixed	_	_
 5	seamă	seamă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	3	fixed	_	_
 6	intelectualitatea	intelectualitate	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	2	obj	_	_
@@ -63892,7 +63892,7 @@
 
 # sent_id = train-2252
 # text = Spre deosebire de alte periodice satirice ale epocii, în A. satira și literatura se împletesc reușit.
-1	Spre	spre	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
+1	Spre	spre	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	5	case	_	_
 2	deosebire	deosebire	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	1	fixed	_	_
 3	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	1	fixed	_	_
 4	alte	alt	DET	Di3fpr---e	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|Position=Prenom|PronType=Ind	5	det	_	_
@@ -65448,7 +65448,7 @@
 13	cărți	carte	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	11	nmod	_	SpaceAfter=No
 14	,	,	PUNCT	COMMA	_	11	punct	_	_
 15	cultivă	cultiva	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-16	mai	mai	ADV	Rp	_	19	advmod	_	_
+16	mai	mai	ADV	Rp	ExtPos=ADV	19	advmod	_	_
 17	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	16	fixed	_	_
 18	seamă	seamă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	16	fixed	_	_
 19	eseul	eseu	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	15	obj	_	SpaceAfter=No
@@ -65970,7 +65970,7 @@
 6	,	,	PUNCT	COMMA	_	3	punct	_	_
 7	publică	public	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 8	,	,	PUNCT	COMMA	_	13	punct	_	_
-9	mai	mai	ADV	Rp	_	13	advmod	_	_
+9	mai	mai	ADV	Rp	ExtPos=ADV	13	advmod	_	_
 10	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	9	fixed	_	_
 11	seamă	seamă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	9	fixed	_	_
 12	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	13	case	_	_
@@ -69510,7 +69510,7 @@
 11	și	și	CCONJ	Crssp	Polarity=Pos	12	cc	_	_
 12	idealizat	idealizat	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	10	conj	_	SpaceAfter=No
 13	,	,	PUNCT	COMMA	_	18	punct	_	_
-14	spre	spre	ADP	Spsa	AdpType=Prep|Case=Acc	18	case	_	_
+14	spre	spre	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	18	case	_	_
 15	deosebire	deosebire	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	14	fixed	_	_
 16	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	14	fixed	_	_
 17	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	18	det	_	_
@@ -72030,7 +72030,7 @@
 14	va	vrea	AUX	Va--3s	Number=Sing|Person=3	16	aux	_	_
 15	fi	fi	AUX	Vanp	Tense=Pres|VerbForm=Inf	16	aux:pass	_	_
 16	negată	nega	VERB	Vmp--sf	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
-17	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	20	case	_	_
+17	din	din	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	20	case	_	_
 18	pricina	pricină	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	17	fixed	_	_
 19	unei	un	DET	Tifso	Case=Dat,Gen|Gender=Fem|Number=Sing|PronType=Ind	20	det	_	_
 20	reapariții	reapariție	NOUN	Ncfson	Case=Dat,Gen|Definite=Ind|Gender=Fem|Number=Sing	16	obl	_	_
@@ -72156,7 +72156,7 @@
 3	e	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	pozitiv	pozitiv	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	COMMA	_	10	punct	_	_
-6	mai	mai	ADV	Rp	_	10	advmod	_	_
+6	mai	mai	ADV	Rp	ExtPos=ADV	10	advmod	_	_
 7	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	6	fixed	_	_
 8	seamă	seamă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	6	fixed	_	_
 9	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	_
@@ -72636,7 +72636,7 @@
 
 # sent_id = train-2600
 # text = Spre deosebire de nota cvasidominantă a prozei feminine, A. ocolește apelul la atmosfera liric-duioasă și la gingășiile stilistice explicite.
-1	Spre	spre	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	_
+1	Spre	spre	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	4	case	_	_
 2	deosebire	deosebire	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	1	fixed	_	_
 3	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	1	fixed	_	_
 4	nota	notă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	11	obl	_	_
@@ -75253,7 +75253,7 @@
 
 # sent_id = train-2698
 # text = Numai că, în epoca totalitarismului, cuvintele sunt folosite mai ales pentru a ascunde gândurile, nu pentru a le comunica.
-1	Numai	numai	ADV	Rgp	Degree=Pos	10	mark	_	_
+1	Numai	numai	ADV	Rgp	Degree=Pos|ExtPos=CCONJ	10	mark	_	_
 2	că	că	SCONJ	Csssp	Polarity=Pos	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	5	punct	_	_
 4	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
@@ -76896,7 +76896,7 @@
 20	comportamental	comportamental	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	SpaceAfter=No
 21	,	,	PUNCT	COMMA	_	9	punct	_	_
 22	suferă	suferi	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-23	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	25	case	_	_
+23	din	din	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	25	case	_	_
 24	pricina	pricină	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	23	fixed	_	_
 25	manierei	manieră	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	22	obl	_	_
 26	monocorde	monocord	ADJ	Afpfson	Case=Dat,Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	25	amod	_	SpaceAfter=No
@@ -77928,7 +77928,7 @@
 
 # sent_id = train-2798
 # text = În genere se observă însă o accentuare progresivă a politizării actului de cultură, prin aservirea sa intereselor de partid.
-1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	4	advmod	_	_
+1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	4	advmod	_	_
 2	genere	genere	NOUN	Nc---n	Definite=Ind	1	fixed	_	_
 3	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	4	expl:pass	_	_
 4	observă	observa	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -78065,7 +78065,7 @@
 1	Redacția	redacție	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	3	nsubj:pass	_	_
 2	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	_
 3	preocupată	preocupa	VERB	Vmp--sf	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
-4	mai	mai	ADV	Rp	_	3	advmod:tmod	_	_
+4	mai	mai	ADV	Rp	ExtPos=ADV	3	advmod:tmod	_	_
 5	întâi	întâi	ADV	Rgp	Degree=Pos	4	fixed	_	_
 6	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
 7	accesibilitatea	accesibilitate	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	3	obl:agent	_	_
@@ -78857,7 +78857,7 @@
 
 # sent_id = train-2832
 # text = Spre deosebire de Junimea, societatea nu a fost refractară noilor tendințe literare, acceptându-i ca membri pe Șt. Petică, N. D. Cocea, Gala Galaction, D. Anghel.
-1	Spre	spre	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	_
+1	Spre	spre	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	4	case	_	_
 2	deosebire	deosebire	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	1	fixed	_	_
 3	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	1	fixed	_	_
 4	Junimea	Junimea	PROPN	Np	_	9	obl	_	SpaceAfter=No
@@ -79945,7 +79945,7 @@
 22	sigiliu	sigiliu	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	18	conj	_	SpaceAfter=No
 23	,	,	PUNCT	COMMA	_	24	punct	_	_
 24	complicate	complica	VERB	Vmp--pf	Gender=Fem|Number=Plur|VerbForm=Part	22	acl	_	_
-25	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	24	advmod	_	_
+25	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	24	advmod	_	_
 26	ici	ici	ADV	Rgp	Degree=Pos	25	fixed	_	_
 27	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	25	fixed	_	_
 28	colo	colo	ADV	Rgp	Degree=Pos	25	fixed	_	_
@@ -80099,7 +80099,7 @@
 10	toate	tot	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	11	det	_	_
 11	nuanțele	nuanță	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	8	nmod	_	_
 12	sale	său	DET	Ds3fp-s	Gender=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	_	_
-13	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	11	advmod	_	_
+13	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	11	advmod	_	_
 14	genere	genere	NOUN	Nc---n	Definite=Ind	13	fixed	_	SpaceAfter=No
 15	,	,	PUNCT	COMMA	_	1	punct	_	_
 16	am	avea	AUX	Va--1	Person=1	17	aux	_	_
@@ -81783,7 +81783,7 @@
 7	,	,	PUNCT	COMMA	_	8	punct	_	_
 8	știind	ști	VERB	Vmg	VerbForm=Ger	5	advcl	_	_
 9	că	că	SCONJ	Csssp	Polarity=Pos	17	mark	_	_
-10	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	17	advmod	_	_
+10	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	17	advmod	_	_
 11	aci	aci	ADV	Rgp	Degree=Pos	10	fixed	_	_
 12	încolo	încolo	ADV	Rgp	Degree=Pos	10	fixed	_	_
 13	voi	vrea	AUX	Va--1s	Number=Sing|Person=1	17	aux	_	_
@@ -83949,7 +83949,7 @@
 7	,	,	PUNCT	COMMA	_	9	punct	_	_
 8	care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	9	nsubj	_	_
 9	sufere	suferi	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	3	acl	_	_
-10	peste	peste	ADP	Spsa	AdpType=Prep|Case=Acc	9	advmod	_	_
+10	peste	peste	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	9	advmod	_	_
 11	poate	putea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	fixed	_	_
 12	și	și	CCONJ	Crssp	Polarity=Pos	13	cc	_	_
 13	iubește	iubi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	_
@@ -83975,7 +83975,7 @@
 14	că	că	SCONJ	Csssp	Polarity=Pos	16	mark	_	_
 15	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	16	expl:pv	_	_
 16	reped	repezi	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	xcomp	_	_
-17	fără	fără	ADP	Spsa	AdpType=Prep|Case=Acc	19	case	_	_
+17	fără	fără	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	19	case	_	_
 18	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	17	fixed	_	_
 19	veste	veste	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	16	obl	_	_
 20	asupra	asupra	ADP	Spsg	AdpType=Prep|Case=Gen	21	case	_	_
@@ -84069,7 +84069,7 @@
 3	să	să	PART	Qs	Mood=Sub	5	mark	_	_
 4	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	5	expl:pv	_	_
 5	schimbe	schimba	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-6	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	5	advmod	_	_
+6	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	5	advmod	_	_
 7	ici	ici	ADV	Rgp	Degree=Pos	6	fixed	_	_
 8	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	6	fixed	_	_
 9	colo	colo	ADV	Rgp	Degree=Pos	6	fixed	_	SpaceAfter=No
@@ -84358,7 +84358,7 @@
 
 # sent_id = train-3136
 # text = În lungul șesului cu sclipiri aurii, dintre apa Moldovii și streșina Carpaților, se lămuresc satele presărate pe sub crâmpeie de codru.
-1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
+1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	3	case	_	_
 2	lungul	lung	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	1	fixed	_	_
 3	șesului	șes	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	16	obl	_	_
 4	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
@@ -89711,7 +89711,7 @@
 
 # sent_id = train-3402
 # text = În genere factorul secundar, recesiv utilizează factorul primar, dominant, se ridică pe umerii lui și de aceea unii se înșeală asupra rolului său.
-1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	7	advmod	_	_
+1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	7	advmod	_	_
 2	genere	genere	NOUN	Nc---n	Definite=Ind	1	fixed	_	_
 3	factorul	factor	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	7	nsubj	_	_
 4	secundar	secundar	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	SpaceAfter=No
@@ -91640,7 +91640,7 @@
 13	sau	sau	CCONJ	Ccssp	Polarity=Pos	19	cc	_	_
 14	cel	cel	DET	Tdmsr	Case=Acc,Nom|ExtPos=ADV|Gender=Masc|Number=Sing|PronType=Dem	19	advmod	_	_
 15	puțin	puțin	ADV	Rgp	Degree=Pos	14	fixed	_	_
-16	fără	fără	ADP	Spsa	AdpType=Prep|Case=Acc	19	mark	_	_
+16	fără	fără	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	19	mark	_	_
 17	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	16	fixed	_	_
 18	a	a	PART	Qn	PartType=Inf	19	mark	_	_
 19	simți	simți	VERB	Vmnp	Tense=Pres|VerbForm=Inf	11	conj	_	_
@@ -92810,7 +92810,7 @@
 2	-mă	eu	PRON	Pp1-sa--y-----w	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak|Variant=Short	1	obj	_	_
 3	odihnei	odihnă	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	1	iobj	_	_
 4	mele	meu	DET	Ds1fsos	Case=Dat,Gen|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
-5	fără	fără	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	_
+5	fără	fără	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	9	case	_	_
 6	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	5	fixed	_	_
 7	vreo	vreun	DET	Di3fsr---e	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|Position=Prenom|PronType=Ind	9	det	_	_
 8	rea	rău	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
@@ -94670,7 +94670,7 @@
 6	fără	fără	SCONJ	Csssp	ExtPos=SCONJ|Polarity=Pos	8	mark	_	_
 7	să	să	PART	Qs	Mood=Sub	6	fixed	_	_
 8	discutați	discuta	VERB	Vmip2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	advcl	_	_
-9	mai	mai	ADV	Rp	_	8	advmod	_	_
+9	mai	mai	ADV	Rp	ExtPos=ADV	8	advmod	_	_
 10	întâi	întâi	ADV	Rgp	Degree=Pos	9	fixed	_	_
 11	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	_
 12	medicul	medic	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	8	obl	_	_
@@ -94781,7 +94781,7 @@
 4	au	avea	AUX	Va--3p	Number=Plur|Person=3	6	aux	_	_
 5	fost	fi	AUX	Vap--sm	Gender=Masc|Number=Sing|VerbForm=Part	6	aux:pass	_	_
 6	testate	testa	VERB	Vmp--pf	Gender=Fem|Number=Plur|VerbForm=Part	0	root	_	_
-7	mai	mai	ADV	Rp	_	6	advmod	_	_
+7	mai	mai	ADV	Rp	ExtPos=ADV	6	advmod	_	_
 8	întâi	întâi	NUM	Mo---ln	Definite=Ind|NumForm=Word|NumType=Ord	7	fixed	_	_
 9	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	_
 10	modele	model	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	6	obl	_	_
@@ -117557,7 +117557,7 @@
 10	și	și	CCONJ	Crssp	Polarity=Pos	12	cc	_	_
 11	nu	nu	PART	Qz	Polarity=Neg	12	advmod	_	_
 12	putea	putea	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	conj	_	_
-13	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	15	case	_	_
+13	din	din	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	15	case	_	_
 14	pricina	pricină	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	13	fixed	_	_
 15	bătrânului	bătrân	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
 16	.	.	PUNCT	PERIOD	_	5	punct	_	_
@@ -118675,7 +118675,7 @@
 4	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
 5	câmp	câmp	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	3	nmod	_	_
 6	erau	fi	AUX	Vaii3p	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	7	cop	_	_
-7	peste	peste	ADV	Rgp	Degree=Pos	0	root	_	_
+7	peste	peste	ADV	Rgp	Degree=Pos|ExtPos=ADV	0	root	_	_
 8	poate	putea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	fixed	_	_
 9	să	să	PART	Qs	Mood=Sub	10	mark	_	_
 10	hrănească	hrăni	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
@@ -118694,7 +118694,7 @@
 7	mizericordioasă	mizericordios	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	5	conj	_	_
 8	și	și	CCONJ	Crssp	Polarity=Pos	9	cc	_	_
 9	sufăr	suferi	VERB	Vmip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	_
-10	peste	peste	ADV	Rgp	Degree=Pos	9	advmod	_	_
+10	peste	peste	ADV	Rgp	Degree=Pos|ExtPos=ADV	9	advmod	_	_
 11	poate	putea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	fixed	_	SpaceAfter=No
 12	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
@@ -127257,7 +127257,7 @@
 12	dragoste	dragoste	NOUN	Ncf--n	Definite=Ind|Gender=Fem	11	obj	_	_
 13	și	și	CCONJ	Crssp	Polarity=Pos	14	cc	_	_
 14	frumusețe	frumusețe	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	12	conj	_	_
-15	numai	numai	ADV	Rgp	Degree=Pos	18	mark	_	_
+15	numai	numai	ADV	Rgp	Degree=Pos|ExtPos=CCONJ	18	mark	_	_
 16	că	că	SCONJ	Csssp	Polarity=Pos	15	fixed	_	_
 17	erau	fi	AUX	Vaii3p	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	18	aux:pass	_	_
 18	sufocați	sufoca	VERB	Vmp--pm	Gender=Masc|Number=Plur|VerbForm=Part	11	advcl	_	_
@@ -162142,7 +162142,7 @@
 8	camerei	cameră	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	7	nmod	_	_
 9	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	10	expl:pv	_	_
 10	pronunță	pronunța	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-11	mai	mai	ADV	Rp	_	13	advmod	_	_
+11	mai	mai	ADV	Rp	ExtPos=ADV	13	advmod	_	_
 12	întâi	întâi	ADV	Rgp	Degree=Pos	11	fixed	_	_
 13	raportorul	raportor	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	10	nsubj	_	SpaceAfter=No
 14	,	,	PUNCT	COMMA	_	13	punct	_	_
@@ -171919,7 +171919,7 @@
 16	,	,	PUNCT	COMMA	_	17	punct	_	_
 17	poreclă	poreclă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	14	appos	_	_
 18	primită	primi	VERB	Vmp--sf	Gender=Fem|Number=Sing|VerbForm=Part	17	acl	_	_
-19	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	21	case	_	_
+19	din	din	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	21	case	_	_
 20	pricina	pricină	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	19	fixed	_	_
 21	ciocului	cioc	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	18	obl:pmod	_	_
 22	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	23	case	_	_
@@ -172410,7 +172410,7 @@
 # sent_id = train-6704
 # text = Tocmai din pricina acestei importanțe, vă previn încă de la început că, după ce veți fi votat, urmează să fiți condiționați hipnotic pentru păstrarea secretului absolut asupra celor discutate.
 1	Tocmai	tocmai	ADV	Rgp	Degree=Pos	5	advmod	_	_
-2	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
+2	din	din	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	5	case	_	_
 3	pricina	pricină	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	2	fixed	_	_
 4	acestei	acest	DET	Dd3fso---e	Case=Dat,Gen|Gender=Fem|Number=Sing|Person=3|Position=Prenom|PronType=Dem	5	det	_	_
 5	importanțe	importanță	NOUN	Ncfson	Case=Dat,Gen|Definite=Ind|Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No
@@ -172639,7 +172639,7 @@
 16	eu	eu	PRON	Pp1-sn--------s	Case=Nom|Number=Sing|Person=1|PronType=Prs|Strength=Strong	15	nsubj	_	_
 17	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	18	case	_	_
 18	Crăcănel	Crăcănel	PROPN	Np	_	15	obl	_	_
-19	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	21	case	_	_
+19	din	din	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	21	case	_	_
 20	pricina	pricină	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	19	fixed	_	_
 21	limbuției	limbuție	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	15	obl	_	_
 22	mele	meu	DET	Ds1fsos	Case=Dat,Gen|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	21	det	_	SpaceAfter=No
@@ -175888,7 +175888,7 @@
 24	dumneavoastră	dumneavoastră	PRON	Pp2-----------s	Person=2|PronType=Prs|Strength=Strong	18	obl	_	_
 25	și	și	CCONJ	Crssp	Polarity=Pos	33	cc	_	SpaceAfter=No
 26	,	,	PUNCT	COMMA	_	27	punct	_	_
-27	mai	mai	ADV	Rp	_	33	advmod	_	_
+27	mai	mai	ADV	Rp	ExtPos=ADV	33	advmod	_	_
 28	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	27	fixed	_	_
 29	seamă	seamă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	27	fixed	_	SpaceAfter=No
 30	,	,	PUNCT	COMMA	_	27	punct	_	_
@@ -181126,7 +181126,7 @@
 
 # sent_id = train-7034
 # text = De aci încolo arhitectul nu mai pricepea nimic și o anume interpretare o înlătura din capul locului ca ridicolă.
-1	De	de	ADP	Spsa	AdpType=Prep|Case=Acc	7	obl:pmod	_	_
+1	De	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	7	obl:pmod	_	_
 2	aci	aci	ADV	Rgp	Degree=Pos	1	fixed	_	_
 3	încolo	încolo	ADV	Rgp	Degree=Pos	1	fixed	_	_
 4	arhitectul	arhitect	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	7	nsubj	_	_
@@ -184958,7 +184958,7 @@
 # text = Iradierea durerii în lungul ureterului ar corespunde unei iradieri progresive a durerii în diferitele segmente cutanate care primesc aceeași inervație ca și căile urinare inferioare, adică la nivelul ultimelor două rădăcini toracice și a primelor două lombare.
 1	Iradierea	iradiere	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	7	nsubj	_	_
 2	durerii	durere	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	1	nmod	_	_
-3	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
+3	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	5	case	_	_
 4	lungul	lung	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	3	fixed	_	_
 5	ureterului	ureter	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	1	obl:pmod	_	_
 6	ar	avea	AUX	Va--3	Person=3	7	aux	_	_
@@ -197214,7 +197214,7 @@
 10	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
 11	foarte	foarte	ADV	Rp	_	12	advmod	_	_
 12	limitată	limita	VERB	Vmp--sf	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
-13	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	15	case	_	_
+13	din	din	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	15	case	_	_
 14	pricina	pricină	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	13	fixed	_	_
 15	documentației	documentație	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	12	obl	_	_
 16	minime	minim	ADJ	Afpfson	Case=Dat,Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
@@ -204526,7 +204526,7 @@
 # sent_id = train-7851
 # text = astfel mai întâi se vor defini funcțiile care nu apelează alte funcții, apoi funcțiile care apelează funcții deja definite.
 1	astfel	astfel	ADV	Rgp	Degree=Pos	6	advmod	_	_
-2	mai	mai	ADV	Rp	_	6	advmod	_	_
+2	mai	mai	ADV	Rp	ExtPos=ADV	6	advmod	_	_
 3	întâi	întâi	ADV	Rgp	Degree=Pos	2	fixed	_	_
 4	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	6	expl:pass	_	_
 5	vor	vrea	AUX	Va--3p	Number=Plur|Person=3	6	aux	_	_
@@ -204996,7 +204996,7 @@
 
 # sent_id = train-7870
 # text = Spre deosebire de variabilele externe, variabilele interne (numite și automatice sau locale) au un domeniu mult mai restrâns - ele sunt cunoscute numai în interiorul funcției în care sunt definite.
-1	Spre	spre	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	_
+1	Spre	spre	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	4	case	_	_
 2	deosebire	deosebire	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	1	fixed	_	_
 3	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	1	fixed	_	_
 4	variabilele	variabilă	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	16	obl	_	_
