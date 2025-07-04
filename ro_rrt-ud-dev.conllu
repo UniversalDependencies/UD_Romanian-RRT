@@ -8722,7 +8722,7 @@
 # text = Rosiglitazonă Studiile in vitro demonstrează că rosiglitazona este metabolizată în special de CYP2C8, CYP2C9 constituind numai o cale secundară.
 1	Rosiglitazonă	rosiglitazonă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	5	parataxis	_	_
 2	Studiile	studiu	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	5	nsubj	_	_
-3	in	in	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADJ	2	amod	_	_
+3	in	in	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	2	amod	_	_
 4	vitro	vitro	NOUN	Nc	_	3	fixed	_	_
 5	demonstrează	demonstra	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	că	că	SCONJ	Csssp	Polarity=Pos	9	mark	_	_

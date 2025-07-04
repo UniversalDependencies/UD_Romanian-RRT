@@ -92463,7 +92463,7 @@
 15	și	și	CCONJ	Crssp	Polarity=Pos	17	cc	_	_
 16	mă	eu	PRON	Pp1-sa--------w	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak	17	obj	_	_
 17	liberez	libera	VERB	Vmip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	conj	_	_
-18	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	20	case	_	_
+18	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	20	case	_	_
 19	preajma	preajmă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	18	fixed	_	_
 20	Crăciunului	Crăciun	PROPN	Npmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	17	obl	_	SpaceAfter=No
 21	.	.	PUNCT	PERIOD	_	3	punct	_	_
@@ -93896,7 +93896,7 @@
 
 # sent_id = train-3611
 # text = Odată ce neuraminidazele au fost blocate, virusul nu se mai poate răspândi.
-1	Odată	odată	ADV	Rgp	Degree=Pos	6	mark	_	_
+1	Odată	odată	ADV	Rgp	Degree=Pos|ExtPos=ADV	6	mark	_	_
 2	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	1	fixed	_	_
 3	neuraminidazele	neuraminidază	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	6	nsubj:pass	_	_
 4	au	avea	AUX	Va--3p	Number=Plur|Person=3	6	aux	_	_
@@ -93996,7 +93996,7 @@
 5	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	7	case	_	_
 6	timpul	timp	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	5	fixed	_	_
 7	sarcinii	sarcină	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	4	obl	_	_
-8	decât	decât	ADV	Rc	_	14	mark	_	_
+8	decât	decât	ADV	Rc	ExtPos=SCONJ	14	mark	_	_
 9	dacă	dacă	SCONJ	Csssp	Polarity=Pos	8	fixed	_	_
 10	beneficiul	beneficiu	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	14	nsubj	_	_
 11	potențial	potențial	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
@@ -94087,7 +94087,7 @@
 4	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	6	case	_	_
 5	timpul	timp	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	4	fixed	_	_
 6	alăptării	alăptare	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	3	obl	_	_
-7	numai	numai	ADV	Rgp	Degree=Pos	13	mark	_	_
+7	numai	numai	ADV	Rgp	Degree=Pos|ExtPos=SCONJ	13	mark	_	_
 8	dacă	dacă	SCONJ	Csssp	Polarity=Pos	7	fixed	_	_
 9	beneficiul	beneficiu	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	13	nsubj	_	_
 10	potențial	potențial	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
@@ -94230,7 +94230,7 @@
 2	s-	sine	PRON	Px3--a--y-----w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak|Variant=Short	4	expl:pass	_	SpaceAfter=No
 3	au	avea	AUX	Va--3p	Number=Plur|Person=3	4	aux	_	_
 4	identificat	identifica	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
-5	in	in	ADP	Spsa	AdpType=Prep|Case=Acc	4	advmod	_	_
+5	in	in	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	4	advmod	_	_
 6	vivo	vivo	NOUN	Nc	_	5	fixed	_	_
 7	conjugați	conjuga	VERB	Vmp--pm	Gender=Masc|Number=Plur|VerbForm=Part	4	nsubj:pass	_	_
 8	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	_
@@ -95571,7 +95571,7 @@
 # sent_id = train-3698
 # text = Studiile in vivo nu au decelat nici un indiciu al clivării fragmentului furoat pentru a forma fluticazonă.
 1	Studiile	studiu	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	6	nsubj	_	_
-2	in	in	ADP	Spsa	AdpType=Prep|Case=Acc	1	amod	_	_
+2	in	in	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	1	amod	_	_
 3	vivo	vivo	NOUN	Nc	_	2	fixed	_	_
 4	nu	nu	PART	Qz	Polarity=Neg	6	advmod	_	_
 5	au	avea	AUX	Va--3p	Number=Plur|Person=3	6	aux	_	_
@@ -95711,10 +95711,10 @@
 11	studiile	studiu	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	4	obl	_	_
 12	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	13	case	_	_
 13	mutagenitate	mutagenitate	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	11	nmod	_	_
-14	in	in	ADP	Spsa	AdpType=Prep|Case=Acc	13	amod	_	_
+14	in	in	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	13	amod	_	_
 15	vitro	vitro	NOUN	Nc	_	14	fixed	_	_
 16	și	și	CCONJ	Crssp	Polarity=Pos	17	cc	_	_
-17	in	in	ADP	Spsa	AdpType=Prep|Case=Acc	14	conj	_	_
+17	in	in	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	14	conj	_	_
 18	vivo	vivo	NOUN	Nc	_	17	fixed	_	SpaceAfter=No
 19	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
@@ -95875,7 +95875,7 @@
 4	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
 5	treceri	trecere	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	3	nmod	_	_
 6	seriate	seriat	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	5	amod	_	_
-7	in	in	ADP	Spsa	AdpType=Prep|Case=Acc	5	amod	_	_
+7	in	in	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	5	amod	_	_
 8	vitro	vitro	NOUN	Nc	_	7	fixed	_	_
 9	au	avea	AUX	Va--3p	Number=Plur|Person=3	11	aux	_	_
 10	fost	fi	AUX	Vap--sm	Gender=Masc|Number=Sing|VerbForm=Part	11	aux:pass	_	_
@@ -96494,7 +96494,7 @@
 # text = Totuși, in vitro, rosiglitazona favorizează diferențierea și reversia modificărilor mutagene a celulelor umane de cancer de colon.
 1	Totuși	totuși	ADV	Rgp	Degree=Pos	7	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	COMMA	_	1	punct	_	_
-3	in	in	ADP	Spsa	AdpType=Prep|Case=Acc	7	advmod	_	_
+3	in	in	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	7	advmod	_	_
 4	vitro	vitro	NOUN	Nc	_	3	fixed	_	SpaceAfter=No
 5	,	,	PUNCT	COMMA	_	3	punct	_	_
 6	rosiglitazona	rosiglitazonă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	7	nsubj	_	_
@@ -97816,7 +97816,7 @@
 
 # sent_id = train-3814
 # text = In vitro, nu a fost decelat niciun metabolit, ca rezultat al metabolizării prin intermediul citocromului P450.
-1	In	in	ADP	Spsa	AdpType=Prep|Case=Acc	7	advmod	_	_
+1	In	in	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	7	advmod	_	_
 2	vitro	vitro	NOUN	Nc	_	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	7	punct	_	_
 4	nu	nu	PART	Qz	Polarity=Neg	7	advmod	_	_
@@ -99150,7 +99150,7 @@
 
 # sent_id = train-3871
 # text = In vivo, acțiunea docetaxelului nu depinde de schema de administrare și are un spectru larg de acțiune antitumorală experimentală împotriva metastazelor avansate, murine și umane.
-1	In	in	ADP	Spsa	AdpType=Prep|Case=Acc	7	advmod	_	_
+1	In	in	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	7	advmod	_	_
 2	vivo	vivo	NOUN	Nc	_	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	1	punct	_	_
 4	acțiunea	acțiune	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	7	nsubj	_	_
@@ -100111,7 +100111,7 @@
 
 # sent_id = train-3905
 # text = In vitro În timpul experimentelor de treceri seriate in vitro au fost selectate tulpini de HIV-1 cu sensibilitate scăzută la amprenavir.
-1	In	in	ADP	Spsa	AdpType=Prep|Case=Acc	13	parataxis	_	_
+1	In	in	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	13	parataxis	_	_
 2	vitro	vitro	NOUN	Nc	_	1	fixed	_	_
 3	În	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	5	case	_	_
 4	timpul	timp	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	3	fixed	_	_
@@ -100119,7 +100119,7 @@
 6	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
 7	treceri	trecere	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	5	nmod	_	_
 8	seriate	seriat	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	7	amod	_	_
-9	in	in	ADP	Spsa	AdpType=Prep|Case=Acc	7	amod	_	_
+9	in	in	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	7	amod	_	_
 10	vitro	vitro	NOUN	Nc	_	9	fixed	_	_
 11	au	avea	AUX	Va--3p	Number=Plur|Person=3	13	aux	_	_
 12	fost	fi	AUX	Vap--sm	Gender=Masc|Number=Sing|VerbForm=Part	13	aux:pass	_	_
@@ -101322,7 +101322,7 @@
 
 # sent_id = train-3949
 # text = Odată ce substanța este injectată, manganul este eliberat și este fixat în cantitate mai mare la nivelul celulelor hepatice și pancreatice normale decât la nivelul celulelor tumorale.
-1	Odată	odată	ADV	Rgp	Degree=Pos	5	mark	_	_
+1	Odată	odată	ADV	Rgp	Degree=Pos|ExtPos=ADV	5	mark	_	_
 2	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	1	fixed	_	_
 3	substanța	substanță	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	5	nsubj:pass	_	_
 4	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	_
@@ -102224,10 +102224,10 @@
 # sent_id = train-3982
 # text = Testele in vitro și in vivo de toxicologie genetică nu au oferit nici o dovadă referitoare la un potențial genotoxic relevant din punct de vedere clinic.
 1	Testele	test	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	12	nsubj	_	_
-2	in	in	ADP	Spsa	AdpType=Prep|Case=Acc	1	amod	_	_
+2	in	in	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	1	amod	_	_
 3	vitro	vitro	NOUN	Nc	_	2	fixed	_	_
 4	și	și	CCONJ	Crssp	Polarity=Pos	5	cc	_	_
-5	in	in	ADP	Spsa	AdpType=Prep|Case=Acc	2	conj	_	_
+5	in	in	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	2	conj	_	_
 6	vivo	vivo	NOUN	Nc	_	5	fixed	_	_
 7	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	_
 8	toxicologie	toxicologie	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	1	nmod	_	_
@@ -102709,7 +102709,7 @@
 16	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	17	case	_	_
 17	mamifere	mamifer	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	14	conj	_	_
 18	și	și	CCONJ	Crssp	Polarity=Pos	22	cc	_	_
-19	in	in	ADP	Spsa	AdpType=Prep|Case=Acc	5	advmod	_	_
+19	in	in	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	5	advmod	_	_
 20	vivo	vivo	NOUN	Nc	_	19	fixed	_	_
 21	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	22	case	_	_
 22	testul	test	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	8	conj	_	_
@@ -103992,7 +103992,7 @@
 15	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	16	case	_	_
 16	inimă	inimă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
 17	,	,	PUNCT	COMMA	_	21	punct	_	_
-18	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	21	mark	_	_
+18	din	din	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=SCONJ	21	mark	_	_
 19	cauză	cauză	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	18	fixed	_	_
 20	că	că	SCONJ	Csssp	Polarity=Pos	18	fixed	_	_
 21	supune	supune	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
@@ -107448,7 +107448,7 @@
 4	disoproxil	disoproxil	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	3	nmod	_	_
 5	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	_	_
 6	convertit	converti	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
-7	in	in	ADP	Spsa	AdpType=Prep|Case=Acc	6	advmod	_	_
+7	in	in	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	6	advmod	_	_
 8	vivo	vivo	NOUN	Nc	_	7	fixed	_	_
 9	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	_
 10	tenofovir	tenofovir	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
@@ -108197,7 +108197,7 @@
 
 # sent_id = train-4195
 # text = In vitro, lapatinib a avut o activitate semnificativă împotriva liniilor celulare de cancer mamar selectate pentru creștere pe termen lung în medii ce conțin trastuzumab.
-1	In	in	ADP	Spsa	AdpType=Prep|Case=Acc	6	advmod	_	_
+1	In	in	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	6	advmod	_	_
 2	vitro	vitro	NOUN	Nc	_	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	6	punct	_	_
 4	lapatinib	lapatinib	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	6	nsubj	_	_
@@ -109597,7 +109597,7 @@
 11	are	avea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 12	activitate	activitate	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	11	obj	_	_
 13	antivirală	antiviral	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	_
-14	in	in	ADP	Spsa	AdpType=Prep|Case=Acc	12	amod	_	_
+14	in	in	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	12	amod	_	_
 15	vitro	vitro	NOUN	Nc	_	14	fixed	_	_
 16	egală	egal	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	_
 17	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	18	case	_	_
@@ -111294,7 +111294,7 @@
 9	creșterea	creștere	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	8	obj	_	_
 10	celulelor	celulă	NOUN	Ncfpoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Plur	9	nmod	_	_
 11	mieloide	mieloid	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	10	amod	_	_
-12	in	in	ADP	Spsa	AdpType=Prep|Case=Acc	9	amod	_	_
+12	in	in	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	9	amod	_	_
 13	vitro	vitro	NOUN	Nc	_	12	fixed	_	SpaceAfter=No
 14	,	,	PUNCT	COMMA	_	17	punct	_	_
 15	efecte	efect	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	19	nsubj	_	_
@@ -111302,7 +111302,7 @@
 17	putând	putea	VERB	Vmg	VerbForm=Ger	7	advcl	_	_
 18	să	să	PART	Qs	Mood=Sub	19	mark	_	_
 19	apară	apărea	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	17	ccomp	_	_
-20	in	in	ADP	Spsa	AdpType=Prep|Case=Acc	19	advmod	_	_
+20	in	in	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	19	advmod	_	_
 21	vitro	vitro	NOUN	Nc	_	20	fixed	_	_
 22	și	și	CCONJ	Crssp	Polarity=Pos	25	advmod	_	_
 23	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	25	case	_	_
@@ -111464,7 +111464,7 @@
 23	probelor	probă	NOUN	Ncfpoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Plur	22	conj	_	_
 24	bioptice	bioptic	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	23	amod	_	_
 25	tumorale	tumoral	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	23	amod	_	_
-26	in	in	ADP	Spsa	AdpType=Prep|Case=Acc	22	amod	_	_
+26	in	in	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	22	amod	_	_
 27	vitro	vitro	NOUN	Nc	_	26	fixed	_	SpaceAfter=No
 28	.	.	PUNCT	PERIOD	_	2	punct	_	_
 
@@ -111762,7 +111762,7 @@
 13	rămâneți	rămâne	VERB	Vmip2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	11	ccomp	_	_
 14	gravidă	gravidă	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	13	xcomp	_	SpaceAfter=No
 15	,	,	PUNCT	COMMA	_	22	punct	_	_
-16	decât	decât	ADV	Rc	_	22	mark	_	_
+16	decât	decât	ADV	Rc	ExtPos=SCONJ	22	mark	_	_
 17	dacă	dacă	SCONJ	Csssp	Polarity=Pos	16	fixed	_	_
 18	medicul	medic	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	22	nsubj	_	_
 19	sau	sau	CCONJ	Ccssp	Polarity=Pos	20	cc	_	_
@@ -113711,7 +113711,7 @@
 12	acuitate	acuitate	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	10	obl	_	_
 13	viața	viață	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	10	obj	_	_
 14	politică	politic	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
-15	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	17	case	_	_
+15	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	17	case	_	_
 16	după	după	ADP	Spsa	AdpType=Prep|Case=Acc	15	fixed	_	_
 17	Unire	unire	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
 18	.	.	PUNCT	PERIOD	_	8	punct	_	_
@@ -130368,7 +130368,7 @@
 
 # sent_id = train-5093
 # text = Odată ce laptele s-a prins și producătorul de brânză e satisfăcut că s-a făcut destul de tare, brânza dulce se taie cu mâna, folosind o paletă mare de metal.
-1	Odată	odată	ADV	Rgp	Degree=Pos	6	advmod	_	_
+1	Odată	odată	ADV	Rgp	Degree=Pos|ExtPos=ADV	6	advmod	_	_
 2	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	1	fixed	_	_
 3	laptele	lapte	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	6	nsubj	_	_
 4	s-	sine	PRON	Px3--a--y-----w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak|Variant=Short	6	expl:pv	_	SpaceAfter=No
@@ -133430,7 +133430,7 @@
 8	detaliile	detaliu	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	16	nsubj:pass	_	_
 9	unor	un	DET	Ti-po	Case=Dat,Gen|Number=Plur|PronType=Ind	10	det	_	_
 10	reparări	reparare	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	8	nmod	_	_
-11	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	13	case	_	_
+11	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	13	case	_	_
 12	după	după	ADP	Spsa	AdpType=Prep|Case=Acc	11	fixed	_	_
 13	cortină	cortină	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	10	nmod	_	_
 14	au	avea	AUX	Va--3p	Number=Plur|Person=3	16	aux	_	_
@@ -135058,7 +135058,7 @@
 2	acuzat	acuza	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 3	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	4	det	_	_
 4	șchiopătare	șchiopătare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	2	obj	_	_
-5	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	12	mark	_	_
+5	din	din	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=SCONJ	12	mark	_	_
 6	cauză	cauză	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	5	fixed	_	_
 7	că	că	SCONJ	Csssp	Polarity=Pos	5	fixed	_	_
 8	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	9	det	_	_
@@ -139961,7 +139961,7 @@
 
 # sent_id = train-5464
 # text = Odată ce pământul este drenat, protecția lui este mutată de pe orice spațiu al locațiilor arheologice, și rămășițele organice încep să se DESCOMPUNĂ și se dezintegrează foarte repede.
-1	Odată	odată	ADV	Rgp	Degree=Pos	5	mark	_	_
+1	Odată	odată	ADV	Rgp	Degree=Pos|ExtPos=ADV	5	mark	_	_
 2	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	1	fixed	_	_
 3	pământul	pământ	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	5	nsubj:pass	_	_
 4	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	_
@@ -182770,7 +182770,7 @@
 11	cari	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	13	nsubj	_	_
 12	aproape	aproape	ADV	Rgp	Degree=Pos	13	advmod	_	_
 13	erau	fi	VERB	Vmii3p	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	9	acl	_	_
-14	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	16	case	_	_
+14	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	16	case	_	_
 15	preajma	preajmă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	14	fixed	_	_
 16	morții	moarte	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	13	obl	_	SpaceAfter=No
 17	,	,	PUNCT	COMMA	_	18	punct	_	_
@@ -184530,7 +184530,7 @@
 22	,	,	PUNCT	COMMA	_	27	punct	_	_
 23	și	și	CCONJ	Crssp	Polarity=Pos	27	cc	_	_
 24	atunci	atunci	ADV	Rgp	Degree=Pos	27	advmod:tmod	_	_
-25	numai	numai	ADV	Rgp	Degree=Pos	27	advmod	_	_
+25	numai	numai	ADV	Rgp	Degree=Pos|ExtPos=SCONJ	27	advmod	_	_
 26	dacă	dacă	SCONJ	Csssp	Polarity=Pos	25	fixed	_	_
 27	obținuse	obține	VERB	Vmil3s	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin	17	conj	_	_
 28	note	notă	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	27	obj	_	_
@@ -186921,7 +186921,7 @@
 
 # sent_id = train-7226
 # text = In vitro tigecyclina este activă pe Entero bacteriaceae producătoare de ESBL și carbapene mase, pe specii de acinetobacter și Stenotrophomonasmaltophilia.
-1	In	in	ADP	Spsa	AdpType=Prep|Case=Acc	5	advmod	_	_
+1	In	in	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	5	advmod	_	_
 2	vitro	vitro	NOUN	Nc	_	1	fixed	_	_
 3	tigecyclina	tigecyclină	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	5	nsubj	_	_
 4	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
@@ -187150,7 +187150,7 @@
 24	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	25	case	_	_
 25	monoterapie	monoterapie	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	23	nmod	_	SpaceAfter=No
 26	,	,	PUNCT	COMMA	_	21	punct	_	_
-27	odată	odată	ADV	Rgp	Degree=Pos	30	advmod	_	_
+27	odată	odată	ADV	Rgp	Degree=Pos|ExtPos=ADV	30	advmod	_	_
 28	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	27	fixed	_	_
 29	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	30	expl:pass	_	_
 30	cunoaște	cunoaște	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	advcl	_	_
