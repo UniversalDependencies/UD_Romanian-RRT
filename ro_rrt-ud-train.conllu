@@ -31547,7 +31547,7 @@
 2	deocamdată	deocamdată	ADV	Rgp	Degree=Pos	7	advmod:tmod	_	_
 3	vremea	vreme	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	7	nsubj	_	_
 4	nu	nu	PART	Qz	Polarity=Neg	7	advmod	_	_
-5	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
 6	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
 7	concordanță	concordanță	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	18	advcl	_	_
 8	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	_
@@ -37663,7 +37663,7 @@
 
 # sent_id = train-1486
 # text = Începând cu 1 ianuarie 2006 aceste documente vor fi depuse o singură dată la primăria în a cărei rază teritorială domiciliază beneficiarul sau la direcția de muncă, solidaritate socială și familie județeană.
-1	Începând	începe	VERB	Vmg	ExtPos=ADP|VerbForm=Ger	10	advcl	_	_
+1	Începând	începe	VERB	Vmg	VerbForm=Ger	10	advcl	_	_
 2	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	_
 3	1	1	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	4	nummod	_	_
 4	ianuarie	ianuarie	NOUN	Ncm--n	Definite=Ind|Gender=Masc	10	obl:tmod	_	_
@@ -81534,7 +81534,7 @@
 8	curajul	curaj	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	9	nsubj	_	_
 9	poate	putea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	_
 10	apărea	apărea	VERB	Vmnp	Tense=Pres|VerbForm=Inf	9	ccomp	_	_
-11	și	și	CCONJ	Crssp	Polarity=Pos	15	admov	_	_
+11	și	și	CCONJ	Crssp	Polarity=Pos	15	advmov	_	_
 12	dacă	dacă	SCONJ	Csssp	Polarity=Pos	15	mark	_	_
 13	nu	nu	PART	Qz	Polarity=Neg	15	advmod	_	_
 14	e	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
@@ -92521,8 +92521,8 @@
 14	deosebea	deosebi	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	acl	_	_
 15	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	16	case	_	_
 16	dormitoarele	dormitor	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	14	obl:pmod	_	_
-17	propriu	propriu	ADV	Rgp	Degree=Pos	16	amod	_	_
-18	zise	zice	VERB	Vmp--pf	Gender=Fem|Number=Plur|VerbForm=Part	17	goeswith	_	SpaceAfter=No
+17	propriu	propriu-zis	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur|Typo=Yes	16	amod	_	_
+18	zise	_	_	_	_	17	goeswith	_	SpaceAfter=No
 19	,	,	PUNCT	COMMA	_	22	punct	_	_
 20	decât	decât	ADV	Rc	_	22	advmod	_	_
 21	prin	prin	ADP	Spsa	AdpType=Prep|Case=Acc	22	case	_	_
@@ -97947,7 +97947,7 @@
 # text = Verificați încă o dată seringa pentru a vedea dacă ați încărcat cantitatea potrivită.
 1	Verificați	verifica	VERB	Vmii2p	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	0	root	_	_
 2	încă	încă	ADV	Rgp	Degree=Pos	3	advmod	_	_
-3	o	un	DET	Tifsr	Case=Acc,Nom|ExtPos=AVD|Gender=Fem|Number=Sing|PronType=Ind	1	advmod	_	_
+3	o	un	DET	Tifsr	Case=Acc,Nom|ExtPos=ADV|Gender=Fem|Number=Sing|PronType=Ind	1	advmod	_	_
 4	dată	dată	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	3	fixed	_	_
 5	seringa	seringă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	1	nsubj	_	_
 6	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc	8	mark	_	_
