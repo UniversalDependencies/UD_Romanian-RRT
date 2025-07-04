@@ -121882,7 +121882,7 @@
 # text = Urma devenea din ce în ce mai puțin distinctă și intra în pădurea de mesteacăn și într-o frumoasă vale abruptă.
 1	Urma	urmă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	2	nsubj	_	_
 2	devenea	deveni	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-3	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	8	advmod	_	_
+3	din	din	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	8	advmod	_	_
 4	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	3	fixed	_	_
 5	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	3	fixed	_	_
 6	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	3	fixed	_	_
@@ -124062,7 +124062,7 @@
 # sent_id = train-4862
 # text = Deodată eram conștient că baia mea decadentă se răcise și clopotele bisericii chemau pe credincioși la cântecul de seară.
 1	Deodată	deodată	ADV	Rgp	Degree=Pos	3	advmod	_	_
-2	eram	fi	VERB	Vmii1	Mood=Ind|Person=1|Tense=Imp|VerbForm=Fin	3	cop	_	_
+2	eram	fi	AUX	Vaii1	Mood=Ind|Person=1|Tense=Imp|VerbForm=Fin	3	cop	_	_
 3	conștient	conștient	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	_
 4	că	că	SCONJ	Csssp	Polarity=Pos	9	mark	_	_
 5	baia	baie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	9	nsubj	_	_
@@ -125713,7 +125713,7 @@
 8	nul	nul	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	3	ccomp	_	_
 9	dar	dar	CCONJ	Ccssp	Polarity=Pos	20	cc	_	_
 10	era	fi	AUX	Vaii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	20	cop	_	SpaceAfter=No
-11	,	,	PUNCT	COMMA	_	14	punct	_	_
+11	,	,	PUNCT	COMMA	_	13	punct	_	_
 12	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	13	case	_	_
 13	motivul	motiv	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	20	obl	_	_
 14	fraudei	fraudă	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	13	nmod	_	_
@@ -125721,7 +125721,7 @@
 16	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	17	case	_	_
 17	familia	familie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	15	obl:agent	_	_
 18	Hammond	Hammond	PROPN	Np	_	17	nmod	_	SpaceAfter=No
-19	,	,	PUNCT	COMMA	_	14	punct	_	_
+19	,	,	PUNCT	COMMA	_	13	punct	_	_
 20	anulabil	anulabil	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	8	conj	_	SpaceAfter=No
 21	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
@@ -135326,7 +135326,7 @@
 29	arsă	arde	VERB	Vmp--sf	Gender=Fem|Number=Sing|VerbForm=Part	19	acl	_	_
 30	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	31	case	_	_
 31	proporție	proporție	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	29	obl	_	_
-32	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	35	case	_	_
+32	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	34	case	_	_
 33	peste	peste	ADP	Spsa	AdpType=Prep|Case=Acc	34	case	_	_
 34	30	30	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	31	nummod	_	_
 35	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	36	case	_	_
@@ -137803,7 +137803,7 @@
 16	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	17	case	_	_
 17	autostrada	autostradă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	3	obl	_	_
 18	A985	A985	PROPN	Np	_	17	nmod	_	SpaceAfter=No
-19	,	,	PUNCT	COMMA	_	22	punct	_	_
+19	,	,	PUNCT	COMMA	_	20	punct	_	_
 20	aproape	aproape	ADV	Rgp	Degree=Pos	3	advmod	_	_
 21	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	22	case	_	_
 22	Dunfermline	Dunfermline	PROPN	Np	_	20	obl	_	_
