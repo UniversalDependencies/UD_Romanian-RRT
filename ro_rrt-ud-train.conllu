@@ -135328,11 +135328,11 @@
 31	proporție	proporție	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	29	obl	_	_
 32	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	35	case	_	_
 33	peste	peste	ADP	Spsa	AdpType=Prep|Case=Acc	34	case	_	_
-34	30	30	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	35	nummod	_	_
+34	30	30	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	31	nummod	_	_
 35	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	36	case	_	_
 36	sută	sută	NUM	Mcfsrln	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	34	nmod	_	_
 37	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	38	case	_	_
-38	corp	corp	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	35	nmod	_	SpaceAfter=No
+38	corp	corp	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	34	nmod	_	SpaceAfter=No
 39	,	,	PUNCT	COMMA	_	42	punct	_	_
 40	inclusiv	inclusiv	ADV	Rgp	Degree=Pos	42	advmod	_	_
 41	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	42	case	_	_
