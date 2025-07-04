@@ -81534,7 +81534,7 @@
 8	curajul	curaj	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	9	nsubj	_	_
 9	poate	putea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	_
 10	apărea	apărea	VERB	Vmnp	Tense=Pres|VerbForm=Inf	9	ccomp	_	_
-11	și	și	CCONJ	Crssp	Polarity=Pos	15	advmov	_	_
+11	și	și	CCONJ	Crssp	Polarity=Pos	15	advmod	_	_
 12	dacă	dacă	SCONJ	Csssp	Polarity=Pos	15	mark	_	_
 13	nu	nu	PART	Qz	Polarity=Neg	15	advmod	_	_
 14	e	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
@@ -92522,7 +92522,7 @@
 15	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	16	case	_	_
 16	dormitoarele	dormitor	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	14	obl:pmod	_	_
 17	propriu	propriu-zis	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur|Typo=Yes	16	amod	_	_
-18	zise	_	_	_	_	17	goeswith	_	SpaceAfter=No
+18	zise	_	X	_	_	17	goeswith	_	SpaceAfter=No
 19	,	,	PUNCT	COMMA	_	22	punct	_	_
 20	decât	decât	ADV	Rc	_	22	advmod	_	_
 21	prin	prin	ADP	Spsa	AdpType=Prep|Case=Acc	22	case	_	_
