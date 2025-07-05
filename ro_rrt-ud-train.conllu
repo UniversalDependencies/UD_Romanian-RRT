@@ -153826,7 +153826,7 @@
 24	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	25	case	_	_
 25	măsură	măsură	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	16	acl	_	_
 26	să	să	PART	Qs	Mood=Sub	27	mark	_	_
-27	reprezinte	reprezenta	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	24	advcl	_	_
+27	reprezinte	reprezenta	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	25	advcl	_	_
 28	categoriile	categorie	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	27	obj	_	_
 29	interesate	interesa	VERB	Vmp--pf	Gender=Fem|Number=Plur|VerbForm=Part	28	acl	_	_
 30	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	32	case	_	_
@@ -162148,7 +162148,7 @@
 14	,	,	PUNCT	COMMA	_	13	punct	_	_
 15	iar	iar	ADV	Rc	_	18	cc	_	ToDo=cc-without-conj
 16	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	17	case	_	orig_deprel=advmod
-17	sfârșit	sfârșit	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	18	orphn	_	_
+17	sfârșit	sfârșit	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	18	orphan	_	_
 18	președintele	președinte	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	13	conj	_	SpaceAfter=No
 19	.	.	PUNCT	PERIOD	_	10	punct	_	_
 
@@ -196352,7 +196352,7 @@
 # sent_id = train-7562
 # text = Pe de alta parte în România rata corupției continuă să rămână la un nivel îngrijorător de mare.
 1	Pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	_
-2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	4	fixed	_	_
+2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	_
 3	alta	altul	PRON	Pi3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	4	det	_	_
 4	parte	parte	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	9	obl	_	_
 5	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	_
