@@ -190953,7 +190953,7 @@
 25	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	26	case	_	_
 26	encefalopatiile	encefalopatie	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	24	obl	_	_
 27	post	posttraumatic	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	26	amod	_	_
-28	traumatice	_	X	_	_	27	goeswith	_	_
+28	traumatice	_	X	_	Typo=Yes	27	goeswith	_	_
 29	și	și	CCONJ	Crssp	Polarity=Pos	31	cc	_	_
 30	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	31	case	_	_
 31	bolile	boală	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	26	conj	_	_
