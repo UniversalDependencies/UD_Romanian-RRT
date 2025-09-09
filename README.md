@@ -126,6 +126,7 @@ Cenel Augusto Perez. 2014. Linguistic Resources for Natural Language Processing.
 Data available since: UD v1.2
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: wiki legal news fiction medical nonfiction academic
 Lemmas: automatic
 UPOS: converted with corrections
