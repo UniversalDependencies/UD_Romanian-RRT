@@ -1,11 +1,15 @@
 Running the following version of UD tools:
-commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
+commit 26e6c87a2f518322d15901a351199b6be6569062
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 9 21:07:42 2025 +0200
+Date:   Fri Nov 7 15:39:58 2025 +0100
 Evaluating the following revision of UD_Romanian-RRT:
-commit 788142e7e34012b0ee66beeef301cc9799e3790b
+commit 34297eeb665e58d1664c8884f3eaf1885fa2c5ff
+Merge: cc00bf8 a1bd569
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 11 16:30:19 2024 +0100
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'ro_rrt'
+Language code (from CoNLL-U file name) = 'ro'
+Found the following data files: ro_rrt-ud-dev.conllu, ro_rrt-ud-test.conllu, ro_rrt-ud-train.conllu
 Size: counted 218522 of 218522 words (nodes).
 Size: min(0, log((N/1000)**2)) = 10.7737733919319.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -15,105 +19,73 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.4.
 Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.9.
-Features: 183329 out of 218522 total words have one or more features.
+Features: 183408 out of 218522 total words have one or more features.
 Features: source of annotation (from README) factor is 0.9.
 Universal relations: 35 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
-Udapi:
-               TOTAL         10
-Udapi: found 10 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 218522 words.
 Genres: found 7 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang ro --max-err=10 UD_Romanian-RRT/ro_rrt-ud-dev.conllu
-[Line 13 Sent dev-1 Node 10]: [L3 Warning fixed-without-extpos] Fixed expression 'pe când' does not have the 'ExtPos' feature
-[Line 82 Sent dev-2 Node 9]: [L3 Warning fixed-without-extpos] Fixed expression 'ESTE CU OCHII' does not have the 'ExtPos' feature
-[Line 98 Sent dev-3 Node 8]: [L3 Warning fixed-without-extpos] Fixed expression 'în jurul' does not have the 'ExtPos' feature
-[Line 102 Sent dev-3 Node 12]: [L3 Warning fixed-without-extpos] Fixed expression 'de pe' does not have the 'ExtPos' feature
-[Line 126 Sent dev-4 Node 5]: [L3 Warning fixed-without-extpos] Fixed expression 'dădea seama' does not have the 'ExtPos' feature
-[Line 168 Sent dev-7 Node 10]: [L3 Warning fixed-without-extpos] Fixed expression 'la fel' does not have the 'ExtPos' feature
-[Line 194 Sent dev-7 Node 36]: [L3 Warning fixed-without-extpos] Fixed expression 'așa că' does not have the 'ExtPos' feature
-[Line 240 Sent dev-10 Node 7]: [L3 Warning fixed-without-extpos] Fixed expression 'nu numai că' does not have the 'ExtPos' feature
-[Line 260 Sent dev-10 Node 27]: [L3 Warning fixed-without-extpos] Fixed expression 'de la' does not have the 'ExtPos' feature
-[Line 293 Sent dev-11 Node 24]: [L3 Warning fixed-without-extpos] Fixed expression 'afară de' does not have the 'ExtPos' feature
+[Line 2050 Sent dev-89]: [L3 Warning obl-should-be-nmod] The parent (node [11] 'maltratarea') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 3048 Sent dev-128]: [L3 Warning obl-should-be-nmod] The parent (node [16] 'intrarea') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 3554 Sent dev-142]: [L3 Warning obl-should-be-nmod] The parent (node [22] 'coliziune') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 6664 Sent dev-251]: [L3 Warning obl-should-be-nmod] The parent (node [17] 'adaptare') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 6752 Sent dev-254]: [L3 Warning obl-should-be-nmod] The parent (node [22] 'executării') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 7292 Sent dev-275]: [L3 Warning obl-should-be-nmod] The parent (node [1] 'Meditațiile') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 9263 Sent dev-374]: [L3 Warning obl-should-be-nmod] The parent (node [1] 'Aportul') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 9297 Sent dev-375]: [L3 Warning obl-should-be-nmod] The parent (node [9] 'intoleranță') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 9630 Sent dev-387]: [L3 Warning obl-should-be-nmod] The parent (node [1] 'Metabolizarea') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 9700 Sent dev-389]: [L3 Warning obl-should-be-nmod] The parent (node [18] 'formă') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
 ...suppressing further errors regarding Warning
-[Line 371 Sent dev-15 Node 11]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' word 'până'
-[Line 380 Sent dev-16 Node 1]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'Pe'
-[Line 404 Sent dev-17 Node 9]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN' word 'ori'
-[Line 514 Sent dev-21 Node 25]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'până'
-[Line 618 Sent dev-25 Node 35]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'pe'
-[Line 629 Sent dev-25 Node 46]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'pe'
-[Line 727 Sent dev-30 Node 8]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN' word 'cuvânt'
-[Line 1114 Sent dev-50 Node 20]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'pe'
-[Line 1150 Sent dev-51 Node 9]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'la'
-[Line 1223 Sent dev-54 Node 5]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'pe'
-...suppressing further errors regarding Syntax
-Syntax errors: 93
-Warnings: 430
-*** FAILED *** with 93 errors
+[Line 15540 Sent dev-611]: [L3 Syntax too-many-objects] Multiple direct objects [10, 12] ('ne', 'liniștea') under the predicate 'tulburau'.
+Syntax errors: 1
+Warnings: 16
+*** FAILED *** with 1 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang ro --max-err=10 UD_Romanian-RRT/ro_rrt-ud-test.conllu
-[Line 18 Sent test-2 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'pe urmă' does not have the 'ExtPos' feature
-[Line 18 Sent test-2 Node 1]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'pe'
-[Line 52 Sent test-3 Node 12]: [L3 Warning fixed-without-extpos] Fixed expression 'în față' does not have the 'ExtPos' feature
-[Line 52 Sent test-3 Node 12]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'în'
-[Line 127 Sent test-5 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'pe urmă' does not have the 'ExtPos' feature
-[Line 127 Sent test-5 Node 1]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'pe'
-[Line 175 Sent test-7 Node 3]: [L3 Warning fixed-without-extpos] Fixed expression 'de ce' does not have the 'ExtPos' feature
-[Line 192 Sent test-8 Node 6]: [L3 Warning fixed-without-extpos] Fixed expression 'în timp ce' does not have the 'ExtPos' feature
-[Line 192 Sent test-8 Node 6]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'în'
-[Line 205 Sent test-8 Node 19]: [L3 Warning fixed-without-extpos] Fixed expression 'cu totul' does not have the 'ExtPos' feature
-[Line 205 Sent test-8 Node 19]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'cu'
-[Line 213 Sent test-8 Node 27]: [L3 Warning fixed-without-extpos] Fixed expression 'aproape că' does not have the 'ExtPos' feature
-[Line 228 Sent test-9 Node 3]: [L3 Warning fixed-without-extpos] Fixed expression 'dădea seama' does not have the 'ExtPos' feature
-[Line 232 Sent test-9 Node 7]: [L3 Warning fixed-without-extpos] Fixed expression 'din cauza' does not have the 'ExtPos' feature
-[Line 300 Sent test-12 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression 'înainte de' does not have the 'ExtPos' feature
+[Line 2641 Sent test-117]: [L3 Warning obl-should-be-nmod] The parent (node [9] 'parteneri') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 2663 Sent test-118]: [L3 Warning obl-should-be-nmod] The parent (node [12] 'perioada') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 2690 Sent test-119]: [L3 Warning obl-should-be-nmod] The parent (node [16] 'luna') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 5984 Sent test-221]: [L3 Warning obl-should-be-nmod] The parent (node [12] 'punerii') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 6628 Sent test-252]: [L3 Warning obl-should-be-nmod] The parent (node [20] 'anilor') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 8568 Sent test-346]: [L3 Warning obl-should-be-nmod] The parent (node [10] 'data') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 8601 Sent test-348]: [L3 Warning obl-should-be-nmod] The parent (node [3] 'evaluarea') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 9255 Sent test-375]: [L3 Warning pron-det-without-prontype] The word 'dvs.' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 9346 Sent test-378]: [L3 Warning obl-should-be-nmod] The parent (node [24] 'data') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 9554 Sent test-385]: [L3 Warning obl-should-be-nmod] The parent (node [20] 'cheagurile') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
 ...suppressing further errors regarding Warning
-[Line 367 Sent test-13 Node 22]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'pe'
-[Line 615 Sent test-23 Node 1]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'Pe'
-[Line 843 Sent test-32 Node 5]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'din'
-[Line 994 Sent test-40 Node 7]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'din'
-[Line 1004 Sent test-41 Node 3]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'în'
-...suppressing further errors regarding Syntax
-Syntax errors: 70
-Warnings: 387
-*** FAILED *** with 70 errors
-Exit code: 1
+Warnings: 24
+*** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang ro --max-err=10 UD_Romanian-RRT/ro_rrt-ud-train.conllu
-[Line 28 Sent train-3 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'Din cauza' does not have the 'ExtPos' feature
-[Line 45 Sent train-3 Node 18]: [L3 Warning fixed-without-extpos] Fixed expression 'în general' does not have the 'ExtPos' feature
-[Line 45 Sent train-3 Node 18]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'în'
-[Line 55 Sent train-3 Node 28]: [L3 Warning fixed-without-extpos] Fixed expression 'în jurul' does not have the 'ExtPos' feature
-[Line 81 Sent train-4 Node 20]: [L3 Warning fixed-without-extpos] Fixed expression 'de tot' does not have the 'ExtPos' feature
-[Line 81 Sent train-4 Node 20]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'de'
-[Line 107 Sent train-6 Node 4]: [L3 Warning fixed-without-extpos] Fixed expression 'mai ales' does not have the 'ExtPos' feature
-[Line 170 Sent train-8 Node 7]: [L3 Warning fixed-without-extpos] Fixed expression 'pe lângă' does not have the 'ExtPos' feature
-[Line 222 Sent train-10 Node 5]: [L3 Warning fixed-without-extpos] Fixed expression 'așa ceva' does not have the 'ExtPos' feature
-[Line 225 Sent train-10 Node 8]: [L3 Warning fixed-without-extpos] Fixed expression 'ori de câte ori' does not have the 'ExtPos' feature
-[Line 225 Sent train-10 Node 8]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN' word 'ori'
-[Line 239 Sent train-10 Node 22]: [L3 Warning fixed-without-extpos] Fixed expression 'în continuare' does not have the 'ExtPos' feature
-[Line 239 Sent train-10 Node 22]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'în'
-[Line 303 Sent train-13 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression 'de pe' does not have the 'ExtPos' feature
+[Line 2454 Sent train-94]: [L3 Warning obl-should-be-nmod] The parent (node [2] 'referire') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 4934 Sent train-194]: [L3 Warning obl-should-be-nmod] The parent (node [8] 'case') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 8916 Sent train-373]: [L3 Syntax too-many-objects] Multiple direct objects [4, 6] ('minte', 'astea') under the predicate 'ții'.
+[Line 9007 Sent train-382]: [L3 Syntax too-many-objects] Multiple direct objects [5, 6] ('minte', 'totul') under the predicate 'ții'.
+[Line 10020 Sent train-423]: [L3 Syntax too-many-objects] Multiple direct objects [11, 13] ('-l', 'baltă') under the predicate 'lăsa'.
+[Line 23581 Sent train-1027]: [L3 Warning obl-should-be-nmod] The parent (node [5] 'Aspecte') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 23772 Sent train-1036]: [L3 Warning obl-should-be-nmod] The parent (node [7] 'comasarea') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 23791 Sent train-1037]: [L3 Warning obl-should-be-nmod] The parent (node [2] 'drumul') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 23967 Sent train-1044]: [L3 Warning obl-should-be-nmod] The parent (node [17] 'Ajax') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 24043 Sent train-1047]: [L3 Warning obl-should-be-nmod] The parent (node [14] 'funcția') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 24356 Sent train-1061]: [L3 Warning obl-should-be-nmod] The parent (node [13] 'data') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 24640 Sent train-1073]: [L3 Warning obl-should-be-nmod] The parent (node [19] 'termenul') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 24644 Sent train-1073]: [L3 Warning obl-should-be-nmod] The parent (node [23] 'certificatului') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
 ...suppressing further errors regarding Warning
-[Line 563 Sent train-21 Node 3]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'de'
-[Line 832 Sent train-32 Node 2]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'de'
-[Line 890 Sent train-35 Node 15]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'în'
-[Line 898 Sent train-35 Node 23]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'cu'
-[Line 923 Sent train-35 Node 48]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'pe'
-[Line 989 Sent train-37 Node 8]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'în'
-...suppressing further errors regarding Syntax
-Syntax errors: 903
-Warnings: 4261
-*** FAILED *** with 903 errors
+[Line 92756 Sent train-3557]: [L3 Syntax too-many-objects] Multiple direct objects [2, 3] ('minte', 'cuvintele') under the predicate 'Țineți'.
+[Line 96000 Sent train-3719]: [L3 Syntax too-many-objects] Multiple direct objects [3, 6] ('nevoie', 'control') under the predicate 'avea'.
+[Line 173408 Sent train-6740]: [L3 Syntax too-many-objects] Multiple direct objects [25, 27] ('minte', 'ea') under the predicate 'țineam'.
+[Line 178983 Sent train-6953]: [L3 Syntax too-many-objects] Multiple direct objects [11, 16] ('loc', 'schimbări') under the predicate 'au'.
+Syntax errors: 7
+Warnings: 148
+*** FAILED *** with 7 errors
 Exit code: 1
 Validity: 0.01
-(weight=0.0769230769230769) * (score{features}=0.9) = 0.0692307692307692
-(weight=0.0769230769230769) * (score{genres}=0.388888888888889) = 0.0299145299145299
-(weight=0.0769230769230769) * (score{lemmas}=0.4) = 0.0307692307692308
-(weight=0.256410256410256) * (score{size}=0.779831722232018) = 0.199956851854364
-(weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
-(weight=0.0769230769230769) * (score{tags}=0.847058823529412) = 0.065158371040724
-(weight=0.307692307692308) * (score{udapi}=0.999542380172248) = 0.307551501591461
-(weight=0.0769230769230769) * (score{udeprels}=0.945945945945946) = 0.0727650727650728
-(TOTAL score=0.826628378448202) * (availability=1) * (validity=0.01) = 0.00826628378448203
+(weight=0.111111111111111) * (score{features}=0.9) = 0.1
+(weight=0.111111111111111) * (score{genres}=0.388888888888889) = 0.0432098765432099
+(weight=0.111111111111111) * (score{lemmas}=0.4) = 0.0444444444444444
+(weight=0.37037037037037) * (score{size}=0.779831722232018) = 0.288826563789636
+(weight=0.0740740740740741) * (score{split}=1) = 0.0740740740740741
+(weight=0.111111111111111) * (score{tags}=0.847058823529412) = 0.0941176470588235
+(weight=0.111111111111111) * (score{udeprels}=0.945945945945946) = 0.105105105105105
+(TOTAL score=0.749777711015293) * (availability=1) * (validity=0.01) = 0.00749777711015293
 STARS = 0
-UD_Romanian-RRT	0.00826628378448203	0
+UD_Romanian-RRT	0.00749777711015293	0
