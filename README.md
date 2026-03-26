@@ -86,6 +86,7 @@ Category=value feature pairs: 57
 # Acknowledgments
 
 This work was supported by a grant of the Romanian National Authority for Scientific Research and Innovation, CNCS - UEFISCDI, project number PN-II-RU-TE-2014-4-1362.
+This work also received support from the CA21167 COST action UniDive, funded by COST (European Cooperation in Science and Technology).
 
 # REFERENCES
 
