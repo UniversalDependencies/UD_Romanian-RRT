@@ -1,0 +1,52 @@
+Running the following version of UD tools:
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue May 5 17:01:41 2026 +0200
+Evaluating the following revision of UD_Romanian-RRT:
+commit a654775d0b273f12169d8db623c8913c1433af75
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Wed May 6 09:49:34 2026 +0200
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'ro_rrt'
+Language code (from CoNLL-U file name) = 'ro'
+Found the following data files: ro_rrt-ud-dev.conllu, ro_rrt-ud-test.conllu, ro_rrt-ud-train.conllu
+Size: counted 218464 of 218464 words (nodes).
+Size: min(0, log((N/1000)**2)) = 10.7732424824717.
+Size: maximum value 13.815511 is for 1000000 words or more.
+Split: Found more than 10000 training words.
+Split: Found at least 10000 development words.
+Split: Found at least 10000 test words.
+Lemmas: source of annotation (from README) factor is 0.4.
+Universal POS tags: 16 out of 17 found in the corpus.
+Universal POS tags: source of annotation (from README) factor is 0.9.
+Features: 183194 out of 218464 total words have one or more features.
+Features: source of annotation (from README) factor is 0.9.
+Universal relations: 35 out of 37 found in the corpus.
+Universal relations: source of annotation (from README) factor is 1.
+Genres: found 7 out of 18 known.
+/net/work/people/zeman/unidep/tools/validate.py --lang ro --max-err=10 UD_Romanian-RRT/ro_rrt-ud-dev.conllu
+*** PASSED ***
+/net/work/people/zeman/unidep/tools/validate.py --lang ro --max-err=10 UD_Romanian-RRT/ro_rrt-ud-test.conllu
+*** PASSED ***
+/net/work/people/zeman/unidep/tools/validate.py --lang ro --max-err=10 UD_Romanian-RRT/ro_rrt-ud-train.conllu
+[Line 8914 Sent train-373]: [L3 SYNTAX too-many-objects] Multiple direct objects [4, 6] ('minte', 'astea') under the predicate 'ții'.
+[Line 9005 Sent train-382]: [L3 SYNTAX too-many-objects] Multiple direct objects [5, 6] ('minte', 'totul') under the predicate 'ții'.
+[Line 10018 Sent train-423]: [L3 SYNTAX too-many-objects] Multiple direct objects [11, 13] ('-l', 'baltă') under the predicate 'lăsa'.
+[Line 92742 Sent train-3557]: [L3 SYNTAX too-many-objects] Multiple direct objects [2, 3] ('minte', 'cuvintele') under the predicate 'Țineți'.
+[Line 95986 Sent train-3719]: [L3 SYNTAX too-many-objects] Multiple direct objects [3, 6] ('nevoie', 'control') under the predicate 'avea'.
+[Line 173391 Sent train-6740]: [L3 SYNTAX too-many-objects] Multiple direct objects [25, 27] ('minte', 'ea') under the predicate 'țineam'.
+[Line 178966 Sent train-6953]: [L3 SYNTAX too-many-objects] Multiple direct objects [11, 16] ('loc', 'schimbări') under the predicate 'au'.
+SYNTAX errors: 7
+*** FAILED *** with 7 errors
+Exit code: 1
+Validity: 0.01
+(weight=0.111111111111111) * (score{features}=0.9) = 0.1
+(weight=0.111111111111111) * (score{genres}=0.388888888888889) = 0.0432098765432099
+(weight=0.111111111111111) * (score{lemmas}=0.4) = 0.0444444444444444
+(weight=0.37037037037037) * (score{size}=0.779793293723861) = 0.288812331008837
+(weight=0.0740740740740741) * (score{split}=1) = 0.0740740740740741
+(weight=0.111111111111111) * (score{tags}=0.847058823529412) = 0.0941176470588235
+(weight=0.111111111111111) * (score{udeprels}=0.945945945945946) = 0.105105105105105
+(TOTAL score=0.749763478234494) * (availability=1) * (validity=0.01) = 0.00749763478234494
+STARS = 0
+UD_Romanian-RRT	0.00749763478234494	0
